@@ -1,0 +1,63 @@
+H	MoGas Pipeline LLC	C001631	004/01/2018	O	4/1/2018	T	T	Michael Mertz	636-856-8035	
+D	Laclede Gas Company	6967798	N	FRM	1001	6/1/2008	10/31/2030	365	N	62800
+P	M2	Panhandle Eastern Pipeline	95	2000	Zone 1	55000				
+P	M2	Mississippi River Transmission	95	2010	Zone 1	7800				
+P	MV	St. Peters   	95	1010	Zone 1	11200				
+P	MV	St. Paul   	95	1026	Zone 1	100				
+P	MV	Wentzville  	95	1030	Zone 1	15000				
+P	MV	Washington CG   	95	1050	Zone 1	5000				
+P	MV	South Point	95	1060	Zone 1	24000				
+P	MV	Union #1   	95	1070	Zone 1	1700				
+P	MV	Union #2   	95	1072	Zone 1	600				
+P	MV	St. Clair	95	1080	Zone 1	1200				
+p	MV	Sullivan #1	95	1090	Zone 1	2800				
+p	MV	Sullivan #2	95	1092	Zone 1	1200				
+p	MV	MRT	95	2011	Zone 1	0				
+D	Ameren	364138990	N	FRM	1000	6/1/2008	5/31/2010	365	N	17837
+P	M2	Panhandle Eastern Pipeline	95	2000	Zone 1	17837				
+P	MV	Hwy N	95	1040	Zone 1	11977				
+P	MV	Owensville	95	1110	Zone 2	960				
+P	MV	Rolla    	95	1130	Zone 2	4200				
+P	MV	Salem    	95	1140	Zone 2	700				
+D	"Omega Pipeline Company, LLC"	177773314	N	FRM	1002	2/1/2016	1/31/2017	365	N	7575
+P	M2	Panhandle Eastern Pipeline	95	2000	Zone 1	1634				
+P	M2	Mississippi River Transmission	95	2010	Zone 1	4250				
+P	M2	Rockies Express         	95	2030	Zone 1	1691				
+P	MV	Fort Leonard Wood	95	1180	Zone 2	7000				
+P	MV	Rolla           	95	1130	Zone 2	575				
+D	City of Cuba	1	N	FRM	1003	4/1/2016	3/31/2021	365	N	1250
+A	River Energy LLC	N								
+P	M2	Panhandle Eastern Pipeline	95	2000	Zone 1	1250				
+P	MV	Cuba    	95	1100	Zone 2	1250				
+D	City of St. James	2	N	FRM	1004	2/1/2016	1/31/2021	365	N	1380
+A	Laclede Energy Resouces	N								
+P	M2	Panhandle Eastern Pipeline	95	2000	Zone 1	1380				
+P	MV	St. James   	95	1120	Zone 2	1380				
+D	City of St. Robert	3	N	FRM	1005	3/1/2016	2/28/2021	365	N	850
+A	Laclede Energy Resouces	N								
+P	M2	Panhandle Eastern Pipeline	95	2000	Zone 1	850				
+P	MV	St. Robert	95	1160	Zone 2	850				
+D	City of Waynesville	4	N	FRM	1007	3/1/2016	2/28/2021	365	N	1125
+A	Laclede Energy Resouces	N								
+P	M2	Panhandle Eastern Pipeline	95	2000	Zone 1	1125				
+P	MV	Waynesville	95	1170	Zone 2	1125				
+D	Phelps Co. Medical	6	N	FRM	1009	6/1/2008	5/31/2010	365	N	150
+A	River Energy LLC	N								
+P	M2	Panhandle Eastern Pipeline	95	2000	Zone 1	150				
+P	MV	Rolla    	95	1130	Zone 2	150				
+D	City of St. James	2	N	FRM	1247	2/1/2016	1/31/2021	365	Y	300
+A	Laclede Energy Resouces	N								
+P	M2	Panhandle Eastern Pipeline	95	2000	Zone 1	300				
+P	MV	St. James   	95	1120	Zone 2	300				
+D	City of Waynesville	4	N	FRM	1250	3/1/2016	2/28/2021	365	Y	300
+A	Laclede Energy Resouces	N								
+P	M2	Panhandle Eastern Pipeline	95	2000	Zone 1	300				
+P	MV	Waynesville	95	1170	Zone 2	300				
+D	City of St. Robert	3	N	FRM	1052	3/1/2016	2/28/2021	365	Y	300
+A	Laclede Energy Resouces	N								
+P	M2	Panhandle Eastern Pipeline	95	2000	Zone 1	300				
+P	MV	St. Robert	95	1160	Zone 2	300				
+D	City of Cuba	1	N	FRM	1053	4/1/2016	3/31/2021	365	Y	500
+A	River Energy LLC	N								
+P	M2	Panhandle Eastern Pipeline	95	2000	Zone 1	500				
+P	MV	Cuba    	95	1100	Zone 2	500				

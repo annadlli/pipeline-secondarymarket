@@ -1,0 +1,1039 @@
+H	"Florida Gas Transmission Company, LLC"	C000255	4/2/2018	O	4/1/2018	B	B	Iain Russell (713) 989-2615				
+D	FLORIDA POWER & LIGHT COMPANY           	6922371	N 	FTS-1   	3247	11/1/1989	7/31/2025	0	N	280000	 	X7
+P	M2	ANR St Landry Parish                    	95	78303	W                   	15818	 	 	 	 	 	
+P	M2	Columbia Gulf-Lafayette                 	95	62410	W                   	72877	 	 	 	 	 	
+P	M2	Enbridge-Orange Co                      	95	78499	W                   	27000	 	 	 	 	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	20123	 	 	 	 	 	
+P	M2	Sabine Pass Plant                       	95	282	W                   	10000	 	 	 	 	 	
+P	M2	SNG Columbia-Shadyside                  	95	960550	W                   	4935	 	 	 	 	 	
+P	M2	SNG High Point-TOCA                     	95	100016	W                   	7591	 	 	 	 	 	
+P	M2	SNG Koch-Shadyside                      	95	930300	W                   	1462	 	 	 	 	 	
+P	M2	SNG TENN TOCA                           	95	503802	W                   	420	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	54391	 	 	 	 	 	
+P	M2	Tres Palacios Storage (Rec)             	95	78475	W                   	2570	 	 	 	 	 	
+P	M2	TX Gas Eunice                           	95	10178	W                   	62813	 	 	 	 	 	
+P	MQ	Cape Canaveral-FPL                      	95	100019	M                   	192000	 	 	 	 	 	
+P	MQ	Ft Myers-FPL                            	95	78083	M                   	334000	 	 	 	 	 	
+P	MQ	Lauderdale A-FPL                        	95	53371	M                   	200000	 	 	 	 	 	
+P	MQ	Lauderdale B-FPL                        	95	53369	M                   	200000	 	 	 	 	 	
+P	MQ	Manatee-FPL                             	95	78518	M                   	250000	 	 	 	 	 	
+P	MQ	Martin-FPL                              	95	78522	M                   	620000	 	 	 	 	 	
+P	MQ	Port Everglades Energy Center M&R-FPL   	95	100041	M                   	217000	 	 	 	 	 	
+P	MQ	Putnam-FPL                              	95	16525	M                   	120000	 	 	 	 	 	
+P	MQ	Riviera East-FPL                        	95	16481	M                   	200000	 	 	 	 	 	
+P	MQ	Riviera West-FPL                        	95	100030	M                   	200000	 	 	 	 	 	
+P	MQ	Sanford-FPL                             	95	16526	M                   	375000	 	 	 	 	 	
+P	MQ	Turkey Point North-FPL                  	95	78446	M                   	218000	 	 	 	 	 	
+D	"PIVOTAL UTILITY HOLDINGS, INC.          "	56711344	N 	FTS-2   	3608	3/1/1995	2/28/2025	0	N	2570	 	
+A	"SEQUENT ENERGY MANAGEMENT, L.P.         "	N 	 	 	 	 	 	 	 	 	 	
+P	M2	Destin P/L                              	95	71298	W                   	929	 	 	 	 	 	
+P	M2	Egan Hub (Rec)                          	95	78299	W                   	420	 	 	 	 	 	
+P	M2	TRANSCO St Helena                       	95	10114	W                   	1221	 	 	 	 	 	
+P	MQ	Indian River-City Gas                   	95	60606	M                   	345	 	 	 	 	 	
+P	MQ	Lake Forest-City Gas                    	95	16114	M                   	50	 	 	 	 	 	
+P	MQ	Melbourne-City Gas                      	95	16180	M                   	100	 	 	 	 	 	
+P	MQ	NW Hialeah-City Gas                     	95	16117	M                   	1725	 	 	 	 	 	
+P	MQ	Opa Locka-City Gas                      	95	16116	M                   	175	 	 	 	 	 	
+P	MQ	SE Hialeah-City Gas                     	95	16118	M                   	175	 	 	 	 	 	
+D	"CUTRALE CITRUS JUICES USA, INC.         "	958547432	N 	FTS-2   	3612	3/1/1995	6/30/2026	0	N	3415	 	
+A	BP ENERGY COMPANY                       	N 	 	 	 	 	 	 	 	 	 	
+P	M2	GSPL St Helena                          	95	10109	W                   	387	 	 	 	 	 	
+P	M2	GSPL St Landry                          	95	10102	W                   	550	 	 	 	 	 	
+P	M2	Markham-Gulf Shore                      	95	78427	W                   	857	 	 	 	 	 	
+P	M2	SNG High Point-TOCA                     	95	100016	W                   	220	 	 	 	 	 	
+P	M2	SNG TX Gas-Kosciusko                    	95	78512	W                   	648	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	753	 	 	 	 	 	
+P	MQ	Auburndale-Cutrale                      	95	16264	M                   	3415	 	 	 	 	 	
+D	"LAKELAND, CITY OF                       "	959116302	N 	FTS-2   	3620	3/1/1995	2/28/2027	0	N	14136	 	X7
+P	M2	Columbia Gulf-Lafayette                 	95	62410	W                   	990	 	 	 	 	 	
+P	M2	GSPL St Helena                          	95	10109	W                   	1482	 	 	 	 	 	
+P	M2	SNG High Point-TOCA                     	95	100016	W                   	4232	 	 	 	 	 	
+P	M2	Tejas Calhoun Co ITE                    	95	71444	W                   	4404	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	3028	 	 	 	 	 	
+P	MQ	Lakeland Generating                     	95	16280	M                   	11350	 	 	 	 	 	
+P	MQ	Lakeland McIntosh                       	95	55687	M                   	14136	 	 	 	 	 	
+D	FLORIDA POWER & LIGHT COMPANY           	6922371	N 	FTS-2   	3623	3/1/1995	2/28/2025	0	N	200000	 	X4/X7
+D	FLORIDA POWER & LIGHT COMPANY           	6922371	N 	FTS-2   	3623-5936	10/1/2000	4/30/2021	0	N	214000	 	X4/X7
+D	FLORIDA POWER & LIGHT COMPANY           	6922371	N 	FTS-2   	3623-6003	4/1/2002	3/31/2022	0	N	145000	 	X4/X7
+P	M2	ANR St Landry Parish                    	95	78303	W                   	11321	 	 	 	 	 	
+P	M2	Burns Pt                                	95	100008	W                   	10000	 	 	 	 	 	
+P	M2	Columbia Gulf-Lafayette                 	95	62410	W                   	60000	 	 	 	 	 	
+P	M2	Destin P/L                              	95	71298	W                   	25337	 	 	 	 	 	
+P	M2	Enbridge-Orange Co                      	95	78499	W                   	4867	 	 	 	 	 	
+P	M2	Frisco Acadian                          	95	78533	W                   	40000	 	 	 	 	 	
+P	M2	GSPL Merrill                            	95	100037	W                   	86616	 	 	 	 	 	
+P	M2	GSPL Mobile Bay-FGT Capacity            	95	78176	W                   	87012	 	 	 	 	 	
+P	M2	GSPL Mobile Bay-Gulf South Capacity     	95	78306	W                   	40000	 	 	 	 	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	47854	 	 	 	 	 	
+P	M2	Sabine Pass Plant                       	95	282	W                   	19493	 	 	 	 	 	
+P	M2	SNG Columbia-Shadyside                  	95	960550	W                   	10772	 	 	 	 	 	
+P	M2	SNG High Point-TOCA                     	95	100016	W                   	3306	 	 	 	 	 	
+P	M2	SNG TENN TOCA                           	95	503802	W                   	25000	 	 	 	 	 	
+P	M2	TENN Carnes (Rec)                       	95	10258	W                   	11530	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	61342	 	 	 	 	 	
+P	M2	Tres Palacios Storage (Rec)             	95	78475	W                   	14550	 	 	 	 	 	
+P	MQ	Cape Canaveral-FPL                      	95	100019	M                   	192000	 	 	 	 	 	
+P	MQ	Ft Myers-FPL                            	95	78083	M                   	334000	 	 	 	 	 	
+P	MQ	Lauderdale A-FPL                        	95	53371	M                   	200000	 	 	 	 	 	
+P	MQ	Lauderdale B-FPL                        	95	53369	M                   	200000	 	 	 	 	 	
+P	MQ	Manatee-FPL                             	95	78518	M                   	250000	 	 	 	 	 	
+P	MQ	Martin-FPL                              	95	78522	M                   	620000	 	 	 	 	 	
+P	MQ	Port Everglades Energy Center M&R-FPL   	95	100041	M                   	217000	 	 	 	 	 	
+P	MQ	Putnam-FPL                              	95	16525	M                   	120000	 	 	 	 	 	
+P	MQ	Riviera East-FPL                        	95	16481	M                   	200000	 	 	 	 	 	
+P	MQ	Riviera West-FPL                        	95	100030	M                   	200000	 	 	 	 	 	
+P	MQ	Sanford-FPL                             	95	16526	M                   	375000	 	 	 	 	 	
+P	MQ	Turkey Point North-FPL                  	95	78446	M                   	218000	 	 	 	 	 	
+D	FLORIDA PUBLIC UTILITIES COMPANY        	6924427	N 	FTS-2   	3624	3/1/1995	2/28/2025	0	N	11564	 	X4
+D	FLORIDA PUBLIC UTILITIES COMPANY        	6924427	N 	FTS-2   	3624-102048	6/1/2003	5/31/2023	0	N	600	 	X4
+D	FLORIDA PUBLIC UTILITIES COMPANY        	6924427	N 	FTS-2   	3624-107033	11/1/2007	2/28/2026	0	N	822	 	X4
+D	FLORIDA PUBLIC UTILITIES COMPANY        	6924427	N 	FTS-2   	3624-107034	11/1/2007	3/31/2022	0	N	115	 	X4
+D	FLORIDA PUBLIC UTILITIES COMPANY        	6924427	N 	FTS-2   	3624-107035	11/1/2007	2/28/2026	0	N	285	 	X4
+D	FLORIDA PUBLIC UTILITIES COMPANY        	6924427	N 	FTS-2   	3624-118690	11/1/2015	2/28/2025	0	N	0	 	X4/X6
+P	M2	Columbia Gulf-Lafayette                 	95	62410	W                   	175	 	 	 	 	 	
+P	M2	Destin P/L                              	95	71298	W                   	528	 	 	 	 	 	
+P	M2	Frisco Acadian                          	95	78533	W                   	600	 	 	 	 	 	
+P	M2	GSPL St Landry                          	95	10102	W                   	2600	 	 	 	 	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	2841	 	 	 	 	 	
+P	M2	Refugio-Crosstex Energy                 	95	78349	W                   	685	 	 	 	 	 	
+P	M2	Sabine Pass Plant                       	95	282	W                   	200	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	5257	 	 	 	 	 	
+P	M2	Tres Palacios Storage (Rec)             	95	78475	W                   	500	 	 	 	 	 	
+P	MQ	Bartow B-CUC                            	95	60923	M                   	1000	 	 	 	 	 	
+P	MQ	Boca Raton-FPU                          	95	16109	M                   	1749	 	 	 	 	 	
+P	MQ	Boynton CTG-FPU                         	95	78329	M                   	656	 	 	 	 	 	
+P	MQ	Deland South-FPU                        	95	62992	M                   	1087	 	 	 	 	 	
+P	MQ	Deland-FPU                              	95	16158	M                   	880	 	 	 	 	 	
+P	MQ	Lake Worth South-FPU                    	95	16106	M                   	1020	 	 	 	 	 	
+P	MQ	Lake Worth-FPU                          	95	16107	M                   	616	 	 	 	 	 	
+P	MQ	New Smyrna-FPU                          	95	16160	M                   	300	 	 	 	 	 	
+P	MQ	Pioneer Gate-NUI                        	95	78282	M                   	300	 	 	 	 	 	
+P	MQ	Riviera Beach North-FPU                 	95	100034	M                   	842	 	 	 	 	 	
+P	MQ	Sanford W-FPU                           	95	16157	M                   	942	 	 	 	 	 	
+P	MQ	Sanford-FPU                             	95	16156	M                   	1966	 	 	 	 	 	
+P	MQ	W Palm Beach W-FPU                      	95	16104	M                   	590	 	 	 	 	 	
+P	MQ	W Palm Beach-FPU                        	95	16105	M                   	1438	 	 	 	 	 	
+D	FLORIDA GAS UTILITY                     	966335010	N 	FTS-2   	3630	3/1/1995	5/31/2023	0	N	79954	 	X5/X7
+P	M2	Columbia Gulf-Lafayette                 	95	62410	W                   	14928	 	 	 	 	 	
+P	M2	Destin P/L                              	95	71298	W                   	26899	 	 	 	 	 	
+P	M2	Enbridge-Orange Co                      	95	78499	W                   	2350	 	 	 	 	 	
+P	M2	Frisco Acadian                          	95	78533	W                   	1335	 	 	 	 	 	
+P	M2	LRC White Castle                        	95	664000	W                   	327	 	 	 	 	 	
+P	M2	SNG Cypress                             	95	78454	M                   	10000	 	 	 	 	 	
+P	M2	SNG High Point-TOCA                     	95	100016	W                   	2969	 	 	 	 	 	
+P	M2	SNG Koch-Shadyside                      	95	930300	W                   	37	 	 	 	 	 	
+P	M2	TENN Carnes (Rec)                       	95	10258	W                   	2519	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	13729	 	 	 	 	 	
+P	M2	TRANSCO St Helena                       	95	10114	W                   	49	 	 	 	 	 	
+P	M2	TX Gas Eunice                           	95	10178	W                   	4812	 	 	 	 	 	
+D	FLORIDA GAS UTILITY                     	966335010	N 	FTS-2   	3630-5934	5/1/2001	4/30/2021	0	N	12500	 	X5
+P	MQ	Kissimmee Cane Island                   	95	61237	M                   	12500	 	 	 	 	 	
+D	FLORIDA GAS UTILITY                     	966335010	N 	FTS-2   	3630-5938	5/1/2001	4/30/2021	0	N	10000	 	X5
+P	MQ	Kissimmee Cane Island                   	95	61237	M                   	10000	 	 	 	 	 	
+D	FLORIDA GAS UTILITY                     	966335010	N 	FTS-2   	3630-6096	10/1/2000	2/28/2025	0	N	1781	 	X5
+P	MQ	Clearwater East                         	95	16204	M                   	614	 	 	 	 	 	
+P	MQ	Clearwater North                        	95	16205	M                   	461	 	 	 	 	 	
+P	MQ	Clearwater South                        	95	16206	M                   	456	 	 	 	 	 	
+P	MQ	Clearwater Trinity                      	95	78137	M                   	250	 	 	 	 	 	
+D	FLORIDA GAS UTILITY                     	966335010	N 	FTS-2   	3630-101949	6/1/2003	5/31/2023	0	N	500	 	X5
+P	MQ	Leesburg                                	95	16164	M                   	500	 	 	 	 	 	
+D	FLORIDA GAS UTILITY                     	966335010	N 	FTS-2   	3630-107324	3/1/1995	2/28/2026	0	N	6000	 	X5
+P	MQ	Treasure Coast Energy Center            	95	78443	M                   	6000	 	 	 	 	 	
+D	FLORIDA GAS UTILITY                     	966335010	N 	FTS-2   	3630-107346	3/1/1995	4/30/2021	0	N	23484	 	X5
+P	MQ	Kissimmee Cane Island                   	95	61237	M                   	23484	 	 	 	 	 	
+D	FLORIDA GAS UTILITY                     	966335010	N 	FTS-2   	3630-107696	11/1/2016	4/30/2028	0	N	10000	 	X5/X7
+P	MQ	Oleander Power Ct                       	95	78277	M                   	10000	 	 	 	 	 	
+P	MQ	Stanton-OUC                             	95	78384	M                   	10000	 	 	 	 	 	
+P	MQ	Treasure Coast Energy Center            	95	78443	M                   	10000	 	 	 	 	 	
+D	FLORIDA GAS UTILITY                     	966335010	N 	FTS-2   	3630-107895	6/1/2008	2/28/2025	0	N	289	 	X5
+P	MQ	Treasure Coast Energy Center            	95	78443	M                   	289	 	 	 	 	 	
+D	FLORIDA GAS UTILITY                     	966335010	N 	FTS-2   	3630-108031	8/1/2008	2/28/2025	0	N	400	 	X5
+P	MQ	Treasure Coast Energy Center            	95	78443	M                   	400	 	 	 	 	 	
+D	FLORIDA GAS UTILITY                     	966335010	N 	FTS-2   	3630-111700	11/1/2016	5/31/2023	0	N	15000	 	X5/X7
+P	MQ	Indian River Ctg-Reliant                	95	78037	M                   	15000	 	 	 	 	 	
+P	MQ	Reliant Holopaw                         	95	78155	M                   	15000	 	 	 	 	 	
+D	REEDY CREEK IMPROVEMENT DISTRICT        	91306597	N 	FTS-2   	3631	3/1/1995	2/28/2025	0	N	1535	 	
+P	M2	Columbia Gulf-Lafayette                 	95	62410	W                   	914	 	 	 	 	 	
+P	M2	Frisco Acadian                          	95	78533	W                   	450	 	 	 	 	 	
+P	M2	GSPL St Helena                          	95	10109	W                   	171	 	 	 	 	 	
+P	MQ	Reedy Creek Resid                       	95	16174	M                   	685	 	 	 	 	 	
+P	MQ	Reedy Creek Theme                       	95	16175	M                   	850	 	 	 	 	 	
+D	"TALLAHASSEE, CITY OF                    "	930321073	N 	FTS-2   	3636	3/1/1995	2/28/2025	0	N	25925	 	X7
+P	M2	Columbia Gulf-Lafayette                 	95	62410	W                   	5000	 	 	 	 	 	
+P	M2	GSPL St Landry                          	95	10102	W                   	971	 	 	 	 	 	
+P	M2	LRC White Castle                        	95	664000	W                   	1840	 	 	 	 	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	484	 	 	 	 	 	
+P	M2	SNG ANR-Shadyside                       	95	604000	W                   	4058	 	 	 	 	 	
+P	M2	SNG Franklinton (Rec)                   	95	10095	W                   	983	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	6769	 	 	 	 	 	
+P	M2	Tres Palacios Storage (Rec)             	95	78475	W                   	5820	 	 	 	 	 	
+P	MQ	Lake Worth South-FPU                    	95	16106	M                   	10000	 	 	 	 	 	
+P	MQ	Lakeland McIntosh                       	95	55687	M                   	2750	 	 	 	 	 	
+P	MQ	Tallahassee South                       	95	56667	M                   	250	 	 	 	 	 	
+P	MQ	Tallahassee-St Marks(Purdom)            	95	16238	M                   	12250	 	 	 	 	 	
+P	MQ	Tallahassee-W (Hopkins)                 	95	16237	M                   	13175	 	 	 	 	 	
+D	"POLK POWER PARTNERS, L.P.               "	825740475	N 	FTS-2   	3637	3/1/1995	8/8/2024	0	N	9860	 	
+A	RAINBOW ENERGY MARKETING CORPORATION    	N 	 	 	 	 	 	 	 	 	 	
+P	M2	Columbia Gulf-Lafayette                 	95	62410	W                   	3461	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	4486	 	 	 	 	 	
+P	M2	TX Gas Eunice                           	95	10178	W                   	1913	 	 	 	 	 	
+P	MQ	Bartow-Polk Power Partners              	95	61420	M                   	9860	 	 	 	 	 	
+D	FLORIDA PUBLIC UTILITIES COMPANY        	6924427	N 	FTS-1   	5009	11/1/1993	7/31/2020	0	N	23016	 	X4/X7
+D	FLORIDA PUBLIC UTILITIES COMPANY        	6924427	N 	FTS-1   	5009-100740	12/15/2001	7/31/2020	0	N	1792	 	X4
+D	FLORIDA PUBLIC UTILITIES COMPANY        	6924427	N 	FTS-1   	5009-115782	1/1/2014	7/31/2025	0	N	650	 	X4
+D	FLORIDA PUBLIC UTILITIES COMPANY        	6924427	N 	FTS-1   	5009-118707	11/1/2015	7/31/2020	0	N	17639	 	X4
+P	M2	Columbia Gulf-Lafayette                 	95	62410	W                   	9413	 	 	 	 	 	
+P	M2	Destin P/L                              	95	71298	W                   	3500	 	 	 	 	 	
+P	M2	GSPL St Helena                          	95	10109	W                   	2024	 	 	 	 	 	
+P	M2	GSPL St Landry                          	95	10102	W                   	3031	 	 	 	 	 	
+P	M2	HPL Magnet Withers                      	95	8576	W                   	87	 	 	 	 	 	
+P	M2	NGPL Jefferson                          	95	10240	W                   	1269	 	 	 	 	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	2858	 	 	 	 	 	
+P	M2	Refugio-Crosstex Energy                 	95	78349	W                   	10454	 	 	 	 	 	
+P	M2	Sabine Pass Plant                       	95	282	W                   	985	 	 	 	 	 	
+P	M2	Sabine-Kaplan                           	95	23062	W                   	75	 	 	 	 	 	
+P	M2	SNG Franklinton (Rec)                   	95	10095	W                   	136	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	3570	 	 	 	 	 	
+P	M2	TRANSCO St Helena                       	95	10114	W                   	695	 	 	 	 	 	
+P	M2	Tres Palacios Storage (Rec)             	95	78475	W                   	5000	 	 	 	 	 	
+P	MQ	Auburndale-CUC                          	95	16186	M                   	700	 	 	 	 	 	
+P	MQ	Bartow A-CUC                            	95	16192	M                   	1341	 	 	 	 	 	
+P	MQ	Bartow B-CUC                            	95	60923	M                   	9064	 	 	 	 	 	
+P	MQ	Boca Raton-FPU                          	95	16109	M                   	2500	 	 	 	 	 	
+P	MQ	Boynton CTG-FPU                         	95	78329	M                   	3000	 	 	 	 	 	
+P	MQ	Deland South-FPU                        	95	62992	M                   	1413	 	 	 	 	 	
+P	MQ	Deland-FPU                              	95	16158	M                   	2620	 	 	 	 	 	
+P	MQ	Fort Meade                              	95	16194	M                   	650	 	 	 	 	 	
+P	MQ	Indiantown                              	95	16101	M                   	2055	 	 	 	 	 	
+P	MQ	Lake Mattie-CUC                         	95	78528	M                   	1230	 	 	 	 	 	
+P	MQ	Lake Wales East-CUC                     	95	16189	M                   	1980	 	 	 	 	 	
+P	MQ	Lake Wales-CUC                          	95	16188	M                   	6530	 	 	 	 	 	
+P	MQ	Lake Worth South-FPU                    	95	16106	M                   	6800	 	 	 	 	 	
+P	MQ	Lake Worth-FPU                          	95	16107	M                   	1250	 	 	 	 	 	
+P	MQ	New Smyrna-FPU                          	95	16160	M                   	1792	 	 	 	 	 	
+P	MQ	Pierce-CUC                              	95	16193	M                   	3000	 	 	 	 	 	
+P	MQ	Plant City-CUC                          	95	16199	M                   	3991	 	 	 	 	 	
+P	MQ	Polk Correctional Institution-CUC       	95	62991	M                   	200	 	 	 	 	 	
+P	MQ	Riviera Beach North-FPU                 	95	100034	M                   	3330	 	 	 	 	 	
+P	MQ	Sanford W-FPU                           	95	16157	M                   	3529	 	 	 	 	 	
+P	MQ	Sanford-FPU                             	95	16156	M                   	2971	 	 	 	 	 	
+P	MQ	W Palm Beach W-FPU                      	95	16104	M                   	7700	 	 	 	 	 	
+P	MQ	W Palm Beach-FPU                        	95	16105	M                   	5500	 	 	 	 	 	
+P	MQ	Winter Haven-CUC                        	95	16187	M                   	1542	 	 	 	 	 	
+D	"LAKELAND, CITY OF                       "	959116302	N 	FTS-1   	5025	11/1/1993	7/31/2020	0	N	4172	 	X7
+P	M2	TX Gas Eunice                           	95	10178	W                   	4172	 	 	 	 	 	
+P	MQ	Lakeland Generating                     	95	16280	M                   	4172	 	 	 	 	 	
+P	MQ	Lakeland McIntosh                       	95	55687	M                   	4172	 	 	 	 	 	
+D	"PIVOTAL UTILITY HOLDINGS, INC.          "	56711344	N 	FTS-1   	5034	11/1/1993	7/31/2020	0	N	20672	 	X7
+A	"SEQUENT ENERGY MANAGEMENT, L.P.         "	N 	 	 	 	 	 	 	 	 	 	
+P	M2	Columbia Gulf-Lafayette                 	95	62410	W                   	2072	 	 	 	 	 	
+P	M2	Egan Hub (Rec)                          	95	78299	W                   	3691	 	 	 	 	 	
+P	M2	GSPL St Landry                          	95	10102	W                   	3820	 	 	 	 	 	
+P	M2	Sabine Pass Plant                       	95	282	W                   	5644	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	3293	 	 	 	 	 	
+P	M2	TRANSCO St Helena                       	95	10114	W                   	2152	 	 	 	 	 	
+P	MQ	Cocoa-City Gas                          	95	16178	M                   	2655	 	 	 	 	 	
+P	MQ	Cutler Ridge-NUI City Gas               	95	62966	M                   	3442	 	 	 	 	 	
+P	MQ	Eau Gallie-City Gas (Cocoa)             	95	16179	M                   	2655	 	 	 	 	 	
+P	MQ	Indian River-PPC                        	95	100029	M                   	750	 	 	 	 	 	
+P	MQ	Lake Forest-City Gas                    	95	16114	M                   	3372	 	 	 	 	 	
+P	MQ	Melbourne-City Gas                      	95	16180	M                   	711	 	 	 	 	 	
+P	MQ	Miami Airport-FCG                       	95	78526	M                   	1066	 	 	 	 	 	
+P	MQ	NW Hialeah-City Gas                     	95	16117	M                   	5683	 	 	 	 	 	
+P	MQ	Opa Locka-City Gas                      	95	16116	M                   	4933	 	 	 	 	 	
+P	MQ	Palm Bay CTG-NUI                        	95	78281	M                   	100	 	 	 	 	 	
+P	MQ	Pioneer Gate-NUI                        	95	78282	M                   	891	 	 	 	 	 	
+P	MQ	Port St Lucie-City Gas                  	95	58921	M                   	688	 	 	 	 	 	
+P	MQ	SE Hialeah-City Gas                     	95	16118	M                   	5683	 	 	 	 	 	
+P	MQ	South Miami-City Gas                    	95	16124	M                   	3552	 	 	 	 	 	
+P	MQ	Titusville-City Gas                     	95	16177	M                   	763	 	 	 	 	 	
+P	MQ	Vero Beach North-City Gas               	95	62898	M                   	190	 	 	 	 	 	
+P	MQ	Vero Beach South-City Gas               	95	62897	M                   	190	 	 	 	 	 	
+P	MQ	W Miami-City Gas                        	95	16122	M                   	3552	 	 	 	 	 	
+D	"PEOPLES GAS SYSTEM, A DIVISION OF TAMPA "	6922736	N 	FTS-1   	5047	11/1/1993	7/31/2020	0	N	270095	 	X4/X7
+D	"PEOPLES GAS SYSTEM, A DIVISION OF TAMPA "	6922736	N 	FTS-1   	5047-5846	7/1/1998	1/31/2027	0	N	2000	 	X4
+D	"PEOPLES GAS SYSTEM, A DIVISION OF TAMPA "	6922736	N 	FTS-1   	5047-5890	10/1/1998	7/31/2023	0	N	7200	 	X4
+P	M2	ANR St Landry Parish                    	95	78303	W                   	42620	 	 	 	 	 	
+P	M2	Columbia Gulf-Lafayette                 	95	62410	W                   	6407	 	 	 	 	 	
+P	M2	Destin P/L                              	95	71298	W                   	22900	 	 	 	 	 	
+P	M2	Frisco Acadian                          	95	78533	W                   	10000	 	 	 	 	 	
+P	M2	HPL Magnet Withers                      	95	8576	W                   	5200	 	 	 	 	 	
+P	M2	Markham-Gulf Shore                      	95	78427	W                   	22427	 	 	 	 	 	
+P	M2	NGPL Jefferson                          	95	10240	W                   	14828	 	 	 	 	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	57563	 	 	 	 	 	
+P	M2	Refugio-Crosstex Energy                 	95	78349	W                   	15430	 	 	 	 	 	
+P	M2	Sabine Pass Plant                       	95	282	W                   	23059	 	 	 	 	 	
+P	M2	SNG Franklinton (Rec)                   	95	10095	W                   	20653	 	 	 	 	 	
+P	M2	Tejas Calhoun Co ITE                    	95	71444	W                   	2700	 	 	 	 	 	
+P	M2	TENN Carnes (Rec)                       	95	10258	W                   	7704	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	19804	 	 	 	 	 	
+P	M2	Tres Palacios Storage (Rec)             	95	78475	W                   	8000	 	 	 	 	 	
+P	MQ	Avon Park-PGS                           	95	16191	M                   	1500	 	 	 	 	 	
+P	MQ	Brandon-PGS                             	95	16200	M                   	5933	 	 	 	 	 	
+P	MQ	Cecil Field-PGS                         	95	16149	M                   	5974	 	 	 	 	 	
+P	MQ	Cedar Hills-PGS                         	95	16150	M                   	4000	 	 	 	 	 	
+P	MQ	Coconut Creek-PGS                       	95	16110	M                   	10200	 	 	 	 	 	
+P	MQ	Dania-PGS                               	95	16113	M                   	11000	 	 	 	 	 	
+P	MQ	E Palatka-PGS                           	95	78465	M                   	3700	 	 	 	 	 	
+P	MQ	Eustis North-PGS                        	95	16162	M                   	1370	 	 	 	 	 	
+P	MQ	Eustis-PGS                              	95	16161	M                   	3500	 	 	 	 	 	
+P	MQ	Frostproof-PGS                          	95	16190	M                   	946	 	 	 	 	 	
+P	MQ	Georgia Pacific                         	95	16251	M                   	9500	 	 	 	 	 	
+P	MQ	Hardee Power Partners Meter Station     	95	57345	M                   	45000	 	 	 	 	 	
+P	MQ	Jacksonville-PGS                        	95	16151	M                   	29600	 	 	 	 	 	
+P	MQ	Lake Blue-TECO/PGS                      	95	60953	M                   	21800	 	 	 	 	 	
+P	MQ	Lake Murphy-TECO/PGS                    	95	58913	M                   	18005	 	 	 	 	 	
+P	MQ	Lakeland North-PGS                      	95	16198	M                   	11119	 	 	 	 	 	
+P	MQ	Lakeland-PGS                            	95	16197	M                   	5787	 	 	 	 	 	
+P	MQ	Miami Beach-PGS                         	95	16121	M                   	10000	 	 	 	 	 	
+P	MQ	Miami-PGS                               	95	16119	M                   	19550	 	 	 	 	 	
+P	MQ	Midulla Generation Station              	95	78138	M                   	15000	 	 	 	 	 	
+P	MQ	Mt Dora-PGS                             	95	16165	M                   	1124	 	 	 	 	 	
+P	MQ	North Miami-PGS                         	95	16115	M                   	16103	 	 	 	 	 	
+P	MQ	Ocala North-TECO/PGS                    	95	56781	M                   	2330	 	 	 	 	 	
+P	MQ	Ocala-PGS                               	95	16146	M                   	3714	 	 	 	 	 	
+P	MQ	Oneco-TECO/PGS                          	95	16195	M                   	15034	 	 	 	 	 	
+P	MQ	Orlando E-PGS                           	95	16170	M                   	3300	 	 	 	 	 	
+P	MQ	Orlando North-PGS                       	95	16167	M                   	4482	 	 	 	 	 	
+P	MQ	Orlando South-PGS                       	95	16172	M                   	4482	 	 	 	 	 	
+P	MQ	Orlando SW-PGS                          	95	16173	M                   	4482	 	 	 	 	 	
+P	MQ	Orlando Turnpike-TECO/PGS               	95	59963	M                   	7782	 	 	 	 	 	
+P	MQ	Orlando W-PGS                           	95	28713	M                   	4482	 	 	 	 	 	
+P	MQ	Orlando-PGS                             	95	16169	M                   	4482	 	 	 	 	 	
+P	MQ	Osceola Co-PGS                          	95	28712	M                   	4482	 	 	 	 	 	
+P	MQ	Palm Beach-TECO/PGS                     	95	16102	M                   	354	 	 	 	 	 	
+P	MQ	Panama City North-TECO/PGS              	95	57766	M                   	7830	 	 	 	 	 	
+P	MQ	Panama City-PGS                         	95	16134	M                   	10830	 	 	 	 	 	
+P	MQ	Plantation-PGS                          	95	16112	M                   	5920	 	 	 	 	 	
+P	MQ	Silver Springs-TECO/PGS                 	95	60908	M                   	2984	 	 	 	 	 	
+P	MQ	St Petersburg North-PGS                 	95	16207	M                   	5000	 	 	 	 	 	
+P	MQ	St Petersburg-PGS                       	95	16208	M                   	6487	 	 	 	 	 	
+P	MQ	Tampa E-PGS                             	95	16202	M                   	7600	 	 	 	 	 	
+P	MQ	Tampa North-PGS                         	95	16203	M                   	7600	 	 	 	 	 	
+P	MQ	Tampa NW-TECO/PGS                       	95	62995	M                   	717	 	 	 	 	 	
+P	MQ	Tampa South-PGS                         	95	16201	M                   	6650	 	 	 	 	 	
+P	MQ	Tampa W-PGS                             	95	16209	M                   	6000	 	 	 	 	 	
+P	MQ	Treasure Coast Energy Center            	95	78443	M                   	15000	 	 	 	 	 	
+P	MQ	Umatilla-PGS                            	95	16155	M                   	3947	 	 	 	 	 	
+D	"MOSAIC FERTILIZER, LLC                  "	602503976	N 	FTS-1   	5054	11/1/1993	7/31/2025	0	N	1500	 	
+A	BP ENERGY COMPANY                       	N 	 	 	 	 	 	 	 	 	 	
+P	M2	GSPL St Landry                          	95	10102	W                   	598	 	 	 	 	 	
+P	M2	Markham-Gulf Shore                      	95	78427	W                   	541	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	361	 	 	 	 	 	
+P	MQ	Tampa-Mosaic                            	95	16283	M                   	1500	 	 	 	 	 	
+D	"UNITED TECHNOLOGIES, PRATT & WHITNEY    "	1447952	N 	SFTS    	5072	11/1/1993	9/30/2024	0	N	1364	 	
+A	PENINSULA ENERGY SERVICES COMPANY       	N 	 	 	 	 	 	 	 	 	 	
+P	M2	GSPL St Landry                          	95	10102	W                   	586	 	 	 	 	 	
+P	M2	Refugio-Crosstex Energy                 	95	78349	W                   	491	 	 	 	 	 	
+P	M2	SNG Franklinton (Rec)                   	95	10095	W                   	287	 	 	 	 	 	
+P	MQ	Pratt &  Whitney                        	95	16214	M                   	1364	 	 	 	 	 	
+D	"TALLAHASSEE, CITY OF                    "	930321073	N 	FTS-1   	5080	11/1/1993	7/31/2020	0	N	34761	 	X7
+P	M2	Columbia Gulf-Lafayette                 	95	62410	W                   	1320	 	 	 	 	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	11129	 	 	 	 	 	
+P	M2	Sabine Pass Plant                       	95	282	W                   	6682	 	 	 	 	 	
+P	M2	SNG Franklinton (Rec)                   	95	10095	W                   	2824	 	 	 	 	 	
+P	M2	Tejas Calhoun Co ITE                    	95	71444	W                   	4900	 	 	 	 	 	
+P	M2	TENN Carnes (Rec)                       	95	10258	W                   	6356	 	 	 	 	 	
+P	M2	Tres Palacios Storage (Rec)             	95	78475	W                   	1550	 	 	 	 	 	
+P	MQ	Buckeye Cellulose                       	95	16239	M                   	2500	 	 	 	 	 	
+P	MQ	Lauderdale B-FPL                        	95	53369	M                   	2500	 	 	 	 	 	
+P	MQ	Martin-FPL                              	95	78522	M                   	675	 	 	 	 	 	
+P	MQ	Tallahassee South                       	95	56667	M                   	16250	 	 	 	 	 	
+P	MQ	Tallahassee-St Marks(Purdom)            	95	16238	M                   	25000	 	 	 	 	 	
+P	MQ	Tallahassee-W (Hopkins)                 	95	16237	M                   	29086	 	 	 	 	 	
+D	"STATE OF FLORIDA, DEPARTMENT OF MANAGEME"	809396955	N 	FTS-1   	5085	11/1/1993	9/30/2023	0	N	1722	 	
+A	"INFINITE ENERGY, INC.                   "	N 	 	 	 	 	 	 	 	 	 	
+P	M2	GSPL St Helena                          	95	10109	W                   	95	 	 	 	 	 	
+P	M2	HPL Magnet Withers                      	95	8576	W                   	296	 	 	 	 	 	
+P	M2	NGPL Jefferson                          	95	10240	W                   	162	 	 	 	 	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	193	 	 	 	 	 	
+P	M2	Refugio-Crosstex Energy                 	95	78349	W                   	162	 	 	 	 	 	
+P	M2	Sabine-Kaplan                           	95	23062	W                   	193	 	 	 	 	 	
+P	M2	SNG Franklinton (Rec)                   	95	10095	W                   	173	 	 	 	 	 	
+P	M2	TENN Carnes (Rec)                       	95	10258	W                   	95	 	 	 	 	 	
+P	M2	TETCO-Atchafalaya (Rec)                 	95	10147	W                   	353	 	 	 	 	 	
+P	MQ	Madison                                 	95	16139	M                   	900	 	 	 	 	 	
+P	MQ	Raiford State Prison                    	95	16250	M                   	822	 	 	 	 	 	
+D	GEORGIA-PACIFIC LLC                     	9020777	N 	FTS-1   	5107	11/1/1993	7/31/2023	0	N	2000	 	
+A	"KOCH ENERGY SERVICES, LLC               "	N 	 	 	 	 	 	 	 	 	 	
+P	M2	GSPL St Helena                          	95	10109	W                   	420	 	 	 	 	 	
+P	M2	GSPL St Landry                          	95	10102	W                   	860	 	 	 	 	 	
+P	M2	Sabine Pass Plant                       	95	282	W                   	720	 	 	 	 	 	
+P	MQ	Georgia Pacific                         	95	16251	M                   	2000	 	 	 	 	 	
+D	ST. JOE NATURAL GAS COMPANY             	8803884	N 	FTS-1   	5109	11/1/1993	2/28/2029	0	N	1590	 	
+P	M2	ANR St Landry Parish                    	95	78303	W                   	684	 	 	 	 	 	
+P	M2	Refugio-Crosstex Energy                 	95	78349	W                   	572	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	334	 	 	 	 	 	
+P	MQ	St. Joe Overstreet                      	95	56657	M                   	1590	 	 	 	 	 	
+D	REEDY CREEK IMPROVEMENT DISTRICT        	91306597	N 	FTS-1   	5114	11/1/1993	7/31/2025	0	N	13243	 	
+P	M2	Columbia Gulf-Lafayette                 	95	62410	W                   	2693	 	 	 	 	 	
+P	M2	Frisco Acadian                          	95	78533	W                   	1500	 	 	 	 	 	
+P	M2	GSPL St Helena                          	95	10109	W                   	829	 	 	 	 	 	
+P	M2	GSPL St Landry                          	95	10102	W                   	1000	 	 	 	 	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	4723	 	 	 	 	 	
+P	M2	SNG Franklinton (Rec)                   	95	10095	W                   	2498	 	 	 	 	 	
+P	MQ	Reedy Creek Gen                         	95	16257	M                   	9665	 	 	 	 	 	
+P	MQ	Reedy Creek Resid                       	95	16174	M                   	2340	 	 	 	 	 	
+P	MQ	Reedy Creek Theme                       	95	16175	M                   	1238	 	 	 	 	 	
+D	FLORIDA GAS UTILITY                     	966335010	N 	FTS-1   	5141	10/1/1993	7/31/2030	0	N	45552	 	X2/X5
+P	M2	ANR St Landry Parish                    	95	78303	W                   	1000	 	 	 	 	 	
+P	M2	Columbia Gulf-Lafayette                 	95	62410	W                   	5877	 	 	 	 	 	
+P	M2	Enbridge-Orange Co                      	95	78499	W                   	15389	 	 	 	 	 	
+P	M2	Frisco Acadian                          	95	78533	W                   	8356	 	 	 	 	 	
+P	M2	GSPL St Helena                          	95	10109	W                   	1808	 	 	 	 	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	2000	 	 	 	 	 	
+P	M2	SNG Franklinton (Rec)                   	95	10095	W                   	69	 	 	 	 	 	
+P	M2	SNG Koch-Shadyside                      	95	930300	W                   	1673	 	 	 	 	 	
+P	M2	TENN Carnes (Rec)                       	95	10258	W                   	5360	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	750	 	 	 	 	 	
+P	M2	TRANSCO St Helena                       	95	10114	W                   	381	 	 	 	 	 	
+P	M2	TX Gas Eunice                           	95	10178	W                   	2889	 	 	 	 	 	
+D	FLORIDA GAS UTILITY                     	966335010	N 	FTS-1   	5141-5761	1/1/1998	1/31/2027	0	N	400	 	X5
+P	MQ	Sunrise                                 	95	16111	M                   	400	 	 	 	 	 	
+D	FLORIDA GAS UTILITY                     	966335010	N 	FTS-1   	5141-6068	6/1/2000	1/31/2027	0	N	100	 	X5
+P	MQ	Crescent City                           	95	16154	M                   	100	 	 	 	 	 	
+D	FLORIDA GAS UTILITY                     	966335010	N 	FTS-1   	5141-6162	7/1/2001	1/31/2027	0	N	1660	 	X5
+P	MQ	Sunrise                                 	95	16111	M                   	1660	 	 	 	 	 	
+D	FLORIDA GAS UTILITY                     	966335010	N 	FTS-1   	5141-104358	6/1/2005	7/31/2020	0	N	1780	 	X5
+P	MQ	Lake City                               	95	16141	M                   	1780	 	 	 	 	 	
+D	FLORIDA GAS UTILITY                     	966335010	N 	FTS-1   	5141-104359	6/1/2005	1/31/2027	0	N	390	 	X5
+P	MQ	Live Oak                                	95	16140	M                   	390	 	 	 	 	 	
+D	FLORIDA GAS UTILITY                     	966335010	N 	FTS-1   	5141-104360	6/1/2005	7/31/2020	0	N	1040	 	X5
+P	MQ	Marianna                                	95	16135	M                   	1040	 	 	 	 	 	
+D	FLORIDA GAS UTILITY                     	966335010	N 	FTS-1   	5141-104361	6/1/2005	2/28/2021	0	N	540	 	X2/X5
+P	MQ	Palatka Gas-E Palatka                   	95	16153	M                   	113	 	 	 	 	 	
+P	MQ	Palatka Gas-Palatka                     	95	16152	M                   	484	 	 	 	 	 	
+D	FLORIDA GAS UTILITY                     	966335010	N 	FTS-1   	5141-104362	6/1/2005	7/31/2025	0	N	130	 	X5
+P	MQ	Williston                               	95	16147	M                   	130	 	 	 	 	 	
+D	FLORIDA GAS UTILITY                     	966335010	N 	FTS-1   	5141-104678	9/1/2005	11/30/2072	0	N	5676	 	X5
+P	MQ	Kissimmee Cane Island                   	95	61237	M                   	3147	 	 	 	 	 	
+P	MQ	Treasure Coast Energy Center            	95	78443	M                   	2529	 	 	 	 	 	
+D	FLORIDA GAS UTILITY                     	966335010	N 	FTS-1   	5141-107349	10/1/1993	7/31/2020	0	N	2732	 	X2/X5
+P	MQ	Homestead Generating                    	95	16216	M                   	2732	 	 	 	 	 	
+P	MQ	Homestead Generating #2                 	95	16217	M                   	2732	 	 	 	 	 	
+D	FLORIDA GAS UTILITY                     	966335010	N 	FTS-1   	5141-107350	10/1/1993	7/31/2020	0	N	4360	 	X5
+P	MQ	Kissimmee Cane Island                   	95	61237	M                   	4360	 	 	 	 	 	
+D	FLORIDA GAS UTILITY                     	966335010	N 	FTS-1   	5141-107352	10/1/1993	1/31/2027	0	N	7219	 	X2/X5
+P	MQ	Clearwater East                         	95	16204	M                   	4000	 	 	 	 	 	
+P	MQ	Clearwater North                        	95	16205	M                   	3000	 	 	 	 	 	
+P	MQ	Clearwater South                        	95	16206	M                   	4000	 	 	 	 	 	
+P	MQ	Clearwater Trinity                      	95	78137	M                   	1000	 	 	 	 	 	
+D	FLORIDA GAS UTILITY                     	966335010	N 	FTS-1   	5141-107354	10/1/1993	1/31/2027	0	N	1100	 	X2/X5
+P	MQ	Ft Pierce North                         	95	16181	M                   	1100	 	 	 	 	 	
+P	MQ	Ft Pierce South                         	95	16182	M                   	1100	 	 	 	 	 	
+D	FLORIDA GAS UTILITY                     	966335010	N 	FTS-1   	5141-107358	10/1/1993	1/31/2027	0	N	6500	 	X2/X5
+P	MQ	Leesburg                                	95	16164	M                   	5000	 	 	 	 	 	
+P	MQ	Leesburg-Haines Creek                   	95	16163	M                   	2000	 	 	 	 	 	
+D	FLORIDA GAS UTILITY                     	966335010	N 	FTS-1   	5141-107360	10/1/1993	7/31/2020	0	N	170	 	X5
+P	MQ	Starke                                  	95	16148	M                   	170	 	 	 	 	 	
+D	FLORIDA GAS UTILITY                     	966335010	N 	FTS-1   	5141-107362	10/1/1993	1/31/2027	0	N	10917	 	X5
+P	MQ	Treasure Coast Energy Center            	95	78443	M                   	10917	 	 	 	 	 	
+D	FLORIDA GAS UTILITY                     	966335010	N 	FTS-1   	5141-110125	5/1/2010	12/31/2026	0	N	488	 	X5
+P	MQ	DeFuniak Springs                        	95	56658	M                   	488	 	 	 	 	 	
+D	FLORIDA GAS UTILITY                     	966335010	N 	FTS-1   	5141-119256	4/1/2016	9/30/2020	0	N	200	 	X5
+P	MQ	Blountstown                             	95	16136	M                   	200	 	 	 	 	 	
+D	FLORIDA GAS UTILITY                     	966335010	N 	FTS-1   	5141-119257	4/1/2016	9/30/2023	0	N	150	 	X5
+P	MQ	Chipley                                 	95	16132	M                   	150	 	 	 	 	 	
+D	"DUKE ENERGY FLORIDA, LLC                "	6923700	N 	FTS-2   	5295	3/1/1995	7/31/2025	0	N	22400	 	
+P	M2	Markham-Gulf Shore                      	95	78427	W                   	6790	 	 	 	 	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	9210	 	 	 	 	 	
+P	M2	SNG High Point-TOCA                     	95	100016	W                   	6400	 	 	 	 	 	
+P	MQ	Tiger Bay-FPC                           	95	59953	M                   	22400	 	 	 	 	 	
+D	"PEOPLES GAS SYSTEM, A DIVISION OF TAMPA "	6922736	N 	FTS-2   	5319	3/1/1995	2/28/2025	0	N	20000	 	X4
+D	"PEOPLES GAS SYSTEM, A DIVISION OF TAMPA "	6922736	N 	FTS-2   	5319-3619	3/1/1995	2/28/2025	0	N	3400	 	X4
+D	"PEOPLES GAS SYSTEM, A DIVISION OF TAMPA "	6922736	N 	FTS-2   	5319-5909	11/1/1998	2/28/2025	0	N	10000	 	X4
+D	"PEOPLES GAS SYSTEM, A DIVISION OF TAMPA "	6922736	N 	FTS-2   	5319-5940	5/1/2001	4/30/2021	0	N	15000	 	X4
+D	"PEOPLES GAS SYSTEM, A DIVISION OF TAMPA "	6922736	N 	FTS-2   	5319-6148	5/1/2001	4/30/2021	0	N	3500	 	X4
+P	M2	ANR St Landry Parish                    	95	78303	W                   	5929	 	 	 	 	 	
+P	M2	Columbia Gulf-Lafayette                 	95	62410	W                   	5000	 	 	 	 	 	
+P	M2	Destin P/L                              	95	71298	W                   	8842	 	 	 	 	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	6776	 	 	 	 	 	
+P	M2	Sabine Pass Plant                       	95	282	W                   	828	 	 	 	 	 	
+P	M2	Tejas Calhoun Co ITE                    	95	71444	W                   	3880	 	 	 	 	 	
+P	M2	TENN Carnes (Rec)                       	95	10258	W                   	7082	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	12903	 	 	 	 	 	
+P	M2	TRANSCO Vinton                          	95	408	W                   	660	 	 	 	 	 	
+P	MQ	Avon Park-PGS                           	95	16191	M                   	1000	 	 	 	 	 	
+P	MQ	Daytona Beach-PGS                       	95	16159	M                   	6986	 	 	 	 	 	
+P	MQ	Ft Myers CTG-PGS                        	95	78152	M                   	7000	 	 	 	 	 	
+P	MQ	Lakewood Ranch-TECO/PGS                 	95	71403	M                   	15000	 	 	 	 	 	
+P	MQ	North Miami-PGS                         	95	16115	M                   	2897	 	 	 	 	 	
+P	MQ	Ocala-PGS                               	95	16146	M                   	3350	 	 	 	 	 	
+P	MQ	Oneco-TECO/PGS                          	95	16195	M                   	12466	 	 	 	 	 	
+P	MQ	Palm Beach-TECO/PGS                     	95	16102	M                   	2651	 	 	 	 	 	
+P	MQ	Panama City-PGS                         	95	16134	M                   	50	 	 	 	 	 	
+D	"MOSAIC FERTILIZER, LLC                  "	602503976	N 	FTS-1   	5326	4/1/1994	1/31/2027	0	N	670	 	
+A	BP ENERGY COMPANY                       	N 	 	 	 	 	 	 	 	 	 	
+P	M2	GSPL St Landry                          	95	10102	W                   	288	 	 	 	 	 	
+P	M2	Markham-Gulf Shore                      	95	78427	W                   	241	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	141	 	 	 	 	 	
+P	MQ	Bartow-Mosaic                           	95	16271	M                   	670	 	 	 	 	 	
+D	"PIVOTAL UTILITY HOLDINGS, INC.          "	56711344	N 	FTS-2   	5364	3/1/1995	2/28/2025	0	N	12655	 	
+A	"SEQUENT ENERGY MANAGEMENT, L.P.         "	N 	 	 	 	 	 	 	 	 	 	
+P	M2	Destin P/L                              	95	71298	W                   	3679	 	 	 	 	 	
+P	M2	NGPL Jefferson                          	95	10240	W                   	3782	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	5194	 	 	 	 	 	
+P	MQ	Cocoa-City Gas                          	95	16178	M                   	500	 	 	 	 	 	
+P	MQ	Cutler Ridge-NUI City Gas               	95	62966	M                   	600	 	 	 	 	 	
+P	MQ	Eau Gallie-City Gas (Cocoa)             	95	16179	M                   	1000	 	 	 	 	 	
+P	MQ	Indian River-City Gas                   	95	60606	M                   	3355	 	 	 	 	 	
+P	MQ	Lake Forest-City Gas                    	95	16114	M                   	400	 	 	 	 	 	
+P	MQ	NW Hialeah-City Gas                     	95	16117	M                   	1500	 	 	 	 	 	
+P	MQ	Opa Locka-City Gas                      	95	16116	M                   	1050	 	 	 	 	 	
+P	MQ	Port St Lucie-City Gas                  	95	58921	M                   	650	 	 	 	 	 	
+P	MQ	SE Hialeah-City Gas                     	95	16118	M                   	1050	 	 	 	 	 	
+P	MQ	South Miami-City Gas                    	95	16124	M                   	650	 	 	 	 	 	
+P	MQ	Vero Beach North-City Gas               	95	62898	M                   	625	 	 	 	 	 	
+P	MQ	Vero Beach South-City Gas               	95	62897	M                   	625	 	 	 	 	 	
+P	MQ	W Miami-City Gas                        	95	16122	M                   	650	 	 	 	 	 	
+D	NFH   MANAGEMENT CORPORATION            	967019803	N 	FTS-2   	5365	3/1/1995	2/28/2025	0	N	10	 	
+P	M2	Pledger-Enterprise                      	95	100022	W                   	10	 	 	 	 	 	
+P	MQ	North Florida Holsteins                 	95	61552	M                   	10	 	 	 	 	 	
+D	JEA                                     	77580223	N 	FTS-1   	5405	1/1/1995	7/31/2020	0	N	20000	 	X4
+D	JEA                                     	77580223	N 	FTS-1   	5405-5103	11/1/1993	7/31/2020	0	N	5000	 	X4
+A	"THE ENERGY AUTHORITY, INC.              "	N 	 	 	 	 	 	 	 	 	 	
+P	M2	ANR St Landry Parish                    	95	78303	W                   	8000	 	 	 	 	 	
+P	M2	HPL Magnet Withers                      	95	8576	W                   	5000	 	 	 	 	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	2305	 	 	 	 	 	
+P	M2	Tejas Calhoun Co ITE                    	95	71444	W                   	4000	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	5695	 	 	 	 	 	
+P	MQ	Jacksonville-PGS                        	95	16151	M                   	25000	 	 	 	 	 	
+D	ORANGE COGENERATION LIMITED PARTNERSHIP 	101093706	N 	FTS-2   	5480	7/1/1995	12/31/2025	0	N	9850	 	
+A	RAINBOW ENERGY MARKETING CORPORATION    	N 	 	 	 	 	 	 	 	 	 	
+P	M2	ANR St Landry Parish                    	95	78303	W                   	3458	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	4482	 	 	 	 	 	
+P	M2	TX Gas Eunice                           	95	10178	W                   	1910	 	 	 	 	 	
+P	MQ	Bartow B-CUC                            	95	60923	M                   	9850	 	 	 	 	 	
+D	POWERSOUTH ENERGY COOPERATIVE           	6900005	N 	FTS-WD  	5538	11/1/1995	10/31/2030	0	N	15907	 	
+A	BP ENERGY COMPANY                       	N 	 	 	 	 	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	9907	 	 	 	 	 	
+P	M2	TRANSCO St Helena                       	95	10114	W                   	6000	 	 	 	 	 	
+P	MQ	Alabama Electric Co-Op                  	95	62215	W                   	15907	 	 	 	 	 	
+D	"MOSAIC FERTILIZER, LLC                  "	602503976	N 	FTS-1   	5539	12/1/1995	7/31/2025	365	N	900	 	
+A	BP ENERGY COMPANY                       	N 	 	 	 	 	 	 	 	 	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	700	 	 	 	 	 	
+P	M2	Sabine Pass Plant                       	95	282	W                   	200	 	 	 	 	 	
+P	MQ	Bartow-Mosaic                           	95	16271	M                   	400	 	 	 	 	 	
+P	MQ	Tampa-Mosaic                            	95	16283	M                   	500	 	 	 	 	 	
+D	"STATE OF FLORIDA, DEPARTMENT OF MANAGEME"	809396955	N 	FTS-2   	5626	2/1/1997	2/28/2025	365	N	300	 	
+A	"INFINITE ENERGY, INC.                   "	N 	 	 	 	 	 	 	 	 	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	105	 	 	 	 	 	
+P	M2	Refugio-Crosstex Energy                 	95	78349	W                   	57	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	138	 	 	 	 	 	
+P	MQ	St. Joe Overstreet                      	95	56657	M                   	300	 	 	 	 	 	
+D	CENTERPOINT ENERGY ENTEX                	46700779	N 	FTS-WD  	5628	7/1/1996	6/30/2022	0	N	30	 	
+P	M2	Markham-Gulf Shore                      	95	78427	W                   	30	 	 	 	 	 	
+P	MQ	Ramsey Entex                            	95	16128	W                   	30	 	 	 	 	 	
+D	ORLANDO UTILITIES COMMISSION            	4076071	N 	FTS-2   	5721	9/1/1997	2/28/2025	0	N	7793	 	X7
+P	M2	Frisco Acadian                          	95	78533	W                   	5000	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	1010	 	 	 	 	 	
+P	M2	TRANSCO St Helena                       	95	10114	W                   	1783	 	 	 	 	 	
+P	MQ	Indian River Ctg-Reliant                	95	78037	M                   	7793	 	 	 	 	 	
+P	MQ	Indian River-OUC                        	95	16260	M                   	7793	 	 	 	 	 	
+P	MQ	Stanton-OUC                             	95	78384	M                   	7793	 	 	 	 	 	
+D	CLARKE-MOBILE COUNTIES GAS DISTRICT     	71948723	N 	FTS-WD  	5762	1/1/1998	12/31/2020	0	N	12000	 	
+P	M2	Destin P/L                              	95	71298	W                   	12000	 	 	 	 	 	
+P	MQ	Clarke-Mobile/Mt Vernon TBS             	95	62908	W                   	10000	 	 	 	 	 	
+P	MQ	Enerfin Clarke-Mobile (Del)             	95	10145	W                   	2000	 	 	 	 	 	
+D	"LAKELAND, CITY OF                       "	959116302	N 	FTS-1   	5787	3/1/1998	4/30/2020	0	N	3500	 	
+P	M2	Columbia Gulf-Lafayette                 	95	62410	W                   	1120	 	 	 	 	 	
+P	M2	TRANSCO St Helena                       	95	10114	W                   	2380	 	 	 	 	 	
+P	MQ	Lakeland McIntosh                       	95	55687	M                   	3500	 	 	 	 	 	
+D	"LAKELAND, CITY OF                       "	959116302	N 	FTS-2   	5788	3/1/1998	3/31/2025	0	N	7500	 	
+P	M2	Columbia Gulf-Lafayette                 	95	62410	W                   	6485	 	 	 	 	 	
+P	M2	TRANSCO St Helena                       	95	10114	W                   	1015	 	 	 	 	 	
+P	MQ	Lakeland McIntosh                       	95	55687	M                   	7500	 	 	 	 	 	
+D	"DUKE ENERGY FLORIDA, LLC                "	6923700	N 	FTS-1   	5815	4/1/1998	7/31/2025	0	N	44028	 	
+P	M2	ANR St Landry Parish                    	95	78303	W                   	2657	 	 	 	 	 	
+P	M2	Destin P/L                              	95	71298	W                   	17395	 	 	 	 	 	
+P	M2	Markham-Gulf Shore                      	95	78427	W                   	9077	 	 	 	 	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	791	 	 	 	 	 	
+P	M2	Sabine Pass Plant                       	95	282	W                   	3781	 	 	 	 	 	
+P	M2	TENN Carnes (Rec)                       	95	10258	W                   	2044	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	8283	 	 	 	 	 	
+P	MQ	Bartow B-FPC                            	95	63053	M                   	10215	 	 	 	 	 	
+P	MQ	Gainesville University Cogen            	95	59956	M                   	9300	 	 	 	 	 	
+P	MQ	Hines Energy Complex-FPC                	95	63033	M                   	13910	 	 	 	 	 	
+P	MQ	Tiger Bay-FPC                           	95	59953	M                   	10603	 	 	 	 	 	
+D	"DUKE ENERGY FLORIDA, LLC                "	6923700	N 	FTS-2   	5816	4/1/1998	7/31/2025	0	N	7000	 	
+P	M2	Destin P/L                              	95	71298	W                   	5745	 	 	 	 	 	
+P	M2	Markham-Gulf Shore                      	95	78427	W                   	1255	 	 	 	 	 	
+P	MQ	Hines Energy Complex-FPC                	95	63033	M                   	7000	 	 	 	 	 	
+D	GAINESVILLE REGIONAL UTILITIES          	82635004	N 	FTS-1   	5884	10/1/1998	7/31/2020	0	N	27861	 	X7
+A	"THE ENERGY AUTHORITY, INC.              "	N 	 	 	 	 	 	 	 	 	 	
+P	M2	ANR St Landry Parish                    	95	78303	W                   	5323	 	 	 	 	 	
+P	M2	Cognac Line (TGPL) from MS Canyon 109   	95	685600	W                   	1015	 	 	 	 	 	
+P	M2	HPL Magnet Withers                      	95	8576	W                   	6307	 	 	 	 	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	1180	 	 	 	 	 	
+P	M2	SNG Koch-Shadyside                      	95	930300	W                   	1015	 	 	 	 	 	
+P	M2	Tejas Calhoun Co ITE                    	95	71444	W                   	8000	 	 	 	 	 	
+P	M2	TENN Carnes (Rec)                       	95	10258	W                   	555	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	4466	 	 	 	 	 	
+P	MQ	Gainesville Gas-North                   	95	16142	M                   	8000	 	 	 	 	 	
+P	MQ	Gainesville Gas-Plt                     	95	16144	M                   	4000	 	 	 	 	 	
+P	MQ	Gainesville Gas-University              	95	16143	M                   	4500	 	 	 	 	 	
+P	MQ	Gainesville Gas-West                    	95	16145	M                   	5000	 	 	 	 	 	
+P	MQ	Gainesville Generating                  	95	16241	M                   	8500	 	 	 	 	 	
+P	MQ	Gainesville-Deerhaven Gen               	95	16240	M                   	18000	 	 	 	 	 	
+P	MQ	Shands Hospital-GRU                     	95	78505	M                   	3000	 	 	 	 	 	
+D	GAINESVILLE REGIONAL UTILITIES          	82635004	N 	FTS-2   	5885	10/1/1998	2/28/2021	0	N	0	 	X6/X7
+D	ALABAMA POWER COMPANY                   	6900120	N 	FTS-WD  	5895	12/1/1998	11/30/2018	0	N	32000	 	
+A	"SOUTHERN COMPANY SERVICES, INC.         "	N 	 	 	 	 	 	 	 	 	 	
+P	M2	Destin P/L                              	95	71298	W                   	24000	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	8000	 	 	 	 	 	
+P	MQ	APC-Olin (Del)                          	95	71405	W                   	32000	 	 	 	 	 	
+D	"DUKE ENERGY FLORIDA, LLC                "	6923700	N 	FTS-2   	5935	5/1/2001	7/31/2025	0	N	10000	 	X7
+P	M2	ANR St Landry Parish                    	95	78303	W                   	539	 	 	 	 	 	
+P	M2	Columbia Gulf-Lafayette                 	95	62410	W                   	1759	 	 	 	 	 	
+P	M2	Destin P/L                              	95	71298	W                   	2874	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	4828	 	 	 	 	 	
+P	MQ	Anclote-FPC                             	95	71404	M                   	10000	 	 	 	 	 	
+P	MQ	Hines Energy Complex-FPC                	95	63033	M                   	10000	 	 	 	 	 	
+P	MQ	Kissimmee Cane Island                   	95	61237	M                   	10000	 	 	 	 	 	
+D	GEORGIA-PACIFIC LLC                     	9020777	N 	FTS-2   	5937	5/1/2001	4/30/2021	0	N	275	 	
+A	"KOCH ENERGY SERVICES, LLC               "	N 	 	 	 	 	 	 	 	 	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	126	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Mainline         	95	71462	W                   	149	 	 	 	 	 	
+P	MQ	Georgia Pacific                         	95	16251	M                   	275	 	 	 	 	 	
+D	"SOUTHERN COMPANY SERVICES, INC.         "	75463174	N 	FTS-WD  	5977	6/1/2000	5/31/2020	365	N	25000	 	
+P	M2	Destin P/L                              	95	71298	W                   	25000	 	 	 	 	 	
+P	MQ	Bay Gas (Del) Storage                   	95	62249	W                   	25000	 	 	 	 	 	
+D	"SOUTHERN COMPANY SERVICES, INC.         "	75463174	N 	FTS-2   	5997	12/19/2001	3/31/2022	0	Y	87000	 	
+P	M2	Destin P/L                              	95	71298	W                   	10558	 	 	 	 	 	
+P	M2	GSPL Mobile Bay-FGT Capacity            	95	78176	W                   	76442	 	 	 	 	 	
+P	MQ	Gulf Power Smith Plt (Del)              	95	78301	M                   	87000	 	 	 	 	 	
+D	POWERSOUTH ENERGY COOPERATIVE           	6900005	N 	FTS-WD  	6011	12/1/2001	11/30/2023	365	N	80000	 	
+A	BP ENERGY COMPANY                       	N 	 	 	 	 	 	 	 	 	 	
+P	M2	Destin P/L                              	95	71298	W                   	50000	 	 	 	 	 	
+P	M2	GSPL St Helena                          	95	10109	W                   	10000	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Mainline         	95	71462	W                   	20000	 	 	 	 	 	
+P	MQ	Alabama Electric Co-Op                  	95	62215	W                   	80000	 	 	 	 	 	
+D	CITY OF MADISON                         	87756664	N 	FTS-1   	6014	11/1/1999	1/31/2027	0	N	339	 	
+A	"INFINITE ENERGY, INC.                   "	N 	 	 	 	 	 	 	 	 	 	
+P	M2	GSPL St Helena                          	95	10109	W                   	36	 	 	 	 	 	
+P	M2	NGPL Jefferson                          	95	10240	W                   	61	 	 	 	 	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	73	 	 	 	 	 	
+P	M2	Refugio-Crosstex Energy                 	95	78349	W                   	61	 	 	 	 	 	
+P	M2	Sabine-Kaplan                           	95	23062	W                   	73	 	 	 	 	 	
+P	M2	TENN Carnes (Rec)                       	95	10258	W                   	35	 	 	 	 	 	
+P	MQ	Madison                                 	95	16139	M                   	339	 	 	 	 	 	
+D	JEA                                     	77580223	N 	FTS-2   	6034	4/1/2002	3/31/2022	0	N	14000	 	
+A	"THE ENERGY AUTHORITY, INC.              "	N 	 	 	 	 	 	 	 	 	 	
+P	M2	Destin P/L                              	95	71298	W                   	1699	 	 	 	 	 	
+P	M2	GSPL Mobile Bay-FGT Capacity            	95	78176	W                   	12301	 	 	 	 	 	
+P	MQ	Brandy Branch-PGS                       	95	78117	M                   	14000	 	 	 	 	 	
+D	"PEOPLES GAS SYSTEM, A DIVISION OF TAMPA "	6922736	N 	FTS-2   	6035	4/1/2002	3/31/2022	0	N	1000	 	
+P	M2	Destin P/L                              	95	71298	W                   	1000	 	 	 	 	 	
+P	MQ	Daytona Beach-PGS                       	95	16159	M                   	1000	 	 	 	 	 	
+D	"TALLAHASSEE, CITY OF                    "	930321073	N 	FTS-2   	6036	4/1/2002	3/31/2022	0	N	1000	 	X7
+P	M2	GSPL Mobile Bay-FGT Capacity            	95	78176	W                   	439	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Mainline         	95	71462	W                   	561	 	 	 	 	 	
+P	MQ	Tallahassee-St Marks(Purdom)            	95	16238	M                   	1000	 	 	 	 	 	
+P	MQ	Tallahassee-W (Hopkins)                 	95	16237	M                   	1000	 	 	 	 	 	
+D	SOUTHEAST ALABAMA GAS DISTRICT          	9850058	N 	FTS-WD  	6059	11/1/2000	10/31/2020	365	N	0	 	X6
+D	TAMPA ELECTRIC COMPANY                  	6924286	N 	FTS-2   	6088	4/1/2002	4/30/2023	0	N	140000	 	X7
+P	M2	ANR St Landry Parish                    	95	78303	W                   	3500	 	 	 	 	 	
+P	M2	Destin P/L                              	95	71298	W                   	40427	 	 	 	 	 	
+P	M2	Egan Hub (Rec)                          	95	78299	W                   	3383	 	 	 	 	 	
+P	M2	Frisco Acadian                          	95	78533	W                   	10867	 	 	 	 	 	
+P	M2	GSPL Mobile Bay-FGT Capacity            	95	78176	W                   	73806	 	 	 	 	 	
+P	M2	HPL Magnet Withers                      	95	8576	W                   	2364	 	 	 	 	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	353	 	 	 	 	 	
+P	M2	Refugio-Crosstex Energy                 	95	78349	W                   	5300	 	 	 	 	 	
+P	MQ	Bayside-TECO                            	95	78375	M                   	180000	 	 	 	 	 	
+P	MQ	Hardee Power Partners Meter Station     	95	57345	M                   	120000	 	 	 	 	 	
+P	MQ	Polk Power Station-TECO                 	95	78075	M                   	120000	 	 	 	 	 	
+D	LAKE APOPKA NATURAL GAS DISTRICT        	72559644	N 	FTS-1   	6098	10/1/2000	1/31/2027	0	N	0	 	X6/X7
+D	LAKE APOPKA NATURAL GAS DISTRICT        	72559644	N 	FTS-2   	6099	10/1/2000	2/28/2025	0	N	9688	 	
+A	"INFINITE ENERGY, INC.                   "	N 	 	 	 	 	 	 	 	 	 	
+P	M2	Bay Gas (Rec) Storage                   	95	62248	W                   	538	 	 	 	 	 	
+P	M2	GSPL St Helena                          	95	10109	W                   	424	 	 	 	 	 	
+P	M2	GSPL St Landry                          	95	10102	W                   	1337	 	 	 	 	 	
+P	M2	LRC White Castle                        	95	664000	W                   	1841	 	 	 	 	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	2492	 	 	 	 	 	
+P	M2	Sabine Pass Plant                       	95	282	W                   	1240	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	1391	 	 	 	 	 	
+P	M2	TRANSCO St Helena                       	95	10114	W                   	425	 	 	 	 	 	
+P	MQ	Lake Apopka-Apopka                      	95	16168	M                   	4235	 	 	 	 	 	
+P	MQ	Lake Apopka-Kelly Park Delivery         	95	100708	M                   	3208	 	 	 	 	 	
+P	MQ	Lake Apopka-Plymouth                    	95	16166	M                   	3208	 	 	 	 	 	
+P	MQ	Lake Apopka-Winter Garden               	95	16171	M                   	2145	 	 	 	 	 	
+P	MQ	Lang Woodsmere                          	95	57676	M                   	100	 	 	 	 	 	
+D	"SEMINOLE ELECTRIC COOPERATIVE, INC.     "	78332657	N 	FTS-1   	6136	1/1/2002	12/31/2021	365	N	9861	 	
+P	M2	TENN Carnes (Rec)                       	95	10258	W                   	9861	 	 	 	 	 	
+P	MQ	Hardee Power Partners Meter Station     	95	57345	M                   	9861	 	 	 	 	 	
+P	MQ	Midulla Generation Station              	95	78138	M                   	9861	 	 	 	 	 	
+D	"SEMINOLE ELECTRIC COOPERATIVE, INC.     "	78332657	N 	FTS-2   	6137	1/1/2002	11/30/2028	0	N	15139	 	
+P	M2	Destin P/L                              	95	71298	W                   	5749	 	 	 	 	 	
+P	M2	TENN Carnes (Rec)                       	95	10258	W                   	2390	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	7000	 	 	 	 	 	
+P	MQ	Hardee Power Partners Meter Station     	95	57345	M                   	15139	 	 	 	 	 	
+P	MQ	Midulla Generation Station              	95	78138	M                   	15139	 	 	 	 	 	
+D	NATIONAL GYPSUM COMPANY                 	808836894	N 	FTS-2   	101413	9/1/2002	2/28/2025	0	N	324	 	
+A	"INFINITE ENERGY, INC.                   "	N 	 	 	 	 	 	 	 	 	 	
+P	M2	LRC White Castle                        	95	664000	W                   	125	 	 	 	 	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	199	 	 	 	 	 	
+P	MQ	National Gypsum Company                 	95	16285	M                   	324	 	 	 	 	 	
+D	"SOUTHERN COMPANY SERVICES, INC.         "	75463174	N 	FTS-2   	101502	11/1/2002	10/31/2022	0	N	0	 	X6
+D	TAMPA ELECTRIC COMPANY                  	6924286	N 	FTS-1   	101716	12/1/2002	7/31/2020	0	N	5899	 	X4
+D	TAMPA ELECTRIC COMPANY                  	6924286	N 	FTS-1   	101716-105189	2/8/2006	1/31/2027	0	N	1000	 	X4
+P	M2	ANR St Landry Parish                    	95	78303	W                   	98	 	 	 	 	 	
+P	M2	Columbia Gulf-Lafayette                 	95	62410	W                   	1000	 	 	 	 	 	
+P	M2	GSPL St Helena                          	95	10109	W                   	113	 	 	 	 	 	
+P	M2	GSPL St Landry                          	95	10102	W                   	25	 	 	 	 	 	
+P	M2	NGPL Jefferson                          	95	10240	W                   	62	 	 	 	 	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	5570	 	 	 	 	 	
+P	M2	TRANSCO St Helena                       	95	10114	W                   	31	 	 	 	 	 	
+P	MQ	Bayside-TECO                            	95	78375	M                   	6899	 	 	 	 	 	
+D	ORLANDO UTILITIES COMMISSION            	4076071	N 	FTS-2   	101950	11/1/2003	10/31/2023	0	N	80000	 	X7
+P	M2	ANR St Landry Parish                    	95	78303	W                   	10000	 	 	 	 	 	
+P	M2	Bay Gas (Rec) Storage                   	95	62248	W                   	2500	 	 	 	 	 	
+P	M2	Columbia Gulf-Lafayette                 	95	62410	W                   	2500	 	 	 	 	 	
+P	M2	Destin P/L                              	95	71298	W                   	8000	 	 	 	 	 	
+P	M2	Frisco Acadian                          	95	78533	W                   	11000	 	 	 	 	 	
+P	M2	GSPL St Helena                          	95	10109	W                   	5000	 	 	 	 	 	
+P	M2	GSPL St Landry                          	95	10102	W                   	7500	 	 	 	 	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	10000	 	 	 	 	 	
+P	M2	Refugio-Crosstex Energy                 	95	78349	W                   	1783	 	 	 	 	 	
+P	M2	SNG Franklinton (Rec)                   	95	10095	W                   	7500	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	2500	 	 	 	 	 	
+P	M2	TRANSCO St Helena                       	95	10114	W                   	11717	 	 	 	 	 	
+P	MQ	Indian River-OUC                        	95	16260	M                   	80000	 	 	 	 	 	
+P	MQ	Kissimmee Cane Island                   	95	61237	M                   	80000	 	 	 	 	 	
+P	MQ	Stanton-OUC                             	95	78384	M                   	80000	 	 	 	 	 	
+D	"MOSAIC FERTILIZER, LLC                  "	602503976	N 	FTS-1   	102665	11/1/2003	10/31/2026	365	N	216	 	
+A	BP ENERGY COMPANY                       	N 	 	 	 	 	 	 	 	 	 	
+P	M2	GSPL St Landry                          	95	10102	W                   	93	 	 	 	 	 	
+P	M2	Markham-Gulf Shore                      	95	78427	W                   	78	 	 	 	 	 	
+P	M2	SNG Franklinton (Rec)                   	95	10095	W                   	45	 	 	 	 	 	
+P	MQ	Bartow-Mosaic                           	95	16271	M                   	216	 	 	 	 	 	
+D	"CUTRALE CITRUS JUICES USA, INC.         "	958547432	N 	FTS-2   	102761	12/1/2003	3/31/2026	0	N	0	 	X6
+D	"CUTRALE CITRUS JUICES USA, INC.         "	958547432	N 	FTS-2   	102772	4/1/2004	6/30/2026	0	N	1000	 	
+A	BP ENERGY COMPANY                       	N 	 	 	 	 	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	1000	 	 	 	 	 	
+P	MQ	Auburndale-Cutrale                      	95	16264	M                   	1000	 	 	 	 	 	
+D	ORLANDO UTILITIES COMMISSION            	4076071	N 	FTS-2   	104345	11/1/2006	3/31/2023	0	N	0	 	X6
+D	NATIONAL GYPSUM COMPANY                 	808836894	N 	FTS-2   	104689	9/1/2005	2/28/2025	0	N	2800	 	
+A	"INFINITE ENERGY, INC.                   "	N 	 	 	 	 	 	 	 	 	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	1378	 	 	 	 	 	
+P	M2	SNG Franklinton (Rec)                   	95	10095	W                   	1422	 	 	 	 	 	
+P	MQ	National Gypsum Company                 	95	16285	M                   	2800	 	 	 	 	 	
+D	BP ENERGY COMPANY                       	625275755	N 	FTS-1   	105778	9/1/2006	1/31/2022	365	N	500	 	
+P	M2	GSPL St Helena                          	95	10109	W                   	105	 	 	 	 	 	
+P	M2	GSPL St Landry                          	95	10102	W                   	215	 	 	 	 	 	
+P	M2	Markham-Gulf Shore                      	95	78427	W                   	180	 	 	 	 	 	
+P	MQ	Geneva Co Gas District                  	95	16131	M                   	500	 	 	 	 	 	
+D	"PEOPLES GAS SYSTEM, A DIVISION OF TAMPA "	6922736	N 	FTS-1   	105988	11/1/2006	7/31/2020	0	N	4000	 	
+P	M2	Columbia Gulf-Lafayette                 	95	62410	W                   	433	 	 	 	 	 	
+P	M2	GSPL St Helena                          	95	10109	W                   	2140	 	 	 	 	 	
+P	M2	GSPL St Landry                          	95	10102	W                   	32	 	 	 	 	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	592	 	 	 	 	 	
+P	M2	Refugio-Crosstex Energy                 	95	78349	W                   	803	 	 	 	 	 	
+P	MQ	Lakeland North-PGS                      	95	16198	M                   	4000	 	 	 	 	 	
+D	ORLANDO UTILITIES COMMISSION            	4076071	N 	FTS-2   	106037	11/1/2006	2/28/2021	0	N	1400	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	491	 	 	 	 	 	
+P	M2	Refugio-Crosstex Energy                 	95	78349	W                   	272	 	 	 	 	 	
+P	M2	SNG High Point-TOCA                     	95	100016	W                   	129	 	 	 	 	 	
+P	M2	SNG Koch-Shadyside                      	95	930300	W                   	129	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	379	 	 	 	 	 	
+P	MQ	St Cloud-CUC                            	95	16176	M                   	1400	 	 	 	 	 	
+P	MQ	Stanton B-OUC                           	95	78515	M                   	1400	 	 	 	 	 	
+P	MQ	Stanton C Gas Igniter Conversion-OUC    	95	100013	M                   	1400	 	 	 	 	 	
+D	"DUKE ENERGY FLORIDA, LLC                "	6923700	N 	FTS-2   	106522	5/1/2007	4/30/2027	0	N	0	 	X6
+D	"DUKE ENERGY FLORIDA, LLC                "	6923700	N 	FTS-2   	106598	10/1/2007	4/30/2027	0	N	50000	 	X7
+P	M2	SNG Cypress                             	95	78454	M                   	50000	 	 	 	 	 	
+P	MQ	Anclote-FPC                             	95	71404	M                   	50000	 	 	 	 	 	
+P	MQ	Hines Energy Complex-FPC                	95	63033	M                   	50000	 	 	 	 	 	
+P	MQ	Shady Hills-Mirant                      	95	78295	M                   	50000	 	 	 	 	 	
+D	"INFINITE ENERGY, INC.                   "	968786749	N 	FTS-1   	108220	2/1/2009	3/31/2039	0	N	2100	 	
+P	M2	Columbia Gulf-Lafayette                 	95	62410	W                   	1236	 	 	 	 	 	
+P	M2	GSPL St Helena                          	95	10109	W                   	115	 	 	 	 	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	237	 	 	 	 	 	
+P	M2	Sabine-Kaplan                           	95	23062	W                   	81	 	 	 	 	 	
+P	M2	TENN Carnes (Rec)                       	95	10258	W                   	431	 	 	 	 	 	
+P	MQ	Chattahoochee                           	95	16137	M                   	174	 	 	 	 	 	
+P	MQ	Geneva Co Gas District                  	95	16131	M                   	386	 	 	 	 	 	
+P	MQ	Madison                                 	95	16139	M                   	1100	 	 	 	 	 	
+P	MQ	Sunrise                                 	95	16111	M                   	440	 	 	 	 	 	
+D	TAMPA ELECTRIC COMPANY                  	6924286	N 	FTS-2   	109631	11/1/2010	4/30/2035	0	N	30000	 	X7
+P	M2	Destin P/L                              	95	71298	W                   	15000	 	 	 	 	 	
+P	M2	SESH Mobile Bay                         	95	78486	W                   	15000	 	 	 	 	 	
+P	MQ	Bayside-TECO                            	95	78375	M                   	30000	 	 	 	 	 	
+P	MQ	Polk Power Station-TECO                 	95	78075	M                   	30000	 	 	 	 	 	
+D	ORLANDO UTILITIES COMMISSION            	4076071	N 	FTS-2   	109805	1/1/2010	2/28/2026	0	N	8000	 	
+P	M2	GSPL St Helena                          	95	10109	W                   	226	 	 	 	 	 	
+P	M2	GSPL St Landry                          	95	10102	W                   	2808	 	 	 	 	 	
+P	M2	Sabine Pass Plant                       	95	282	W                   	944	 	 	 	 	 	
+P	M2	SNG Koch-Shadyside                      	95	930300	W                   	79	 	 	 	 	 	
+P	M2	Tejas Calhoun Co ITE                    	95	71444	W                   	608	 	 	 	 	 	
+P	M2	TENN Carnes (Rec)                       	95	10258	W                   	1171	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	2164	 	 	 	 	 	
+P	MQ	Stanton B-OUC                           	95	78515	M                   	8000	 	 	 	 	 	
+P	MQ	Stanton C Gas Igniter Conversion-OUC    	95	100013	M                   	8000	 	 	 	 	 	
+D	ORLANDO UTILITIES COMMISSION            	4076071	N 	FTS-1   	109806	1/1/2010	7/31/2030	0	N	6872	 	
+P	M2	GSPL St Landry                          	95	10102	W                   	1926	 	 	 	 	 	
+P	M2	HPL Magnet Withers                      	95	8576	W                   	688	 	 	 	 	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	1029	 	 	 	 	 	
+P	M2	Refugio-Crosstex Energy                 	95	78349	W                   	881	 	 	 	 	 	
+P	M2	Sabine Pass Plant                       	95	282	W                   	905	 	 	 	 	 	
+P	M2	SNG Franklinton (Rec)                   	95	10095	W                   	117	 	 	 	 	 	
+P	M2	TENN Carnes (Rec)                       	95	10258	W                   	926	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	400	 	 	 	 	 	
+P	MQ	Stanton B-OUC                           	95	78515	M                   	6289	 	 	 	 	 	
+P	MQ	Stanton C Gas Igniter Conversion-OUC    	95	100013	M                   	583	 	 	 	 	 	
+D	"DUKE ENERGY FLORIDA, LLC                "	6923700	N 	FTS-1   	110394	8/1/2010	7/31/2050	0	N	6980	 	
+P	M2	Columbia Gulf-Lafayette                 	95	62410	W                   	2748	 	 	 	 	 	
+P	M2	Sabine Pass Plant                       	95	282	W                   	2768	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	1464	 	 	 	 	 	
+P	MQ	Hines Energy Complex-FPC                	95	63033	M                   	6980	 	 	 	 	 	
+D	"DUKE ENERGY FLORIDA, LLC                "	6923700	N 	FTS-3   	111144	4/1/2011	3/31/2036	0	Y	75000	 	X7
+P	M2	TRANSCO Citronelle FGT Mainline         	95	71462	W                   	75000	 	 	 	 	 	
+P	MQ	Anclote-FPC                             	95	71404	M                   	75000	 	 	 	 	 	
+P	MQ	El Paso Vandolah                        	95	78307	M                   	75000	 	 	 	 	 	
+P	MQ	Hines Energy Complex-FPC                	95	63033	M                   	75000	 	 	 	 	 	
+P	MQ	Shady Hills-Mirant                      	95	78295	M                   	75000	 	 	 	 	 	
+P	MQ	Suwannee-Progress Energy                	95	78530	M                   	75000	 	 	 	 	 	
+D	FLORIDA POWER & LIGHT COMPANY           	6922371	N 	FTS-3   	111145	4/1/2011	3/31/2036	0	Y	400000	 	X7
+P	M2	GSPL Merrill                            	95	100037	W                   	67000	 	 	 	 	 	
+P	M2	SESH Lucedale (Rec)                     	95	78487	W                   	233000	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Mainline         	95	71462	W                   	100000	 	 	 	 	 	
+P	MQ	Cape Canaveral-FPL                      	95	100019	M                   	192000	 	 	 	 	 	
+P	MQ	Ft Myers-FPL                            	95	78083	M                   	334000	 	 	 	 	 	
+P	MQ	Lauderdale A-FPL                        	95	53371	M                   	200000	 	 	 	 	 	
+P	MQ	Lauderdale B-FPL                        	95	53369	M                   	200000	 	 	 	 	 	
+P	MQ	Manatee-FPL                             	95	78518	M                   	250000	 	 	 	 	 	
+P	MQ	Martin-FPL                              	95	78522	M                   	620000	 	 	 	 	 	
+P	MQ	Port Everglades Energy Center M&R-FPL   	95	100041	M                   	217000	 	 	 	 	 	
+P	MQ	Putnam-FPL                              	95	16525	M                   	120000	 	 	 	 	 	
+P	MQ	Riviera East-FPL                        	95	16481	M                   	200000	 	 	 	 	 	
+P	MQ	Riviera West-FPL                        	95	100030	M                   	200000	 	 	 	 	 	
+P	MQ	Sanford-FPL                             	95	16526	M                   	375000	 	 	 	 	 	
+P	MQ	Turkey Point North-FPL                  	95	78446	M                   	218000	 	 	 	 	 	
+D	TAMPA ELECTRIC COMPANY                  	6924286	N 	FTS-3   	111146	4/1/2011	3/31/2036	0	Y	50000	 	X7
+P	M2	SESH Lucedale (Rec)                     	95	78487	W                   	10000	 	 	 	 	 	
+P	M2	SESH Mobile Bay                         	95	78486	W                   	10000	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Mainline         	95	71462	W                   	30000	 	 	 	 	 	
+P	MQ	Bayside-TECO                            	95	78375	M                   	50000	 	 	 	 	 	
+P	MQ	Desoto Co Generation (Del)              	95	78312	M                   	50000	 	 	 	 	 	
+P	MQ	Lakeland North-PGS                      	95	16198	M                   	8000	 	 	 	 	 	
+P	MQ	Polk Power Station-TECO                 	95	78075	M                   	50000	 	 	 	 	 	
+D	"TALLAHASSEE, CITY OF                    "	930321073	N 	FTS-3   	111147	4/1/2011	3/31/2036	0	Y	6000	 	
+P	M2	SESH Lucedale (Rec)                     	95	78487	W                   	2000	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Mainline         	95	71462	W                   	4000	 	 	 	 	 	
+P	MQ	Tallahassee Hopkins #2                  	95	78469	M                   	6000	 	 	 	 	 	
+D	ORLANDO UTILITIES COMMISSION            	4076071	N 	FTS-3   	111148	4/1/2011	3/31/2036	0	Y	15000	 	X7
+P	M2	Destin P/L                              	95	71298	W                   	5000	 	 	 	 	 	
+P	M2	SESH Lucedale (Rec)                     	95	78487	W                   	5000	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Mainline         	95	71462	W                   	5000	 	 	 	 	 	
+P	MQ	Stanton B-OUC                           	95	78515	M                   	15000	 	 	 	 	 	
+P	MQ	Vero Beach Generating                   	95	16261	M                   	8000	 	 	 	 	 	
+D	"SEMINOLE ELECTRIC COOPERATIVE, INC.     "	78332657	N 	FTS-3   	111150	4/1/2011	3/31/2036	0	Y	60000	 	X7
+P	M2	Destin P/L                              	95	71298	W                   	20000	 	 	 	 	 	
+P	M2	SESH Lucedale (Rec)                     	95	78487	W                   	25000	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Mainline         	95	71462	W                   	15000	 	 	 	 	 	
+P	MQ	Hardee Power Partners Meter Station     	95	57345	M                   	35000	 	 	 	 	 	
+P	MQ	Midulla Generation Station              	95	78138	M                   	60000	 	 	 	 	 	
+D	OKALOOSA GAS DISTRICT                   	10387272	N 	FTS-WD  	111256	4/1/2011	7/31/2025	0	N	5000	 	
+A	"INFINITE ENERGY, INC.                   "	N 	 	 	 	 	 	 	 	 	 	
+P	M2	ANR St Landry Parish                    	95	78303	W                   	400	 	 	 	 	 	
+P	M2	GSPL St Helena                          	95	10109	W                   	664	 	 	 	 	 	
+P	M2	GSPL St Landry                          	95	10102	W                   	628	 	 	 	 	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	675	 	 	 	 	 	
+P	M2	Refugio-Crosstex Energy                 	95	78349	W                   	1353	 	 	 	 	 	
+P	M2	Sabine Pass Plant                       	95	282	W                   	447	 	 	 	 	 	
+P	M2	Sabine-Kaplan                           	95	23062	W                   	447	 	 	 	 	 	
+P	M2	TENN Carnes (Rec)                       	95	10258	W                   	163	 	 	 	 	 	
+P	M2	TRANSCO St Helena                       	95	10114	W                   	223	 	 	 	 	 	
+P	MQ	Okaloosa Co                             	95	55685	M                   	5000	 	 	 	 	 	
+D	OKALOOSA GAS DISTRICT                   	10387272	N 	FTS-WD  	111257	4/1/2011	1/31/2027	0	N	0	 	X6
+D	"CHATTAHOOCHEE, CITY OF                  "	782620629	N 	FTS-1   	111608	6/1/2011	1/31/2027	0	N	50	 	
+A	"INFINITE ENERGY, INC.                   "	N 	 	 	 	 	 	 	 	 	 	
+P	M2	GSPL St Helena                          	95	10109	W                   	1	 	 	 	 	 	
+P	M2	Refugio-Crosstex Energy                 	95	78349	W                   	18	 	 	 	 	 	
+P	M2	Sabine-Kaplan                           	95	23062	W                   	21	 	 	 	 	 	
+P	M2	TENN Carnes (Rec)                       	95	10258	W                   	10	 	 	 	 	 	
+P	MQ	Chattahoochee                           	95	16137	M                   	50	 	 	 	 	 	
+D	"FLORALA, CITY OF                        "	1288604	N 	FTS-1   	111609	6/1/2011	1/31/2027	0	N	70	 	
+A	"INFINITE ENERGY, INC.                   "	N 	 	 	 	 	 	 	 	 	 	
+P	M2	Refugio-Crosstex Energy                 	95	78349	W                   	25	 	 	 	 	 	
+P	M2	Sabine-Kaplan                           	95	23062	W                   	30	 	 	 	 	 	
+P	M2	SNG Franklinton (Rec)                   	95	10095	W                   	15	 	 	 	 	 	
+P	MQ	Florala                                 	95	16130	M                   	70	 	 	 	 	 	
+D	GENEVA COUNTY GAS DISTRICT              	81390429	N 	FTS-1   	111631	6/1/2011	1/31/2027	0	N	436	 	
+A	"INFINITE ENERGY, INC.                   "	N 	 	 	 	 	 	 	 	 	 	
+P	M2	GSPL St Helena                          	95	10109	W                   	19	 	 	 	 	 	
+P	M2	Refugio-Crosstex Energy                 	95	78349	W                   	157	 	 	 	 	 	
+P	M2	Sabine-Kaplan                           	95	23062	W                   	187	 	 	 	 	 	
+P	M2	TENN Carnes (Rec)                       	95	10258	W                   	73	 	 	 	 	 	
+P	MQ	Geneva Co Gas District                  	95	16131	M                   	436	 	 	 	 	 	
+D	"ANGOLA LNG SUPPLY SERVICES, LLC         "	830935180	N 	FTS-WD  	111870	9/30/2011	9/29/2031	0	Y	342610	 	X7
+P	M2	Gulf LNG Pascagoula                     	95	78536	W                   	342610	 	 	 	 	 	
+P	MQ	Grand Bay (Del)                         	95	78535	W                   	308616	 	 	 	 	 	
+P	MQ	Gulf LNG Citronelle                     	95	78540	W                   	342610	 	 	 	 	 	
+P	MQ	Southern Pines (Del)                    	95	78461	W                   	342610	 	 	 	 	 	
+D	"DUKE ENERGY FLORIDA, LLC                "	6923700	N 	FTS-1   	111982	4/1/2012	3/31/2026	0	N	2229	 	
+P	M2	Markham-Gulf Shore                      	95	78427	W                   	801	 	 	 	 	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	962	 	 	 	 	 	
+P	M2	TENN Carnes (Rec)                       	95	10258	W                   	466	 	 	 	 	 	
+P	MQ	Suwannee-Progress Energy                	95	78530	M                   	2229	 	 	 	 	 	
+D	"DUKE ENERGY FLORIDA, LLC                "	6923700	N 	FTS-3   	113000	4/1/2013	10/31/2021	0	N	30000	 	X7
+P	M2	TRANSCO Citronelle FGT Mainline         	95	71462	W                   	30000	 	 	 	 	 	
+P	MQ	El Paso Vandolah                        	95	78307	M                   	30000	 	 	 	 	 	
+P	MQ	Suwannee-Progress Energy                	95	78530	M                   	30000	 	 	 	 	 	
+D	"CUTRALE CITRUS JUICES USA, INC.         "	958547432	N 	FTS-2   	113156	12/1/2012	4/30/2026	0	N	1000	 	
+A	BP ENERGY COMPANY                       	N 	 	 	 	 	 	 	 	 	 	
+P	M2	Destin P/L                              	95	71298	W                   	1000	 	 	 	 	 	
+P	MQ	Auburndale-Cutrale                      	95	16264	M                   	1000	 	 	 	 	 	
+D	"PEOPLES GAS SYSTEM, A DIVISION OF TAMPA "	6922736	N 	FTS-1   	113708	11/1/2013	7/31/2024	365	N	3193	 	
+P	M2	Destin P/L                              	95	71298	W                   	3191	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	2	 	 	 	 	 	
+P	MQ	Indian River Ctg-Reliant                	95	78037	M                   	3193	 	 	 	 	 	
+D	"PIVOTAL UTILITY HOLDINGS, INC.          "	56711344	N 	FTS-2   	113811	10/1/2012	3/31/2020	365	N	0	 	X6
+D	"DUKE ENERGY FLORIDA, LLC                "	6923700	N 	FTS-1   	114929	11/1/2013	12/31/2019	0	N	341	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	341	 	 	 	 	 	
+P	MQ	Hines Energy Complex-FPC                	95	63033	M                   	341	 	 	 	 	 	
+D	"DUKE ENERGY FLORIDA, LLC                "	6923700	N 	FTS-1   	114930	11/1/2013	12/31/2019	0	N	342	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	342	 	 	 	 	 	
+P	MQ	Hines Energy Complex-FPC                	95	63033	M                   	342	 	 	 	 	 	
+D	"DUKE ENERGY FLORIDA, LLC                "	6923700	N 	FTS-1   	114931	11/1/2013	2/28/2029	0	N	2605	 	
+P	M2	Markham-Gulf Shore                      	95	78427	W                   	940	 	 	 	 	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	1036	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	629	 	 	 	 	 	
+P	MQ	Hines Energy Complex-FPC                	95	63033	M                   	2605	 	 	 	 	 	
+D	"DUKE ENERGY FLORIDA, LLC                "	6923700	N 	FTS-2   	114932	11/1/2013	2/28/2025	0	N	3053	 	
+P	M2	Markham-Gulf Shore                      	95	78427	W                   	1472	 	 	 	 	 	
+P	M2	Sabine Pass Plant                       	95	282	W                   	1581	 	 	 	 	 	
+P	MQ	Hines Energy Complex-FPC                	95	63033	M                   	3053	 	 	 	 	 	
+D	"DUKE ENERGY FLORIDA, LLC                "	6923700	N 	FTS-2   	114933	11/1/2013	2/28/2025	0	N	3053	 	
+P	M2	Markham-Gulf Shore                      	95	78427	W                   	1471	 	 	 	 	 	
+P	M2	Sabine Pass Plant                       	95	282	W                   	1582	 	 	 	 	 	
+P	MQ	Hines Energy Complex-FPC                	95	63033	M                   	3053	 	 	 	 	 	
+D	"DUKE ENERGY FLORIDA, LLC                "	6923700	N 	FTS-1   	114934	11/1/2013	2/28/2029	0	N	2606	 	
+P	M2	Exxon Plant-Mobile Bay                  	95	62135	W                   	629	 	 	 	 	 	
+P	M2	Markham-Gulf Shore                      	95	78427	W                   	940	 	 	 	 	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	1037	 	 	 	 	 	
+P	MQ	Hines Energy Complex-FPC                	95	63033	M                   	2606	 	 	 	 	 	
+D	"ORLANDO COGEN LIMITED, L.P.             "	189942985	N 	FTS-2   	115673	1/1/2014	12/31/2023	0	N	11800	 	
+P	M2	Destin P/L                              	95	71298	W                   	1131	 	 	 	 	 	
+P	M2	Markham-Gulf Shore                      	95	78427	W                   	2503	 	 	 	 	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	3427	 	 	 	 	 	
+P	M2	SNG High Point-TOCA                     	95	100016	W                   	2536	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	2203	 	 	 	 	 	
+P	MQ	Orlando Cogen                           	95	60776	M                   	11800	 	 	 	 	 	
+D	"ORLANDO COGEN LIMITED, L.P.             "	189942985	N 	FTS-2   	115674	1/1/2014	12/31/2023	0	N	10700	 	
+P	M2	ANR St Landry Parish                    	95	78303	W                   	2182	 	 	 	 	 	
+P	M2	Destin P/L                              	95	71298	W                   	939	 	 	 	 	 	
+P	M2	Markham-Gulf Shore                      	95	78427	W                   	2076	 	 	 	 	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	1573	 	 	 	 	 	
+P	M2	SNG High Point-TOCA                     	95	100016	W                   	2104	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	1826	 	 	 	 	 	
+P	MQ	Orlando Cogen                           	95	60776	M                   	10700	 	 	 	 	 	
+D	ORLANDO UTILITIES COMMISSION            	4076071	N 	FTS-2   	115703	1/1/2014	2/28/2026	0	N	0	 	X6/X7
+D	ORLANDO UTILITIES COMMISSION            	4076071	N 	FTS-1   	115720	1/1/2014	7/31/2020	0	N	0	 	X6
+D	"OCI BEAUMONT, LLC                       "	6900772	N 	FTS-WD  	115803	2/1/2014	1/31/2024	0	N	25000	 	
+A	ENTERPRISE PRODUCTS OPERATING LLC       	N 	 	 	 	 	 	 	 	 	 	
+P	M2	Pledger-Enterprise                      	95	100022	W                   	25000	 	 	 	 	 	
+P	MQ	Beaumont-OCI                            	95	100024	W                   	25000	 	 	 	 	 	
+D	ENTERPRISE PRODUCTS OPERATING LLC       	48210686	N 	FTS-WD  	115932	4/1/2014	3/31/2020	0	N	1750	 	
+P	M2	Pledger-Enterprise                      	95	100022	W                   	1750	 	 	 	 	 	
+P	MQ	McFadden Bend-Enterprise                	95	100035	W                   	1750	 	 	 	 	 	
+D	"PIVOTAL UTILITY HOLDINGS, INC.          "	56711344	N 	FTS-2   	116747	3/1/2015	2/28/2025	0	N	2807	 	
+A	"SEQUENT ENERGY MANAGEMENT, L.P.         "	N 	 	 	 	 	 	 	 	 	 	
+P	M2	Egan Hub (Rec)                          	95	78299	W                   	545	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	2262	 	 	 	 	 	
+P	MQ	Indian River-City Gas                   	95	60606	M                   	2807	 	 	 	 	 	
+D	"PEOPLES GAS SYSTEM, A DIVISION OF TAMPA "	6922736	N 	FTS-3   	117299	1/1/2015	12/31/2039	0	Y	75000	 	X7
+P	M2	Destin P/L                              	95	71298	W                   	30000	 	 	 	 	 	
+P	M2	GSPL Merrill                            	95	100037	W                   	30000	 	 	 	 	 	
+P	M2	SESH Lucedale (Rec)                     	95	78487	W                   	15000	 	 	 	 	 	
+P	MQ	Bayside-TECO                            	95	78375	M                   	50000	 	 	 	 	 	
+P	MQ	Brandy Branch-PGS                       	95	78117	M                   	15000	 	 	 	 	 	
+P	MQ	Ft Myers CTG-PGS                        	95	78152	M                   	8000	 	 	 	 	 	
+P	MQ	Lakewood Ranch-TECO/PGS                 	95	71403	M                   	5000	 	 	 	 	 	
+P	MQ	Osceola Co-PGS                          	95	28712	M                   	4000	 	 	 	 	 	
+P	MQ	Palm Beach-TECO/PGS                     	95	16102	M                   	3000	 	 	 	 	 	
+P	MQ	Polk Power Station-TECO                 	95	78075	M                   	50000	 	 	 	 	 	
+P	MQ	Seacoast-TECO                           	95	100031	M                   	15000	 	 	 	 	 	
+P	MQ	SNG Suwannee                            	95	100036	M                   	10000	 	 	 	 	 	
+D	"PEOPLES GAS SYSTEM, A DIVISION OF TAMPA "	6922736	N 	FTS-2   	117300	11/1/2015	12/31/2039	0	N	0	 	X6/X7
+D	"PERRY, CITY OF                          "	65907537	N 	SFTS    	117311	1/1/2015	2/28/2022	0	N	2909	 	
+A	FLORIDA GAS UTILITY                     	N 	 	 	 	 	 	 	 	 	 	
+P	M2	ANR St Landry Parish                    	95	78303	W                   	600	 	 	 	 	 	
+P	M2	GSPL St Helena                          	95	10109	W                   	172	 	 	 	 	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	649	 	 	 	 	 	
+P	M2	Refugio-Crosstex Energy                 	95	78349	W                   	455	 	 	 	 	 	
+P	M2	TENN Carnes (Rec)                       	95	10258	W                   	433	 	 	 	 	 	
+P	M2	Tres Palacios Storage (Rec)             	95	78475	W                   	600	 	 	 	 	 	
+P	MQ	Perry                                   	95	16138	M                   	2909	 	 	 	 	 	
+D	"FPL ENERGY SERVICES, INC.               "	197177678	N 	FTS-3   	117580	1/1/2017	12/31/2018	0	N	12500	 	
+P	M2	Destin P/L                              	95	71298	W                   	12500	 	 	 	 	 	
+P	MQ	SNG Suwannee                            	95	100036	M                   	12500	 	 	 	 	 	
+D	ORLANDO UTILITIES COMMISSION            	4076071	N 	FTS-2   	117727	4/1/2015	5/31/2023	0	N	25000	 	X7
+P	M2	ANR St Landry Parish                    	95	78303	W                   	16500	 	 	 	 	 	
+P	M2	Destin P/L                              	95	71298	W                   	8500	 	 	 	 	 	
+P	MQ	Indian River Ctg-Reliant                	95	78037	M                   	25000	 	 	 	 	 	
+P	MQ	Reliant Holopaw                         	95	78155	M                   	25000	 	 	 	 	 	
+D	"CITY OF BREWTON, ALABAMA                "	1383801	N 	FTS-WD  	118548	10/1/2015	9/30/2020	0	N	7000	 	
+A	BP ENERGY COMPANY                       	N 	 	 	 	 	 	 	 	 	 	
+P	M2	Destin P/L                              	95	71298	W                   	7000	 	 	 	 	 	
+P	MQ	GSPL Flomaton                           	95	16522	W                   	7000	 	 	 	 	 	
+D	TOWN OF JAY                             	25205980	N 	FTS-WD  	119015	2/1/2016	7/31/2020	0	N	558	 	
+A	FLORIDA GAS UTILITY                     	N 	 	 	 	 	 	 	 	 	 	
+P	M2	ANR St Landry Parish                    	95	78303	W                   	100	 	 	 	 	 	
+P	M2	GSPL St Landry                          	95	10102	W                   	12	 	 	 	 	 	
+P	M2	HPL Magnet Withers                      	95	8576	W                   	75	 	 	 	 	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	128	 	 	 	 	 	
+P	M2	Refugio-Crosstex Energy                 	95	78349	W                   	126	 	 	 	 	 	
+P	M2	SNG Franklinton (Rec)                   	95	10095	W                   	117	 	 	 	 	 	
+P	MQ	Jay                                     	95	16129	M                   	558	 	 	 	 	 	
+D	FLORIDA PUBLIC UTILITIES COMPANY        	6924427	N 	FTS-2   	120697	10/1/2017	9/30/2041	0	N	4221	 	X7
+P	M2	ANR St Landry Parish                    	95	78303	W                   	42	 	 	 	 	 	
+P	M2	GSPL St Helena                          	95	10109	W                   	168	 	 	 	 	 	
+P	M2	LRC Kaplan                              	95	16509	W                   	152	 	 	 	 	 	
+P	M2	LRC White Castle                        	95	664000	W                   	84	 	 	 	 	 	
+P	M2	NGPL Vermilion                          	95	57391	W                   	575	 	 	 	 	 	
+P	M2	Refugio-Crosstex Energy                 	95	78349	W                   	650	 	 	 	 	 	
+P	M2	Sabine Pass Plant                       	95	282	W                   	110	 	 	 	 	 	
+P	M2	TRANSCO Citronelle FGT Capacity         	95	62132	W                   	2440	 	 	 	 	 	
+P	MQ	Bonifay CTG-CUC                         	95	78112	M                   	550	 	 	 	 	 	
+P	MQ	Boynton CTG-FPU                         	95	78329	M                   	215	 	 	 	 	 	
+P	MQ	Crystal River-CUC                       	95	71453	M                   	940	 	 	 	 	 	
+P	MQ	Lecanto-CUC                             	95	78527	M                   	1414	 	 	 	 	 	
+P	MQ	Sneads CTG-CUC                          	95	78111	M                   	750	 	 	 	 	 	
+P	MQ	Trenton-CUC                             	95	71448	M                   	200	 	 	 	 	 	
+P	MQ	W Plant City CFG                        	95	78537	M                   	1414	 	 	 	 	 	
+P	MQ	Washington Co-CFG                       	95	78434	M                   	500	 	 	 	 	 	
+D	FLORIDA PUBLIC UTILITIES COMPANY        	6924427	N 	FTS-3   	120703	5/1/2017	9/30/2041	0	Y	8000	 	X7
+P	M2	Destin P/L                              	95	71298	W                   	8000	 	 	 	 	 	
+P	MQ	Bonifay CTG-CUC                         	95	78112	M                   	1200	 	 	 	 	 	
+P	MQ	Crystal River-CUC                       	95	71453	M                   	2000	 	 	 	 	 	
+P	MQ	Lecanto-CUC                             	95	78527	M                   	3000	 	 	 	 	 	
+P	MQ	Quincy-CUC                              	95	71251	M                   	1411	 	 	 	 	 	
+P	MQ	Sneads CTG-CUC                          	95	78111	M                   	500	 	 	 	 	 	
+P	MQ	Trenton-CUC                             	95	71448	M                   	350	 	 	 	 	 	
+P	MQ	W Plant City CFG                        	95	78537	M                   	8000	 	 	 	 	 	
+D	ASCEND PERFORMANCE MATERIALS INC.       	78749159	N 	FTS-WD  	120831	10/1/2017	9/30/2042	0	Y	40000	 	
+P	M2	Destin P/L                              	95	71298	W                   	40000	 	 	 	 	 	
+P	MQ	Escambia M&R-FPU                        	95	100717	W                   	40000	 	 	 	 	 	
+D	BP ENERGY COMPANY                       	625275755	N 	FTS-1   	121532	11/1/2017	11/30/2021	0	N	91	 	
+P	M2	ANR St Landry Parish                    	95	78303	W                   	41	 	 	 	 	 	
+P	M2	Tejas Calhoun Co ITE                    	95	71444	W                   	25	 	 	 	 	 	
+P	M2	TENN Carnes (Rec)                       	95	10258	W                   	25	 	 	 	 	 	
+P	MQ	Perry                                   	95	16138	M                   	91	 	 	 	 	 	
+D	City of Pensacola dba Pensacola Energy  	73131559	N 	FTS-WD  	121837	1/1/2018	9/30/2042	0	Y	28500	 	
+A	BP ENERGY COMPANY                       	N 	 	 	 	 	 	 	 	 	 	
+P	M2	Destin P/L                              	95	71298	W                   	28500	 	 	 	 	 	
+P	MQ	Escambia M&R-FPU                        	95	100717	W                   	28500	 	 	 	 	 	
+D	"INFINITE ENERGY, INC.                   "	968786749	N 	FTS-3   	121873	4/1/2018	3/31/2019	0	N	37500	 	
+P	M2	Gulfstream Hardee                       	95	78340	M                   	37500	 	 	 	 	 	
+P	MQ	SNG Suwannee                            	95	100036	M                   	37500	 	 	 	 	 	
+D	"INFINITE ENERGY, INC.                   "	968786749	N 	FTS-2   	122087	3/16/2018	4/26/2018	0	N	7500	 	
+P	M2	Gulfstream Hardee                       	95	78340	M                   	7500	 	 	 	 	 	
+P	MQ	St Regis Gas Plant-Fuel                 	95	16235	M                   	7500	 	 	 	 	 	
+F	1	Contract quantities reported here may change from season to season.	 	 	 	 	 	 	 	 	 	
+F	2	Division aggregate quantities at all points is limited to MDTQ.	 	 	 	 	 	 	 	 	 	
+F	3	Short term firms.	 	 	 	 	 	 	 	 	 	
+F	4	Shipper's contracts have been consolidated.	 	 	 	 	 	 	 	 	 	
+F	5	Shippers entitlements have been aggregated into a contract.	 	 	 	 	 	 	 	 	 	
+F	6	Seasonal contracts where current MDTQ is zero.	 	 	 	 	 	 	 	 	 	
+F	7	Total Delivery MDQs are limited to MDTQ of contract.	 	 	 	 	 	 	 	 	 	

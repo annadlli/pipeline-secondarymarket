@@ -1,0 +1,272 @@
+H	"Destin Pipeline Company, L.L.C"	C000055	4/2/2018	O	4/1/2018	F	Bryan Escobedo (346) 241-3574					
+												
+D	BP America Production Company	8966889	Y	FT-2	FT2-DES-0001	12/17/1997	12/31/2099		N	119866		
+A	BP Energy Company	Y										
+P	M2	Okeanos to Destin Logical	95	30005		119866						
+P	MQ	Gulfstream	95	20283		59933						
+P	MQ	Destin to Florida Gas	95	20281		59933						
+												
+D	BP Energy Company	625275755	Y	FT-1	FT1-DES-0008	5/1/2011	10/31/2017		N	10000		
+P	M2	Midcon to Destin	95	11298		10000						
+P	MQ	Destin to Gulfstream	95	20282		10000						
+												
+D	Calypso Exploration LLC	710845661	N	FT-2	FT2-DES-0003	12/31/2013	12/31/2099		N	13509		
+A	ConocoPhillips Company	N										
+P	M2	MC254 DELTA HOUSE	95	11286		13509						
+P	MQ	Destin to FLORIDA GAS	95	20281		13509						
+												
+D	Calypso Exploration LLC	710845661	N	FT-2	FT2-DES-0048	11/10/2016	12/31/2099		N	476		
+P	MQ	FLORIDA GAS	95	20281		476						
+P	M2	MC254 DELTA HOUSE	95	11286		476						
+												
+D	Chevron USA Inc.	9140559	N	FT-1	FT1-DES-0010	7/8/2005	10/31/2021		N	70000		
+P	M2	PETAL	95	11298		50000						
+P	M2	Midcon to Destin	95	11289		20000						
+P	MQ	CHEVRON REFINERY	95	20280		70000						
+												
+D	"Crux1, LLC"	453532882	N	FT-2	FT2-DES-0004	10/23/2014	12/31/2099		N	13419		
+A	Cokinos Energy Corporation	N										
+P	M2	MC254 DELTA HOUSE	95	11286		13419						
+P	MQ	Destin to FLORIDA GAS	95	20281		13419						
+												
+D	"Deep Gulf Energy II, LLC"	78366183	N	FT-2	FT2-DES-0005	10/3/2014	12/31/2099		N	10626		
+A	"TriNova Energy Services, Inc."	N										
+P	MQ	Destin to Florida Gas	95	20281		10626						
+P	M2	MC254 DELTA HOUSE	95	11286		10626						
+												
+D	Deep Gulf Energy III	80266429	N	FT-2	FT2-DES-0049	10/1/2016	12/31/2099		N	2970		
+A	"TriNova Energy Services, Inc."	N										
+P	M2	MC254 DELTA HOUSE	95	11286		2970						
+P	MQ	Destin to Florida Gas	95	20281		2970						
+												
+												
+D	ENI Petroleum US LLC	605981682	N	FT-2	FT2-DES-0006	2/1/2008	12/31/2099		N	516		
+A	ENI Trading & Shipping Inc	N										
+P	MQ	Destin to Florida Gas	95	20281		516						
+P	M2	Okeanos to Destin	95	30005		516						
+												
+D	"EnVen Energy Ventures, LLC"	826510765	N	FT-2	FT2-DES-0007	2/2/1998	12/31/2099		N	2338		
+P	MQ	Petal Storage to Destin	95	11298		0						
+P	M2	MP281	95	11290		2338						
+P	MQ	Destin to SNG	95	20286		47						
+P	MQ	Destin to Southern Pines Storage	95	20291		117						
+P	MQ	Destin to TGP	95	20287		0						
+P	MQ	Destin to Transco	95	20288		257						
+P	MQ	Destin to FLORIDA GAS	95	20281		935						
+P	MQ	Destin to Gulf South	95	20282		47						
+P	MQ	Destin to Gulfstream	95	20283		935						
+												
+D	ExxonMobil Corporation	1213214	N	FT-2	FT2-DES-0010	1/1/1999	12/31/2099		N	70000		
+A	Cross Timbers Energy Services	N										
+P	M2	Petal Gas Storage	95	11298		50000						
+P	M2	Midcontinent Express	95	11289		20000						
+P	MQ	Destin to Chevron	95	20280		70000						
+												
+												
+D	ExxonMobil Corporation	1213214	N	FT-2	FT2-DES-0009	3/1/2000	12/31/2099		N	0		
+A	Cross Timbers Energy Services	N										
+P	M2	VK989 Pompano MICA	95	11296		0						
+P	MQ	Destin to Transco	95	20288		0						
+P	MQ	Destin to Florida Gas	95	20281		0						
+												
+												
+D	"Anadarko US Offshore, LLC"	1768	N	FT-2	FT2-DES-0011	2/1/2013	12/31/2099		N	33990		
+P	MQ	Destin to Florida Gas	95	20281		33990						
+P	M2	VK915 MARLIN	95	11295		33990						
+												
+D	"Anadarko US Offshore, LLC"	1768	N	FT-2	FT2-DES-0012	2/1/2013	12/31/2099		N	20255		
+P	MQ	Destin to Florida Gas	95	20281		20255						
+P	M2	HORN MOUNTAIN MC127	95	220330		20255						
+												
+D	"Houston Energy Deepwater Ventures V, LLC"	876543210	N	FT-2	FT2-DES-0013	9/11/2015	12/31/2099		N	558		
+A	"Noble Energy, Inc."	N										
+P	M2	Okeanos to Destin	95	30005		558						
+P	MQ	Destin to Florida Gas	95	20281		558						
+												
+D	"Houston Energy Deepwater Ventures II, LLC"	454364701	N	FT-2	FT2-DES-0014	12/11/2014	12/31/2099		N	0		
+A	ConocoPhillips Company	N										
+P	M2	MC254 DELTA HOUSE	95	11286		0						
+P	MQ	Destin to Florida Gas	95	20281		0						
+												
+D	"Houston Energy Deepwater Ventures III, LLC"	454364933	N	FT-2	FT2-DES-0015	12/11/2014	12/31/2099		N	0		
+A	ConocoPhillips Company	N										
+P	MQ	Destin to Florida Gas	95	20281		0						
+P	M2	MC254 DELTA HOUSE	95	11286		0						
+												
+D	"Houston Energy Deepwater Ventures IV, LLC"	454365346	N	FT-2	FT2-DES-0016	12/11/2014	12/31/2099		N	0		
+A	ConocoPhillips Company	N										
+P	MQ	Destin to Florida Gas	95	20281		0						
+P	M2	MC254 DELTA HOUSE	95	11286		0						
+												
+D	"ILX Prospect Dantzler, LLC"	665554444	N	FT-2	FT2-DES-0017	9/4/2015	12/31/2099		N	800		
+A	BP Energy Company	Y										
+P	MQ	Destin to Florida Gas	95	20281		800						
+P	M2	Okeanos to Destin	95	30005		800						
+												
+D	"ILX Prospect Diller, LLC"	78745822	N	FT-2	FT2-DES-0018	8/6/2014	12/31/2099		N	793		
+A	BP Energy Company	Y										
+P	M2	MC254 DELTA HOUSE	95	11286		793						
+P	MQ	Destin to Florida Gas	95	20281		793						
+												
+D	"ILX Prospect MC79, LLC"	80138760	N	FT-2	FT2-DES-0020	3/8/2016	12/31/2099		N	0		
+A	BP Energy Company	Y										
+P	MQ	FLORIDA GAS	95	20281		0						
+P	M2	MC254 DELTA HOUSE	95	11286		0						
+												
+D	"ILX Prospect Marmalard, LLC"	78745774	N	FT-2	FT2-DES-0019	8/6/2014	12/31/2099		N	7027		
+A	BP Energy Company	Y										
+P	M2	MC254 DELTA HOUSE	95	11286		7027						
+P	MQ	Destin to Florida Gas	95	20281		7027						
+												
+D	"ILX Prospect Niedermeyer, LLC"	78746739	N	FT-2	FT2-DES-0021	8/6/2014	12/31/2099		N	2869		
+A	BP Energy Company	Y										
+P	MQ	Destin to Florida Gas	95	20281		2869						
+P	M2	MC254 DELTA HOUSE	95	11286		2869						
+												
+D	"ILX Prospect Odd Job, LLC"	80138784	N	FT-2	FT2-DES-0022	8/23/2016	12/31/2099		N	1000		
+P	M2	MC254 DELTA HOUSE	95	11286		1000						
+P	MQ	Destin to Florida Gas	95	20281		1000						
+												
+D	"LLOG Bluewater Holdings, LLC"	78743669	N	FT-2	FT2-DES-0023	5/20/2013	12/31/2099		N	48847		
+A	ConocoPhillips Company	N										
+P	MQ	Destin to Florida Gas	95	20281		48847						
+P	M2	MC254 DELTA HOUSE	95	11286		48847						
+												
+D	"LLOG Exploration Offshore, LLC"	53914094	N	FT-2	FT2-DES-0024	5/20/2013	12/31/2099		N	6811		
+A	ConocoPhillips Company	N										
+P	MQ	Destin to Florida Gas	95	20281		6811						
+P	M2	MC254 DELTA HOUSE	95	11286		6811						
+												
+D	Marubeni Oil & Gas (USA) Inc.	141411699	N	FT-2	FT2-DES-0025	1/1/2008	12/31/2099		N	248		
+A	"Mieco, Inc."	N										
+P	MQ	Destin to Florida Gas	95	20281		248						
+P	M2	Okeanos to Destin	95	30005		248						
+												
+D	Murphy Exploration & Production Company	619283229	N	FT-2	FT2-DES-0026	6/18/2008	12/31/2099		N	1300		
+P	MQ	Destin to Florida Gas	95	20281		1300						
+P	M2	Okeanos to Destin	95	30005		1300						
+												
+D	"Noble Energy, Inc."	52877586	N	FT-2	FT2-DES-0028	2/1/2012	12/31/2099		N	2743		
+P	MQ	Destin to GulfStream	95	20283		1371						
+P	MQ	Destin to Florida Gas	95	20281		1372						
+P	M2	Okeanos to Destin	95	30005		2743						
+												
+D	"Noble Energy, Inc."	52877586	N	FT-2	FT2-DES-0027	8/28/2015	12/31/2099		N	7164		
+P	M2	Okeanos to Destin	95	30005		7164						
+P	MQ	Destin to Florida Gas	95	20281		7164						
+												
+D	"Red Willow Offshore, LLC"	608480419	N	FT-2	FT2-DES-0030	12/11/2014	12/31/2099		N	21640		
+A	ConocoPhillips Company	N										
+P	M2	Okeanos to Destin	95	30005		21640						
+P	MQ	Destin to Florida Gas	95	20281		21640						
+												
+D	"Red Willow Offshore, LLC"	608480419	N	FT-2	FT2-DES-0029	9/4/2015	12/31/2099		N	555		
+P	MQ	Destin to Florida Gas	95	20281		555						
+P	M2	Okeanos to Destin	95	30005		555						
+												
+D	"Ridgewood Dantzler, LLC"	79622948	N	FT-2	FT2-DES-0031	9/4/2015	12/31/2099		N	800		
+A	BP Energy Company	Y										
+P	M2	Okeanos to Destin	95	30005		800						
+P	MQ	Destin to Florida Gas	95	20281		800						
+												
+D	"Ridgewood Energy B-1 Fund, LLC"	78740328	N	FT-2	FT2-DES-0032	8/6/2014	12/31/2099		N	579		
+A	BP Energy Company	Y										
+P	MQ	Destin to Florida Gas	95	20281		579						
+P	M2	MC254 DELTA HOUSE	95	11286		579						
+												
+D	"Ridgewood Energy Bluewater Oil Fund II, LLC"	78739761	N	FT-2	FT2-DES-0034	8/6/2014	12/31/2099		N	3186		
+A	BP Energy Company	Y										
+P	M2	MC254 DELTA HOUSE	95	11286		3186						
+P	MQ	Destin to Florida Gas	95	20281		3186						
+												
+D	"Ridgewood Energy Bluewater Oil Fund III, LLC"	78743990	N	FT-2	FT2-DES-0033	8/6/2014	12/31/2099		N	1736		CHECK
+A	BP Energy Company	Y										
+P	MQ	Destin to Florida Gas	95	20281		1736						
+P	M2	MC254 DELTA HOUSE	95	11286		1736						
+												
+D	"Ridgewood Energy Gulf of Mexico Oil & Gas Fund, LP"	78740676	N	FT-2	FT2-DES-0035	8/6/2014	12/31/2099		N	2292	CHECK	
+A	BP Energy Company	Y										
+P	M2	MC254 DELTA HOUSE	95	11286		2292						
+P	MQ	Destin to Florida Gas	95	20281		2292						
+												
+D	"Ridgewood Energy O Fund, LLC"	78739569	N	FT-2	FT2-DES-0036	8/6/2014	12/31/2099		N	579		
+A	BP Energy Company	Y										
+P	MQ	Destin to Florida Gas	95	20281		579						
+P	M2	MC254 DELTA HOUSE	95	11286		579						
+												
+D	"Ridgewood Energy U Fund, LLC"	78739630	N	FT-2	FT2-DES-0037	8/6/2014	12/31/2099		N	579		
+A	BP Energy Company	Y										
+P	M2	MC254 DELTA HOUSE	95	11286		579						
+P	MQ	Destin to Florida Gas	95	20281		579						
+												
+D	"Ridgewood Energy X Fund, LLC"	78739490	N	FT-2	FT2-DES-0038	8/6/2014	12/31/2099		N	579		
+A	BP Energy Company	Y										
+P	M2	MC254 DELTA HOUSE	95	11286		579						
+P	MQ	Destin to Florida Gas	95	20281		579						
+												
+D	"Ridgewood Energy Y Fund, LLC"	830482530	N	FT-2	FT2-DES-0039	8/6/2014	12/31/2099		N	579		
+A	BP Energy Company	Y										
+P	M2	MC254 DELTA HOUSE	95	11286		579						
+P	MQ	Destin to Florida Gas	95	20281		579						
+												
+D	"Ridgewood Energy Z Fund, LLC"	78740317	N	FT-2	FT2-DES-0040	8/6/2014	12/31/2099		N	579		
+A	BP Energy Company	Y										
+P	M2	MC254 DELTA HOUSE	95	11286		579						
+P	MQ	Destin to Florida Gas	95	20281		579						
+												
+D	"Ridgewood MC79, LLC"	80072529	N	FT-2	FT2-DES-0041	3/8/2016	12/31/2099		N	0		
+P	MQ	Destin to Florida Gas	95	20281		0						
+P	M2	MC254 DELTA HOUSE	95	11286		0						
+												
+D	"Ridgewood Odd Job, LLC"	80072972	N	FT-2	FT2-DES-0042	8/23/2016	12/31/2099		N	1000		
+P	MQ	Destin to Florida Gas	95	20281		1000						
+P	M2	MC254 DELTA HOUSE	95	11286		1000						
+												
+D	"Shell Offshore, Inc."	109003467	N	FT-2	FT2-DES-0043	12/17/1997	12/31/2099		N	35000		
+A	Shell Energy North America	N										
+P	MQ	Destin to GulfStream	95	20283		3500						
+P	M2	VK915 MARLIN	95	11295		35000						
+P	MQ	Destin to SNG	95	20286		1750						
+P	MQ	Destin to Transco	95	20288		22750						
+P	MQ	Destin to Florida Gas	95	20281		7000						
+P	M2	Okeanos to Destin	95	30005		35000						
+												
+D	"Stone Energy Offshore, LLC"	806666459	N	FT-2	FT2-DES-0044	3/1/2000	12/31/2099		N	6453		
+P	M2	VK989 Pompano MICA	95	11296		6453						
+P	MQ	Destin to Florida Gas	95	20281		3227						
+P	MQ	Destin to GulfStream	95	20283		3226						
+												
+D	"W&T Energy VI, LLC"	962621954	N	FT-2	FT2-DES-0045	9/29/2015	12/31/2099		N	3088		
+A	"W&T Offshore, Inc."	N										
+P	M2	Okeanos to Destin	95	30005		3088						
+P	MQ	Destin to Florida Gas	95	20281		3088						
+												
+D	"W&T Offshore, Inc."	114284037	N	FT-2	FT2-DES-0046	12/1/1999	12/31/2099		N	2657		
+P	MQ	Destin to Florida Gas	95	20281		2657						
+P	M2	Okeanos to Destin	95	30005		2657						
+												
+												
+D	Walter Oil & Gas	998887777	N	FT-2	FT2-DES-0047	2/2/1998	12/31/2099		N	0		
+A	Superior Natural Gas Corporation	N										
+P	MQ	Destin to Florida Gas	95	20281		0						
+P	M2	MP281	95	11290		0						
+												
+D	Beacon Offshore Energy Operating LLC	19902	N	FT-2	FT2-DES-0054	1/1/2018	12/31/2099		Y	4971	0	
+P	M2	VK915 Marlin	29	11295		4971						
+P	MQ	Destin to Florida Gas	29	20281		4971						
+												
+D	"LLOG Exploration & Production Company, L.L.C"	19888	N	FT-2	FT2-DES-0053	1/1/2018	12/31/2099		Y	1657	0	
+P	M2	VK915	Marlin	29	11295		1657					
+P	MQ	Destin to Florida Gas	29	20281	1657							
+												
+D	"LLOG Exploration Offshore, L.L.C."	1671	N	FT-2	FT2-DES-0052	1/1/2018	12/31/2099		Y	67	0	
+P	M2	VK915 Marlin	29	11295		67						
+P	MQ	Destin to Florida Gas	29	20281		67						
+												
+D	"Ridgewood Crown & Anchor, LLC"	19887	N	FT-2	FT2-DES-0051	1/1/2018	12/31/2099		Y	1803	0	
+P	M2	VK915 Marlin	29	11295		1803						
+P	MQ	Destin to Florida Gas	29	20281		1803						
+												
+D	"ILX Prospect Crown & Anchor, LLC"	19886	N	FT-2	FT2-DES-0050	1/1/2018	12/31/2099		Y	1803	0	
+P	M2	VK915 Marlin	29	11295		1803						
+P	MQ	Destin to Florida Gas	29	20281		1803						

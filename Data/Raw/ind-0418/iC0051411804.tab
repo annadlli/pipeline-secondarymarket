@@ -1,0 +1,14 @@
+H	"Sabal Trail Transmission, LLC"	C005141	4/2/2018	O	4/1/2018	T	T	LISA  A. CONNOLLY 713-627-4102				
+D	"DUKE ENERGY FLORIDA, LLC"	6923700	Y	FTS-6	850002-R1	3/17/2018	4/30/2046		Y	300000		O2
+P	MQ	"DUKE ENERGY - CITRUS COUNTY PLANT,"	95	96103	ST	300000						
+P	M2	T-85 POOL	95	98105	ST	300000						
+P	M2	GULF SOUTH SCOTT MOUNTAIN	95	98962	ST	300000						
+P	M2	MEP PINE VIEW	95	98982	ST	300000						
+D	FLORIDA POWER & LIGHT COMPANY	6922371	Y	FTS-5	850001-R1	7/11/2017	7/10/2042		Y	400000		M3/O4
+P	MQ	"FLORIDA SOUTHEAST CONNECTION (FSC),"	95	96104	ST	400000						
+P	M2	T-85 POOL	95	98105	ST	400000						
+P	M2	GULF SOUTH SCOTT MOUNTAIN	95	98962	ST	400000						
+P	M2	MEP PINE VIEW	95	98982	ST	400000						
+F	2	Varying MDQ quantities as follows: 300000 dth through 04/30/2021; 400000 dth beginning 05/01/2021										
+F	3	"The agreement is subject to termination at the end of the initial primary term on 07/10/2042 or at the end of stated additional terms on 07/10/2047, 07/10/2052."										
+F	4	Varying MDQ quantities as follows: 400000 dth through 04/30/2020; 600000 dth beginning 05/01/2020										

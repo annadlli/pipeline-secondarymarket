@@ -1,0 +1,1875 @@
+H	"SOUTHERN STAR CENTRAL GAS PIPELINE, INC."	C000374	4/2/2018	O	4/1/2018	T	T	PHILIP RULLMAN 270-852-4440			
+D	"Tenaska Gas Storage, LLC"	4303603	N	FS1	SA16938	4/1/2011	4/1/2021	0	N	0	2700000
+A	Tenaska Marketing Ventures	N									
+P	IJ	MBR-Prd Storage	95	999022	PRD	0	20250				
+P	WR	MBR-Prd Storage	95	999022	PRD	0	27000				
+D	"Tenaska Gas Storage, LLC"	4303603	N	FS1	SA26908	4/1/2018	4/1/2020	0	N	0	1300000
+A	Tenaska Marketing Ventures	N									
+P	IJ	MBR-Prd Storage	95	999022	PRD	0	9750				
+P	WR	MBR-Prd Storage	95	999022	PRD	0	13000				
+D	"City Utilities Of Springfield, Missouri"	6852255	N	FSS	SA2	10/1/1993	10/1/1998	1825	N	0	1669140
+A	"Energy Authority, Inc., The"	N									
+P	IJ	Mkt Storage	95	999021	MKT	0	12519				
+P	WR	Mkt Storage	95	999021	MKT	0	50580				
+D	"Kansas Gas Service, a division of ONE Gas, Inc."	79254828	N	FSS	SA8578	4/22/2003	4/1/2008	1825	N	0	2475000
+P	IJ	Prd Storage	95	999020	PRD	0	18563				
+P	WR	Prd Storage	95	999020	PRD	0	75000				
+D	"Laclede Gas Company, Missouri Gas Energy Division"	6967798	N	FSS	SA8250	6/15/2001	10/1/2018	0	N	0	288057
+P	IJ	Mkt Storage	95	999021	MKT	0	2160				
+P	WR	Mkt Storage	95	999021	MKT	0	8729				
+D	"Lawrence Paper Company,The"	7127558	N	FSS	SA68	10/1/1997	1/1/2020	0	N	0	9900
+P	IJ	Mkt Storage	95	999021	MKT	0	74				
+P	WR	Mkt Storage	95	999021	MKT	0	300				
+D	"Midwest Energy, Inc."	42379594	N	FSS	SA22549	4/1/2015	4/1/2019	0	N	0	50028
+P	IJ	Prd Storage	95	999020	PRD	0	375				
+P	WR	Prd Storage	95	999020	PRD	0	1516				
+D	"ONEOK Energy Services Company, L.P."	157641445	N	FSS	SA69	10/1/1997	10/1/2020	0	N	0	140184
+P	IJ	Mkt Storage	95	999021	MKT	0	1051				
+P	WR	Mkt Storage	95	999021	MKT	0	4248				
+D	Ag Processing Inc a cooperative	5275631	N	FTS-M	TA500	10/1/1993	12/1/2018	0	N	300	0
+A	BP America Production Company	N									
+A	BP Energy Company	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	300	0				
+P	MQ	Agp St Joe	95	133	MKT	300	0				
+D	Archer Daniels Midland Company	1307586	N	FTS-M	TA17980	8/1/2011	7/1/2017	1825	N	1500	0
+P	M2	Prd/Mkt Interface	95	999000	MKT	1500	0				
+P	MQ	ADM/Deerfield	95	16890	MKT	1500	0				
+D	Atmos Energy Corporation	108203241	N	FTS-P	TA22969	12/1/2015	12/1/2020	0	N	63221	0
+A	"Centerpoint Energy Services, Inc."	N									
+P	M2	DCP Mustang Plt	95	14377	PRD	3410	0				
+P	M2	DCP - Sholem	95	15857	PRD	9540	0				
+P	M2	LINN - Jayhawk	95	16289	PRD	14421	0				
+P	M2	Wamsutter - Echo Springs	95	16294	PRD	17076	0				
+P	M2	Cheyenne Plains - Sand Dune	95	16813	PRD	11000	0				
+P	M2	Superior - Hemphill	95	16820	PRD	3000	0				
+P	M2	SemGas - Rose Valley	95	17006	PRD	4774	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	63221	0				
+D	Bayer Corporation	64960248	N	FTS-M	TA573	10/1/1993	10/1/2018	0	N	400	0
+P	M2	Prd/Mkt Interface	95	999000	MKT	400	0				
+P	MQ	"Kansas City, MO"	95	13745	MKT	260	0				
+P	MQ	Overland Park	95	16952	MKT	140	0				
+D	Bayer Corporation	64960248	N	FTS-P	TA574	10/1/1993	10/1/2018	0	N	405	0
+P	M2	LINN - Jayhawk	95	16289	PRD	297	0				
+P	M2	Salt Plains Storage (Withdrawal)	95	16376	PRD	108	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	405	0				
+D	"Black Hills Power, Inc."	809024784	N	FTS-P	TA22335	10/1/2014	5/1/2022	0	N	4200	0
+A	"Black Hills Utility Holdings, Inc."	N									
+P	M2	Wamsutter - Echo Springs	95	16294	PRD	4200	0				
+P	MQ	"Cheyenne Light, Fuel and Power (CLFP)"	95	16998	PRD	4200	0				
+D	"Black Hills Utility Holdings, Inc."	809024784	N	FTS-P	TA883	8/1/1996	8/1/2017	1825	N	20000	0
+P	M2	OFS Maysville	95	7158	PRD	7000	0				
+P	M2	LINN - Jayhawk	95	16289	PRD	13000	0				
+P	MQ	Black Hills Colwich	95	16980	PRD	18345	0				
+P	MQ	Black Hills - Enterprise TB	95	62810	PRD	55	0				
+P	MQ	Norwich	95	122915	PRD	471	0				
+P	MQ	Black Hills South Wichita	95	137550	PRD	1002	0				
+P	MQ	Viola	95	176819	PRD	84	0				
+P	MQ	Haskell County Distribution Sy	95	171	PRD	43	0				
+D	"Black Hills Utility Holdings, Inc."	809024784	N	FTS-M	TA8657	4/1/2004	10/1/2016	1825	N	7900	0
+P	M2	Prd/Mkt Interface	95	999000	MKT	7900	0				
+P	MQ	Black Hills - Lawrence	95	96108	MKT	7900	0				
+D	"Black Hills Utility Holdings, Inc."	809024784	N	FTS-P	TA8657	4/1/2004	10/1/2016	1825	N	6787	0
+P	M2	OFS Maysville	95	7158	PRD	3182	0				
+P	M2	Transwestern Canadian - Rec.	95	11377	PRD	195	0				
+P	M2	DCP Mustang Plt	95	14377	PRD	296	0				
+P	M2	CIG Floris	95	15266	PRD	3114	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	6787	0				
+D	"Black Hills Utility Holdings, Inc."	809024784	N	FTS-P	TA8659	4/1/2004	10/1/2013	1825	N	1081	0
+P	M2	Wamsutter - Echo Springs	95	16294	PRD	1081	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	1081	0				
+D	Blue Mountain Midstream LLC	0	N	FTS-P	TA26736	4/1/2018	4/1/2026	0	N	45000	0
+P	M2	Blue Mountain - Chisholm Trail III	95	17067	PRD	45000	0				
+P	MQ	NGPL Carter	95	17069	PRD	45000	0				
+D	BP Energy Company	625275755	N	FTS-P	TA21082	4/1/2014	11/1/2018	0	Y	82136	0
+P	M2	DCP - Cimarron Plant	95	15253	PRD	10000	0				
+P	M2	ETC Field Services Hemphill	95	16621	PRD	20000	0				
+P	M2	ETC Field Services Antelope	95	16945	PRD	52136	0				
+P	MQ	Transwestern Canadian - Del.	95	168112	PRD	82136	0				
+D	Centerpoint Energy Resources Corp dba Centerpoint Energy Oklahoma Gas	46700779	N	FTS-P	TA1008	9/1/1998	9/1/2018	0	N	159	0
+P	M2	OkTex Marsh Interconnect	95	11435	PRD	159	0				
+P	MQ	Arkla Woodward Co. Delivery	95	162	PRD	159	0				
+D	"Centerpoint Energy Services, Inc."	838611739	N	FTS-P	TA26996	4/1/2018	5/1/2018	0	N	15000	0
+P	M2	Cheyenne Plains - Sand Dune	95	16813	PRD	15000	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	15000	0				
+D	"Chesapeake Energy Marketing, LLC"	809849326	N	FTS-P	TA22138	1/1/2015	1/1/2025	0	Y	150000	0
+P	M2	SemGas - Rose Valley	95	17006	PRD	150000	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	75000	0				
+P	MQ	NGPL Beaver	95	17004	PRD	75000	0				
+D	"Cheyenne Light, Fuel & Power"	6915144	N	FTS-P	TA20687	10/1/2014	5/1/2022	0	N	5800	0
+A	"Black Hills Utility Holdings, Inc."	N									
+P	M2	Wamsutter - Echo Springs	95	16294	PRD	5800	0				
+P	MQ	"Cheyenne Light, Fuel and Power (CLFP)"	95	16998	PRD	5800	0				
+D	City of Independence	76259456	N	FTS-M	TA18855	4/6/2012	11/1/2018	0	N	4305	0
+P	M2	TIGT Sugar Creek	95	16592	MKT	4305	0				
+P	MQ	Dogwood Energy Power Plant	95	189	MKT	4305	0				
+D	"City of Wheaton, MO"	130023380	N	FTS-M	TA976	1/1/1998	1/1/2010	1825	N	450	0
+A	Constellation NewEnergy - Gas Division LLC	N									
+A	JS Energy Services	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	450	0				
+P	MQ	Monett	95	17454	MKT	450	0				
+D	"City of Wheaton, MO"	130023380	N	FTS-P	TA976	1/1/1998	1/1/2010	1825	N	458	0
+A	JS Energy Services	N									
+A	Constellation NewEnergy - Gas Division LLC	N									
+P	M2	ETC Field Services Beaver	95	16453	PRD	458	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	458	0				
+D	"City Utilities Of Springfield, Missouri"	6852255	N	FTS-M	TA519	10/1/1993	6/1/2015	1825	N	65000	0
+A	"Energy Authority, Inc., The"	N									
+P	M2	EGT Jane - Receipt	95	10997	MKT	40000	0				
+P	M2	Prd/Mkt Interface	95	999000	MKT	17519	0				
+P	M2	Mkt Storage	95	999021	MKT	7481	0				
+P	MQ	Springfield	95	42915	MKT	65000	0				
+D	"City Utilities Of Springfield, Missouri"	6852255	N	FTS-P	TA520	10/1/1993	10/1/2018	0	N	6588	0
+A	"Energy Authority, Inc., The"	N									
+P	M2	State Line Pld	95	13735	PRD	79	0				
+P	M2	Wamsutter - Echo Springs	95	16294	PRD	6509	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	6588	0				
+D	"City Utilities Of Springfield, Missouri"	6852255	N	FTS-P	TA526	10/1/1993	6/1/2015	1825	N	4833	0
+A	"Energy Authority, Inc., The"	N									
+P	M2	OFS Maysville	95	7158	PRD	1833	0				
+P	M2	Superior - Hemphill	95	16820	PRD	3000	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	4833	0				
+D	"City Utilities Of Springfield, Missouri"	6852255	N	FTS-M	TA803	10/1/1994	4/1/2013	1825	N	10000	0
+A	"Energy Authority, Inc., The"	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	10000	0				
+P	MQ	Springfield	95	42915	MKT	10000	0				
+D	"City Utilities Of Springfield, Missouri"	6852255	N	FTS-M	TA894	11/1/1996	6/1/2015	1825	N	17813	0
+A	"Energy Authority, Inc., The"	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	17813	0				
+P	MQ	Springfield	95	42915	MKT	17813	0				
+D	"CNE Gas Supply, LLC"	829868921	N	FTS-M	TA14951	7/1/2009	11/1/2024	0	N	580	0
+P	M2	Prd/Mkt Interface	95	999000	MKT	580	0				
+P	MQ	Aurora	95	17408	MKT	80	0				
+P	MQ	Monett	95	17454	MKT	300	0				
+P	MQ	Mt Vernon & Verona	95	17456	MKT	200	0				
+D	"CNE Gas Supply, LLC"	829868921	N	FTS-M	TA23829	11/1/2015	4/1/2019	0	N	600	0
+P	M2	Prd/Mkt Interface	95	999000	MKT	600	0				
+P	MQ	Nevada	95	113856	MKT	600	0				
+D	"Coffeyville Resources Refining & Marketing, LLC"	142405666	N	FTS-M	TA23098	11/1/2015	4/1/2021	0	N	5000	0
+A	"Energy Support Providers, Llc"	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	5000	0				
+P	MQ	Coffeyville Resources	95	17036	MKT	5000	0				
+D	Commissioners Of The Land Office Of Ok	933349508	N	FTS-M	TA17240	2/1/2011	2/1/2019	0	N	100	0
+A	"Centerpoint Energy Services, Inc."	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	100	0				
+P	MQ	Vinita	95	2101	MKT	100	0				
+D	Commissioners Of The Land Office Of Ok	933349508	N	FTS-P	TA17240	2/1/2011	2/1/2019	0	N	101	0
+A	"Centerpoint Energy Services, Inc."	N									
+P	M2	OFS Maysville	95	7158	PRD	101	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	101	0				
+D	"Conexus Energy, LLC"	80120548	N	FTS-P	TA26992	4/1/2018	4/3/2018	0	N	4792	0
+P	M2	Cheyenne Plains - Sand Dune	95	16813	PRD	4792	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	4792	0				
+D	"Conexus Energy, LLC"	80120548	N	FTS-P	TA26995	4/1/2018	5/1/2018	0	N	10152	0
+P	M2	Cheyenne Plains - Sand Dune	95	16813	PRD	10152	0				
+P	MQ	OGT Mutual	95	33	PRD	10152	0				
+D	ConocoPhillips Company	1368265	N	FTS-P	TA13737	11/1/2008	5/1/2018	0	N	200	0
+P	M2	Superior - Cashion	95	16857	PRD	200	0				
+P	MQ	Bartlesville & Dewey	95	2009	PRD	200	0				
+D	"DCP Midstream, LP"	3048753	N	FTS-P	TA17850	1/1/2012	1/1/2019	0	N	850	0
+A	"DCP Midstream Marketing, LLC"	N									
+P	M2	DCP Mustang Plt	95	14377	PRD	850	0				
+P	MQ	DCP Carney	95	180	PRD	625	0				
+P	MQ	DCP NW Booster	95	181	PRD	225	0				
+D	Dennis Langley	25112181	N	FTS-M	TA8293	9/1/2001	9/1/2011	1825	N	20	0
+A	"Centerpoint Energy Services, Inc."	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	20	0				
+P	MQ	Dennis Langley	95	186	MKT	20	0				
+D	Dennis Langley	25112181	N	FTS-P	TA8293	9/1/2001	9/1/2011	1825	N	20	0
+A	"Centerpoint Energy Services, Inc."	N									
+P	M2	CIG Floris	95	15266	PRD	20	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	20	0				
+D	"Devlar Energy Marketing, LLC"	196394956	N	FTS-P	TA13105	2/1/2009	4/1/2059	0	N	1200	0
+P	M2	Wamsutter - Echo Springs	95	16294	PRD	1200	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	1200	0				
+D	"Dogwood Energy, LLC"	790967405	N	FTS-M	TA15421	11/1/2009	11/1/2018	0	N	14735	0
+A	"Westar Energy, Inc."	N									
+P	M2	TIGT Sugar Creek	95	16592	MKT	14735	0				
+P	MQ	Dogwood Energy Power Plant	95	189	MKT	14735	0				
+D	"Downstream Casino Authority, Downtown Development Ath.of the Quapaw Tribe of OK"	0	N	FTS-M	TA12892	5/1/2008	5/1/2018	0	N	1160	0
+A	"Tiger Natural Gas, Inc."	N									
+P	M2	EGT Jane - Receipt	95	10997	MKT	1160	0				
+P	MQ	Downstream Casino	95	16917	MKT	1160	0				
+D	"East Kansas Agri-Energy, LLC"	126781173	N	FTS-M	TA9806	11/1/2005	11/1/2018	0	N	2900	0
+A	"U.S. Energy Services, Inc."	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	2900	0				
+P	MQ	EKAE Ethanol Plant	95	16837	MKT	2900	0				
+D	"Empire District Electric Company, The"	6965305	N	FTS-M	TA8385	9/1/2004	9/1/2019	0	N	35000	0
+P	M2	Prd/Mkt Interface	95	999000	MKT	35000	0				
+P	MQ	Empire Riverton	95	378501	MKT	35000	0				
+D	"Empire District Electric Company, The"	6965305	N	FTS-P	TA16259	10/1/2010	9/1/2019	0	N	24480	0
+P	M2	DCP - Sholem	95	15857	PRD	10000	0				
+P	M2	ETC Field Services Hemphill	95	16621	PRD	14480	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	24480	0				
+D	"Empire District Electric Company, The"	6965305	N	FTS-P	TA22488	4/1/2016	11/1/2022	0	N	50968	0
+P	M2	OFS Maysville	95	7158	PRD	14628	0				
+P	M2	Transwestern Canadian - Rec.	95	11377	PRD	4329	0				
+P	M2	EOIT McClain	95	15142	PRD	9797	0				
+P	M2	DCP - Cimarron Plant	95	15253	PRD	1387	0				
+P	M2	OFS Stateline	95	15300	PRD	5909	0				
+P	M2	DCP - Sholem	95	15857	PRD	4876	0				
+P	M2	Cheney Dell Plant	95	16524	PRD	1970	0				
+P	M2	Oneok Westex Hemphill	95	16584	PRD	788	0				
+P	M2	ETC Field Services Canadian	95	16620	PRD	1764	0				
+P	M2	ETC Field Services Hemphill	95	16621	PRD	5520	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	50968	0				
+D	"Empire District Electric Company, The"	6965305	N	FTS-M	TA22489	4/1/2016	11/1/2022	0	N	50280	0
+P	M2	Prd/Mkt Interface	95	999000	MKT	50280	0				
+P	MQ	Empire Stateline North	95	378504	MKT	50280	0				
+D	"Empire District Gas Company, The"	625371880	N	FTS-M	TA553	10/1/1993	11/1/2018	0	N	11109	0
+A	"Energy Support Providers, Llc"	N									
+P	M2	River Rock - Fireside	95	16757	MKT	3000	0				
+P	M2	Prd/Mkt Interface	95	999000	MKT	8109	0				
+P	MQ	Clinton & Leeton	95	113812	MKT	1439	0				
+P	MQ	Marshall	95	113852	MKT	291	0				
+P	MQ	Nevada	95	113856	MKT	486	0				
+P	MQ	Platte City	95	113864	MKT	2564	0				
+P	MQ	Lexington-Richmond-Henrietta	95	113872	MKT	1676	0				
+P	MQ	Sedalia	95	113876	MKT	4310	0				
+P	MQ	Tracy	95	113880	MKT	90	0				
+P	MQ	Weston	95	113892	MKT	253	0				
+D	"Empire District Gas Company, The"	625371880	N	FTS-P	TA553	10/1/1993	11/1/2018	0	N	10651	0
+A	"Energy Support Providers, Llc"	N									
+P	M2	Cheyenne Plains - Sand Dune	95	16813	PRD	9459	0				
+P	M2	Wamsutter - Echo Springs	95	16294	PRD	1192	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	10651	0				
+D	"ENVIA Energy Oklahoma City, LLC"	80333014	N	FTS-P	TA23936	12/15/2015	12/15/2035	0	N	2900	0
+A	Mansfield Power and Gas LLC	N									
+P	M2	Superior - Bellmon	95	16981	PRD	2900	0				
+P	MQ	"ENVIA Energy Oklahoma City, LLC"	95	17034	PRD	2900	0				
+D	Evonik Jayhawk Fine Chemicals Corporation	3161668	N	FTS-M	TA1060	11/1/2000	11/1/2018	0	N	700	0
+A	"Encore Energy Services, Inc."	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	700	0				
+P	MQ	Jayhawk Chemical Plant	95	545801	MKT	700	0				
+D	Excel Corporation	71374854	N	FTS-P	TA889	10/1/1996	11/1/2019	0	N	3800	0
+A	"Cargill, Incorporated"	N									
+P	M2	LINN - Jayhawk	95	16289	PRD	800	0				
+P	M2	Wamsutter - Echo Springs	95	16294	PRD	3000	0				
+P	MQ	Excel Dodge City Plant	95	149	PRD	3800	0				
+D	Ford Motor Company	1344746	N	FTS-M	TA7198	9/1/2004	7/1/2018	0	N	3700	0
+A	ConocoPhillips Company	N									
+A	"Total Utility Management Services, L.L.C."	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	3700	0				
+P	MQ	"Kansas City, MO"	95	13745	MKT	3700	0				
+D	Ford Motor Company	1344746	N	FTS-P	TA7198	9/1/2004	7/1/2018	0	N	3743	0
+A	"Total Utility Management Services, L.L.C."	N									
+A	ConocoPhillips Company	N									
+P	M2	Transwestern Canadian - Rec.	95	11377	PRD	3743	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	3743	0				
+D	"Fort Cobb Oklahoma Irrigation Fuel Authority, L.L.C."	601281132	N	FTS-M	TA566	10/1/1993	10/1/2018	0	N	425	0
+A	"Clearwater Enterprises, L.L.C."	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	425	0				
+P	MQ	Lenapah	95	103101	MKT	425	0				
+D	"Fort Cobb Oklahoma Irrigation Fuel Authority, L.L.C."	601281132	N	FTS-P	TA566	10/1/1993	10/1/2018	0	N	1205	0
+A	"Clearwater Enterprises, L.L.C."	N									
+P	M2	OkTex Marsh Interconnect	95	11435	PRD	605	0				
+P	M2	LINN - Jayhawk	95	16289	PRD	600	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	430	0				
+P	MQ	Ochelata	95	108119	PRD	175	0				
+P	MQ	Washington	95	108221	PRD	325	0				
+P	MQ	"Webb City, OK TB"	95	113612	PRD	125	0				
+P	MQ	Osage City Ok	95	113713	PRD	75	0				
+P	MQ	Mulhall	95	118321	PRD	50	0				
+P	MQ	Leann Bowring Pld	95	22	PRD	25	0				
+D	General Motors LLC	5356613	N	FTS-M	TA539	10/1/1993	11/1/2018	0	N	3750	0
+A	ConocoPhillips Company	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	3750	0				
+P	MQ	"Kansas City, Kansas"	95	13644	MKT	3750	0				
+D	General Motors LLC	5356613	N	FTS-P	TA539	10/1/1993	11/1/2018	0	N	3784	0
+A	ConocoPhillips Company	N									
+P	M2	LINN - Jayhawk	95	16289	PRD	3784	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	3784	0				
+D	Grove Municipal Services Authority	184548741	N	FTS-M	TA547	10/1/1993	10/1/2013	1825	N	1720	0
+A	Constellation NewEnergy - Gas Division LLC	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	1720	0				
+P	MQ	Afton-Fairland-Grove-Jay	95	122715	MKT	1720	0				
+D	Grove Municipal Services Authority	184548741	N	FTS-P	TA547	10/1/1993	10/1/2013	1825	N	1749	0
+A	Constellation NewEnergy - Gas Division LLC	N									
+P	M2	Oneok Westex Hemphill	95	16584	PRD	1749	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	1749	0				
+D	"International Dehydrated Foods, Inc"	48571923	N	FTS-M	TA13115	7/1/2008	7/1/2018	0	N	500	0
+P	M2	Prd/Mkt Interface	95	999000	MKT	500	0				
+P	MQ	Monett	95	17454	MKT	500	0				
+D	Kansas City Board Of Public Utilities	7169584	N	FTS-M	TA19875	12/18/2012	11/1/2018	0	N	5950	0
+P	M2	TIGT Sugar Creek	95	16592	MKT	5950	0				
+P	MQ	Dogwood Energy Power Plant	95	189	MKT	5950	0				
+D	Kansas City Power And Light Company	6965842	N	FTS-M	TA897	8/12/1997	1/1/2020	0	N	40000	0
+P	M2	TIGT Sugar Creek	95	16592	MKT	25000	0				
+P	M2	Prd/Mkt Interface	95	999000	MKT	15000	0				
+P	MQ	Hawthorn Power Plant	95	148	MKT	40000	0				
+D	Kansas City Power And Light Company	6965842	N	FTS-P	TA14955	11/1/2009	1/1/2020	0	N	15255	0
+P	M2	CIG Floris	95	15266	PRD	7500	0				
+P	M2	Cheyenne Plains - Sand Dune	95	16813	PRD	7755	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	7500	0				
+P	MQ	Rawlins-Hesston P/M Interface	95	999001	PRD	7755	0				
+D	"Kansas Ethanol, LLC"	783311256	N	FTS-P	TA12019	4/1/2008	4/1/2019	0	N	3000	0
+A	"Fidelis Energy Group, LLC"	N									
+P	M2	Wamsutter - Echo Springs	95	16294	PRD	2000	0				
+P	M2	Cheyenne Plains - Sand Dune	95	16813	PRD	1000	0				
+P	MQ	"Kansas Ethanol, LLC"	95	16916	PRD	3000	0				
+D	"Kansas Gas Service, a division of ONE Gas, Inc."	79254828	N	FTS-M	TA627	10/1/1993	6/1/2010	1825	N	8156	0
+P	M2	Prd/Mkt Interface	95	999000	MKT	8156	0				
+P	MQ	"Kansas City, Kansas"	95	13644	MKT	599	0				
+P	MQ	Overland Park	95	16952	MKT	3503	0				
+P	MQ	Parsons	95	20764	MKT	206	0				
+P	MQ	Topeka	95	24280	MKT	2669	0				
+P	MQ	Atchison	95	29001	MKT	197	0				
+P	MQ	Emporia	95	29002	MKT	283	0				
+P	MQ	Leavenworth	95	29003	MKT	376	0				
+P	MQ	Arma-Girard-Pittsburg	95	206	MKT	323	0				
+D	"Kansas Gas Service, a division of ONE Gas, Inc."	79254828	N	FTS-P	TA627	10/1/1993	6/1/2010	1825	N	9689	0
+P	M2	Wamsutter - Echo Springs	95	16294	PRD	9689	0				
+P	MQ	Newton	95	18356	PRD	224	0				
+P	MQ	Derby	95	27035	PRD	113	0				
+P	MQ	Wichita	95	27092	PRD	881	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	8248	0				
+P	MQ	Wellington	95	590	PRD	130	0				
+P	MQ	Augusta & Leon	95	6706	PRD	93	0				
+D	"Kansas Gas Service, a division of ONE Gas, Inc."	79254828	N	FTS-P	TA629	10/1/1993	10/1/1998	1825	N	6450	0
+P	M2	Wamsutter - Echo Springs	95	16294	PRD	6450	0				
+P	MQ	KGS Kansas Star Casino	95	16977	PRD	159	0				
+P	MQ	Rose Hill	95	27065	PRD	278	0				
+P	MQ	Udall	95	27080	PRD	11	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	4103	0				
+P	MQ	El Dorado Rural	95	118	PRD	16	0				
+P	MQ	Kiowa	95	530	PRD	99	0				
+P	MQ	Wellington	95	590	PRD	400	0				
+P	MQ	Alden	95	3504	PRD	99	0				
+P	MQ	Chase	95	3512	PRD	46	0				
+P	MQ	Augusta & Leon	95	6706	PRD	1167	0				
+P	MQ	Douglas	95	6722	PRD	72	0				
+D	"Kansas Gas Service, a division of ONE Gas, Inc."	79254828	N	FTS-M	TA632	10/1/1993	10/1/1997	1825	N	15041	0
+P	M2	TIGT Glavin	95	16593	MKT	4000	0				
+P	M2	Prd/Mkt Interface	95	999000	MKT	11041	0				
+P	MQ	Merriam	95	16953	MKT	15041	0				
+D	"Kansas Gas Service, a division of ONE Gas, Inc."	79254828	N	FTS-P	TA8577	4/22/2003	4/1/2023	0	N	75000	0
+P	M2	Prd Storage	95	999020	PRD	75000	0				
+P	MQ	KGST Alden Interconnect	95	208	PRD	75000	0				
+D	"Kansas Gas Service, a division of ONE Gas, Inc."	79254828	N	FTS-M	TA8586	9/1/2004	9/1/2019	0	N	3000	0
+P	M2	Prd/Mkt Interface	95	999000	MKT	3000	0				
+P	MQ	Arma-Girard-Pittsburg	95	206	MKT	2200	0				
+P	MQ	Baxter Springs	95	21008	MKT	100	0				
+P	MQ	Columbus	95	21015	MKT	400	0				
+P	MQ	Galena & Empire City	95	21024	MKT	300	0				
+D	"Kansas Gas Service, a division of ONE Gas, Inc."	79254828	N	FTS-P	TA13280	12/1/2008	12/1/2022	0	N	39100	0
+P	M2	LINN - Jayhawk	95	16289	PRD	11500	0				
+P	M2	Targa - Waynoka	95	16912	PRD	27600	0				
+P	MQ	Bentley	95	27020	PRD	70	0				
+P	MQ	Derby	95	27035	PRD	1002	0				
+P	MQ	Haysville	95	27050	PRD	12	0				
+P	MQ	Valley Center	95	27085	PRD	385	0				
+P	MQ	Wichita	95	27092	PRD	30283	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	7242	0				
+P	MQ	Clearwater	95	510	PRD	38	0				
+P	MQ	Ks Prd Domestics	95	610	PRD	68	0				
+D	Kansas Industrial Energy Supply Company	194290110	N	FTS-P	TA13693	11/1/2008	11/1/2020	0	N	8000	0
+A	Constellation NewEnergy - Gas Division LLC	N									
+P	M2	Cheyenne Plains - Sand Dune	95	16813	PRD	5000	0				
+P	M2	Targa - Waynoka	95	16912	PRD	3000	0				
+P	MQ	Black Hills Colwich	95	16980	PRD	460	0				
+P	MQ	Wichita	95	27092	PRD	580	0				
+P	MQ	Beech Aircraft Plant	95	243501	PRD	1450	0				
+P	MQ	Boeing No 2 Plant	95	266001	PRD	5050	0				
+P	MQ	Cessna E-Beech Aircraft-Rock R	95	193	PRD	460	0				
+D	KMEA - Kansas Municipal Energy Agency	0	N	FTS-M	TA27004	3/31/2018	11/1/2018	0	N	3535	0
+P	M2	TIGT Sugar Creek	95	16592	MKT	3535	0				
+P	MQ	Dogwood Energy Power Plant	95	189	MKT	3535	0				
+D	"Koch Fertilizer Enid, LLC"	142981278	N	FTS-P	TA26065	11/1/2017	11/1/2020	0	N	55000	0
+P	M2	"Mustang Gas Products, LLC"	95	16955	PRD	12000	0				
+P	M2	Superior - Bellmon	95	16981	PRD	36000	0				
+P	M2	ETC Field Services Crescent	95	16999	PRD	7000	0				
+P	MQ	Koch - Enid	95	17064	PRD	55000	0				
+D	Laclede Gas Company	6967798	N	FTS-M	TA7620	6/1/2005	10/1/2020	0	N	30300	0
+P	M2	Prd/Mkt Interface	95	999000	MKT	30300	0				
+P	MQ	Laclede	95	120000	MKT	30300	0				
+D	Laclede Gas Company	6967798	N	FTS-P	TA7620	6/1/2005	10/1/2020	0	N	30502	0
+P	M2	OFS Maysville	95	7158	PRD	8000	0				
+P	M2	Transwestern Canadian - Rec.	95	11377	PRD	5487	0				
+P	M2	EOIT Noble	95	15011	PRD	3000	0				
+P	M2	Salt Plains Storage (Withdrawal)	95	16376	PRD	7000	0				
+P	M2	ETC Field Services Canadian	95	16620	PRD	2015	0				
+P	M2	Semgas Group LLC	95	16855	PRD	5000	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	30502	0				
+D	"Laclede Gas Company, Missouri Gas Energy Division"	6967798	N	FTS-P	TA954	11/1/1997	11/1/2017	1825	N	30000	0
+P	M2	Wamsutter - Echo Springs	95	16294	PRD	30000	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	30000	0				
+D	"Laclede Gas Company, Missouri Gas Energy Division"	6967798	N	FTS-M	TA955	2/1/1998	2/1/2018	1825	N	10000	0
+P	M2	Prd/Mkt Interface	95	999000	MKT	10000	0				
+P	MQ	EGT Jane - Delivery	95	37175	MKT	10000	0				
+D	"Laclede Gas Company, Missouri Gas Energy Division"	6967798	N	FTS-P	TA8664	10/1/2003	10/1/2013	1825	N	12561	0
+P	M2	Wamsutter - Echo Springs	95	16294	PRD	12561	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	12561	0				
+D	"Laclede Gas Company, Missouri Gas Energy Division"	6967798	N	FTS-P	TA9644	10/1/2005	10/1/2036	0	N	20085	0
+P	M2	Wamsutter - Echo Springs	95	16294	PRD	5414	0				
+P	M2	Escalera - Cow Creek	95	16850	PRD	14671	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	20085	0				
+D	"Laclede Gas Company, Missouri Gas Energy Division"	6967798	N	FTS-M	TA10761	12/20/2006	12/20/2026	0	N	19562	0
+P	M2	Prd/Mkt Interface	95	999000	MKT	19562	0				
+P	MQ	MGE Crenshaw Road	95	16875	MKT	14642	0				
+P	MQ	"Ash Grove, Walnut Grove & Wil"	95	17406	MKT	2369	0				
+P	MQ	Republic	95	17472	MKT	2551	0				
+D	"Laclede Gas Company, Missouri Gas Energy Division"	6967798	N	FTS-P	TA10993	12/20/2006	12/20/2026	0	N	19749	0
+P	M2	LINN - Jayhawk	95	16289	PRD	19749	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	19749	0				
+D	"Laclede Gas Company, Missouri Gas Energy Division"	6967798	N	FTS-P	TA21780	4/1/2014	4/1/2017	1825	N	7304	0
+P	M2	EOIT Noble	95	15011	PRD	3500	0				
+P	M2	Oneok Westex Hemphill	95	16584	PRD	3804	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	7304	0				
+D	"Lawrence Paper Company,The"	7127558	N	FTS-M	TA565	10/1/1993	1/1/2020	0	N	263	0
+P	M2	Prd/Mkt Interface	95	999000	MKT	263	0				
+P	MQ	Perry	95	19664	MKT	3	0				
+P	MQ	Lawrence Paper	95	101	MKT	260	0				
+D	"Lawrence Paper Company,The"	7127558	N	FTS-P	TA565	10/1/1993	1/1/2020	0	N	263	0
+P	M2	Wamsutter - Echo Springs	95	16294	PRD	263	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	263	0				
+D	"LINN Operating, LLC"	807819573	N	FTS-P	TA19296	9/1/2012	9/1/2018	0	N	1100	0
+P	M2	LINN - Jayhawk	95	16289	PRD	1100	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	1100	0				
+D	"LINN Operating, LLC"	807819573	N	FTS-P	TA24888	12/9/2016	1/1/2020	0	Y	20000	0
+P	M2	LINN - Satanta	95	15433	PRD	20000	0				
+P	MQ	LINN Jayhawk Delivery	95	19000	PRD	20000	0				
+D	Macquarie Energy LLC	798846036	N	FTS-P	TA26997	4/1/2018	4/3/2018	0	N	25000	0
+P	M2	LINN - Jayhawk	95	16289	PRD	16400	0				
+P	M2	Wamsutter - Echo Springs	95	16294	PRD	8600	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	25000	0				
+D	Mid Kansas Electric Company LLC	605358170	N	FTS-P	TA24247	2/1/2016	3/1/2019	0	N	2000	0
+A	"ACES Power Marketing, LLC"	N									
+P	M2	LINN - Jayhawk	95	16289	PRD	2000	0				
+P	MQ	Mid-Kansas Electric Rubart Power Plant	95	17003	PRD	2000	0				
+D	"Midwest Energy, Inc."	42379594	N	FTS-P	TA1051	10/1/2000	10/1/2021	0	N	11000	0
+P	M2	CIG Floris	95	15266	PRD	4000	0				
+P	M2	LINN - Jayhawk	95	16289	PRD	7000	0				
+P	MQ	Copeland	95	97112	PRD	2000	0				
+P	MQ	Midwest Energy - Wakeeny And T	95	174	PRD	9000	0				
+D	"Midwest Energy, Inc."	42379594	N	FTS-P	TA12284	3/1/2008	3/1/2028	0	N	10000	0
+P	M2	LINN - Jayhawk	95	16289	PRD	10000	0				
+P	MQ	Midwest Energy - Goodman	95	16931	PRD	10000	0				
+D	Miracle Recreation Equipment Company	61323358	N	FTS-M	TA1064	11/1/2000	11/1/2010	1825	N	500	0
+A	Constellation NewEnergy - Gas Division LLC	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	500	0				
+P	MQ	Monett	95	17454	MKT	500	0				
+D	Miracle Recreation Equipment Company	61323358	N	FTS-P	TA1064	11/1/2000	11/1/2010	1825	N	505	0
+A	Constellation NewEnergy - Gas Division LLC	N									
+P	M2	Transwestern Canadian - Rec.	95	11377	PRD	505	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	505	0				
+D	Missouri Joint Municipal Electric Utility Commission	625204854	N	FTS-M	TA18839	3/30/2012	11/1/2018	0	N	2870	0
+P	M2	TIGT Sugar Creek	95	16592	MKT	2870	0				
+P	MQ	Dogwood Energy Power Plant	95	189	MKT	2870	0				
+D	"Occidental Energy Marketing, Inc."	52298721	N	FTS-P	TA24385	4/1/2016	4/1/2019	0	N	7500	0
+P	M2	LINN - Jayhawk	95	16289	PRD	7500	0				
+P	MQ	Basic Chemical	95	83	PRD	7500	0				
+D	Oklahoma Municipal Power Authority	148268782	N	FTS-P	TA22125	5/1/2015	5/1/2025	0	N	6217	0
+P	M2	LINN - Jayhawk	95	16289	PRD	6217	0				
+P	MQ	OMPA Lamb	95	17008	PRD	6217	0				
+D	"Oklahoma Natural Gas Company, a division of ONE Gas, Inc."	77349132	N	FTS-P	TA17239	3/1/2011	3/1/2021	0	N	11000	0
+P	M2	OFS Maysville	95	7158	PRD	11000	0				
+P	MQ	ONG Norman	95	16972	PRD	11000	0				
+D	"Oklahoma Natural Gas Company, a division of ONE Gas, Inc."	77349132	N	FTS-P	TA23929	3/1/2016	3/1/2021	0	N	50000	0
+P	M2	OFS Maysville	95	7158	PRD	10000	0				
+P	M2	DCP Mustang Plt	95	14377	PRD	10000	0				
+P	M2	Velma Gas Plant	95	15430	PRD	30000	0				
+P	MQ	ONG NW Oklahoma City	95	17052	PRD	50000	0				
+D	"Owens Corning Sales, LLC"	1317452	N	FTS-M	TA20639	7/1/2013	7/1/2018	0	N	3300	0
+A	"Summit Energy Services, Inc"	N									
+A	"Centerpoint Energy Services, Inc."	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	3300	0				
+P	MQ	"Kansas City, Kansas"	95	13644	MKT	3300	0				
+D	"PCS Nitrogen Fertilizer, LP"	858404015	N	FTS-M	TA8430	5/1/2002	5/1/2018	0	N	300	0
+P	M2	EGT Jane - Receipt	95	10997	MKT	300	0				
+P	MQ	PCS Phosphate	95	387001	MKT	300	0				
+D	QEP Energy Company	46934568	N	FTS-P	TA615	10/1/1993	11/1/2028	0	N	5000	0
+P	M2	Escalera - Cow Creek	95	16850	PRD	5000	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	5000	0				
+D	"Show Me Ethanol, LLC"	623555724	N	FTS-M	TA12194	2/1/2008	4/1/2019	0	N	5100	0
+A	"U.S. Energy Services, Inc."	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	5100	0				
+P	MQ	Show Me Ethanol	95	16918	MKT	5100	0				
+D	"Southwest Energy, LP"	124847810	N	FTS-P	TA26782	4/1/2018	4/1/2019	0	N	3500	0
+P	M2	LINN - Jayhawk	95	16289	PRD	3500	0				
+P	MQ	ONEOK Hutchinson Frac Plt	95	709501	PRD	3500	0				
+D	"Summit Natural Gas of Missouri, Inc."	177053308	N	FTS-M	TA797	10/1/1994	4/1/2015	1825	N	10100	0
+A	"Summit Utilities, Inc."	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	10100	0				
+P	MQ	Summit Rogersville	95	142	MKT	10100	0				
+D	"Summit Natural Gas of Missouri, Inc."	177053308	N	FTS-P	TA814	11/1/1995	7/1/2015	1825	N	10000	0
+A	"Summit Utilities, Inc."	N									
+P	M2	OFS Maysville	95	7158	PRD	6000	0				
+P	M2	OkTex Marsh Interconnect	95	11435	PRD	1000	0				
+P	M2	DCP - Kingfisher	95	12723	PRD	500	0				
+P	M2	DCP Mustang Plt	95	14377	PRD	500	0				
+P	M2	Salt Plains Storage (Withdrawal)	95	16376	PRD	2000	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	10000	0				
+D	"Summit Natural Gas of Missouri, Inc."	177053308	N	FTS-M	TA10757	12/1/2006	12/1/2026	0	N	5000	0
+A	"Summit Utilities, Inc."	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	2000	0				
+P	M2	MBR-Mkt Storage	95	999023	MKT	3000	0				
+P	MQ	Summit Rogersville	95	142	MKT	5000	0				
+D	"Summit Natural Gas of Missouri, Inc."	177053308	N	FTS-M	TA15443	11/1/2009	11/1/2019	0	N	2400	0
+A	"Summit Utilities, Inc."	N									
+P	M2	TIGT Sugar Creek	95	16592	MKT	2400	0				
+P	MQ	Summit Sedalia	95	16962	MKT	2400	0				
+D	"Summit Natural Gas of Missouri, Inc."	177053308	N	FTS-M	TA16345	1/1/2011	11/1/2020	0	N	5000	0
+A	"Summit Utilities, Inc."	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	5000	0				
+P	MQ	Summit Branson	95	16949	MKT	5000	0				
+D	"Summit Natural Gas of Missouri, Inc."	177053308	N	FTS-M	TA20684	11/1/2013	11/1/2033	0	N	10600	0
+A	"Summit Utilities, Inc."	N									
+P	M2	TIGT Sugar Creek	95	16592	MKT	10600	0				
+P	MQ	Summit Sedalia	95	16962	MKT	10600	0				
+D	"Summit Natural Gas of Missouri, Inc."	177053308	N	FTS-M	TA22243	11/1/2014	11/1/2025	0	N	4000	0
+A	"Summit Utilities, Inc."	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	4000	0				
+P	MQ	Summit Rogersville	95	142	MKT	4000	0				
+D	"Summit Natural Gas of Missouri, Inc."	177053308	N	FTS-P	TA22243	11/1/2014	11/1/2025	0	N	4000	0
+A	"Summit Utilities, Inc."	N									
+P	M2	Noble Energy - Lilli	95	16967	PRD	4000	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	4000	0				
+D	Targa Gas Marketing LLC	610946290	N	FTS-P	TA26762	4/1/2018	4/1/2020	0	N	40000	0
+P	M2	Velma Gas Plant	95	15430	PRD	40000	0				
+P	MQ	NGPL Carter	95	17069	PRD	40000	0				
+D	Targa Pipeline Mid-Continent WestOk LLC	124278057	N	FTS-P	TA22139	2/1/2015	2/1/2020	0	N	35000	0
+A	Targa Gas Marketing LLC	N									
+P	M2	Targa - Waynoka	95	16912	PRD	35000	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	35000	0				
+D	Targa Pipeline Mid-Continent WestOk LLC	124278057	N	FTS-P	TA22222	2/1/2015	2/1/2020	0	N	40000	0
+A	Targa Gas Marketing LLC	N									
+P	M2	Targa - Waynoka	95	16912	PRD	40000	0				
+P	MQ	NGPL Beaver	95	17004	PRD	40000	0				
+D	Tenaska Marketing Ventures	624240628	N	FTS-P	TA22181	4/1/2015	11/1/2018	0	Y	25000	0
+P	M2	ETC Field Services Antelope	95	16945	PRD	25000	0				
+P	MQ	Transwestern Canadian - Del.	95	168112	PRD	25000	0				
+D	"The Kansas Power Pool (""KPP""), a Municipal Energy Agency"	963423889	N	FTS-M	TA18861	4/13/2012	11/1/2018	0	N	3605	0
+P	M2	TIGT Sugar Creek	95	16592	MKT	3605	0				
+P	MQ	Dogwood Energy Power Plant	95	189	MKT	3605	0				
+D	Tyson Foods Inc.	6903702	N	FTS-M	TA1010	10/1/1998	11/1/2018	0	N	1300	0
+A	Spire Marketing Inc.	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	1300	0				
+P	MQ	Noel & North Noel	95	17460	MKT	1300	0				
+D	Tyson Foods Inc.	6903702	N	FTS-P	TA1010	10/1/1998	11/1/2018	0	N	1314	0
+A	Spire Marketing Inc.	N									
+P	M2	OkTex Marsh Interconnect	95	11435	PRD	1314	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	1314	0				
+D	Tyson Foods Inc.	6903702	N	FTS-M	TA8259	7/1/2001	7/1/2021	0	N	2200	0
+A	Spire Marketing Inc.	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	2200	0				
+P	MQ	Sedalia	95	113876	MKT	2200	0				
+D	Tyson Foods Inc.	6903702	N	FTS-P	TA8259	7/1/2001	7/1/2021	0	N	2226	0
+A	Spire Marketing Inc.	N									
+P	M2	OkTex Marsh Interconnect	95	11435	PRD	2226	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	2226	0				
+D	Tyson Foods Inc.	6903702	N	FTS-M	TA18728	11/1/2012	11/1/2018	0	N	1600	0
+A	Spire Marketing Inc.	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	1600	0				
+P	MQ	Emporia	95	29002	MKT	1600	0				
+D	Tyson Foods Inc.	6903702	N	FTS-P	TA18728	11/1/2012	11/1/2018	0	N	1615	0
+A	Spire Marketing Inc.	N									
+P	M2	OFS Stateline	95	15300	PRD	1615	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	1615	0				
+D	Union Electric Co. d/b/a Ameren Missouri	6968655	N	FTS-M	TA23020	11/1/2015	11/1/2025	0	N	3650	0
+P	M2	Prd/Mkt Interface	95	999000	MKT	3650	0				
+P	MQ	Ameren Columbia	95	17035	MKT	3650	0				
+D	Union Electric Co. d/b/a Ameren Missouri	6968655	N	FTS-P	TA23020	11/1/2015	11/1/2025	0	N	3692	0
+P	M2	LINN - Jayhawk	95	16289	PRD	3692	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	3692	0				
+D	United States Gypsum Company	5212600	N	FTS-M	TA8594	7/1/2003	7/1/2008	1825	N	1600	0
+A	"U.S. Energy Services, Inc."	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	1600	0				
+P	MQ	"Kansas City, MO"	95	13745	MKT	1600	0				
+D	University of Central Missouri	67947556	N	FTS-M	TA994	7/1/1998	10/1/2002	1825	N	1200	0
+A	Constellation NewEnergy - Gas Division LLC	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	1200	0				
+P	MQ	Warrensburg	95	26392	MKT	1200	0				
+D	"Westar Energy, Inc."	6943781	N	FTS-P	TA997	7/1/1998	4/1/2020	0	N	78000	0
+P	M2	Transwestern Canadian - Rec.	95	11377	PRD	45500	0				
+P	M2	DCP Mustang Plt	95	14377	PRD	6500	0				
+P	M2	CIG Floris	95	15266	PRD	9750	0				
+P	M2	Salt Plains Storage (Withdrawal)	95	16376	PRD	16250	0				
+P	MQ	Gordon Evans Plant	95	172	PRD	68000	0				
+P	MQ	Murray Gil Plant	95	6565	PRD	10000	0				
+D	"Westar Energy, Inc."	6943781	N	FTS-M	TA1021	4/1/1999	4/1/2030	0	N	10000	0
+P	M2	Prd/Mkt Interface	95	999000	MKT	10000	0				
+P	MQ	Tecumseh Power Plt	95	522501	MKT	2000	0				
+P	MQ	Lawrence Power Plt	95	522502	MKT	8000	0				
+D	"Westar Energy, Inc."	6943781	N	FTS-M	TA12478	12/1/2008	12/1/2028	0	N	42060	0
+P	M2	Prd/Mkt Interface	95	999000	MKT	42060	0				
+P	MQ	Westar Emporia Energy	95	16933	MKT	42060	0				
+D	"Westar Energy, Inc."	6943781	N	FTS-P	TA13408	12/1/2008	12/1/2028	0	N	42446	0
+P	M2	Transwestern Canadian - Rec.	95	11377	PRD	24500	0				
+P	M2	DCP Mustang Plt	95	14377	PRD	3500	0				
+P	M2	CIG Floris	95	15266	PRD	5696	0				
+P	M2	Salt Plains Storage (Withdrawal)	95	16376	PRD	8750	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	42446	0				
+D	"Westar Energy, Inc."	6943781	N	FTS-M	TA23025	4/1/2016	11/1/2022	0	N	33520	0
+P	M2	Prd/Mkt Interface	95	999000	MKT	33520	0				
+P	MQ	Empire Stateline North	95	378504	MKT	33520	0				
+D	"Westar Energy, Inc."	6943781	N	FTS-P	TA23025	4/1/2016	11/1/2022	0	N	33979	0
+P	M2	Transwestern Canadian - Rec.	95	11377	PRD	15445	0				
+P	M2	DCP - Cimarron Plant	95	15253	PRD	2174	0				
+P	M2	OFS Stateline	95	15300	PRD	9267	0				
+P	M2	Oneok Westex Hemphill	95	16584	PRD	1235	0				
+P	M2	ETC Field Services Canadian	95	16620	PRD	2769	0				
+P	M2	Semgas Group LLC	95	16855	PRD	3089	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	33979	0				
+D	"Williams Energy Resources, LLC"	964996867	N	FTS-P	TA21715	3/1/2014	4/1/2019	0	N	8500	0
+P	M2	LINN - Jayhawk	95	16289	PRD	5000	0				
+P	M2	Cheyenne Plains - Sand Dune	95	16813	PRD	3500	0				
+P	MQ	Mid-Continent Fractionation	95	166	PRD	8500	0				
+D	"Oronogo Missouri, City Of"	170080857	N	SFT-M	TA23050	11/1/2015	11/1/2018	0	N	100	0
+A	"Pro Solutions, L.L.C. d/b/a Pro Energy Solutions"	N									
+A	"CIMA Energy, LTD"	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	100	0				
+P	MQ	Oronogo	95	132018	MKT	100	0				
+D	"Oronogo Missouri, City Of"	170080857	N	SFT-P	TA23050	11/1/2015	11/1/2018	0	N	101	0
+A	"CIMA Energy, LTD"	N									
+A	"Pro Solutions, L.L.C. d/b/a Pro Energy Solutions"	N									
+P	M2	CIG Floris	95	15266	PRD	101	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	101	0				
+D	"Altamont, Kansas, City of"	108604802	N	STS	TS501	10/1/1993	10/1/2013	1825	N	0	19899
+A	Kansas Municipal Gas Agency	N									
+P	IJ	Mkt Storage	95	999021	MKT	0	149				
+P	WR	Mkt Storage	95	999021	MKT	0	603				
+D	"Altamont, Kansas, City of"	108604802	N	STS-M	TS501	10/1/1993	10/1/2013	1825	N	996	0
+A	Kansas Municipal Gas Agency	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	393	0				
+P	M2	Mkt Storage	95	999021	MKT	603	0				
+P	MQ	Altamont	95	34612	MKT	996	0				
+D	"Altamont, Kansas, City of"	108604802	N	STS-P	TS501	10/1/1993	10/1/2013	1825	N	404	0
+A	Kansas Municipal Gas Agency	N									
+P	M2	Questar Skull Creek	95	15236	PRD	27	0				
+P	M2	Salt Plains Storage (Withdrawal)	95	16376	PRD	377	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	404	0				
+D	"Argonia Kansas, City Of"	958543399	N	STS	TS504	10/1/1993	10/1/2015	1825	N	0	6864
+A	Kansas Municipal Gas Agency	N									
+P	IJ	Prd Storage	95	999020	PRD	0	51				
+P	WR	Prd Storage	95	999020	PRD	0	208				
+D	"Argonia Kansas, City Of"	958543399	N	STS-P	TS504	10/1/1993	10/1/2015	1825	N	390	0
+A	Kansas Municipal Gas Agency	N									
+P	M2	Prd Storage	95	999020	PRD	208	0				
+P	M2	EOIT Noble	95	15011	PRD	182	0				
+P	MQ	Argonia	95	36918	PRD	390	0				
+D	Avant Utilities Authority	9078908	N	STS	TS510	10/1/1993	10/1/2013	1825	N	0	2871
+A	"Centerpoint Energy Services, Inc."	N									
+P	IJ	Prd Storage	95	999020	PRD	0	22				
+P	WR	Prd Storage	95	999020	PRD	0	87				
+D	Avant Utilities Authority	9078908	N	STS-P	TS510	10/1/1993	10/1/2013	1825	N	174	0
+A	"Centerpoint Energy Services, Inc."	N									
+P	M2	Questar Skull Creek	95	15236	PRD	4	0				
+P	M2	CIG Floris	95	15266	PRD	83	0				
+P	M2	Prd Storage	95	999020	PRD	87	0				
+P	MQ	Avant Utilities	95	38522	PRD	174	0				
+D	Billings Public Works	106405657	N	STS	TS511	10/1/1993	10/1/2013	1825	N	0	6072
+A	"Clearwater Enterprises, L.L.C."	N									
+P	IJ	Prd Storage	95	999020	PRD	0	46				
+P	WR	Prd Storage	95	999020	PRD	0	184				
+D	Billings Public Works	106405657	N	STS-P	TS511	10/1/1993	10/1/2013	1825	N	304	0
+A	"Clearwater Enterprises, L.L.C."	N									
+P	M2	DCP Mustang Plt	95	14377	PRD	120	0				
+P	M2	Prd Storage	95	999020	PRD	184	0				
+P	MQ	Billings	95	41709	PRD	304	0				
+D	"Burlington Oklahoma, City Of"	18329334	N	STS	TS516	10/1/1993	10/1/2013	1825	N	0	3003
+A	"CIMA Energy, LTD"	N									
+A	"Pro Solutions, L.L.C. d/b/a Pro Energy Solutions"	N									
+P	IJ	Prd Storage	95	999020	PRD	0	23				
+P	WR	Prd Storage	95	999020	PRD	0	91				
+D	"Burlington Oklahoma, City Of"	18329334	N	STS-P	TS516	10/1/1993	10/1/2013	1825	N	171	0
+A	"CIMA Energy, LTD"	N									
+A	"Pro Solutions, L.L.C. d/b/a Pro Energy Solutions"	N									
+P	M2	Prd Storage	95	999020	PRD	91	0				
+P	M2	Questar Skull Creek	95	15236	PRD	4	0				
+P	M2	Salt Plains Storage (Withdrawal)	95	16376	PRD	76	0				
+P	MQ	Alfalfa City Ok	95	44121	PRD	171	0				
+D	Centerpoint Energy Resources Corp dba Centerpoint Energy Arkansas Gas	803838838	N	STS	TS606	10/1/1993	10/1/2013	1825	N	0	1881
+A	Centerpoint Energy Resources Corp dba Centerpoint Energy Oklahoma Gas	N									
+P	IJ	Prd Storage	95	999020	PRD	0	14				
+P	WR	Prd Storage	95	999020	PRD	0	57				
+D	Centerpoint Energy Resources Corp dba Centerpoint Energy Arkansas Gas	803838838	N	STS-P	TS606	10/1/1993	10/1/2013	1825	N	105	0
+A	Centerpoint Energy Resources Corp dba Centerpoint Energy Oklahoma Gas	N									
+P	M2	Prd Storage	95	999020	PRD	57	0				
+P	M2	Cheney Dell Plant	95	16524	PRD	48	0				
+P	MQ	Pocasset	95	74416	PRD	105	0				
+D	Centerpoint Energy Resources Corp dba Centerpoint Energy Oklahoma Gas	46700779	N	STS	TS506	10/1/1993	10/1/2013	1825	N	0	45210
+P	IJ	Prd Storage	95	999020	PRD	0	339				
+P	WR	Prd Storage	95	999020	PRD	0	1370				
+D	Centerpoint Energy Resources Corp dba Centerpoint Energy Oklahoma Gas	46700779	N	STS-P	TS506	10/1/1993	10/1/2013	1825	N	2055	0
+P	M2	Prd Storage	95	999020	PRD	1370	0				
+P	M2	Cheney Dell Plant	95	16524	PRD	685	0				
+P	MQ	Wynona	95	37100	PRD	186	0				
+P	MQ	Hominy	95	37118	PRD	1869	0				
+D	"Cleveland Oklahoma, City Of"	3257839	N	STS	TS850	10/1/1995	10/1/1998	1825	N	0	43989
+A	"BlueMark Energy, LLC"	N									
+P	IJ	Prd Storage	95	999020	PRD	0	330				
+P	WR	Prd Storage	95	999020	PRD	0	1333				
+D	"Cleveland Oklahoma, City Of"	3257839	N	STS-P	TS850	10/1/1995	10/1/1998	1825	N	2000	0
+A	"BlueMark Energy, LLC"	N									
+P	M2	LINN - Jayhawk	95	16289	PRD	667	0				
+P	M2	Prd Storage	95	999020	PRD	1333	0				
+P	MQ	Cleveland	95	47412	PRD	2000	0				
+D	Copan Public Works Authority	155997364	N	STS	TS530	10/1/1993	10/1/2013	1825	N	0	8448
+A	"Tiger Natural Gas, Inc."	N									
+P	IJ	Prd Storage	95	999020	PRD	0	63				
+P	WR	Prd Storage	95	999020	PRD	0	256				
+D	Copan Public Works Authority	155997364	N	STS-P	TS530	10/1/1993	10/1/2013	1825	N	420	0
+A	"Tiger Natural Gas, Inc."	N									
+P	M2	Prd Storage	95	999020	PRD	256	0				
+P	M2	Questar Skull Creek	95	15236	PRD	11	0				
+P	M2	Salt Plains Storage (Withdrawal)	95	16376	PRD	153	0				
+P	MQ	Copan	95	48301	PRD	420	0				
+D	"Denison Kansas, City Of"	26787103	N	STS	TS532	10/1/1993	10/1/2013	1825	N	0	2574
+A	Kansas Municipal Gas Agency	N									
+P	IJ	Mkt Storage	95	999021	MKT	0	19				
+P	WR	Mkt Storage	95	999021	MKT	0	78				
+D	"Denison Kansas, City Of"	26787103	N	STS-M	TS532	10/1/1993	10/1/2013	1825	N	156	0
+A	Kansas Municipal Gas Agency	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	78	0				
+P	M2	Mkt Storage	95	999021	MKT	78	0				
+P	MQ	Denison	95	56601	MKT	156	0				
+D	"Denison Kansas, City Of"	26787103	N	STS-P	TS532	10/1/1993	10/1/2013	1825	N	80	0
+A	Kansas Municipal Gas Agency	N									
+P	M2	LINN - Jayhawk	95	16289	PRD	80	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	80	0				
+D	"Fort Cobb Oklahoma Irrigation Fuel Authority, L.L.C."	601281132	N	STS	TS533	10/1/1993	10/1/2013	1825	N	0	825
+A	"Clearwater Enterprises, L.L.C."	N									
+P	IJ	Mkt Storage	95	999021	MKT	0	6				
+P	WR	Mkt Storage	95	999021	MKT	0	25				
+D	"Fort Cobb Oklahoma Irrigation Fuel Authority, L.L.C."	601281132	N	STS-M	TS533	10/1/1993	10/1/2013	1825	N	45	0
+A	"Clearwater Enterprises, L.L.C."	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	20	0				
+P	M2	Mkt Storage	95	999021	MKT	25	0				
+P	MQ	Peckham	95	60706	MKT	45	0				
+D	"Fort Cobb Oklahoma Irrigation Fuel Authority, L.L.C."	601281132	N	STS-P	TS533	10/1/1993	10/1/2013	1825	N	20	0
+A	"Clearwater Enterprises, L.L.C."	N									
+P	M2	OkTex Marsh Interconnect	95	11435	PRD	20	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	20	0				
+D	"Fort Cobb Oklahoma Irrigation Fuel Authority, L.L.C."	601281132	N	STS	TS605	10/1/1993	10/1/2013	1825	N	0	429
+A	"Clearwater Enterprises, L.L.C."	N									
+P	IJ	Prd Storage	95	999020	PRD	0	3				
+P	WR	Prd Storage	95	999020	PRD	0	13				
+D	"Fort Cobb Oklahoma Irrigation Fuel Authority, L.L.C."	601281132	N	STS-P	TS605	10/1/1993	10/1/2013	1825	N	21	0
+A	"Clearwater Enterprises, L.L.C."	N									
+P	M2	Prd Storage	95	999020	PRD	13	0				
+P	M2	Questar Skull Creek	95	15236	PRD	1	0				
+P	M2	Salt Plains Storage (Withdrawal)	95	16376	PRD	7	0				
+P	MQ	Nelagoney	95	154501	PRD	21	0				
+D	Freedom Municipal Trust Authority	0	N	STS	TS537	10/1/1993	10/1/2013	1825	N	0	3828
+A	Constellation NewEnergy - Gas Division LLC	N									
+P	IJ	Prd Storage	95	999020	PRD	0	29				
+P	WR	Prd Storage	95	999020	PRD	0	116				
+D	Freedom Municipal Trust Authority	0	N	STS-P	TS537	10/1/1993	10/1/2013	1825	N	227	0
+A	Constellation NewEnergy - Gas Division LLC	N									
+P	M2	Questar Skull Creek	95	15236	PRD	5	0				
+P	M2	Salt Plains Storage (Withdrawal)	95	16376	PRD	106	0				
+P	M2	Prd Storage	95	999020	PRD	116	0				
+P	MQ	Freedom	95	68518	PRD	227	0				
+D	"Granby Missouri, City Of"	8028748	N	STS	TS543	10/1/1993	10/1/2013	1825	N	0	21681
+A	Constellation NewEnergy - Gas Division LLC	N									
+A	JS Energy Services	N									
+P	IJ	Mkt Storage	95	999021	MKT	0	163				
+P	WR	Mkt Storage	95	999021	MKT	0	657				
+D	"Granby Missouri, City Of"	8028748	N	STS-M	TS543	10/1/1993	10/1/2013	1825	N	999	0
+A	Constellation NewEnergy - Gas Division LLC	N									
+A	JS Energy Services	N									
+P	M2	Mkt Storage	95	999021	MKT	657	0				
+P	M2	Prd/Mkt Interface	95	999000	MKT	342	0				
+P	MQ	Granby	95	77118	MKT	999	0				
+D	"Granby Missouri, City Of"	8028748	N	STS-P	TS543	10/1/1993	10/1/2013	1825	N	353	0
+A	JS Energy Services	N									
+A	Constellation NewEnergy - Gas Division LLC	N									
+P	M2	Questar Skull Creek	95	15236	PRD	29	0				
+P	M2	Salt Plains Storage (Withdrawal)	95	16376	PRD	324	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	353	0				
+D	"Howard Kansas, City Of"	94328325	N	STS	TS550	10/1/1993	11/1/2015	1825	N	0	13992
+A	Kansas Municipal Gas Agency	N									
+P	IJ	Mkt Storage	95	999021	MKT	0	105				
+P	WR	Mkt Storage	95	999021	MKT	0	424				
+D	"Howard Kansas, City Of"	94328325	N	STS-M	TS550	10/1/1993	11/1/2015	1825	N	795	0
+A	Kansas Municipal Gas Agency	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	371	0				
+P	M2	Mkt Storage	95	999021	MKT	424	0				
+P	MQ	Howard Ks	95	83418	MKT	795	0				
+D	"Howard Kansas, City Of"	94328325	N	STS-P	TS550	10/1/1993	11/1/2015	1825	N	385	0
+A	Kansas Municipal Gas Agency	N									
+P	M2	LINN - Jayhawk	95	16289	PRD	385	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	385	0				
+D	"Iola Kansas, City Of"	22526602	N	STS	TS20631	10/1/2013	10/1/2018	0	N	0	112200
+A	Cornerstone Energy Inc.	N									
+A	Constellation NewEnergy - Gas Division LLC	N									
+A	"EMG, Inc."	N									
+P	IJ	Mkt Storage	95	999021	MKT	0	842				
+P	WR	Mkt Storage	95	999021	MKT	0	3400				
+D	"Iola Kansas, City Of"	22526602	N	STS-M	TS20631	10/1/2013	10/1/2018	0	N	5100	0
+A	Cornerstone Energy Inc.	N									
+A	Constellation NewEnergy - Gas Division LLC	N									
+A	"EMG, Inc."	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	1700	0				
+P	M2	Mkt Storage	95	999021	MKT	3400	0				
+P	MQ	Iola Ks	95	86717	MKT	5100	0				
+D	"Iola Kansas, City Of"	22526602	N	STS-P	TS20631	10/1/2013	10/1/2018	0	N	1757	0
+A	"EMG, Inc."	N									
+A	Constellation NewEnergy - Gas Division LLC	N									
+A	Cornerstone Energy Inc.	N									
+P	M2	LINN - Jayhawk	95	16289	PRD	1757	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	1757	0				
+D	Kansas Municipal Gas Agency	197500080	N	STS	TS558	10/1/1993	11/1/2015	1825	N	0	8943
+P	IJ	Prd Storage	95	999020	PRD	0	67				
+P	WR	Prd Storage	95	999020	PRD	0	271				
+D	Kansas Municipal Gas Agency	197500080	N	STS-P	TS558	10/1/1993	11/1/2015	1825	N	532	0
+P	M2	Prd Storage	95	999020	PRD	271	0				
+P	M2	OFS Maysville	95	7158	PRD	261	0				
+P	MQ	Kechi Ks	95	96912	PRD	532	0				
+D	Kansas Municipal Gas Agency	197500080	N	STS	TS559	10/1/1993	10/1/2013	1825	N	0	4851
+P	IJ	Prd Storage	95	999020	PRD	0	36				
+P	WR	Prd Storage	95	999020	PRD	0	147				
+D	Kansas Municipal Gas Agency	197500080	N	STS-P	TS559	10/1/1993	10/1/2013	1825	N	294	0
+P	M2	Prd Storage	95	999020	PRD	147	0				
+P	M2	LINN - Jayhawk	95	16289	PRD	147	0				
+P	MQ	Abbyville	95	30804	PRD	65	0				
+P	MQ	Kechi Ks	95	96912	PRD	100	0				
+P	MQ	Sylvia	95	164725	PRD	129	0				
+D	"Lebo Kansas, City Of"	5888052	N	STS	TS567	10/1/1993	11/1/2015	1825	N	0	7656
+A	"Encore Energy Services, Inc."	N									
+P	IJ	Mkt Storage	95	999021	MKT	0	57				
+P	WR	Mkt Storage	95	999021	MKT	0	232				
+D	"Lebo Kansas, City Of"	5888052	N	STS-M	TS567	10/1/1993	11/1/2015	1825	N	435	0
+A	"Encore Energy Services, Inc."	N									
+P	M2	Mkt Storage	95	999021	MKT	232	0				
+P	M2	Prd/Mkt Interface	95	999000	MKT	203	0				
+P	MQ	Lebo	95	102512	MKT	435	0				
+D	"Lebo Kansas, City Of"	5888052	N	STS-P	TS567	10/1/1993	11/1/2015	1825	N	210	0
+A	"Encore Energy Services, Inc."	N									
+P	M2	LINN - Jayhawk	95	16289	PRD	210	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	210	0				
+D	"McLouth Kansas, City of"	5702717	N	STS	TS571	10/1/1993	11/1/2015	1825	N	0	11088
+A	Kansas Municipal Gas Agency	N									
+P	IJ	Mkt Storage	95	999021	MKT	0	83				
+P	WR	Mkt Storage	95	999021	MKT	0	336				
+D	"McLouth Kansas, City of"	5702717	N	STS-M	TS571	10/1/1993	11/1/2015	1825	N	630	0
+A	Kansas Municipal Gas Agency	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	294	0				
+P	M2	Mkt Storage	95	999021	MKT	336	0				
+P	MQ	McLouth	95	110412	MKT	630	0				
+D	"McLouth Kansas, City of"	5702717	N	STS-P	TS571	10/1/1993	11/1/2015	1825	N	305	0
+A	Kansas Municipal Gas Agency	N									
+P	M2	LINN - Jayhawk	95	16289	PRD	305	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	305	0				
+D	"Neodesha Kansas, City Of"	86055639	N	STS	TS585	10/1/1993	11/1/2015	1825	N	0	66000
+A	Constellation NewEnergy - Gas Division LLC	N									
+A	"EMG, Inc."	N									
+P	IJ	Mkt Storage	95	999021	MKT	0	495				
+P	WR	Mkt Storage	95	999021	MKT	0	2000				
+D	"Neodesha Kansas, City Of"	86055639	N	STS-M	TS585	10/1/1993	11/1/2015	1825	N	3750	0
+A	"EMG, Inc."	N									
+A	Constellation NewEnergy - Gas Division LLC	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	1750	0				
+P	M2	Mkt Storage	95	999021	MKT	2000	0				
+P	MQ	Neodesha	95	121110	MKT	3750	0				
+D	"Neodesha Kansas, City Of"	86055639	N	STS-P	TS585	10/1/1993	11/1/2015	1825	N	1814	0
+A	Constellation NewEnergy - Gas Division LLC	N									
+A	"EMG, Inc."	N									
+P	M2	Salt Plains Storage (Withdrawal)	95	16376	PRD	1814	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	1814	0				
+D	"Orlando Oklahoma, Town Of"	32246712	N	STS	TS589	10/1/1993	10/1/2013	1825	N	0	1914
+A	"Oklahoma Energy Source, LLC"	N									
+P	IJ	Prd Storage	95	999020	PRD	0	14				
+P	WR	Prd Storage	95	999020	PRD	0	58				
+D	"Orlando Oklahoma, Town Of"	32246712	N	STS-P	TS589	10/1/1993	10/1/2013	1825	N	113	0
+A	"Oklahoma Energy Source, LLC"	N									
+P	M2	Prd Storage	95	999020	PRD	58	0				
+P	M2	EOIT Noble	95	15011	PRD	53	0				
+P	M2	Questar Skull Creek	95	15236	PRD	2	0				
+P	MQ	Orlando	95	130001	PRD	113	0				
+D	"Oronogo Missouri, City Of"	170080857	N	STS	TS839	7/1/1995	10/1/2013	1825	N	0	2145
+A	"CIMA Energy, LTD"	N									
+A	"Pro Solutions, L.L.C. d/b/a Pro Energy Solutions"	N									
+P	IJ	Mkt Storage	95	999021	MKT	0	16				
+P	WR	Mkt Storage	95	999021	MKT	0	65				
+D	"Oronogo Missouri, City Of"	170080857	N	STS-M	TS839	7/1/1995	10/1/2013	1825	N	130	0
+A	"CIMA Energy, LTD"	N									
+A	"Pro Solutions, L.L.C. d/b/a Pro Energy Solutions"	N									
+P	M2	Mkt Storage	95	999021	MKT	65	0				
+P	M2	Prd/Mkt Interface	95	999000	MKT	65	0				
+P	MQ	Oronogo	95	132018	MKT	130	0				
+D	"Oronogo Missouri, City Of"	170080857	N	STS-P	TS839	7/1/1995	10/1/2013	1825	N	67	0
+A	"Pro Solutions, L.L.C. d/b/a Pro Energy Solutions"	N									
+A	"CIMA Energy, LTD"	N									
+P	M2	CIG Floris	95	15266	PRD	67	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	67	0				
+D	"Panhandle Natural Gas, Inc."	31034424	N	STS	TS538	10/1/1993	10/1/2013	1825	N	0	1881
+A	"CIMA Energy, LTD"	N									
+A	"Pro Solutions, L.L.C. d/b/a Pro Energy Solutions"	N									
+P	IJ	Prd Storage	95	999020	PRD	0	14				
+P	WR	Prd Storage	95	999020	PRD	0	57				
+D	"Panhandle Natural Gas, Inc."	31034424	N	STS-P	TS538	10/1/1993	10/1/2013	1825	N	110	0
+A	"CIMA Energy, LTD"	N									
+A	"Pro Solutions, L.L.C. d/b/a Pro Energy Solutions"	N									
+P	M2	Questar Skull Creek	95	15236	PRD	2	0				
+P	M2	Salt Plains Storage (Withdrawal)	95	16376	PRD	51	0				
+P	M2	Prd Storage	95	999020	PRD	57	0				
+P	MQ	Gate	95	70610	PRD	110	0				
+D	"Reading Kansas, City Of"	5887732	N	STS	TS604	10/1/1993	10/1/2013	1825	N	0	3003
+A	Constellation NewEnergy - Gas Division LLC	N									
+P	IJ	Mkt Storage	95	999021	MKT	0	23				
+P	WR	Mkt Storage	95	999021	MKT	0	91				
+D	"Reading Kansas, City Of"	5887732	N	STS-M	TS604	10/1/1993	10/1/2013	1825	N	170	0
+A	Constellation NewEnergy - Gas Division LLC	N									
+P	M2	Mkt Storage	95	999021	MKT	91	0				
+P	M2	Prd/Mkt Interface	95	999000	MKT	79	0				
+P	MQ	Reading	95	151525	MKT	170	0				
+D	"Reading Kansas, City Of"	5887732	N	STS-P	TS604	10/1/1993	10/1/2013	1825	N	82	0
+A	Constellation NewEnergy - Gas Division LLC	N									
+P	M2	Targa - Waynoka	95	16912	PRD	82	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	82	0				
+D	Wakita Utilities Authority	50536598	N	STS	TS618	10/1/1993	10/1/2013	1825	N	0	5973
+A	"CIMA Energy, LTD"	N									
+A	"Pro Solutions, L.L.C. d/b/a Pro Energy Solutions"	N									
+P	IJ	Prd Storage	95	999020	PRD	0	45				
+P	WR	Prd Storage	95	999020	PRD	0	181				
+D	Wakita Utilities Authority	50536598	N	STS-P	TS618	10/1/1993	10/1/2013	1825	N	352	0
+A	"CIMA Energy, LTD"	N									
+A	"Pro Solutions, L.L.C. d/b/a Pro Energy Solutions"	N									
+P	M2	Questar Skull Creek	95	15236	PRD	8	0				
+P	M2	Salt Plains Storage (Withdrawal)	95	16376	PRD	163	0				
+P	M2	Prd Storage	95	999020	PRD	181	0				
+P	MQ	Wakita	95	180311	PRD	352	0				
+D	Wann Public Works Authority	11370856	N	STS	TS619	10/1/1993	10/1/2013	1825	N	0	1716
+A	"Clearwater Enterprises, L.L.C."	N									
+P	IJ	Mkt Storage	95	999021	MKT	0	13				
+P	WR	Mkt Storage	95	999021	MKT	0	52				
+D	Wann Public Works Authority	11370856	N	STS-M	TS619	10/1/1993	10/1/2013	1825	N	84	0
+A	"Clearwater Enterprises, L.L.C."	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	32	0				
+P	M2	Mkt Storage	95	999021	MKT	52	0				
+P	MQ	Wann	95	181715	MKT	84	0				
+D	Wann Public Works Authority	11370856	N	STS-P	TS619	10/1/1993	10/1/2013	1825	N	33	0
+A	"Clearwater Enterprises, L.L.C."	N									
+P	M2	CIG Floris	95	15266	PRD	33	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	33	0				
+D	Atmos Energy Corporation	108203241	N	TSS	TS7927	10/1/2005	10/1/2010	1825	N	0	35706
+A	"Centerpoint Energy Services, Inc."	N									
+P	IJ	Prd Storage	95	999020	PRD	0	268				
+P	WR	Prd Storage	95	999020	PRD	0	1082				
+D	Atmos Energy Corporation	108203241	N	TSS-P	TS7927	10/1/2005	10/1/2010	1825	N	2164	0
+A	"Centerpoint Energy Services, Inc."	N									
+P	M2	Prd Storage	95	999020	PRD	1082	0				
+P	M2	CIG Floris	95	15266	PRD	1072	0				
+P	M2	LINN - Jayhawk	95	16289	PRD	10	0				
+P	MQ	Danville	95	55502	PRD	38	0				
+P	MQ	Anthony	95	77705	PRD	2126	0				
+D	Atmos Energy Corporation	108203241	N	TSS	TS7928	10/1/2005	12/1/2015	1825	N	0	3044679
+A	"Centerpoint Energy Services, Inc."	N									
+P	IJ	Mkt Storage	95	999021	MKT	0	22835				
+P	WR	Mkt Storage	95	999021	MKT	0	92263				
+D	Atmos Energy Corporation	108203241	N	TSS-M	TS7928	10/1/2005	12/1/2015	1825	N	162500	0
+A	"Centerpoint Energy Services, Inc."	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	62500	0				
+P	M2	Mkt Storage	95	999021	MKT	92263	0				
+P	M2	EGT Jane - Receipt	95	10997	MKT	7737	0				
+P	MQ	"Olathe, KS Naval Base TB"	95	13604	MKT	5000	0				
+P	MQ	South Olathe TB	95	16013	MKT	37000	0				
+P	MQ	Atmos Energy - W. Lawrence Del.	95	16988	MKT	400	0				
+P	MQ	Atmos - Forest View	95	17050	MKT	1918	0				
+P	MQ	Florence	95	46809	MKT	561	0				
+P	MQ	"Bourbon County, KS"	95	48015	MKT	2144	0				
+P	MQ	Bonner Springs Ks	95	77308	MKT	10574	0				
+P	MQ	"Eureka, Toronto & Neal"	95	77512	MKT	2560	0				
+P	MQ	Hamilton Ks	95	80312	MKT	201	0				
+P	MQ	Atmos - Strong Cty & Cottonwood Falls TB	95	80515	MKT	1150	0				
+P	MQ	Severy	95	157025	MKT	165	0				
+P	MQ	Chetopa & Rural	95	168612	MKT	683	0				
+P	MQ	Edna & Bartlett	95	168620	MKT	254	0				
+P	MQ	Conner Area	95	172812	MKT	25	0				
+P	MQ	Easton & Lowemont	95	172820	MKT	416	0				
+P	MQ	Savonburg & Elsmore	95	172822	MKT	20	0				
+P	MQ	Fall River	95	172828	MKT	144	0				
+P	MQ	Galesburg	95	172832	MKT	90	0				
+P	MQ	Atmos Energy - Olathe	95	172834	MKT	22628	0				
+P	MQ	Havana	95	172836	MKT	52	0				
+P	MQ	Hillsdale	95	172838	MKT	109	0				
+P	MQ	Jarbalo	95	172844	MKT	36	0				
+P	MQ	Kickapoo	95	172848	MKT	146	0				
+P	MQ	Liberty	95	172855	MKT	689	0				
+P	MQ	Linwood	95	172857	MKT	855	0				
+P	MQ	Mc Cune	95	172860	MKT	260	0				
+P	MQ	Moorehead	95	172862	MKT	13	0				
+P	MQ	Moorehead Rural	95	172864	MKT	159	0				
+P	MQ	Mound Valley	95	172866	MKT	220	0				
+P	MQ	Niotaze	95	172870	MKT	49	0				
+P	MQ	Pleasant Valley	95	172880	MKT	289	0				
+P	MQ	Reno Area	95	172885	MKT	12	0				
+P	MQ	Wyandotte	95	172892	MKT	19422	0				
+P	MQ	Coffeyville Area	95	172944	MKT	8500	0				
+P	MQ	Lawrence Plt Atmos	95	332501	MKT	1	0				
+P	MQ	Johnson Co.	95	104	MKT	646	0				
+P	MQ	Hot Mix Operations	95	106	MKT	103	0				
+P	MQ	Uc Flint Oaks Hunt Club	95	176	MKT	6	0				
+P	MQ	"Olathe, KS"	95	1103	MKT	20000	0				
+P	MQ	"South Glavin, KS TB"	95	9657	MKT	20000	0				
+P	MQ	"Olathe, KS East TB"	95	10847	MKT	5000	0				
+D	"Auburn, Kansas, City of"	65349615	N	TSS	TS878	8/1/1996	11/1/2015	1825	N	0	33000
+A	National Public Gas Agency	N									
+P	IJ	Mkt Storage	95	999021	MKT	0	248				
+P	WR	Mkt Storage	95	999021	MKT	0	1000				
+D	"Auburn, Kansas, City of"	65349615	N	TSS-M	TS878	8/1/1996	11/1/2015	1825	N	1500	0
+A	National Public Gas Agency	N									
+P	M2	Mkt Storage	95	999021	MKT	1000	0				
+P	M2	Prd/Mkt Interface	95	999000	MKT	500	0				
+P	MQ	Auburn	95	38021	MKT	1500	0				
+D	"Auburn, Kansas, City of"	65349615	N	TSS-P	TS878	8/1/1996	11/1/2015	1825	N	524	0
+A	National Public Gas Agency	N									
+P	M2	CIG Floris	95	15266	PRD	524	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	524	0				
+D	"Black Hills Utility Holdings, Inc."	809024784	N	TSS	TS8658	4/1/2004	10/1/2016	1825	N	0	694221
+P	IJ	Mkt Storage	95	999021	MKT	0	5207				
+P	WR	Mkt Storage	95	999021	MKT	0	21037				
+D	"Black Hills Utility Holdings, Inc."	809024784	N	TSS-M	TS8658	4/1/2004	10/1/2016	1825	N	34830	0
+P	M2	Prd/Mkt Interface	95	999000	MKT	13793	0				
+P	M2	Mkt Storage	95	999021	MKT	21037	0				
+P	MQ	Americus	95	35013	MKT	420	0				
+P	MQ	Black Hills - Lawrence	95	96108	MKT	34250	0				
+P	MQ	Neosho Rapids	95	121315	MKT	122	0				
+P	MQ	Olivet	95	129712	MKT	38	0				
+D	"Black Hills Utility Holdings, Inc."	809024784	N	TSS-P	TS8658	4/1/2004	10/1/2016	1825	N	12421	0
+P	M2	OFS Maysville	95	7158	PRD	468	0				
+P	M2	DCP Mustang Plt	95	14377	PRD	936	0				
+P	M2	EOIT Noble	95	15011	PRD	534	0				
+P	M2	CIG Floris	95	15266	PRD	3136	0				
+P	M2	DCP - Sholem	95	15857	PRD	936	0				
+P	M2	LINN - Jayhawk	95	16289	PRD	2527	0				
+P	M2	Superior - Hemphill	95	16820	PRD	3884	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	12421	0				
+D	"Chanute Kansas, City Of"	73071607	N	TSS	TS7710	5/1/2005	10/1/2017	1825	N	0	164967
+A	Cornerstone Energy Inc.	N									
+A	Constellation NewEnergy - Gas Division LLC	N									
+A	"EMG, Inc."	N									
+P	IJ	Mkt Storage	95	999021	MKT	0	1237				
+P	WR	Mkt Storage	95	999021	MKT	0	4999				
+D	"Chanute Kansas, City Of"	73071607	N	TSS-M	TS7710	5/1/2005	10/1/2017	1825	N	7500	0
+A	Constellation NewEnergy - Gas Division LLC	N									
+A	Cornerstone Energy Inc.	N									
+A	"EMG, Inc."	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	2501	0				
+P	M2	Mkt Storage	95	999021	MKT	4999	0				
+P	MQ	Chanute	95	46608	MKT	7500	0				
+D	"Chanute Kansas, City Of"	73071607	N	TSS-P	TS7710	5/1/2005	10/1/2017	1825	N	2658	0
+A	"EMG, Inc."	N									
+A	Cornerstone Energy Inc.	N									
+A	Constellation NewEnergy - Gas Division LLC	N									
+P	M2	LINN - Jayhawk	95	16289	PRD	2658	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	2658	0				
+D	"City Utilities Of Springfield, Missouri"	6852255	N	TSS	TS518	10/1/1993	10/1/2018	0	N	0	708114
+A	"Energy Authority, Inc., The"	N									
+P	IJ	Mkt Storage	95	999021	MKT	0	5311				
+P	WR	Mkt Storage	95	999021	MKT	0	21458				
+D	"City Utilities Of Springfield, Missouri"	6852255	N	TSS-M	TS518	10/1/1993	10/1/2018	0	N	32187	0
+A	"Energy Authority, Inc., The"	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	10729	0				
+P	M2	Mkt Storage	95	999021	MKT	21458	0				
+P	MQ	Springfield	95	42915	MKT	32187	0				
+D	"Empire District Gas Company, The"	625371880	N	TSS	TS557	10/1/1993	11/1/2018	0	N	0	867207
+A	"Energy Support Providers, Llc"	N									
+P	IJ	Mkt Storage	95	999021	MKT	0	6504				
+P	WR	Mkt Storage	95	999021	MKT	0	26279				
+D	"Empire District Gas Company, The"	625371880	N	TSS-M	TS557	10/1/1993	11/1/2018	0	N	42000	0
+A	"Energy Support Providers, Llc"	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	15721	0				
+P	M2	Mkt Storage	95	999021	MKT	26279	0				
+P	MQ	Clinton & Leeton	95	113812	MKT	4572	0				
+P	MQ	Marshall	95	113852	MKT	6714	0				
+P	MQ	Nevada	95	113856	MKT	6453	0				
+P	MQ	Platte City	95	113864	MKT	2003	0				
+P	MQ	Lexington-Richmond-Henrietta	95	113872	MKT	6401	0				
+P	MQ	Sedalia	95	113876	MKT	15009	0				
+P	MQ	Tracy	95	113880	MKT	86	0				
+P	MQ	Weston	95	113892	MKT	762	0				
+D	"Empire District Gas Company, The"	625371880	N	TSS-P	TS557	10/1/1993	11/1/2018	0	N	14119	0
+A	"Energy Support Providers, Llc"	N									
+P	M2	OFS Maysville	95	7158	PRD	3550	0				
+P	M2	DCP Mustang Plt	95	14377	PRD	1064	0				
+P	M2	CIG Floris	95	15266	PRD	6441	0				
+P	M2	DCP - Sholem	95	15857	PRD	1064	0				
+P	M2	Enbridge Hobart	95	16330	PRD	1459	0				
+P	M2	Cheyenne Plains - Sand Dune	95	16813	PRD	541	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	14119	0				
+D	"Falls City, Nebraska"	72919327	N	TSS	TS21559	2/1/2014	11/1/2015	1825	N	0	83490
+A	Clayton Energy Corporation	N									
+P	IJ	Mkt Storage	95	999021	MKT	0	626				
+P	WR	Mkt Storage	95	999021	MKT	0	2530				
+D	"Falls City, Nebraska"	72919327	N	TSS-M	TS21559	2/1/2014	11/1/2015	1825	N	4415	0
+A	Clayton Energy Corporation	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	1885	0				
+P	M2	Mkt Storage	95	999021	MKT	2530	0				
+P	MQ	Falls City	95	9026	MKT	4415	0				
+D	"Falls City, Nebraska"	72919327	N	TSS-P	TS21559	2/1/2014	11/1/2015	1825	N	1934	0
+A	Clayton Energy Corporation	N									
+P	M2	EOIT McClain	95	15142	PRD	1588	0				
+P	M2	OFS Stateline	95	15300	PRD	346	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	1934	0				
+D	"Ford Ks, City Of"	611875832	N	TSS	TS535	10/1/1993	10/1/2013	1825	N	0	3069
+A	"CIMA Energy, LTD"	N									
+A	"Pro Solutions, L.L.C. d/b/a Pro Energy Solutions"	N									
+P	IJ	Prd Storage	95	999020	PRD	0	23				
+P	WR	Prd Storage	95	999020	PRD	0	93				
+D	"Ford Ks, City Of"	611875832	N	TSS-P	TS535	10/1/1993	10/1/2013	1825	N	146	0
+A	"CIMA Energy, LTD"	N									
+A	"Pro Solutions, L.L.C. d/b/a Pro Energy Solutions"	N									
+P	M2	Prd Storage	95	999020	PRD	93	0				
+P	M2	LINN - Jayhawk	95	16289	PRD	53	0				
+P	MQ	Ford	95	68015	PRD	146	0				
+D	Grove Municipal Services Authority	184548741	N	TSS	TS836	7/1/1995	10/1/2008	1825	N	0	85734
+A	Constellation NewEnergy - Gas Division LLC	N									
+P	IJ	Mkt Storage	95	999021	MKT	0	643				
+P	WR	Mkt Storage	95	999021	MKT	0	2598				
+D	Grove Municipal Services Authority	184548741	N	TSS-M	TS836	7/1/1995	10/1/2008	1825	N	5196	0
+A	Constellation NewEnergy - Gas Division LLC	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	2598	0				
+P	M2	Mkt Storage	95	999021	MKT	2598	0				
+P	MQ	Afton-Fairland-Grove-Jay	95	122715	MKT	5196	0				
+D	Grove Municipal Services Authority	184548741	N	TSS-P	TS836	7/1/1995	10/1/2008	1825	N	2656	0
+A	Constellation NewEnergy - Gas Division LLC	N									
+P	M2	Oneok Westex Hemphill	95	16584	PRD	2656	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	2656	0				
+D	"Kansas Gas Service, a division of ONE Gas, Inc."	79254828	N	TSS	TS623	10/1/1993	10/1/1998	1825	N	0	486552
+P	IJ	Mkt Storage	95	999021	MKT	0	3649				
+P	WR	Mkt Storage	95	999021	MKT	0	14744				
+D	"Kansas Gas Service, a division of ONE Gas, Inc."	79254828	N	TSS-M	TS623	10/1/1993	10/1/1998	1825	N	22116	0
+P	M2	Prd/Mkt Interface	95	999000	MKT	7372	0				
+P	M2	Mkt Storage	95	999021	MKT	14744	0				
+P	MQ	Overland Park	95	16952	MKT	5093	0				
+P	MQ	Goessel	95	18328	MKT	16	0				
+P	MQ	Lyndon	95	19548	MKT	57	0				
+P	MQ	Melvern	95	19552	MKT	16	0				
+P	MQ	Michigan Valley	95	19554	MKT	2	0				
+P	MQ	Pomona	95	19564	MKT	27	0				
+P	MQ	Quenemo	95	19568	MKT	11	0				
+P	MQ	Scranton	95	19576	MKT	121	0				
+P	MQ	Baldwin	95	19608	MKT	123	0				
+P	MQ	Edgerton	95	19620	MKT	27	0				
+P	MQ	Gardner	95	19628	MKT	97	0				
+P	MQ	Lecompton	95	19648	MKT	16	0				
+P	MQ	Le Loup	95	19650	MKT	1	0				
+P	MQ	Perry	95	19664	MKT	35	0				
+P	MQ	Princeton	95	19666	MKT	7	0				
+P	MQ	Richmond	95	19672	MKT	17	0				
+P	MQ	Scipio	95	19676	MKT	1	0				
+P	MQ	Somerset & Rural	95	19678	MKT	4	0				
+P	MQ	Tonganoxie	95	19684	MKT	108	0				
+P	MQ	Wellsville	95	19690	MKT	72	0				
+P	MQ	Bronson Etc	95	20709	MKT	67	0				
+P	MQ	Carlyle	95	20712	MKT	1	0				
+P	MQ	Cherryvale	95	20714	MKT	146	0				
+P	MQ	Colony	95	20716	MKT	21	0				
+P	MQ	Dennis	95	20720	MKT	2	0				
+P	MQ	Erie	95	20725	MKT	124	0				
+P	MQ	Gas City & La Harpe	95	20730	MKT	92	0				
+P	MQ	Parsons	95	20764	MKT	696	0				
+P	MQ	Petrolia	95	20766	MKT	2	0				
+P	MQ	Piqua	95	20768	MKT	4	0				
+P	MQ	South Mound	95	20775	MKT	1	0				
+P	MQ	Thayer	95	20785	MKT	19	0				
+P	MQ	Walnut & St Paul	95	20788	MKT	40	0				
+P	MQ	Welda	95	20792	MKT	7	0				
+P	MQ	Baxter Springs	95	21008	MKT	228	0				
+P	MQ	Columbus	95	21015	MKT	187	0				
+P	MQ	Crestline	95	21018	MKT	2	0				
+P	MQ	Fort Scott	95	21021	MKT	530	0				
+P	MQ	Galena & Empire City	95	21024	MKT	170	0				
+P	MQ	Lowell	95	21048	MKT	6	0				
+P	MQ	N Riverton	95	21055	MKT	23	0				
+P	MQ	Oswego	95	21060	MKT	81	0				
+P	MQ	Treece	95	21080	MKT	6	0				
+P	MQ	Grantville	95	24228	MKT	6	0				
+P	MQ	Meriden	95	24252	MKT	29	0				
+P	MQ	Shawnee Heights	95	24276	MKT	49	0				
+P	MQ	Topeka	95	24280	MKT	3271	0				
+P	MQ	Andover	95	27040	MKT	195	0				
+P	MQ	Atchison	95	29001	MKT	665	0				
+P	MQ	Emporia	95	29002	MKT	957	0				
+P	MQ	Leavenworth	95	29003	MKT	1271	0				
+P	MQ	Effingham	95	29005	MKT	24	0				
+P	MQ	Sherwin	95	154	MKT	49	0				
+P	MQ	South Gardner	95	164	MKT	97	0				
+P	MQ	Arma-Girard-Pittsburg	95	206	MKT	1450	0				
+P	MQ	Cher-Scam-W. Min-Carona-Weir	95	207	MKT	55	0				
+P	MQ	Arkansas City	95	501	MKT	665	0				
+P	MQ	Ks Mkt Domestics	95	710	MKT	41	0				
+P	MQ	Barnard	95	3508	MKT	6	0				
+P	MQ	Ellsworth	95	3520	MKT	141	0				
+P	MQ	Geneseo	95	3528	MKT	15	0				
+P	MQ	Kanopolis	95	3544	MKT	27	0				
+P	MQ	Lincoln	95	3548	MKT	87	0				
+P	MQ	Lucas	95	3551	MKT	25	0				
+P	MQ	Luray	95	3553	MKT	10	0				
+P	MQ	Minneapolis	95	3555	MKT	108	0				
+P	MQ	Sylvan Grove	95	3576	MKT	23	0				
+P	MQ	Vesper	95	3588	MKT	1	0				
+P	MQ	Beloit	95	3608	MKT	243	0				
+P	MQ	Burr Oak	95	3610	MKT	15	0				
+P	MQ	Cawker City	95	3612	MKT	27	0				
+P	MQ	Downs	95	3616	MKT	59	0				
+P	MQ	Esbon	95	3620	MKT	8	0				
+P	MQ	Formosa	95	3624	MKT	4	0				
+P	MQ	Glen Elder	95	3628	MKT	13	0				
+P	MQ	Jewell	95	3640	MKT	30	0				
+P	MQ	Lebanon	95	3648	MKT	17	0				
+P	MQ	Mankato	95	3652	MKT	69	0				
+P	MQ	Montrose	95	3654	MKT	1	0				
+P	MQ	Osborne	95	3660	MKT	108	0				
+P	MQ	Smith Center	95	3676	MKT	119	0				
+P	MQ	Atlanta	95	6704	MKT	7	0				
+P	MQ	Benton	95	6712	MKT	19	0				
+P	MQ	Burden	95	6714	MKT	18	0				
+P	MQ	Cambridge	95	6716	MKT	4	0				
+P	MQ	Dexter	95	6720	MKT	10	0				
+P	MQ	El Dorado	95	6724	MKT	661	0				
+P	MQ	Potwin	95	6764	MKT	19	0				
+P	MQ	Towanda	95	6780	MKT	34	0				
+P	MQ	Grenola	95	6828	MKT	8	0				
+P	MQ	Madison	95	6852	MKT	46	0				
+P	MQ	Olpe	95	6860	MKT	16	0				
+P	MQ	Circleville	95	9012	MKT	11	0				
+P	MQ	Everest	95	9020	MKT	16	0				
+P	MQ	Fairview	95	9024	MKT	12	0				
+P	MQ	Hamlin	95	9032	MKT	2	0				
+P	MQ	Hiawatha	95	9034	MKT	250	0				
+P	MQ	Holton	95	9036	MKT	200	0				
+P	MQ	Horton	95	9038	MKT	107	0				
+P	MQ	Huron	95	9040	MKT	4	0				
+P	MQ	Highland & Robinson	95	9042	MKT	57	0				
+P	MQ	Morrill	95	9052	MKT	11	0				
+P	MQ	Muscotah	95	9054	MKT	7	0				
+P	MQ	Netawaka	95	9057	MKT	5	0				
+P	MQ	Nortonville & Winchester	95	9059	MKT	42	0				
+P	MQ	Oskaloosa	95	9064	MKT	55	0				
+P	MQ	Ozawkie	95	9066	MKT	16	0				
+P	MQ	Reserve	95	9075	MKT	2	0				
+P	MQ	Sabetha	95	9079	MKT	147	0				
+P	MQ	Valley Falls	95	9091	MKT	61	0				
+P	MQ	"Wathena, Elwood & Troy"	95	9093	MKT	274	0				
+P	MQ	Whiting	95	9095	MKT	8	0				
+P	MQ	"Kansas City, Kansas"	95	13644	MKT	1701	0				
+D	"Kansas Gas Service, a division of ONE Gas, Inc."	79254828	N	TSS-P	TS623	10/1/1993	10/1/1998	1825	N	7620	0
+P	M2	Wamsutter - Echo Springs	95	16294	PRD	7620	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	7620	0				
+D	"Kansas Gas Service, a division of ONE Gas, Inc."	79254828	N	TSS	TS634	10/1/1993	10/1/2020	0	N	0	299244
+P	IJ	Mkt Storage	95	999021	MKT	0	2244				
+P	WR	Mkt Storage	95	999021	MKT	0	9068				
+D	"Kansas Gas Service, a division of ONE Gas, Inc."	79254828	N	TSS-M	TS634	10/1/1993	10/1/2020	0	N	13602	0
+P	M2	Mkt Storage	95	999021	MKT	9068	0				
+P	M2	Prd/Mkt Interface	95	999000	MKT	4534	0				
+P	MQ	"Kansas City, Kansas"	95	13644	MKT	1952	0				
+P	MQ	South Gardner	95	164	MKT	94	0				
+P	MQ	Arma-Girard-Pittsburg	95	206	MKT	1399	0				
+P	MQ	Cher-Scam-W. Min-Carona-Weir	95	207	MKT	52	0				
+P	MQ	Arkansas City	95	501	MKT	641	0				
+P	MQ	Ks Mkt Domestics	95	710	MKT	39	0				
+P	MQ	Barnard	95	3508	MKT	5	0				
+P	MQ	Ellsworth	95	3520	MKT	135	0				
+P	MQ	Frederick	95	3524	MKT	1	0				
+P	MQ	Geneseo	95	3528	MKT	14	0				
+P	MQ	Kanopolis	95	3544	MKT	25	0				
+P	MQ	Lincoln	95	3548	MKT	85	0				
+P	MQ	Lucas	95	3551	MKT	24	0				
+P	MQ	Luray	95	3553	MKT	9	0				
+P	MQ	Minneapolis	95	3555	MKT	104	0				
+P	MQ	Sylvan Grove	95	3576	MKT	22	0				
+P	MQ	Vesper	95	3588	MKT	1	0				
+P	MQ	Beloit	95	3608	MKT	234	0				
+P	MQ	Burr Oak	95	3610	MKT	14	0				
+P	MQ	Cawker City	95	3612	MKT	25	0				
+P	MQ	Downs	95	3616	MKT	57	0				
+P	MQ	Esbon	95	3620	MKT	8	0				
+P	MQ	Formosa	95	3624	MKT	4	0				
+P	MQ	Glen Elder	95	3628	MKT	13	0				
+P	MQ	Jewell	95	3640	MKT	29	0				
+P	MQ	Lebanon	95	3648	MKT	17	0				
+P	MQ	Mankato	95	3652	MKT	67	0				
+P	MQ	Montrose	95	3654	MKT	1	0				
+P	MQ	Osborne	95	3660	MKT	104	0				
+P	MQ	Smith Center	95	3676	MKT	115	0				
+P	MQ	Atlanta	95	6704	MKT	7	0				
+P	MQ	Benton	95	6712	MKT	18	0				
+P	MQ	Burden	95	6714	MKT	17	0				
+P	MQ	Cambridge	95	6716	MKT	3	0				
+P	MQ	Dexter	95	6720	MKT	10	0				
+P	MQ	El Dorado	95	6724	MKT	637	0				
+P	MQ	Potwin	95	6764	MKT	19	0				
+P	MQ	Towanda	95	6780	MKT	33	0				
+P	MQ	Grenola	95	6828	MKT	9	0				
+P	MQ	Madison	95	6852	MKT	44	0				
+P	MQ	Olpe	95	6860	MKT	16	0				
+P	MQ	Circleville	95	9012	MKT	11	0				
+P	MQ	Everest	95	9020	MKT	16	0				
+P	MQ	Fairview	95	9024	MKT	11	0				
+P	MQ	Hamlin	95	9032	MKT	2	0				
+P	MQ	Hiawatha	95	9034	MKT	241	0				
+P	MQ	Holton	95	9036	MKT	193	0				
+P	MQ	Horton	95	9038	MKT	102	0				
+P	MQ	Huron	95	9040	MKT	3	0				
+P	MQ	Highland & Robinson	95	9042	MKT	55	0				
+P	MQ	Morrill	95	9052	MKT	11	0				
+P	MQ	Muscotah	95	9054	MKT	7	0				
+P	MQ	Netawaka	95	9057	MKT	5	0				
+P	MQ	Nortonville & Winchester	95	9059	MKT	41	0				
+P	MQ	Oskaloosa	95	9064	MKT	52	0				
+P	MQ	Ozawkie	95	9066	MKT	15	0				
+P	MQ	Reserve	95	9075	MKT	3	0				
+P	MQ	Sabetha	95	9079	MKT	142	0				
+P	MQ	Valley Falls	95	9091	MKT	58	0				
+P	MQ	"Wathena, Elwood & Troy"	95	9093	MKT	264	0				
+P	MQ	Whiting	95	9095	MKT	8	0				
+P	MQ	Goessel	95	18328	MKT	16	0				
+P	MQ	Lyndon	95	19548	MKT	55	0				
+P	MQ	Melvern	95	19552	MKT	15	0				
+P	MQ	Michigan Valley	95	19554	MKT	2	0				
+P	MQ	Pomona	95	19564	MKT	26	0				
+P	MQ	Quenemo	95	19568	MKT	11	0				
+P	MQ	Scranton	95	19576	MKT	116	0				
+P	MQ	Baldwin	95	19608	MKT	118	0				
+P	MQ	Edgerton	95	19620	MKT	26	0				
+P	MQ	Gardner	95	19628	MKT	93	0				
+P	MQ	Lecompton	95	19648	MKT	16	0				
+P	MQ	Le Loup	95	19650	MKT	2	0				
+P	MQ	Perry	95	19664	MKT	35	0				
+P	MQ	Princeton	95	19666	MKT	7	0				
+P	MQ	Richmond	95	19672	MKT	16	0				
+P	MQ	Scipio	95	19676	MKT	1	0				
+P	MQ	Somerset & Rural	95	19678	MKT	4	0				
+P	MQ	Tonganoxie	95	19684	MKT	104	0				
+P	MQ	Wellsville	95	19690	MKT	69	0				
+P	MQ	Bronson Etc	95	20709	MKT	64	0				
+P	MQ	Carlyle	95	20712	MKT	1	0				
+P	MQ	Cherryvale	95	20714	MKT	140	0				
+P	MQ	Colony	95	20716	MKT	20	0				
+P	MQ	Dennis	95	20720	MKT	3	0				
+P	MQ	Erie	95	20725	MKT	120	0				
+P	MQ	Gas City & La Harpe	95	20730	MKT	88	0				
+P	MQ	Parsons	95	20764	MKT	671	0				
+P	MQ	Petrolia	95	20766	MKT	2	0				
+P	MQ	Piqua	95	20768	MKT	4	0				
+P	MQ	South Mound	95	20775	MKT	1	0				
+P	MQ	Thayer	95	20785	MKT	19	0				
+P	MQ	Walnut & St Paul	95	20788	MKT	39	0				
+P	MQ	Welda	95	20792	MKT	8	0				
+P	MQ	Baxter Springs	95	21008	MKT	220	0				
+P	MQ	Columbus	95	21015	MKT	180	0				
+P	MQ	Crestline	95	21018	MKT	3	0				
+P	MQ	Fort Scott	95	21021	MKT	511	0				
+P	MQ	Galena & Empire City	95	21024	MKT	163	0				
+P	MQ	Lowell	95	21048	MKT	6	0				
+P	MQ	N Riverton	95	21055	MKT	22	0				
+P	MQ	Oswego	95	21060	MKT	124	0				
+P	MQ	Treece	95	21080	MKT	6	0				
+P	MQ	Grantville	95	24228	MKT	6	0				
+P	MQ	Meriden	95	24252	MKT	28	0				
+P	MQ	Shawnee Heights	95	24276	MKT	47	0				
+P	MQ	Topeka	95	24280	MKT	29	0				
+P	MQ	Andover	95	27040	MKT	189	0				
+P	MQ	Atchison	95	29001	MKT	642	0				
+P	MQ	Emporia	95	29002	MKT	922	0				
+P	MQ	Leavenworth	95	29003	MKT	1225	0				
+P	MQ	Effingham	95	29005	MKT	24	0				
+D	"Kansas Gas Service, a division of ONE Gas, Inc."	79254828	N	TSS-P	TS634	10/1/1993	10/1/2020	0	N	4687	0
+P	M2	Transwestern Canadian - Rec.	95	11377	PRD	3830	0				
+P	M2	CIG Floris	95	15266	PRD	458	0				
+P	M2	Oneok Westex Hemphill	95	16584	PRD	399	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	4687	0				
+D	"Kansas Gas Service, a division of ONE Gas, Inc."	79254828	N	TSS	TS810	10/1/1994	10/1/1998	1825	N	0	84810
+P	IJ	Prd Storage	95	999020	PRD	0	636				
+P	WR	Prd Storage	95	999020	PRD	0	2570				
+D	"Kansas Gas Service, a division of ONE Gas, Inc."	79254828	N	TSS-P	TS810	10/1/1994	10/1/1998	1825	N	3855	0
+P	M2	Wamsutter - Echo Springs	95	16294	PRD	1285	0				
+P	M2	Prd Storage	95	999020	PRD	2570	0				
+P	MQ	Newton	95	18356	PRD	273	0				
+P	MQ	Belle Plaine	95	27015	PRD	27	0				
+P	MQ	Bentley	95	27020	PRD	3	0				
+P	MQ	Derby	95	27035	PRD	138	0				
+P	MQ	Haysville	95	27050	PRD	90	0				
+P	MQ	Mulvane	95	27060	PRD	63	0				
+P	MQ	Rose Hill	95	27065	PRD	18	0				
+P	MQ	Sedgwick	95	27070	PRD	18	0				
+P	MQ	Udall	95	27080	PRD	9	0				
+P	MQ	Valley Center	95	27085	PRD	54	0				
+P	MQ	Wichita	95	27092	PRD	2700	0				
+P	MQ	Clearwater	95	510	PRD	24	0				
+P	MQ	Conway Springs	95	512	PRD	21	0				
+P	MQ	Harper	95	525	PRD	30	0				
+P	MQ	Kiowa	95	530	PRD	27	0				
+P	MQ	Oxford	95	540	PRD	18	0				
+P	MQ	Wellington	95	590	PRD	159	0				
+P	MQ	Ks Prd Domestics	95	610	PRD	6	0				
+P	MQ	Alden	95	3504	PRD	3	0				
+P	MQ	Chase	95	3512	PRD	12	0				
+P	MQ	Raymond	95	3572	PRD	3	0				
+P	MQ	Augusta & Leon	95	6706	PRD	114	0				
+P	MQ	Douglas	95	6722	PRD	21	0				
+P	MQ	Hutchinson	95	9835	PRD	24	0				
+D	"Kansas Gas Service, a division of ONE Gas, Inc."	79254828	N	TSS	TS811	10/1/1994	11/1/2013	1825	N	0	3307524
+P	IJ	Prd Storage	95	999020	PRD	0	24806				
+P	WR	Prd Storage	95	999020	PRD	0	100228				
+D	"Kansas Gas Service, a division of ONE Gas, Inc."	79254828	N	TSS-P	TS811	10/1/1994	11/1/2013	1825	N	150342	0
+P	M2	LINN - Jayhawk	95	16289	PRD	43114	0				
+P	M2	Targa - Waynoka	95	16912	PRD	7000	0				
+P	M2	Prd Storage	95	999020	PRD	100228	0				
+P	MQ	KGS Kansas Star Casino	95	16977	PRD	100	0				
+P	MQ	Newton	95	18356	PRD	10061	0				
+P	MQ	Belle Plaine	95	27015	PRD	864	0				
+P	MQ	Bentley	95	27020	PRD	112	0				
+P	MQ	Derby	95	27035	PRD	7329	0				
+P	MQ	Haysville	95	27050	PRD	4199	0				
+P	MQ	Mulvane	95	27060	PRD	2628	0				
+P	MQ	Rose Hill	95	27065	PRD	1252	0				
+P	MQ	Sedgwick	95	27070	PRD	758	0				
+P	MQ	Udall	95	27080	PRD	406	0				
+P	MQ	Valley Center	95	27085	PRD	2365	0				
+P	MQ	Wichita	95	27092	PRD	105323	0				
+P	MQ	Richie/Ripley	95	519501	PRD	5	0				
+P	MQ	El Dorado Rural	95	118	PRD	42	0				
+P	MQ	Clearwater	95	510	PRD	1006	0				
+P	MQ	Conway Springs	95	512	PRD	849	0				
+P	MQ	Harper	95	525	PRD	1062	0				
+P	MQ	Kiowa	95	530	PRD	683	0				
+P	MQ	Oxford	95	540	PRD	621	0				
+P	MQ	Wellington	95	590	PRD	4460	0				
+P	MQ	Ks Prd Domestics	95	610	PRD	194	0				
+P	MQ	Alden	95	3504	PRD	62	0				
+P	MQ	Chase	95	3512	PRD	258	0				
+P	MQ	Raymond	95	3572	PRD	89	0				
+P	MQ	Augusta & Leon	95	6706	PRD	4254	0				
+P	MQ	Douglas	95	6722	PRD	750	0				
+P	MQ	Hutchinson	95	9835	PRD	610	0				
+D	"Kansas Gas Service, a division of ONE Gas, Inc."	79254828	N	TSS	TS813	10/1/1994	11/1/2013	1825	N	0	6562743
+P	IJ	Mkt Storage	95	999021	MKT	0	49221				
+P	WR	Mkt Storage	95	999021	MKT	0	198871				
+D	"Kansas Gas Service, a division of ONE Gas, Inc."	79254828	N	TSS-M	TS813	10/1/1994	11/1/2013	1825	N	298308	0
+P	M2	Mkt Storage	95	999021	MKT	198871	0				
+P	M2	Prd/Mkt Interface	95	999000	MKT	99437	0				
+P	MQ	Overland Park	95	16952	MKT	65715	0				
+P	MQ	Merriam	95	16953	MKT	20399	0				
+P	MQ	Goessel	95	18328	MKT	214	0				
+P	MQ	Lyndon	95	19548	MKT	479	0				
+P	MQ	Melvern	95	19552	MKT	149	0				
+P	MQ	Michigan Valley	95	19554	MKT	28	0				
+P	MQ	Pomona	95	19564	MKT	379	0				
+P	MQ	Quenemo	95	19568	MKT	127	0				
+P	MQ	Scranton	95	19576	MKT	1142	0				
+P	MQ	Baldwin	95	19608	MKT	2021	0				
+P	MQ	Edgerton	95	19620	MKT	498	0				
+P	MQ	Gardner	95	19628	MKT	3216	0				
+P	MQ	Lecompton	95	19648	MKT	244	0				
+P	MQ	Le Loup	95	19650	MKT	29	0				
+P	MQ	Perry	95	19664	MKT	168	0				
+P	MQ	Princeton	95	19666	MKT	55	0				
+P	MQ	Scipio	95	19676	MKT	16	0				
+P	MQ	Somerset & Rural	95	19678	MKT	55	0				
+P	MQ	Tonganoxie	95	19684	MKT	2153	0				
+P	MQ	Wellsville	95	19690	MKT	717	0				
+P	MQ	Bronson Etc	95	20709	MKT	424	0				
+P	MQ	Carlyle	95	20712	MKT	17	0				
+P	MQ	Cherryvale	95	20714	MKT	1129	0				
+P	MQ	Colony	95	20716	MKT	400	0				
+P	MQ	Dennis	95	20720	MKT	52	0				
+P	MQ	Erie	95	20725	MKT	935	0				
+P	MQ	Gas City & La Harpe	95	20730	MKT	31	0				
+P	MQ	Parsons	95	20764	MKT	6447	0				
+P	MQ	Petrolia	95	20766	MKT	31	0				
+P	MQ	Piqua	95	20768	MKT	64	0				
+P	MQ	South Mound	95	20775	MKT	15	0				
+P	MQ	Thayer	95	20785	MKT	216	0				
+P	MQ	Walnut & St Paul	95	20788	MKT	302	0				
+P	MQ	Welda	95	20792	MKT	137	0				
+P	MQ	Baxter Springs	95	21008	MKT	1664	0				
+P	MQ	Columbus	95	21015	MKT	1432	0				
+P	MQ	Crestline	95	21018	MKT	39	0				
+P	MQ	Fort Scott	95	21021	MKT	4553	0				
+P	MQ	Galena & Empire City	95	21024	MKT	774	0				
+P	MQ	Lowell	95	21048	MKT	94	0				
+P	MQ	N Riverton	95	21055	MKT	318	0				
+P	MQ	Oswego	95	21060	MKT	982	0				
+P	MQ	Treece	95	21080	MKT	3	0				
+P	MQ	Grantville	95	24228	MKT	86	0				
+P	MQ	Meriden	95	24252	MKT	444	0				
+P	MQ	Shawnee Heights	95	24276	MKT	374	0				
+P	MQ	Topeka	95	24280	MKT	67159	0				
+P	MQ	Andover	95	27040	MKT	4423	0				
+P	MQ	Atchison	95	29001	MKT	6529	0				
+P	MQ	Emporia	95	29002	MKT	10288	0				
+P	MQ	Leavenworth	95	29003	MKT	17705	0				
+P	MQ	Effingham	95	29005	MKT	252	0				
+P	MQ	Walmart	95	129	MKT	74	0				
+P	MQ	Plum Creek Farms	95	143	MKT	5	0				
+P	MQ	Smith	95	157	MKT	23	0				
+P	MQ	South Gardner	95	164	MKT	4800	0				
+P	MQ	Arma-Girard-Pittsburg	95	206	MKT	13703	0				
+P	MQ	Cher-Scam-W. Min-Carona-Weir	95	207	MKT	1029	0				
+P	MQ	Arkansas City	95	501	MKT	6574	0				
+P	MQ	Ks Mkt Domestics	95	710	MKT	959	0				
+P	MQ	Barnard	95	3508	MKT	57	0				
+P	MQ	Ellsworth	95	3520	MKT	1570	0				
+P	MQ	Geneseo	95	3528	MKT	123	0				
+P	MQ	Kanopolis	95	3544	MKT	243	0				
+P	MQ	Lincoln	95	3548	MKT	806	0				
+P	MQ	Lucas	95	3551	MKT	351	0				
+P	MQ	Luray	95	3553	MKT	134	0				
+P	MQ	Minneapolis	95	3555	MKT	1176	0				
+P	MQ	Sylvan Grove	95	3576	MKT	213	0				
+P	MQ	Vesper	95	3588	MKT	19	0				
+P	MQ	Beloit	95	3608	MKT	2727	0				
+P	MQ	Burr Oak	95	3610	MKT	134	0				
+P	MQ	Cawker City	95	3612	MKT	196	0				
+P	MQ	Downs	95	3616	MKT	572	0				
+P	MQ	Esbon	95	3620	MKT	72	0				
+P	MQ	Formosa	95	3624	MKT	57	0				
+P	MQ	Glen Elder	95	3628	MKT	283	0				
+P	MQ	Jewell	95	3640	MKT	252	0				
+P	MQ	Lebanon	95	3648	MKT	115	0				
+P	MQ	Mankato	95	3652	MKT	572	0				
+P	MQ	Montrose	95	3654	MKT	4	0				
+P	MQ	Osborne	95	3660	MKT	877	0				
+P	MQ	Smith Center	95	3676	MKT	1167	0				
+P	MQ	Atlanta	95	6704	MKT	82	0				
+P	MQ	Benton	95	6712	MKT	570	0				
+P	MQ	Burden	95	6714	MKT	238	0				
+P	MQ	Cambridge	95	6716	MKT	21	0				
+P	MQ	Dexter	95	6720	MKT	139	0				
+P	MQ	El Dorado	95	6724	MKT	7066	0				
+P	MQ	Potwin	95	6764	MKT	179	0				
+P	MQ	Towanda	95	6780	MKT	697	0				
+P	MQ	Grenola	95	6828	MKT	135	0				
+P	MQ	Madison	95	6852	MKT	343	0				
+P	MQ	Olpe	95	6860	MKT	243	0				
+P	MQ	Circleville	95	9012	MKT	168	0				
+P	MQ	Everest	95	9020	MKT	199	0				
+P	MQ	Fairview	95	9024	MKT	168	0				
+P	MQ	Hamlin	95	9032	MKT	24	0				
+P	MQ	Hiawatha	95	9034	MKT	2013	0				
+P	MQ	Holton	95	9036	MKT	1692	0				
+P	MQ	Horton	95	9038	MKT	819	0				
+P	MQ	Huron	95	9040	MKT	26	0				
+P	MQ	Highland & Robinson	95	9042	MKT	549	0				
+P	MQ	Morrill	95	9052	MKT	91	0				
+P	MQ	Muscotah	95	9054	MKT	72	0				
+P	MQ	Netawaka	95	9057	MKT	70	0				
+P	MQ	Nortonville & Winchester	95	9059	MKT	603	0				
+P	MQ	Oskaloosa	95	9064	MKT	539	0				
+P	MQ	Ozawkie	95	9066	MKT	138	0				
+P	MQ	Reserve	95	9075	MKT	45	0				
+P	MQ	Sabetha	95	9079	MKT	1514	0				
+P	MQ	Valley Falls	95	9091	MKT	569	0				
+P	MQ	"Wathena, Elwood & Troy"	95	9093	MKT	2288	0				
+P	MQ	Whiting	95	9095	MKT	101	0				
+P	MQ	Willis	95	9097	MKT	27	0				
+P	MQ	"Kansas City, Kansas"	95	13644	MKT	12870	0				
+D	"Kansas Gas Service, a division of ONE Gas, Inc."	79254828	N	TSS-P	TS813	10/1/1994	11/1/2013	1825	N	102785	0
+P	M2	LINN - Jayhawk	95	16289	PRD	64285	0				
+P	M2	Wamsutter - Echo Springs	95	16294	PRD	25500	0				
+P	M2	Targa - Waynoka	95	16912	PRD	13000	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	102785	0				
+D	"Kansas Gas Service, a division of ONE Gas, Inc."	79254828	N	TSS	TS950	10/1/1997	10/1/2002	1825	N	0	1444509
+P	IJ	Mkt Storage	95	999021	MKT	0	10834				
+P	WR	Mkt Storage	95	999021	MKT	0	43773				
+D	"Kansas Gas Service, a division of ONE Gas, Inc."	79254828	N	TSS-M	TS950	10/1/1997	10/1/2002	1825	N	65659	0
+P	M2	Prd/Mkt Interface	95	999000	MKT	21886	0				
+P	M2	Mkt Storage	95	999021	MKT	43773	0				
+P	MQ	Merriam	95	16953	MKT	65659	0				
+D	"Kansas Gas Service, a division of ONE Gas, Inc."	79254828	N	TSS-P	TS950	10/1/1997	10/1/2002	1825	N	22623	0
+P	M2	Transwestern Canadian - Rec.	95	11377	PRD	8823	0				
+P	M2	CIG Floris	95	15266	PRD	2029	0				
+P	M2	LINN - Jayhawk	95	16289	PRD	11660	0				
+P	M2	Oneok Westex Hemphill	95	16584	PRD	111	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	22623	0				
+D	"Kansas Gas Service, a division of ONE Gas, Inc."	79254828	N	TSS	TS10483	6/1/2006	10/1/2017	1825	N	0	248061
+P	IJ	Mkt Storage	95	999021	MKT	0	1860				
+P	WR	Mkt Storage	95	999021	MKT	0	7517				
+D	"Kansas Gas Service, a division of ONE Gas, Inc."	79254828	N	TSS-M	TS10483	6/1/2006	10/1/2017	1825	N	11275	0
+P	M2	Mkt Storage	95	999021	MKT	7517	0				
+P	M2	Prd/Mkt Interface	95	999000	MKT	3758	0				
+P	MQ	Topeka	95	24280	MKT	11100	0				
+P	MQ	Effingham	95	29005	MKT	175	0				
+D	"Kansas Gas Service, a division of ONE Gas, Inc."	79254828	N	TSS-P	TS10483	6/1/2006	10/1/2017	1825	N	3892	0
+P	M2	Transwestern Canadian - Rec.	95	11377	PRD	3182	0				
+P	M2	CIG Floris	95	15266	PRD	343	0				
+P	M2	LINN - Jayhawk	95	16289	PRD	348	0				
+P	M2	Oneok Westex Hemphill	95	16584	PRD	19	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	3892	0				
+D	Kansas Municipal Gas Agency	197500080	N	TSS	TS514	10/1/1993	10/1/2018	0	N	0	6402
+P	IJ	Mkt Storage	95	999021	MKT	0	48				
+P	WR	Mkt Storage	95	999021	MKT	0	194				
+D	Kansas Municipal Gas Agency	197500080	N	TSS-M	TS514	10/1/1993	10/1/2018	0	N	374	0
+P	M2	Prd/Mkt Interface	95	999000	MKT	180	0				
+P	M2	Mkt Storage	95	999021	MKT	194	0				
+P	MQ	Burlingame	95	44021	MKT	254	0				
+P	MQ	Cassoday	95	45301	MKT	120	0				
+D	Kansas Municipal Gas Agency	197500080	N	TSS-P	TS514	10/1/1993	10/1/2018	0	N	184	0
+P	M2	OFS Maysville	95	7158	PRD	184	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	184	0				
+D	Kansas Municipal Gas Agency	197500080	N	TSS	TS560	10/1/1993	10/1/1998	1825	N	0	2277
+P	IJ	Prd Storage	95	999020	PRD	0	17				
+P	WR	Prd Storage	95	999020	PRD	0	69				
+D	Kansas Municipal Gas Agency	197500080	N	TSS-P	TS560	10/1/1993	10/1/1998	1825	N	138	0
+P	M2	LINN - Jayhawk	95	16289	PRD	69	0				
+P	M2	Prd Storage	95	999020	PRD	69	0				
+P	MQ	Partridge	95	135808	PRD	138	0				
+D	Kansas Municipal Gas Agency	197500080	N	TSS	TS561	10/1/1993	10/1/2018	0	N	0	25278
+P	IJ	Mkt Storage	95	999021	MKT	0	190				
+P	WR	Mkt Storage	95	999021	MKT	0	766				
+D	Kansas Municipal Gas Agency	197500080	N	TSS-M	TS561	10/1/1993	10/1/2018	0	N	1150	0
+P	M2	Prd/Mkt Interface	95	999000	MKT	384	0				
+P	M2	Mkt Storage	95	999021	MKT	766	0				
+P	MQ	Eskridge	95	63919	MKT	867	0				
+P	MQ	Uniontown	95	173214	MKT	152	0				
+P	MQ	Walton	95	181013	MKT	131	0				
+D	Kansas Municipal Gas Agency	197500080	N	TSS-P	TS561	10/1/1993	10/1/2018	0	N	396	0
+P	M2	LINN - Jayhawk	95	16289	PRD	396	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	396	0				
+D	Kansas Municipal Gas Agency	197500080	N	TSS	TS837	7/1/1995	10/1/2018	0	N	0	132495
+P	IJ	Mkt Storage	95	999021	MKT	0	994				
+P	WR	Mkt Storage	95	999021	MKT	0	4015				
+D	Kansas Municipal Gas Agency	197500080	N	TSS-M	TS837	7/1/1995	10/1/2018	0	N	6022	0
+P	M2	Prd/Mkt Interface	95	999000	MKT	2007	0				
+P	M2	Mkt Storage	95	999021	MKT	4015	0				
+P	MQ	Garnett KS	95	70408	MKT	2700	0				
+P	MQ	Humboldt Ks	95	84021	MKT	1222	0				
+P	MQ	Osage City Ks	95	132519	MKT	2100	0				
+D	Kansas Municipal Gas Agency	197500080	N	TSS-P	TS837	7/1/1995	10/1/2018	0	N	2075	0
+P	M2	LINN - Jayhawk	95	16289	PRD	2075	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	2075	0				
+D	Kansas Municipal Gas Agency	197500080	N	TSS	TS939	10/1/1997	10/1/2017	1825	N	0	1947
+P	IJ	Mkt Storage	95	999021	MKT	0	15				
+P	WR	Mkt Storage	95	999021	MKT	0	59				
+D	Kansas Municipal Gas Agency	197500080	N	TSS-M	TS939	10/1/1997	10/1/2017	1825	N	89	0
+P	M2	Mkt Storage	95	999021	MKT	59	0				
+P	M2	Prd/Mkt Interface	95	999000	MKT	30	0				
+P	MQ	Eskridge	95	63919	MKT	50	0				
+P	MQ	Walton	95	181013	MKT	39	0				
+D	Kansas Municipal Gas Agency	197500080	N	TSS-P	TS939	10/1/1997	10/1/2017	1825	N	43	0
+P	M2	LINN - Jayhawk	95	16289	PRD	43	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	43	0				
+D	Kansas Municipal Gas Agency	197500080	N	TSS	TS1055	10/1/2000	4/1/2021	0	N	0	9834
+P	IJ	Mkt Storage	95	999021	MKT	0	74				
+P	WR	Mkt Storage	95	999021	MKT	0	298				
+D	Kansas Municipal Gas Agency	197500080	N	TSS-M	TS1055	10/1/2000	4/1/2021	0	N	596	0
+P	M2	Mkt Storage	95	999021	MKT	298	0				
+P	M2	Prd/Mkt Interface	95	999000	MKT	298	0				
+P	MQ	Burlingame	95	44021	MKT	596	0				
+D	Kansas Municipal Gas Agency	197500080	N	TSS-P	TS1055	10/1/2000	4/1/2021	0	N	301	0
+P	M2	OFS Maysville	95	7158	PRD	301	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	301	0				
+D	"Laclede Gas Company, Missouri Gas Energy Division"	6967798	N	TSS	TS8249	6/15/2001	10/1/2018	0	N	0	16007772
+P	IJ	Mkt Storage	95	999021	MKT	0	120058				
+P	WR	Mkt Storage	95	999021	MKT	0	485084				
+D	"Laclede Gas Company, Missouri Gas Energy Division"	6967798	N	TSS-M	TS8249	6/15/2001	10/1/2018	0	N	727626	0
+P	M2	TIGT Glavin	95	16593	MKT	20000	0				
+P	M2	EGT Jane - Receipt	95	10997	MKT	55000	0				
+P	M2	Prd/Mkt Interface	95	999000	MKT	167542	0				
+P	M2	Mkt Storage	95	999021	MKT	485084	0				
+P	MQ	MGE Crenshaw Road	95	16875	MKT	1	0				
+P	MQ	Anderson	95	17404	MKT	750	0				
+P	MQ	"Ash Grove, Walnut Grove & Wil"	95	17406	MKT	1780	0				
+P	MQ	Aurora	95	17408	MKT	3561	0				
+P	MQ	Billings Mo	95	17410	MKT	725	0				
+P	MQ	Clever Mo	95	17414	MKT	393	0				
+P	MQ	Crane Mo	95	17416	MKT	813	0				
+P	MQ	Diamond	95	17418	MKT	416	0				
+P	MQ	Freistatt	95	17426	MKT	123	0				
+P	MQ	Goodman	95	17430	MKT	425	0				
+P	MQ	Lanagan	95	17448	MKT	100	0				
+P	MQ	Marionville	95	17452	MKT	1233	0				
+P	MQ	Monett	95	17454	MKT	7254	0				
+P	MQ	Mt Vernon & Verona	95	17456	MKT	2063	0				
+P	MQ	Neosho	95	17458	MKT	6216	0				
+P	MQ	Noel & North Noel	95	17460	MKT	2503	0				
+P	MQ	Nixa & Ozark	95	17462	MKT	5222	0				
+P	MQ	Pierce City	95	17464	MKT	753	0				
+P	MQ	Pineville	95	17466	MKT	350	0				
+P	MQ	Republic	95	17472	MKT	4921	0				
+P	MQ	Sarcoxie	95	17476	MKT	962	0				
+P	MQ	Seneca	95	17478	MKT	1317	0				
+P	MQ	Wentworth	95	17492	MKT	91	0				
+P	MQ	St Joseph	95	23576	MKT	70763	0				
+P	MQ	Alma	95	26304	MKT	279	0				
+P	MQ	Blackburn	95	26308	MKT	199	0				
+P	MQ	Carrollton	95	26312	MKT	3869	0				
+P	MQ	Concordia	95	26314	MKT	1944	0				
+P	MQ	Corder	95	26316	MKT	270	0				
+P	MQ	Emma	95	26325	MKT	77	0				
+P	MQ	Higginsville	95	26332	MKT	3413	0				
+P	MQ	Knobnoster	95	26344	MKT	3070	0				
+P	MQ	La Monte	95	26348	MKT	363	0				
+P	MQ	Mt Leonard	95	26352	MKT	28	0				
+P	MQ	Norborne	95	26356	MKT	523	0				
+P	MQ	Slater	95	26376	MKT	1989	0				
+P	MQ	Sweet Springs	95	26378	MKT	1231	0				
+P	MQ	Warrensburg	95	26392	MKT	3571	0				
+P	MQ	Waverly	95	26394	MKT	393	0				
+P	MQ	Easley Poultry Farm	95	138	MKT	10	0				
+P	MQ	MGE Industrial Park	95	175	MKT	500	0				
+P	MQ	Mo Mkt Domestics	95	730	MKT	292	0				
+P	MQ	"Carthage, Jasper, & Lamar"	95	4812	MKT	21194	0				
+P	MQ	Alba-Purcell-Neck City	95	11704	MKT	488	0				
+P	MQ	Carl Junction	95	11709	MKT	2286	0				
+P	MQ	Carterville	95	11712	MKT	812	0				
+P	MQ	Duenweg	95	11716	MKT	333	0				
+P	MQ	Joplin-Galloway	95	11740	MKT	37038	0				
+P	MQ	Reddings Mill	95	11772	MKT	140	0				
+P	MQ	Saginaw	95	11776	MKT	205	0				
+P	MQ	Smithfield	95	11778	MKT	25	0				
+P	MQ	Stones Corner	95	11779	MKT	461	0				
+P	MQ	Webb City	95	11792	MKT	5194	0				
+P	MQ	"Kansas City, MO"	95	13745	MKT	252806	0				
+P	MQ	Grain Valley & Lake Lotawana	95	13746	MKT	54000	0				
+P	MQ	MGE - Kentucky Avenue	95	13747	MKT	40000	0				
+P	MQ	47th & 71st & Stateline	95	13748	MKT	170000	0				
+P	MQ	Cleveland Mo	95	15012	MKT	222	0				
+P	MQ	East Lynne & Garden City	95	15020	MKT	719	0				
+P	MQ	Freeman	95	15024	MKT	202	0				
+P	MQ	Holden	95	15032	MKT	1499	0				
+P	MQ	Kingsville	95	15044	MKT	385	0				
+P	MQ	Lone Jack	95	15050	MKT	100	0				
+P	MQ	Peculiar	95	15064	MKT	670	0				
+P	MQ	Pleasant Hill	95	15066	MKT	2360	0				
+P	MQ	Dearborn MO	95	15216	MKT	1676	0				
+P	MQ	New Market & Trimble	95	15256	MKT	55	0				
+D	"Laclede Gas Company, Missouri Gas Energy Division"	6967798	N	TSS-P	TS8249	6/15/2001	10/1/2018	0	N	153957	0
+P	M2	CIG Floris	95	15266	PRD	10000	0				
+P	M2	OFS Stateline	95	15300	PRD	2000	0				
+P	M2	Velma Gas Plant	95	15430	PRD	1154	0				
+P	M2	Wamsutter - Echo Springs	95	16294	PRD	14621	0				
+P	M2	Salt Plains Storage (Withdrawal)	95	16376	PRD	1075	0				
+P	M2	Oneok Westex Hemphill	95	16584	PRD	1263	0				
+P	M2	ETC Field Services Canadian	95	16620	PRD	5067	0				
+P	M2	Fox Plant	95	16679	PRD	19826	0				
+P	M2	Cheyenne Plains - Sand Dune	95	16813	PRD	77659	0				
+P	M2	Superior - Hemphill	95	16820	PRD	4000	0				
+P	M2	Semgas Group LLC	95	16855	PRD	3887	0				
+P	M2	Superior - Perkins	95	16862	PRD	2150	0				
+P	M2	Transwestern Canadian - Rec.	95	11377	PRD	11255	0				
+P	MQ	NGPL Barton	95	121415	PRD	10000	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	143957	0				
+D	"Liberal,  Missouri, City of"	25483264	N	TSS	TS569	10/1/1993	10/1/2013	1825	N	0	6369
+A	"Utility Safety and Design, Inc."	N									
+A	Utility Gas Management	N									
+P	IJ	Mkt Storage	95	999021	MKT	0	48				
+P	WR	Mkt Storage	95	999021	MKT	0	193				
+D	"Liberal,  Missouri, City of"	25483264	N	TSS-M	TS569	10/1/1993	10/1/2013	1825	N	325	0
+A	Utility Gas Management	N									
+A	"Utility Safety and Design, Inc."	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	132	0				
+P	M2	Mkt Storage	95	999021	MKT	193	0				
+P	MQ	Liberal	95	104615	MKT	325	0				
+D	"Liberal,  Missouri, City of"	25483264	N	TSS-P	TS569	10/1/1993	10/1/2013	1825	N	136	0
+A	"Utility Safety and Design, Inc."	N									
+A	Utility Gas Management	N									
+P	M2	OFS Maysville	95	7158	PRD	36	0				
+P	M2	LINN - Jayhawk	95	16289	PRD	60	0				
+P	M2	Salt Plains Storage (Withdrawal)	95	16376	PRD	40	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	136	0				
+D	Liberty Utilities (Midstates Natural Gas) Corp.	78314967	N	TSS	TS19211	8/1/2012	12/1/2015	1825	N	0	9900
+A	"Empire District Gas Company, The"	N									
+P	IJ	Mkt Storage	95	999021	MKT	0	74				
+P	WR	Mkt Storage	95	999021	MKT	0	300				
+D	Liberty Utilities (Midstates Natural Gas) Corp.	78314967	N	TSS-M	TS19211	8/1/2012	12/1/2015	1825	N	599	0
+A	"Empire District Gas Company, The"	N									
+P	M2	Mkt Storage	95	999021	MKT	300	0				
+P	M2	Prd/Mkt Interface	95	999000	MKT	299	0				
+P	MQ	"Bourbon County, KS - Accounting Meter"	95	17000	MKT	599	0				
+D	Liberty Utilities (Midstates Natural Gas) Corp.	78314967	N	TSS-P	TS19211	8/1/2012	12/1/2015	1825	N	301	0
+A	"Empire District Gas Company, The"	N									
+P	M2	LINN - Jayhawk	95	16289	PRD	301	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	301	0				
+D	Mannford Public Works Authority	102415320	N	TSS	TS886	10/1/1996	10/1/2019	0	N	0	25443
+A	"BlueMark Energy, LLC"	N									
+P	IJ	Prd Storage	95	999020	PRD	0	191				
+P	WR	Prd Storage	95	999020	PRD	0	771				
+D	Mannford Public Works Authority	102415320	N	TSS-P	TS886	10/1/1996	10/1/2019	0	N	1450	0
+A	"BlueMark Energy, LLC"	N									
+P	M2	Prd Storage	95	999020	PRD	771	0				
+P	M2	Questar Skull Creek	95	15236	PRD	33	0				
+P	M2	CIG Floris	95	15266	PRD	646	0				
+P	MQ	Mannford	95	110908	PRD	1450	0				
+D	"Mulberry Kansas, City Of"	181583212	N	TSS	TS582	10/1/1993	10/1/2013	1825	N	0	6369
+A	"Utility Safety and Design, Inc."	N									
+A	Utility Gas Management	N									
+P	IJ	Mkt Storage	95	999021	MKT	0	48				
+P	WR	Mkt Storage	95	999021	MKT	0	193				
+D	"Mulberry Kansas, City Of"	181583212	N	TSS-M	TS582	10/1/1993	10/1/2013	1825	N	290	0
+A	"Utility Safety and Design, Inc."	N									
+A	Utility Gas Management	N									
+P	M2	Mkt Storage	95	999021	MKT	193	0				
+P	M2	Prd/Mkt Interface	95	999000	MKT	97	0				
+P	MQ	Mulberry	95	118121	MKT	290	0				
+D	"Mulberry Kansas, City Of"	181583212	N	TSS-P	TS582	10/1/1993	10/1/2013	1825	N	100	0
+A	Utility Gas Management	N									
+A	"Utility Safety and Design, Inc."	N									
+P	M2	LINN - Jayhawk	95	16289	PRD	60	0				
+P	M2	Salt Plains Storage (Withdrawal)	95	16376	PRD	40	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	100	0				
+D	"Oklahoma Natural Gas Company, a division of ONE Gas, Inc."	77349132	N	TSS	TS8343	11/1/2001	11/1/2013	1825	N	0	577500
+P	IJ	Prd Storage	95	999020	PRD	0	4331				
+P	WR	Prd Storage	95	999020	PRD	0	17500				
+D	"Oklahoma Natural Gas Company, a division of ONE Gas, Inc."	77349132	N	TSS-P	TS8343	11/1/2001	11/1/2013	1825	N	26813	0
+P	M2	LINN - Jayhawk	95	16289	PRD	8362	0				
+P	M2	Wamsutter - Echo Springs	95	16294	PRD	951	0				
+P	M2	Prd Storage	95	999020	PRD	17500	0				
+P	MQ	ONG Norman	95	16972	PRD	1	0				
+P	MQ	ONG Guthrie	95	17054	PRD	1	0				
+P	MQ	ONG Harper County	95	129311	PRD	800	0				
+P	MQ	Ok Prd Domestics	95	620	PRD	57	0				
+P	MQ	Arnett	95	904	PRD	443	0				
+P	MQ	Capron	95	912	PRD	27	0				
+P	MQ	Barnsdall	95	2008	PRD	755	0				
+P	MQ	Bartlesville & Dewey	95	2009	PRD	19047	0				
+P	MQ	Delaware	95	2016	PRD	142	0				
+P	MQ	Nowata	95	2056	PRD	2351	0				
+P	MQ	Pawhuska	95	2064	PRD	3189	0				
+D	"Oklahoma Natural Gas Company, a division of ONE Gas, Inc."	77349132	N	TSS	TS8346	11/1/2001	11/1/2013	1825	N	0	343992
+P	IJ	Mkt Storage	95	999021	MKT	0	2580				
+P	WR	Mkt Storage	95	999021	MKT	0	10424				
+D	"Oklahoma Natural Gas Company, a division of ONE Gas, Inc."	77349132	N	TSS-M	TS8346	11/1/2001	11/1/2013	1825	N	16699	0
+P	M2	Prd/Mkt Interface	95	999000	MKT	6275	0				
+P	M2	Mkt Storage	95	999021	MKT	10424	0				
+P	MQ	Welch	95	204	MKT	241	0				
+P	MQ	Ok Mkt Domestics	95	720	MKT	56	0				
+P	MQ	Vinita	95	2101	MKT	4100	0				
+P	MQ	Blue Jacket	95	16508	MKT	100	0				
+P	MQ	Commerce	95	16516	MKT	2008	0				
+P	MQ	Hockerville	95	16532	MKT	233	0				
+P	MQ	Miami	95	16552	MKT	8553	0				
+P	MQ	Quapaw	95	16568	MKT	544	0				
+P	MQ	ONG Ottawa	95	16992	MKT	864	0				
+D	"Oklahoma Natural Gas Company, a division of ONE Gas, Inc."	77349132	N	TSS-P	TS8346	11/1/2001	11/1/2013	1825	N	5589	0
+P	M2	Transwestern Canadian - Rec.	95	11377	PRD	419	0				
+P	M2	LINN - Jayhawk	95	16289	PRD	4421	0				
+P	M2	Wamsutter - Echo Springs	95	16294	PRD	749	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	5589	0				
+D	"Plattsburg Missouri, City Of"	783853229	N	TSS	TS594	10/1/1993	10/1/2008	1825	N	0	34023
+A	Constellation NewEnergy - Gas Division LLC	N									
+P	IJ	Mkt Storage	95	999021	MKT	0	255				
+P	WR	Mkt Storage	95	999021	MKT	0	1031				
+D	"Plattsburg Missouri, City Of"	783853229	N	TSS-M	TS594	10/1/1993	10/1/2008	1825	N	1720	0
+A	Constellation NewEnergy - Gas Division LLC	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	689	0				
+P	M2	Mkt Storage	95	999021	MKT	1031	0				
+P	MQ	Plattsburg	95	139712	MKT	1720	0				
+D	"Plattsburg Missouri, City Of"	783853229	N	TSS-P	TS594	10/1/1993	10/1/2008	1825	N	708	0
+A	Constellation NewEnergy - Gas Division LLC	N									
+P	M2	LINN - Jayhawk	95	16289	PRD	708	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	708	0				
+D	Public Service Company of Colorado	6915953	N	TSS	TS595	10/1/1993	10/1/1998	1825	N	0	4158
+P	IJ	Prd Storage	95	999020	PRD	0	31				
+P	WR	Prd Storage	95	999020	PRD	0	126				
+D	Public Service Company of Colorado	6915953	N	TSS-P	TS595	10/1/1993	10/1/1998	1825	N	218	0
+P	M2	CIG Riner	95	14965	PRD	92	0				
+P	M2	Prd Storage	95	999020	PRD	126	0				
+P	MQ	Merino	95	145950	PRD	218	0				
+D	"Superior, Nebraska"	0	N	TSS	TS21561	2/1/2014	11/1/2015	1825	N	0	37059
+A	National Public Gas Agency	N									
+P	IJ	Mkt Storage	95	999021	MKT	0	278				
+P	WR	Mkt Storage	95	999021	MKT	0	1123				
+D	"Superior, Nebraska"	0	N	TSS-M	TS21561	2/1/2014	11/1/2015	1825	N	1960	0
+A	National Public Gas Agency	N									
+P	M2	Prd/Mkt Interface	95	999000	MKT	837	0				
+P	M2	Mkt Storage	95	999021	MKT	1123	0				
+P	MQ	Superior	95	163100	MKT	1960	0				
+D	"Superior, Nebraska"	0	N	TSS-P	TS21561	2/1/2014	11/1/2015	1825	N	859	0
+A	National Public Gas Agency	N									
+P	M2	EOIT McClain	95	15142	PRD	705	0				
+P	M2	OFS Stateline	95	15300	PRD	154	0				
+P	MQ	Prd/Mkt Interface	95	999000	PRD	859	0				

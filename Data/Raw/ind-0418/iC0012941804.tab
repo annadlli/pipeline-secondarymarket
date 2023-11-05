@@ -1,0 +1,68 @@
+H	MIGC LLC	C001294	4/2/2018	O	4/1/2018	B	B	Jeff Molinaro 832-636-4711			
+D	Anadarko Energy Services Company	199116823	Y	FTS-1	621	8/1/2011	10/31/2018	0	N	40000	0
+P	S9	WGR Kitty Plant	95	112		40000	0				
+P	MQ	CIG Powder River	95	28989		40000	0	ym1			
+P	MQ	TGI Glenrock	95	233644		40000	0	ym1			
+D	Black Hills Energy Services Company	801767059	N	FTS-1	615	6/1/2011	5/31/2018	0	N	1600	0
+P	M2	WIC Antelope	95	272693		1600	0	ym1/x4			
+P	M2	CIG Powder River	95	28989		1600	0	ym1/x2/x4			
+P	S9	Pole Vault	95	118		1600	0	ym1/x2			
+P	M2	WBI Recluse	95	68277		1600	0	ym1/x2			
+P	S9	CLFP - Rawhide Station	95	205		1350	0				
+P	S9	CLFP - City of Wright	95	203		50	0				
+P	S9	CLFP S-Bar City Gate 6	95	207		50	0				
+P	S9	CLFP Dopplebach	95	108		150	0				
+P	MQ	TGI Glenrock	95	233644		1600	0	x3			
+D	"Wyoming Producer-Consumer Alliance, LLC"	159859586	N	FTS-1	617	6/1/2011	5/31/2018	0	N	3883	0
+P	M2	WIC Antelope	95	272693		3883	0	ym1/x2/x4			
+P	M2	WBI Recluse	95	68277		3883	0	ym1/x2			
+P	S9	Little Thunder	95	113		3883	0	ym1/x2			
+P	S9	Pronghorn	95	119		3883	0	ym1			
+P	S9	Pole Vault	95	118		3883	0	ym1			
+P	S9	CLFP - Rawhide Station	95	205		2611	0				
+P	S9	CLFP - City of Wright	95	203		142	0				
+P	S9	CLFP S-Bar City Gate 6	95	207		1038	0				
+P	S9	CLFP Dopplebach	95	108		92	0				
+D	"CNE Gas Supply, LLC"	829868981	N	FTS-1	630	6/1/2012	5/31/2018	0	N	4000	0
+P	M2	WIC Antelope	95	272693		4000	0	ym1/x4			
+P	M2	TGI Glenrock	95	233644		4000	0	ym1/x2/x4			
+P	M2	CIG Powder River	95	28989		4000	0	ym1/x2/x4			
+P	S9	Pole Vault	95	118		4000	0	ym1			
+P	M2	WBI Recluse	95	68277		4000	0	ym1			
+P	S9	CLFP - Rawhide Station	95	205		2800	0	ym1			
+P	S9	CLFP - City of Wright	95	203		140	0	ym1			
+P	S9	CLFP S-Bar City Gate 6	95	207		580	0	ym1			
+P	S9	CLFP Dopplebach	95	108		480	0	ym1			
+D	"CenterPoint Energy Services, Inc"	838611739	N	FTS-1	647	6/1/2016	5/31/2018	0	N	8	0
+P	M2	WIC Antelope	95	272693		8	0	ym1/x4			
+P	M2	TGI Glenrock	95	233644		8	0	ym1/x2/x4			
+P	M2	CIG Powder River	95	28989		8	0	ym1/x2/x4			
+P	M2	WBI Recluse	95	68277		8	0	ym1/x2			
+P	S9	CLFP - Rawhide Station	95	205		8	0				
+P	S9	CLFP - City of Wright	95	203		8	0				
+P	S9	CLFP S-Bar City Gate 6	95	207		8	0				
+P	S9	CLFP Dopplebach	95	108		8	0				
+D	"Vista Energy Marketing, L.P."	829271746	N	FTS-1	629	6/1/2012	5/31/2018	0	N	801	0
+P	M2	WIC Antelope	95	272693		801	0	x4			
+P	S9	CLFP - Rawhide Station	95	205		580	0	ym1			
+P	S9	CLFP - City of Wright	95	203		28	0	ym1			
+P	S9	CLFP S-Bar City Gate 6	95	207		120	0	ym1			
+P	S9	CLFP Dopplebach	95	108		73	0	ym1			
+D	Archer Energy LLC	79693561	N	FTS-1	649	6/1/2016	5/31/2018	0	N	250	0
+P	M2	WIC Antelope	95	272693		250	0	ym1/x4			
+P	M2	CIG Powder River	95	28989		250	0	ym1/x4			
+P	M2	WBI Recluse	95	68277		250	0	ym1			
+P	S9	CLFP - Rawhide Station	95	205		250	0				
+P	S9	CLFP - City of Wright	95	203		250	0				
+P	S9	CLFP S-Bar City Gate 6	95	207		250	0				
+P	S9	CLFP Dopplebach	95	108		250	0				
+D	"Cheyenne Light, Fuel and Power Company"	6915144	N	FTS-1	654	5/1/2017	4/30/2020	0	N	2000	0
+P	M2	WIC Antelope	95	272693		2000	0	ym1/x4			
+P	M2	TGI Glenrock	95	233644		2000	0	ym1/x2/x4			
+P	M2	CIG Powder River	95	28989		2000	0	ym1/x2/x4			
+P	M2	WBI Recluse	95	68277		2000	0	ym1/x2			
+P	S9	CLFP - Rawhide Station	95	205		2000	0				
+F	1	The sum of all receipt and delivery points shall not exceed the transportation contract demand.									
+F	2	Receipt is on a secondary basis.									
+F	3	Delivery is on a secondary basis.									
+F	4	Receipt is by displacement.									

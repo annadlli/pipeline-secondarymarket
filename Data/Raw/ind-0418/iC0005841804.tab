@@ -1,0 +1,16 @@
+H	OKTex Pipeline Company	C000584	4/2/2018	O	4/1/2018	T		Teri Tingler 918-588-7745		
+D	New Mexico Gas Company	825244697	N	FTS	FTA044	11/1/2007	11/30/2018		N	222
+P	M2	El Paso Anthony	29	703480		222			P	
+P	MQ	PNM-Anthony	29	703481		222			P	
+D	New Mexico Gas Company	825244697	N	FTS	FTC044	11/1/2007	11/30/2018		N	330
+P	M2	El Paso Canutillo	29	703488		330			P	
+P	MQ	PNM-Canutillo	29	703483		330			P	
+D	Tenaska Marketing Ventures	624240628	N	FTS	FTR002	1/1/2014	10/31/2019		N	40000
+P	M2	OGT Caprock (REC)	29	703454		40000			P	
+P	MQ	Westex Caprock (DEL)	29	382629		40000			P	
+D	Texas Gas Services	47030002	N	FTS	FTA009	11/1/2007	2/29/2020		N	1000
+P	M2	El Paso Anthony	29	703480		1000			P	
+P	MQ	TGS-Anthony 	29	703482		1000			P	
+D	Texas Gas Services	47030002	N	FTS	FTC009	11/1/2007	2/29/2020		N	4000
+P	M2	El Paso Canutillo	29	703488		4000			P	
+P	MQ	TGS-Canutillo	29	703487		4000			P	

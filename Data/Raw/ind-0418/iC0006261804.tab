@@ -1,0 +1,400 @@
+H	Northern Border Pipeline	C000626	4/2/2018	O	4/1/2018	T		Kay Dennison 832-320-5336		
+D	Ameren Illinois Company	6936017	N	FTL-1	PL001F	11/1/2011	10/31/2021		Y	121320
+P	M2	Princeton TP	95	1231252		121320				
+P	MQ	Princeton	95	1231251		121320				
+D	Ameren Illinois Company	6936017	N	T-1	T5601F	11/1/2010	3/31/2021		N	82746
+P	M2	Port of Morgan	95	13293		82746				
+P	MQ	Manhattan	95	233632		82746				
+D	Anadarko Energy Services Company	199116823	N	T-1	T6874F	1/14/2011	1/31/2021		N	243750
+P	M2	Port of Morgan	95	13293		243750				
+P	MQ	Ventura	95	4680		243750				
+D	Arconic Inc.	1339472	N	T-1	T1064F	12/22/1998	10/31/2021		N	7156
+A	"U.S. Energy Services, Inc."	N	ye1							
+P	M2	Ventura	95	4680		7156				
+P	MQ	Davenport	95	227976		7156				
+D	Arconic Inc.	1339472	N	T-1	T1110F	12/22/1998	10/31/2021		N	6066
+A	"U.S. Energy Services, Inc."	N	ye1							
+P	M2	Ventura	95	4680		6066				
+P	MQ	Manhattan	95	233632		6066				
+D	Arconic Inc.	1339472	N	T-1	T3784F	7/1/2007	10/31/2021		N	9099
+A	"U.S. Energy Services, Inc."	N	ye1							
+P	M2	Ventura	95	4680		9099				
+P	MQ	Manhattan	95	233632		9099				
+D	BP Canada Energy Marketing Corp.	248799413	N	T-1	T7590F	4/1/2012	3/31/2020		N	40039
+P	M2	Port of Morgan	95	13293		40039				
+P	MQ	Welcome	95	11958		40039				
+D	BP Canada Energy Marketing Corp.	248799413	N	T-1	TA706F	4/1/2014	3/31/2024		N	50000
+P	M2	Port of Morgan	95	13293		50000				
+P	MQ	Ventura	95	4680		50000				
+D	BP Canada Energy Marketing Corp.	248799413	N	T-1	TB683F	3/1/2014	7/31/2020		Y	33481
+P	M2	Hebron	95	134641		33481				
+P	MQ	Ventura	95	4680		33481				
+D	BP Canada Energy Marketing Corp.	248799413	N	T-1	TC045F	4/1/2014	3/31/2020		Y	25025
+P	M2	Port of Morgan	95	13293		25025				
+P	MQ	Ventura	95	4680		25025				
+D	BP Canada Energy Marketing Corp.	248799413	N	T-1	TD203F	4/1/2016	3/31/2019		Y	10010
+P	M2	Port of Morgan	95	13293		10010				
+P	MQ	Welcome	95	11958		10010				
+D	BP Canada Energy Marketing Corp.	248799413	N	T-1	TD204F	4/1/2016	3/31/2019		Y	5963
+P	M2	Port of Morgan	95	13293		5963				
+P	MQ	Ventura	95	4680		5963				
+D	BP Canada Energy Marketing Corp.	248799413	N	T-1	TD288F	2/1/2016	3/31/2022		N	20489
+P	M2	Port of Morgan	95	13293		20489				
+P	MQ	Ventura	95	4680		20489				
+D	BP Canada Energy Marketing Corp.	248799413	N	T-1	TD382F	4/1/2016	3/31/2022		N	5050
+P	M2	Port of Morgan	95	13293		5050				
+P	MQ	Ventura	95	4680		5050				
+D	BP Canada Energy Marketing Corp.	248799413	N	T-1	TL171F	3/1/2018	12/31/2018		N	104333
+P	M2	Ventura	95	4680		104333				
+P	MQ	Harper	95	103750		104333				
+D	BP Canada Energy Marketing Corp.	248799413	N	T-1	TL440F	4/1/2018	4/2/2018		N	39689
+P	M2	Port of Morgan	95	13293		39689				
+P	MQ	Ventura	95	4680		39689				
+D	"BioUrja Trading, LLC"	787045892	N	T-1	TL444F	4/1/2018	4/2/2018		N	1695
+P	M2	Port of Morgan	95	13293		1695				
+P	MQ	Ventura	95	4680		1695				
+D	ConocoPhillips Company	1368265	N	T-1	T7023F	11/1/2010	4/30/2025		N	52520
+P	M2	Port of Morgan	95	13293		52520				
+P	MQ	Ventura	95	4680		52520				
+D	ConocoPhillips Company	1368265	N	T-1	T7251F	4/1/2011	10/31/2021		N	11311
+P	M2	Port of Morgan	95	13293		11311				
+P	MQ	Ventura	95	4680		11311				
+D	ConocoPhillips Company	1368265	N	T-1	TD098F	4/1/2015	3/31/2019		N	50000
+P	M2	Ventura	95	4680		50000				
+P	MQ	North Hayden	95	293700		50000				
+D	"Continental Resources, Inc."	74292095	N	T-1	T9279F	11/1/2013	10/31/2027		Y	30550
+P	M2	Port of Morgan	95	13293		30550				
+P	MQ	Ventura	95	4680		30550				
+D	"Continental Resources, Inc."	74292095	N	T-1	TC076F	1/1/2015	3/31/2025		N	10253
+P	M2	Port of Morgan	95	13293		10253				
+P	MQ	Ventura	95	4680		10253				
+D	Crestwood Energy Services LLC	990000010	N	T-1B	FB0691	4/1/2018	12/31/2018		N	120000
+P	M2	Kurtz	95	1109385		120000				
+P	MQ	Port of Morgan	95	13293		120000				
+D	Dakota Gasification Company	611935339	N	T-1	T7577F	1/1/2014	12/31/2020		Y	45778
+P	M2	Hebron	95	134641		45778				
+P	MQ	Harper	95	103750		45778				
+D	Dakota Gasification Company	611935339	N	T-1	T7578F	1/1/2014	12/31/2020		Y	33481
+P	M2	Hebron	95	134641		33481				
+P	MQ	Ventura	95	4680		33481				
+D	Dakota Gasification Company	611935339	N	T-1	TL036F	3/1/2018	12/31/2018		N	104333
+P	M2	Ventura	95	4680		104333				
+P	MQ	Harper	95	103750		104333				
+D	"EDF Trading North America, LLC"	130385763	N	T-1	T6877F	11/1/2010	10/31/2020		N	30000
+P	M2	Port of Morgan	95	13293		30000				
+P	MQ	Manhattan	95	233632		30000				
+D	"EDF Trading North America, LLC"	130385763	N	T-1	T6899F	11/1/2010	10/31/2021		N	15750
+P	M2	Port of Morgan	95	13293		15750				
+P	MQ	Ventura	95	4680		15750				
+D	"EDF Trading North America, LLC"	130385763	N	T-1	T7930F	11/1/2012	3/31/2023		N	3551
+P	M2	Port of Morgan	95	13293		3551				
+P	MQ	Manhattan	95	233632		3551				
+D	"EDF Trading North America, LLC"	130385763	N	T-1	TC193F	11/1/2015	10/31/2023		N	20000
+P	M2	Port of Morgan	95	13293		20000				
+P	MQ	Ventura	95	4680		20000				
+D	"EDF Trading North America, LLC"	130385763	N	T-1	TD133F	11/1/2015	10/31/2020		N	20000
+P	M2	Port of Morgan	95	13293		20000				
+P	MQ	Ventura	95	4680		20000				
+D	"EDF Trading North America, LLC"	130385763	N	T-1	TD574F	4/1/2016	10/31/2020		N	20000
+P	M2	Port of Morgan	95	13293		20000				
+P	MQ	Ventura	95	4680		20000				
+D	Green Plains Fairmont LLC	79206047	N	T-1	TC079F	6/1/2014	10/31/2020		N	11000
+P	M2	Port of Morgan	95	13293		11000				
+P	MQ	North Hayden	95	293700		11000				
+D	Green Plains Holdings II LLC	75842174	N	T-1	TC077F	6/1/2014	10/31/2020		N	9000
+P	M2	Port of Morgan	95	13293		9000				
+P	MQ	North Hayden	95	293700		9000				
+D	Green Plains Trade Group LLC	848984915	N	T-1	TC078F	6/1/2014	10/31/2020		N	5000
+P	M2	Port of Morgan	95	13293		5000				
+P	MQ	North Hayden	95	293700		5000				
+D	Green Plains Trade Group LLC	848984915	N	T-1	TL006F	3/1/2018	12/31/2018		N	104333
+P	M2	Ventura	95	4680		104333				
+P	MQ	Harper	95	103750		104333				
+D	Hammerhead Resources Inc.	203248208	N	T-1	TK447F	4/1/2018	3/31/2044		N	6105
+P	M2	Port of Morgan	95	13293		6105				
+P	MQ	Manhattan	95	233632		6105				
+D	Hess Trading Corporation 	78702574	N	T-1	TA797F	1/1/2014	10/31/2025		N	46593
+P	M2	Watford City	95	109973		46593				
+P	MQ	Ventura	95	4680		46593				
+D	Hess Trading Corporation 	78702574	N	T-1	TA800F	1/1/2014	3/31/2019		N	10100
+P	M2	Port of Morgan	95	13293		10100				
+P	MQ	Ventura	95	4680		10100				
+D	Husky Marketing and Supply Company 	801450573	N	T-1	T6629F	11/1/2010	10/31/2020		N	92920
+P	M2	Port of Morgan	95	13293		92920				
+P	MQ	Ventura	95	4680		92920				
+D	Husky Marketing and Supply Company 	801450573	N	T-1	T7863F	4/1/2014	10/31/2020		N	25250
+P	M2	Port of Morgan	95	13293		25250				
+P	MQ	Ventura	95	4680		25250				
+D	Husky Marketing and Supply Company 	801450573	N	T-1	T7864F	4/1/2014	10/31/2020		N	31683
+P	M2	Port of Morgan	95	13293		31683				
+P	MQ	Ventura	95	4680		31683				
+D	Interstate Power and Light Company	6940522	N	T-1B	FB0685	5/1/2012	3/31/2019		N	84000
+P	M2	Ventura	95	4680		84000				
+P	MQ	Yale	95	378215		84000				
+D	Interstate Power and Light Company	6940522	N	T-1B	FB0688	4/1/2018	12/31/2018		N	120000
+P	M2	Joliet	95	282409		120000				
+P	MQ	Ventura	95	4680		120000				
+D	Interstate Power and Light Company	6940522	N	T-1B	FB0690	4/1/2018	12/31/2018		N	72000
+P	M2	Joliet	95	282409		72000				
+P	MQ	Ventura	95	4680		72000				
+D	Interstate Power and Light Company	6940522	N	T-1B	FB0692	4/1/2018	3/31/2028		N	70000
+P	M2	Youngs Road	95	22612		70000				
+P	MQ	Yale	95	378215		70000				
+D	Interstate Power and Light Company	6940522	N	T-1	T4919F	5/23/2009	3/31/2024		N	7700
+P	M2	Port of Morgan	95	13293		7700				
+P	MQ	Manhattan	95	233632		7700				
+D	Interstate Power and Light Company	6940522	N	T-1	T7535F	4/1/2012	3/31/2020		N	20540
+P	M2	Port of Morgan	95	13293		20540				
+P	MQ	Ventura	95	4680		20540				
+D	Interstate Power and Light Company	6940522	N	T-1	T7599F	4/1/2012	3/31/2020		N	10244
+P	M2	Port of Morgan	95	13293		10244				
+P	MQ	Marshalltown	95	1401028		10244				
+D	Interstate Power and Light Company	6940522	N	T-1	TH440F	2/1/2017	3/31/2020		N	30000
+P	M2	Ventura	95	4680		30000				
+P	MQ	Marshalltown	95	1401028		30000				
+D	J. Aron & Company LLC	6980312	N	T-1	T1067F	12/22/1998	3/31/2024		N	20907
+P	M2	Port of Morgan	95	13293		20907				
+P	MQ	Harper	95	103750		20907				
+D	J. Aron & Company LLC	6980312	N	T-1	T2138F	1/1/2004	3/31/2023		N	5151
+P	M2	Port of Morgan	95	13293		5151				
+P	MQ	Manhattan	95	233632		5151				
+D	"James Valley Ethanol, LLC d/b/a POET Bio"	125451992	N	T-1	TD883F	11/1/2016	10/31/2021		Y	5050
+P	M2	Port of Morgan	95	13293		5050				
+P	MQ	Milbank	95	80456		5050				
+D	"Koch Energy Services, LLC"	832703297	N	T-1	TK938F	4/1/2018	5/31/2018		N	89500
+P	M2	Ventura	95	4680		89500				
+P	MQ	North Hayden	95	293700		89500				
+D	"Koch Energy Services, LLC"	832703297	N	T-1	TL445F	4/1/2018	4/2/2018		N	59534
+P	M2	Port of Morgan	95	13293		59534				
+P	MQ	Ventura	95	4680		59534				
+D	Macquarie Energy LLC 	798846036	N	T-1	TK883F	4/1/2018	5/31/2018		N	89500
+P	M2	Ventura	95	4680		89500				
+P	MQ	North Hayden	95	293700		89500				
+D	Macquarie Energy LLC 	798846036	N	T-1	TL442F	4/1/2018	4/2/2018		N	39689
+P	M2	Port of Morgan	95	13293		39689				
+P	MQ	Ventura	95	4680		39689				
+D	MidAmerican Energy Company	884718768	N	T-1	T1100F	12/22/1998	10/31/2021		N	10211
+P	M2	Ventura	95	4680		10211				
+P	MQ	Iowa City	95	227974		10211				
+D	MidAmerican Energy Company	884718768	N	T-1	T1101F	12/22/1998	10/31/2021		N	29723
+P	M2	Ventura	95	4680		29723				
+P	MQ	Davenport	95	227976		29723				
+D	MidAmerican Energy Company	884718768	N	T-1	T1102F	12/22/1998	10/31/2021		N	1011
+P	M2	Ventura	95	4680		1011				
+P	MQ	Prophetstown	95	227979		1011				
+D	MidAmerican Energy Company	884718768	N	T-1	T1142F	2/15/2001	10/31/2021		N	10110
+P	M2	Davenport	95	227976		10110				
+P	MQ	Cordova	95	288195		10110				
+D	"MidAmerican Energy Services, LLC"	79749570	N	T-1B	FB0684	4/1/2012	12/31/2019		N	1500
+P	M2	Ventura	95	4680		1500				
+P	MQ	Yale	95	378215		1500				
+D	"MidAmerican Energy Services, LLC"	79749570	N	T-1	T6820F	1/14/2011	1/31/2021		N	5050
+P	M2	Port of Morgan	95	13293		5050				
+P	MQ	Ventura	95	4680		5050				
+D	Minnesota Energy Resources Corporation	780062605	N	T-1	T6873F	1/14/2011	1/31/2021		N	50000
+P	M2	Port of Morgan	95	13293		50000				
+P	MQ	Ventura	95	4680		50000				
+D	"Montana-Dakota Utilities Co., a division"	6962286	N	T-1	T1065F	12/22/1998	12/31/2023		N	10100
+P	M2	Port of Morgan	95	13293		10100				
+P	MQ	Mina	95	135698		10100				
+D	Morgan Stanley Capital Group Inc.	130198013	N	T-1	TK702F	4/1/2018	6/30/2018		N	50000
+P	M2	Ventura	95	4680		50000				
+P	MQ	Joliet	95	282409		50000				
+D	NJR Energy Services Company	25715165	N	T-1	T7496F	4/1/2012	3/31/2024		N	10605
+P	M2	Port of Morgan	95	13293		10605				
+P	MQ	Ventura	95	4680		10605				
+D	NJR Energy Services Company	25715165	N	T-1	T7534F	6/1/2012	5/31/2023		N	21408
+P	M2	Port of Morgan	95	13293		21408				
+P	MQ	North Hayden	95	293700		21408				
+D	NJR Energy Services Company	25715165	N	T-1	T7580F	4/1/2012	4/30/2018		N	20490
+P	M2	Port of Morgan	95	13293		20490				
+P	MQ	Ventura	95	4680		20490				
+D	NJR Energy Services Company	25715165	N	T-1	TC293F	11/1/2015	4/30/2021		N	5733
+P	M2	Port of Morgan	95	13293		5733				
+P	MQ	Ventura	95	4680		5733				
+D	NJR Energy Services Company	25715165	N	T-1	TL434F	4/1/2018	4/30/2018		N	9774
+P	M2	Port of Morgan	95	13293		9774				
+P	MQ	North Hayden	95	293700		9774				
+D	North Shore Gas Company	6936306	N	T-1	T1066F	12/22/1998	3/31/2021		N	40440
+P	M2	Ventura	95	4680		40440				
+P	MQ	Manhattan	95	233632		40440				
+D	"NorthWestern Corporation, d/b/a NorthWes"	7920291	N	T-1	T3959F	11/1/2007	10/31/2019		N	7070
+A	Tenaska Marketing Ventures	N	ye1							
+P	M2	Port of Morgan	95	13293		7070				
+P	MQ	Brandt	95	369765		7070				
+D	"NorthWestern Corporation, d/b/a NorthWes"	7920291	N	T-1	T9106F	11/1/2013	10/31/2019		N	8080
+P	M2	Port of Morgan	95	13293		8080				
+P	MQ	Brandt	95	369765		8080				
+D	Northern Illinois Gas Company d/b/a Nico	6927792	N	T-1B	FB0682	10/1/2011	10/31/2023		N	20000
+P	M2	Channahon	95	227981		20000				
+P	MQ	Troy Grove	95	227980		20000				
+D	Northern Illinois Gas Company d/b/a Nico	6927792	N	T-1B	FB0683	11/1/2012	10/31/2018		N	50000
+P	M2	Channahon	95	227981		50000				
+P	MQ	Troy Grove	95	227980		50000				
+D	Northern Illinois Gas Company d/b/a Nico	6927792	N	T-1B	FB0686	11/1/2014	10/31/2018		N	50000
+P	M2	Channahon	95	227981		50000				
+P	MQ	Troy Grove	95	227980		50000				
+D	Northern Illinois Gas Company d/b/a Nico	6927792	N	T-1	T7528F	10/1/2011	10/31/2023		N	20220
+P	M2	Ventura	95	4680		20220				
+P	MQ	North Hayden	95	293700		20220				
+D	Northern Illinois Gas Company d/b/a Nico	6927792	N	T-1	TD253F	11/1/2015	10/31/2020		N	50000
+P	M2	Ventura	95	4680		50000				
+P	MQ	North Hayden	95	293700		50000				
+D	"Northern States Power Company, a Minneso"	6962419	N	FCSDP	DP001F	3/8/2009	3/31/2027		Y	60000
+P	M2	Des Plaines	95	769471		60000				
+P	MQ	Des Plaines TP	95	769473		60000				
+D	"Northern States Power Company, a Minneso"	6962419	N	T-1B	FB0676	3/8/2009	3/31/2027		Y	59681
+P	M2	Des Plaines TP	95	769473		59681				
+P	MQ	Ventura	95	4680		59681				
+D	"ONEOK Rockies Midstream, L.L.C."	933845604	Y	T-1	T7152F	4/1/2011	3/31/2024		N	10302
+P	M2	Port of Morgan	95	13293		10302				
+P	MQ	Ventura	95	4680		10302				
+D	"ONEOK Rockies Midstream, L.L.C."	933845604	Y	T-1	T7336F	9/1/2011	10/31/2022		N	27013
+P	M2	Port of Morgan	95	13293		27013				
+P	MQ	Ventura	95	4680		27013				
+D	"ONEOK Rockies Midstream, L.L.C."	933845604	Y	T-1	T7579F	4/1/2012	3/31/2021		N	19084
+P	M2	Port of Morgan	95	13293		19084				
+P	MQ	Ventura	95	4680		19084				
+D	"ONEOK Rockies Midstream, L.L.C."	933845604	Y	T-1	T8279F	4/1/2013	3/31/2022		N	12120
+P	M2	Port of Morgan	95	13293		12120				
+P	MQ	Ventura	95	4680		12120				
+D	"ONEOK Rockies Midstream, L.L.C."	933845604	Y	T-1	T8280F	1/1/2013	3/31/2022		N	10367
+P	M2	Port of Morgan	95	13293		10367				
+P	MQ	Ventura	95	4680		10367				
+D	"ONEOK Rockies Midstream, L.L.C."	933845604	Y	T-1	T8307F	4/1/2013	3/31/2021		N	15445
+P	M2	Port of Morgan	95	13293		15445				
+P	MQ	Ventura	95	4680		15445				
+D	"ONEOK Rockies Midstream, L.L.C."	933845604	Y	T-1	TA249F	11/1/2013	10/31/2020		N	10749
+P	M2	Port of Morgan	95	13293		10749				
+P	MQ	Ventura	95	4680		10749				
+D	"ONEOK Rockies Midstream, L.L.C."	933845604	Y	T-1	TC106F	11/1/2014	1/31/2021		N	97500
+P	M2	Port of Morgan	95	13293		97500				
+P	MQ	Ventura	95	4680		97500				
+D	"ONEOK Rockies Midstream, L.L.C."	933845604	Y	T-1	TC399F	8/1/2015	7/31/2022		N	50000
+P	M2	Ventura	95	4680		50000				
+P	MQ	North Hayden	95	293700		50000				
+D	"ONEOK Rockies Midstream, L.L.C."	933845604	Y	T-1	TD403F	6/1/2016	5/31/2021		N	45000
+P	M2	Port of Morgan	95	13293		45000				
+P	MQ	North Hayden	95	293700		45000				
+D	"Omimex Canada, Ltd."	139883453	N	T-1	T2123F	12/1/2003	12/31/2023		N	4500
+A	"Constellation Energy Services, Inc."	N	ye1							
+P	M2	Port of Morgan	95	13293		4500				
+P	MQ	Manhattan	95	233632		4500				
+D	"PLCP, L.P."	990000003	N	T-1	T3952F	11/1/2007	10/31/2021		N	6900
+A	"Constellation NewEnergy - Gas Division, "	N	ye1							
+P	M2	Ventura	95	4680		6900				
+P	MQ	Ackley	95	429680		6900				
+D	"Scout Energy Group II, LP"	78518788	N	T-1	TD570F	11/1/2015	12/31/2020		N	10100
+A	"CIMA Energy, LP"	N	ye1							
+P	M2	Port of Morgan	95	13293		10100				
+P	MQ	Ventura	95	4680		10100				
+D	"Scout Energy Group II, LP"	78518788	N	T-1	TD571F	11/1/2015	3/31/2020		N	8148
+A	"CIMA Energy, LP"	N	ye1							
+P	M2	Port of Morgan	95	13293		8148				
+P	MQ	Ventura	95	4680		8148				
+D	"Sequent Energy Management, L.P."	612075846	N	T-1	T5183F	11/1/2008	3/31/2022		N	30918
+P	M2	Port of Morgan	95	13293		30918				
+P	MQ	Ventura	95	4680		30918				
+D	"Sequent Energy Management, L.P."	612075846	N	T-1	T9299F	11/1/2013	4/30/2022		N	34000
+P	M2	Port of Morgan	95	13293		34000				
+P	MQ	Ventura	95	4680		34000				
+D	"Sequent Energy Management, L.P."	612075846	N	T-1	TC254F	11/1/2015	10/31/2026		N	5733
+P	M2	Port of Morgan	95	13293		5733				
+P	MQ	Ventura	95	4680		5733				
+D	"Sequent Energy Management, L.P."	612075846	N	T-1	TG022F	4/1/2017	3/31/2019		Y	29686
+P	M2	Port of Morgan	95	13293		29686				
+P	MQ	Harper	95	103750		29686				
+D	"Sequent Energy Management, L.P."	612075846	N	T-1	TG025F	11/1/2017	10/31/2021		Y	30922
+P	M2	Port of Morgan	95	13293		30922				
+P	MQ	Ventura	95	4680		30922				
+D	"Sequent Energy Management, L.P."	612075846	N	T-1	TG026F	11/1/2017	10/31/2020		Y	12625
+P	M2	Port of Morgan	95	13293		12625				
+P	MQ	Manhattan	95	233632		12625				
+D	"Sequent Energy Management, L.P."	612075846	N	T-1	TG027F	11/1/2017	10/31/2021		Y	30891
+P	M2	Port of Morgan	95	13293		30891				
+P	MQ	Ventura	95	4680		30891				
+D	"Sequent Energy Management, L.P."	612075846	N	T-1	TG028F	1/1/2018	12/31/2021		Y	6111
+P	M2	Port of Morgan	95	13293		6111				
+P	MQ	Ventura	95	4680		6111				
+D	"Sequent Energy Management, L.P."	612075846	N	T-1	TH455F	4/1/2018	3/31/2023		Y	14656
+P	M2	Port of Morgan	95	13293		14656				
+P	MQ	Manhattan	95	233632		14656				
+D	"Shell Energy North America (US), L.P."	837565548	N	T-1	T6956F	4/1/2011	3/31/2025		N	47524
+P	M2	Port of Morgan	95	13293		47524				
+P	MQ	Ventura	95	4680		47524				
+D	Suncor Energy Marketing Inc.	256788639	N	T-1	TL433F	4/1/2018	4/30/2018		N	14226
+P	M2	Port of Morgan	95	13293		14226				
+P	MQ	North Hayden	95	293700		14226				
+D	Suncor Energy Marketing Inc.	256788639	N	T-1	TL443F	4/1/2018	4/2/2018		N	50000
+P	M2	Port of Morgan	95	13293		50000				
+P	MQ	North Hayden	95	293700		50000				
+D	Tenaska Marketing Ventures	624240628	N	T-1B	FB0689	4/1/2018	12/31/2018		N	150000
+P	M2	Joliet	95	282409		150000				
+P	MQ	Ventura	95	4680		150000				
+D	Tenaska Marketing Ventures	624240628	N	T-1	T1113F	4/1/1998	3/31/2019		N	11547
+P	M2	Hebron	95	134641		11547				
+P	MQ	Harper	95	103750		11547				
+D	Tenaska Marketing Ventures	624240628	N	T-1	T1152F	2/1/2001	3/31/2024		N	15782
+P	M2	Charbonneau	95	768099		15782				
+P	MQ	Harper	95	103750		15782				
+D	Tenaska Marketing Ventures	624240628	N	T-1	T1937F	2/1/2003	3/31/2019		N	14053
+P	M2	Harper	95	103750		14053				
+P	MQ	Prophetstown	95	227979		14053				
+D	Tenaska Marketing Ventures	624240628	N	T-1	T5046F	1/1/2009	3/31/2020		N	7200
+P	M2	Hebron	95	134641		7200				
+P	MQ	Ventura	95	4680		7200				
+D	Tenaska Marketing Ventures	624240628	N	T-1	T5444F	4/1/2009	4/2/2021		N	90306
+P	M2	Ventura	95	4680		90306				
+P	MQ	Manhattan	95	233632		90306				
+D	Tenaska Marketing Ventures	624240628	N	T-1	T5445F	5/23/2009	4/2/2021		N	15165
+P	M2	Ventura	95	4680		15165				
+P	MQ	Manhattan	95	233632		15165				
+D	Tenaska Marketing Ventures	624240628	N	T-1	T5446F	11/1/2009	11/2/2019		N	15159
+P	M2	Port of Morgan	95	13293		15159				
+P	MQ	Manhattan	95	233632		15159				
+D	Tenaska Marketing Ventures	624240628	N	T-1	T5447F	12/22/2009	3/31/2020		N	20806
+P	M2	Port of Morgan	95	13293		20806				
+P	MQ	Manhattan	95	233632		20806				
+D	Tenaska Marketing Ventures	624240628	N	T-1	T5448F	1/1/2010	3/31/2020		N	10100
+P	M2	Port of Morgan	95	13293		10100				
+P	MQ	Manhattan	95	233632		10100				
+D	Tenaska Marketing Ventures	624240628	N	T-1	T5449F	4/1/2010	4/2/2020		N	5858
+P	M2	Port of Morgan	95	13293		5858				
+P	MQ	Manhattan	95	233632		5858				
+D	Tenaska Marketing Ventures	624240628	N	T-1	T5450F	4/1/2010	4/2/2020		N	10418
+P	M2	Port of Morgan	95	13293		10418				
+P	MQ	Manhattan	95	233632		10418				
+D	Tenaska Marketing Ventures	624240628	N	T-1	T5451F	4/6/2010	4/7/2020		N	5111
+P	M2	Port of Morgan	95	13293		5111				
+P	MQ	Manhattan	95	233632		5111				
+D	Tenaska Marketing Ventures	624240628	N	T-1	T6209F	9/1/2009	3/31/2019		N	60986
+P	M2	Port of Morgan	95	13293		60986				
+P	MQ	Ventura	95	4680		60986				
+D	Tenaska Marketing Ventures	624240628	N	T-1	T6898F	11/1/2010	3/31/2019		N	70279
+P	M2	Port of Morgan	95	13293		70279				
+P	MQ	Ventura	95	4680		70279				
+D	Tenaska Marketing Ventures	624240628	N	T-1	TL441F	4/1/2018	4/2/2018		N	174014
+P	M2	Port of Morgan	95	13293		174014				
+P	MQ	Ventura	95	4680		174014				
+D	The Peoples Gas Light and Coke Company	6932115	N	T-1	T5139F	4/1/2009	4/2/2021		N	59614
+P	M2	Ventura	95	4680		59614				
+P	MQ	Manhattan	95	233632		59614				
+D	Tidal Energy Marketing (U.S.) L.L.C.	39664953	N	T-1	T6968F	4/1/2011	11/30/2020		N	20481
+P	M2	Port of Morgan	95	13293		20481				
+P	MQ	Ventura	95	4680		20481				
+D	Tidal Energy Marketing (U.S.) L.L.C.	39664953	N	T-1	T7581F	4/1/2012	10/31/2020		N	20481
+P	M2	Port of Morgan	95	13293		20481				
+P	MQ	Ventura	95	4680		20481				
+D	Tourmaline Oil Marketing Corp.	80130022	N	T-1	TK011F	4/1/2018	3/31/2040		N	10100
+P	M2	Port of Morgan	95	13293		10100				
+P	MQ	Manhattan	95	233632		10100				
+D	"Twin Eagle Resource Management, LLC"	965177889	N	T-1	T7968F	3/22/2012	10/31/2020		N	100299
+P	M2	Port of Morgan	95	13293		100299				
+P	MQ	Ventura	95	4680		100299				
+D	"Twin Eagle Resource Management, LLC"	965177889	N	T-1	TH489F	4/1/2018	3/31/2023		Y	20200
+P	M2	Port of Morgan	95	13293		20200				
+P	MQ	Manhattan	95	233632		20200				
+D	"United Energy Trading, LLC"	119162860	N	T-1	TC115F	11/1/2014	10/31/2019		N	7000
+P	M2	Port of Morgan	95	13293		7000				
+P	MQ	Ventura	95	4680		7000				
+F	1	Agent								

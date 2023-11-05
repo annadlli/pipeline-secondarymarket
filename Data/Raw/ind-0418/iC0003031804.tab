@@ -1,0 +1,45 @@
+H	KO Transmission Company	C000303	3/26/2018	O	4/1/2018	B		Laura Schmidt (513)287-3169		
+D	The Energy Cooperative	20050035	N	Rate Schedule FTS	25	6/22/1998	6/21/2018		N	25000
+P	M2	Means				20000		yk1		
+P	MQ	CGE 6-10				5000		yk1		
+P	MQ	ULHP				25000		yk1		
+D	Stand Energy Corp.	121293039	N	Rate Schedule FTS	96	6/1/2017	10/31/2019		N	2000
+P	M2	Means				2000		yk1		
+P	MQ	CGE 6-10				1600		yk1		
+P	MQ	ULHP				400		yk1		
+D	Continental Building Products LLC	79083344	N	Rate Schedule FTS	105	7/1/2006	10/31/2025		N	6891
+A	Summit Energy	N								
+A	Atmos Energy Marketing	N								
+P	M2	Means				6891		yk1		
+P	MQ	CGE 6-10				6891		yk1		
+D	"Exelon Generation Company, LLC"	196748938	N	Rate Schedule FTS	A408	11/1/2017	10/31/2018		N	7500
+P	M2	Means				7500		yk1		
+P	MQ	CGE 6-10				5625		yk1		
+P	MQ	ULHP				1875		yk1		
+D	"Duke Energy Ohio, Inc."	6999189	Y	Rate Schedule FTS	1	6/1/1996	5/31/2006	365	N	184000
+A       	"United Energy Trading, LLC"									
+P	M2	Means				184000		yk1		
+P	MQ	CGE 6-10				184000		yk1		
+D	"Duke Energy Kentucky, Inc."	6944672	Y	Rate Schedule FTS	3	6/1/1996	5/31/2006	365	N	37000
+A       	"United Energy Trading, LLC"									
+P	M2	Means				37000		yk1		
+P	MQ	ULHP				37000		yk1		
+D	"Duke Energy Kentucky, Inc."	6944672	Y	Rate Schedule FTS	102	11/1/2004	10/31/2014	365	N	35000
+A       	"United Energy Trading, LLC"									
+P	M2	Means				35000		yk1		
+P	MQ	ULHP				35000		yk1		
+D	Continental Building Products LLC	79083344	N	Rate Schedule FTS	61	11/1/1999	10/31/2019		N	7029
+A	Summit Energy	N								
+A	"Centerpoint Energy Services, Inc"	N								
+P	M2	Means				7029		yk1		
+P	MQ	CGE 6-10				7029		yk1		
+D	Volunteer Energy Services	28455926	N	Rate Schedule FTS	103	11/1/2004	3/31/2015	365	N	5000
+P	M2	Means				5000		yk1		
+P	MQ	CG&E 6-10				4000		yk1		
+P	MQ	ULHP				1000				
+D	Just Energy Solutions Inc	176343341	N	Rate Schedule FTS	142	11/1/2017	10/31/2018		N	500
+P	M2	Means				500		yk1		
+P	MQ	CGE 6-10				400		yk1		
+P	MQ	ULHP				100		yk1		
+F	1	"With respect to point identification codes, the Commission granted KO Transmission permanent waiver of applicable EDI and EDM"								
+F	1	"GISB standards.  Docket No. RP98-200-000, granted by DPRE letter, dated May 29, 1998."								

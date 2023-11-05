@@ -1,0 +1,198 @@
+H	Midwestern Gas Transmission	C000582	4/2/2018	O	4/1/2018	T		Teri Tingler 918-588-7745		
+D	Alcoa Warrick LLC	990000008	N	FT-A	FA1046	11/1/2016	10/31/2018		N	10000
+A	"Kinect Energy, Inc."	N								
+P	M2	Portland	29	217671		10000			P	
+P	MQ	Sigeco	29	153635		10000			P	
+D	Alcoa Warrick LLC	990000008	N	FT-A	FA1199	6/1/2017	3/31/2019		N	5000
+P	M2	Portland	29	217671		5000			P	
+P	MQ	Sigeco	29	153635		5000			P	
+D	Ameren Illinois Company d/b/a Ameren Ill	6936017	N	FT-A	FA0940	4/1/2012	3/31/2019		N	3000
+P	M2	Portland	29	217671		3000			P	
+P	MQ	Millsdale	29	360136		3000			P	
+D	Ameren Illinois Company d/b/a Ameren Ill	6936017	N	FT-A	FA0941	4/1/2012	3/31/2019		N	3000
+P	M2	Joliet - ANR	29	4204		3000			P	
+P	MQ	Portland	29	217671		3000			P	
+D	Ameren Illinois Company d/b/a Ameren Ill	6936017	N	FT-GS	FG0006	9/1/1993	10/31/2018		N	780
+P	M2	Potomac - Trunkline	29	18189		780			P	
+P	MQ	Oakwood	29	4128		780			P	
+D	Ameren Illinois Company d/b/a Ameren Ill	6936017	N	FT-GS	FG0007	9/1/1993	10/31/2018		N	600
+P	M2	Portland	29	217671		100			P	
+P	MQ	Ameren Power	29	283548		100			P	
+P	M2	Portland	29	217671		500			P	
+P	MQ	East Lynn	29	4132		500			P	
+D	Antero Resources Corporation	831003012	N	FT-A	FA0963	4/1/2013	9/30/2021		N	140000
+P	M2	Scotland REX	29	696639		50000			P	
+P	MQ	Channahon	29	227982		50000			P	
+P	M2	Scotland REX	29	696639		90000			P	
+P	MQ	Millsdale	29	360136		90000			P	
+D	Antero Resources Corporation	831003012	N	FT-A	FA0987	8/1/2013	10/31/2018		N	25000
+P	M2	Portland	29	217671		25000			P	
+P	MQ	Millsdale	29	360136		25000			P	
+D	Antero Resources Corporation	831003012	N	FT-A	FA1001	3/29/2016	3/28/2031		Y	125000
+P	M2	Scotland REX	29	696639		125000			P	
+P	MQ	Millsdale	29	360136		125000			P	
+D	BP Canada Energy Marketing Corp	248799413	N	FT-A	FA0844	11/1/2006	10/31/2026		Y	7506
+P	M2	Joliet - ANR	29	4204		7506			P	
+P	MQ	Whitesville	29	6135		7506			P	
+D	BP Canada Energy Marketing Corp	248799413	N	FT-A	FA0916	11/1/2011	10/31/2018		N	40000
+P	M2	Scotland REX	29	696639		40000			P	
+P	MQ	Channahon	29	227982		40000			P	
+D	BP Canada Energy Marketing Corp	248799413	N	FT-A	FA0917	11/1/2011	10/31/2018		N	10000
+P	M2	Scotland REX	29	696639		10000			P	
+P	MQ	Channahon	29	227982		10000			P	
+D	BP Canada Energy Marketing Corp	248799413	N	FT-A	FA1203	4/1/2018	10/31/2025		N	2382
+P	M2	Scotland REX	29	696639		2382			P	
+P	MQ	Portland	29	217671		2382			P	
+D	"CIMA ENERGY, LP"	945601599	N	FT-A	FA0983	4/1/2014	3/31/2019		N	10000
+P	M2	Portland	29	217671		10000			P	
+P	MQ	Scotland MGT	29	431257		10000			P	
+D	"CNE Gas Supply, LLC"	829868921	N	FT-A	FA1005	11/1/2015	10/31/2018		N	3500
+P	M2	Joliet - ANR	29	4204		3500			P	
+P	MQ	Scotland MGT	29	431257		3500			P	
+D	"CNE Gas Supply, LLC"	829868921	N	FT-A	FA1006	11/1/2015	10/31/2018		N	4000
+P	M2	Scotland REX	29	696639		4000			P	
+P	MQ	Whitesville	29	6135		4000			P	
+D	"CNE Gas Supply, LLC"	829868921	N	FT-A	FA1008	12/1/2015	12/28/2019		N	17500
+P	M2	Scotland REX	29	696639		17500			P	
+P	MQ	Portland	29	217671		17500			P	
+D	"Casey, City of"	31114705	N	FT-GS	FG0009	9/1/1993	10/31/2020		N	2750
+A	"Constellation NewEnergy-Gas Division, LL"	N								
+P	M2	Portland	29	217671		2750			P	
+P	MQ	Marshall	29	3620		2750			P	
+D	Citizens Gas	6421481	N	FT-A	FA0989	9/1/2013	10/31/2020		N	45000
+A	"Exelon Generation Company, LLC"	N								
+P	M2	Herscher	29	193263		45000			P	
+P	MQ	Whitesville	29	6135		45000			P	
+D	City of Portland	95676524	N	FT-B	FB0012	5/1/2017	4/30/2022		N	1500
+A	"CenterPoint Energy Services, Inc."	N								
+P	M2	Walnut Grove	29	485401		1500			P	
+P	MQ	East Portland	29	1401085		1500			P	
+D	"Community Natural Gas Co., Inc."	7814049	N	FT-C	FC0004	6/29/2009	4/28/2018		N	700
+A	Utility Gas Management	N								
+P	M2	Scotland REX	29	696639		700			P	
+P	MQ	Holland	29	4445		700			P	
+D	"Community Natural Gas Co., Inc."	7814049	N	FT-GS	FG0008	9/1/1993	10/31/2020		N	434
+A	Utility Gas Management	N								
+P	M2	Portland	29	217671		434			P	
+P	MQ	Holland	29	4445		434			P	
+D	"Community Natural Gas Co., Inc."	7814049	N	FT-GS	FG0227	10/1/2003	10/31/2020		N	809
+A	Utility Gas Management	N								
+P	M2	Portland	29	217671		809			P	
+P	MQ	Carlisle	29	4501		809			P	
+D	ConocoPhillips Company	1368265	N	FT-A	FA0946	10/1/2012	10/31/2018		N	30000
+P	M2	Scotland REX	29	696639		30000			P	
+P	MQ	Millsdale	29	360136		30000			P	
+D	"Direct Energy Business Marketing, LLC"	78790103	N	FT-A	FA0986	4/1/2014	10/31/2018		N	6000
+P	M2	Portland	29	217671		6000			P	
+P	MQ	Scotland MGT	29	431257		6000			P	
+D	"Direct Energy Business Marketing, LLC"	78790103	N	FT-A	FA1014	11/1/2016	10/31/2018		N	17660
+P	M2	Portland	29	217671		17660			P	
+P	MQ	Scotland MGT	29	431257		17660			P	
+D	"Duke Energy Indiana, Inc."	6939540	N	FT-A	FA0028	4/1/2001	3/31/2019		N	52800
+A	Tenaska Marketing Ventures	N								
+P	M2	Portland	29	217671		52800			P	
+P	MQ	Millsdale	29	360136		52800			P	
+D	"Eco-Energy, LLC"	829498971	N	FT-A	FA1003	11/1/2015	10/31/2018		N	10000
+P	M2	Millsdale	29	360136		10000			P	
+P	MQ	Portland	29	217671		10000			P	
+D	"Element Markets Renewable Natural Gas, L"	79608633	N	FT-A	FA0999	3/1/2015	10/31/2018		N	2450
+A	"Anahau Energy, LLC"	N								
+P	M2	Portland	29	217671		2450			P	
+P	MQ	Scotland MGT	29	431257		2450			P	
+D	"Exelon Generation Company, LLC"	196748938	N	FT-A	FA0997	9/1/2014	12/28/2019		N	12500
+P	M2	Scotland REX	29	696639		12500			P	
+P	MQ	Portland	29	217671		12500			P	
+D	Grain Processing Corporation	198484180	N	FT-A	FA0022	8/1/1999	11/30/2018		N	12000
+A	"Kinect Energy, Inc."	N								
+P	M2	Portland	29	217671		12000			P	
+P	MQ	Grain Processing	29	283546		12000			P	
+D	"Grandview, Town of"	104658208	N	FT-GS	FG0005	9/1/1993	10/31/2018		N	467
+A	"Constellation NewEnergy-Gas Division, LL"	N								
+P	M2	Portland	29	217671		467			P	
+P	MQ	Grandview	29	4487		467			P	
+D	"Indiana Gas Company, Inc."	6938211	N	FT-A	FA1013	4/1/2016	3/31/2019		N	3000
+P	M2	Scotland REX	29	696639		3000			P	
+P	MQ	Vigo	29	264870		3000			P	
+D	J. Aron & Company	6980312	N	FT-A	FA0938	11/1/2012	10/31/2018		N	50000
+P	M2	Portland	29	217671		50000			P	
+P	MQ	Millsdale	29	360136		50000			P	
+D	J. Aron & Company	6980312	N	FT-A	FA0965	10/1/2013	10/31/2018		N	60000
+P	M2	Joliet - ANR	29	4204		60000			P	
+P	MQ	Portland	29	217671		60000			P	
+D	J. Aron & Company	6980312	N	FT-A	FA0966	10/1/2013	10/31/2018		N	60000
+P	M2	Joliet - ANR	29	4204		60000			P	
+P	MQ	Portland	29	217671		60000			P	
+D	J. Aron & Company	6980312	N	FT-A	FA0976	11/1/2013	10/31/2018		N	7500
+P	M2	Joliet - ANR	29	4204		7500			P	
+P	MQ	Portland	29	217671		7500			P	
+D	"Marshall, City of"	30570188	N	FT-GS	FG0004	9/1/1993	10/31/2020		N	3550
+A	"Constellation NewEnergy-Gas Division, LL"	N								
+P	M2	Portland	29	217671		3550			P	
+P	MQ	Marshall	29	3620		3550			P	
+D	"Martinsville, City of"	6617856	N	FT-GS	FG0003	9/1/1993	10/31/2020		N	1250
+A	"Constellation NewEnergy-Gas Division, LL"	N								
+P	M2	Portland	29	217671		1250			P	
+P	MQ	Marshall	29	3620		1250			P	
+D	"Merrill Lynch Commodities, Inc. "	160352865	N	FT-A	FA0877	6/29/2009	6/28/2019		N	50000
+P	M2	Millsdale	29	360136		50000			P	
+P	MQ	Portland	29	217671		50000			P	
+D	"Morgantown, City of"	81003477	N	FT-A	FA0019	10/1/1998	10/31/2018		N	2800
+A	"CenterPoint Energy Services, Inc."	N								
+P	M2	Portland	29	217671		1900			P	
+P	MQ	Morgantown South	29	193265		1900			P	
+P	M2	Portland	29	217671		900			P	
+P	MQ	Morgantown North	29	6077		900			P	
+D	NJR Energy Services Company	25715165	N	FT-A	FA0874	6/29/2009	6/28/2018		N	10000
+P	M2	Portland	29	217671		10000			P	
+P	MQ	Channahon	29	227982		10000			P	
+D	NJR Energy Services Company	25715165	N	FT-A	FA0875	6/29/2009	6/28/2018		N	10000
+P	M2	Channahon	29	227982		10000			P	
+P	MQ	Portland	29	217671		10000			P	
+D	NJR Energy Services Company	25715165	N	FT-A	FA1002	11/1/2015	10/31/2020		N	13000
+P	M2	Millsdale	29	360136		13000			P	
+P	MQ	Portland	29	217671		13000			P	
+D	Northern Illinois Gas Company d/b/a Nico	6927792	N	FT-A	FA0870	11/1/2009	10/31/2021		N	100000
+P	M2	Portland	29	217671		100000			P	
+P	MQ	Nicor - SA	29	327805		100000			P	
+D	Northern Illinois Gas Company d/b/a Nico	6927792	N	FT-A	FA1009	4/1/2016	9/30/2031		Y	30000
+P	M2	Scotland REX	29	696639		30000			P	
+P	MQ	Nicor - SA	29	327805		30000			P	
+D	Northern Illinois Gas Company d/b/a Nico	6927792	N	FT-A	FA1010	4/1/2016	9/30/2031		Y	15000
+P	M2	Portland	29	217671		15000			P	
+P	MQ	Nicor - SA	29	327805		15000			P	
+D	Northern Indiana Public Service Company	6937585	N	FT-A	FA0880	6/29/2009	10/31/2018		N	70000
+P	M2	Portland	29	217671		20000			P	
+P	MQ	Joliet - NGPL	29	4201		20000			P	
+P	M2	Portland	29	217671		50000			P	
+P	MQ	Channahon	29	227982		50000			P	
+D	"Piedmont Natural Gas Company, Inc. "	6996219	N	FT-A	FA0342	1/7/2008	1/6/2023		Y	120000
+P	M2	Joliet - ANR	29	4204		120000			P	
+P	MQ	Portland	29	217671		120000			P	
+D	"Piedmont Natural Gas Company, Inc. "	6996219	N	FT-B	FB0006	1/7/2008	1/6/2023		Y	120000
+P	M2	Portland	29	217671		45000			P	
+P	MQ	Boat Dock	29	485405		45000			P	
+P	M2	Portland	29	217671		75000			P	
+P	MQ	Walnut Grove	29	485401		75000			P	
+D	Roanoke Gas Company	7941669	N	FT-A	FA0016	11/1/1999	10/31/2019		N	5293
+P	M2	Channahon	29	227982		5293			P	
+P	MQ	Portland	29	217671		5293			P	
+D	"Scepter, Inc."	123140126	N	FT-A	FA0025	3/1/2000	5/31/2021		N	750
+A	"Exelon Generation Company, LLC"	N								
+P	M2	Scotland REX	29	696639		750			P	
+P	MQ	Whitesville	29	6135		750			P	
+D	"Sequent Energy Management, L.P."	612075846	N	FT-A	FA0947	10/1/2012	10/31/2018		N	30000
+P	M2	Portland	29	217671		30000			P	
+P	MQ	Millsdale	29	360136		30000			P	
+D	"Sequent Energy Management, L.P."	612075846	N	FT-A	FA0954	10/1/2012	10/31/2018		N	20000
+P	M2	Will County	29	283549		20000			P	
+P	MQ	Portland	29	217671		20000			P	
+D	"Spark Energy Gas, L.L.C."	16200607	N	FT-A	FA0846	11/1/2006	4/30/2028		Y	24517
+P	M2	Will County	29	283549		24517			P	
+P	MQ	Portland	29	217671		24517			P	
+D	"Spark Energy Gas, L.L.C."	16200607	N	FT-A	FA0881	6/29/2009	6/28/2019		N	10000
+P	M2	Scotland REX	29	696639		10000			P	
+P	MQ	Channahon	29	227982		10000			P	
+D	Sunrise Energy LLC	990000004	N	FT-A	FA0447	4/1/2005	3/31/2019		N	3175
+A	Aces Power Marketing	N								
+P	M2	Will County	29	283549		3175			P	
+P	MQ	Whitesville	29	6135		3175			P	

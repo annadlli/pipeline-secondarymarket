@@ -1,0 +1,58 @@
+H	"Golden Triangle Storage, Inc."	C001774	4/1/2018	O	3/30/2018		T	Kathryn L. McCoy  832-397-8642			
+D	"Tenaska Gas Storage, LLC"	4303603	N	FSS	GT-TGS-FS-1008	4/1/2018	3/31/2020	0	N	0	1000000
+P	IJ	Texas Eastern Transmission	95	6014		0	15000				
+P	IJ	Florida Gas Transmission	95	6002		0	15000				
+P	WR	Texas Eastern Transmission	95	6014		0	15000				
+P	WR	Kinder Morgan Texas Pipeline	95	6012		0	7500				
+P	WR	Florida Gas Transmission	95	6002		0	7500				
+D	NJR Energy Services Company	25715165	N	FSS	GT-NJR-FS-1004	4/1/2018	3/31/2021	0	N	0	1000000
+P	IJ	Texas Eastern Transmission	95	6014		0	20000				
+P	WR	Texas Eastern Transmission	95	6014		0	15000				
+P	WR	Kinder Morgan Texas Pipeline	95	6012		0	15000				
+P	WR	Florida Gas Transmission	95	6002		0	10000				
+D	Citadel Energy Marketing LLC	79663087	N	FSS	GT-CIT-FS-1002	4/1/2017	3/31/2019	0	N	0	1000000
+P	IJ	Texas Eastern Transmission	95	6014		0	20000				
+P	WR	Texas Eastern Transmission	95	6014		0	40000				
+D	"Sequent Energy Management, L.P."	612075846	Y	FSS	GT-SEM-FS-1007	4/1/2018	3/31/2019	0	N	0	1500000
+P	IJ	Texas Eastern Transmission	95	6014		0	20000				
+P	IJ	Houston Pipe Line Company	95	6010		0	10000				
+P	WR	Texas Eastern Transmission	95	6014		0	25000				
+P	WR	Kinder Morgan Texas Pipeline	95	6012		0	10000				
+P	WR	Florida Gas Transmission	95	6002		0	25000				
+D	"Colonial Energy, Inc."	939065520	N	FSS	GT-COL-FS-1002	4/1/2018	3/31/2019	0	N	0	500000
+P	IJ	Florida Gas Transmission	95	6002		0	3750				
+P	IJ	Texas Eastern Transmission	95	6014		0	7500				
+P	IJ	Kinder Morgan Texas Pipeline	95	6012		0	3750				
+P	WR	Florida Gas Transmission	95	6002		0	7500				
+P	WR	Texas Eastern Transmission	95	6014		0	15000				
+P	WR	Kinder Morgan Texas Pipeline	95	6012		0	7500				
+D	J. Aron & Company	6980312	N	FSS	GT-JAC-FS-1003	4/1/2018	3/31/2019	0	N	0	1500000
+P	IJ	Florida Gas Transmission	95	6002		0	15000				
+P	IJ	Texas Eastern Transmission	95	6014		0	15000				
+P	WR	Florida Gas Transmission	95	6002		0	20000				
+P	WR	Texas Eastern Transmission	95	6014		0	30000				
+P	WR	Kinder Morgan Texas Pipeline	95	6012		0	10000				
+D	Natgasoline LLC	79934278	N	FWS	GT-NAT-1001-FWS	3/10/2017	9/30/2027	0	N	165000	0
+P	IJ	Texas Eastern Transmission	95	6014		0	65000				
+P	IJ	Houston Pipe Line Company	95	6010		0	75000				
+P	IJ	Florida Gas Transmission	95	6002		0	25000				
+P	WR	Natgasoline LLC	95	6017		0	165000				
+D	Green Plains Trade Group LLC	848984915	N	FSS	GT-GPT-FS-1002	4/1/2018	3/31/2019	0	N	0	500000
+P	IJ	Florida Gas Transmission	95	6002		0	2500				
+P	IJ	Texas Eastern Transmission	95	6014		0	5000				
+P	IJ	Kinder Morgan Texas Pipeline	95	6012		0	2500				
+P	WR	Florida Gas Transmission	95	6002		0	10000				
+P	WR	Texas Eastern Transmission	95	6014		0	10000				
+D	"Tenaska Gas Storage, LLC"	4303603	N	FSS	GT-TGS-FS-1005	5/1/2017	3/31/2019	0	N	0	1000000
+P	IJ	Texas Eastern Transmission	95	6014		0	15000				
+P	IJ	Florida Gas Transmission	95	6002		0	15000				
+P	WR	Texas Eastern Transmission	95	6014		0	15000				
+P	WR	Kinder Morgan Texas Pipeline	95	6012		0	15000				
+D	"Tenaska Gas Storage, LLC"	4303603	N	FSS	GT-TGS-FS-1007	4/1/2018	3/31/2019	0	N	0	1000000
+P	IJ	Texas Eastern Transmission	95	6014		0	10000				
+P	IJ	Florida Gas Transmission	95	6002		0	20000				
+P	WR	Texas Eastern Transmission	95	6014		0	15000				
+P	WR	Kinder Morgan Texas Pipeline	95	6012		0	15000				
+D	"EDF Trading North America, LLC"	130385763	N	FSS	GT-EDF-FS-1001 	4/1/2018	3/31/2020	0	N	0	500000
+P	IJ	Texas Eastern Transmission	95	6014		0	5000				
+P	WR	Houston Pipe Line Company	95	6010		0	5000				

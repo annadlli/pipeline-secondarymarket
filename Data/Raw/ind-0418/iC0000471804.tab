@@ -1,0 +1,68 @@
+H	"Empire Pipeline, Inc."	C000047	4/2/2018	O	4/1/2018	T	T	Ashley Koerntgen 716/857-7043				
+D	Rochester Gas & Electric Corp.	6994040	N	FSNN	G12130	11/1/2015	3/31/2026	0	N	0	3753090	
+A	New York State Electric & Gas Corp.	N										
+P	M2	Tuscarora	95	22009010		0	55000					
+P	MQ	Tuscarora	95	22009010		0	27500					
+D	"Clearview Electric, Inc."	785129219	N	FTC-A	F12303	9/1/2017	8/31/2018	0	N	100	0	
+P	M2	Chippawa	95	12000010		100	0					
+P	MQ	Corning	95	22008810		100	0					
+D	KeySpan Gas East Corp. d/b/a National Grid	53106352	N	FTC-A	F11102	12/22/2008	12/21/2018	0	Y	150750	0	
+P	M2	Chippawa	95	12000010		150750	0					
+P	MQ	Corning	95	22008810		150750	0					
+D	Quantum Power Corp.	80408427	N	FTC-A	F12297	10/1/2017	9/30/2018	0	N	100	0	
+A	Enhanced Energy Services	N										
+P	M2	Chippawa	95	12000010		100	0					
+P	MQ	Corning	95	22008810		100	0					
+D	"Repsol Oil & Gas USA, LLC"	126548440	N	FTC-A	F11595	11/22/2011	11/21/2021	0	N	150000	0	
+P	M2	Talisman	95	EPRU91101	Talisman	150000	0					
+P	MQ	Chippawa	95	12000010		150000	0					
+D	"Shell Energy North America (US), L.P."	837565548	N	FTC-A	F11594	11/22/2011	11/21/2022	0	N	200000	0	
+A	"SWEPI, LP"	N										
+P	M2	Shell	95	EPRU91111	Shell	200000	0					
+P	MQ	Chippawa	95	12000010		200000	0					
+D	National Fuel Gas Distribution Corp.	6976666	Y	FTNN	F12133	11/1/2015	3/31/2026	0	N	34500	0	 q1
+P	M2	Shell	95	EPRU91111	Shell	23500	0					
+P	M2	Tuscarora	95	22009010		11000	0					
+P	MQ	Chippawa	95	12000010		23500	0					
+P	MQ	Chippawa	95	12000010		11000	0					
+D	New York State Electric & Gas Corp.	41866497	N	FTNN	F12132	11/1/2015	3/31/2021	0	N	34816	0	
+P	M2	Chippawa	95	12000010		20000	0					
+P	M2	Corning	95	22008810		14816	0					
+P	MQ	Arcadia	95	12004020		20000	0					
+P	MQ	Royalton	95	12004010		14816	0					
+D	Rochester Gas & Electric Corp.	6994040	N	FTNN	F12131	11/1/2015	3/31/2026	0	N	172500	0	
+A	New York State Electric & Gas Corp.	N										
+P	M2	Chippawa	95	12000010		117500	0					
+P	M2	Chippawa	95	12000010		27984	0					
+P	M2	Tuscarora	95	22009010		0	27984					
+P	MQ	Mendon	95	12001010		117500	0					
+P	MQ	Tuscarora	95	22009010		0	55000					
+P	MQ	Mendon	95	12001010		55000	0					
+D	"Direct Energy Business Marketing, LLC"	78790103	N	FTO-A	F11909	4/1/2014	10/31/2014	365	N	1000	0	
+P	M2	Chippawa	95	12000010		1000	0					
+P	MQ	Royalton	95	12004010		1000	0					
+D	"Direct Energy Business Marketing, LLC"	78790103	N	FTO-A	F11910	4/1/2014	10/31/2014	365	N	5000	0	
+P	M2	Chippawa	95	12000010		5000	0					
+P	MQ	Mendon	95	12001010		5000	0					
+D	Empire Natural Gas Corp.	603993189	N	FTO-A	F11228	12/10/2008	10/31/2009	365	N	1300	0	
+P	M2	Chippawa	95	12000010		1300	0					
+P	MQ	Royalton	95	12004010		1300	0					
+D	Empire Natural Gas Corp.	603993189	N	FTO-A	F11230	12/10/2008	10/31/2009	365	N	1300	0	
+P	M2	Chippawa	95	12000010		1300	0					
+P	MQ	Mendon	95	12001010		1300	0					
+D	"Sithe/Independence Power Partners, LP"	876956095	N	FTO-A	F11045	12/10/2008	10/31/2020	0	N	80000	0	
+A	"Dynegy Marketing and Trade, LLC"	N										
+P	M2	Chippawa	95	12000010		80000	0					
+P	MQ	Phoenix Line 63 - Sithe	95	12002010		80000	0					
+D	"Infinite Energy, Inc."	968786749	N	FTO-S	F11215	12/10/2008	3/31/2010	365	N	285	0	
+P	M2	Chippawa	95	12000010		285	0					
+P	MQ	Pendleton	95	12003020		285	0					
+D	"Sithe/Independence Power Partners, LP"	876956095	N	FTO-S	F11933	12/10/2014	10/31/2020	0	Y	100000	0	
+A	"Dynegy Marketing and Trade, LLC"	N										
+P	M2	Chippawa	95	12000010		100000	0					
+P	MQ	Phoenix Line 63 - Sithe	95	12002010		100000	0					
+D	United States Gypsum Company	2123560	N	FTO-S	F11115	12/10/2008	6/30/2011	365	N	950	0	
+A	"U.S. Energy Services, Inc."	N										
+P	M2	Chippawa	95	12000010		950	0					
+P	MQ	Oakfield	95	12005010		950	0					
+F	1	Affiliated LDC.										

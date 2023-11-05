@@ -1,0 +1,1659 @@
+H	"Texas Gas Transmission, LLC"	C000592	4/2/2018	O	4/1/2018	B	B	Lori Beauchamp 270-688-6830				
+D	Aethon United BR LP	80348478	N	FT	36385	11/1/2017	10/31/2024		N	75000	0	
+A	Scona LLC	N										
+P	MQ	NLA Mainline Interconnect	95	6712	1	75000	0					
+P	M2	Gulf South-Haughton	95	9192	1	75000	0					
+D	Ameren Illinois Company	6936017	N	NNS	305	11/1/1993	10/31/2019		N	10500	253687	
+P	MQ	Ameren IL Shipper Deduct	95	1349	3	6825	0					
+P	M2	ANR-Calumet	95	9173	SL	3007	0					
+P	M2	LRC-Theall	95	2394	SL	3900	0					
+P	M2	Texas Eastern-Sharon	95	2757	1	1215	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	3298					
+P	WR	Storage Complex Withdraw	95	5800	3	0	6385					
+D	Annunziato Holdings LLC	102231	N	FSS	35897	4/1/2017	3/31/2019		N	0	83730	
+P	IJ	Storage Complex Inject	95	4800	3	0	1088					
+P	WR	Storage Complex Withdraw	95	5800	3	0	2712					
+D	Atmos Energy Corporation	6964415	N	NNS	120	11/1/1997	10/31/2020		N	10000	826390	
+P	MQ	Atmos MS Shipper Deduct	95	1631	1	4009	0					
+P	M2	EasTrans-Champlin	95	2102	1	2005	0					
+P	M2	Henry-Hub	95	2790	SL	3433	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	10000					
+P	WR	Storage Complex Withdraw	95	5800	3	0	36420					
+D	Atmos Energy Corporation	181918563	N	STF	21483	11/1/2004	10/31/2009	1825	N	500	0	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	United Cities Shipper Ded	95	1836	2	500	0					
+P	M2	ANR-Calumet	95	9173	SL	392	0					
+P	M2	EasTrans-Champlin	95	2102	1	167	0					
+P	M2	Tennessee-Egan	95	9003	SL	339	0					
+D	Atmos Energy Corporation	5704478	N	FT	29759	12/1/2009	10/31/2020		N	16500	0	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	Atmos KY Z-3 Mainline Ded	95	1995	3	4000	0					
+P	MQ	Atmos KY Z-3 SBG Deduct	95	1989	3	700	0					
+P	MQ	Atmos KY Z-3 SLE Deduct	95	1988	3	200	0					
+P	MQ	Atmos KY Z-3 SLM Deduct	95	1985	3	1100	0					
+P	MQ	Atmos KY Z-3 SLN Deduct	95	1990	3	10500	0					
+P	M2	ANR - Eunice	95	9880	SL	3000	0					
+P	M2	ANR-Calumet (rec.)	95	9040	SL	553	0					
+P	M2	EasTrans-Champlin	95	2102	1	4595	0					
+P	M2	Egan Hub Storage	95	9415	SL	2516	0					
+P	M2	Fina Oil-Anslem Coulee	95	2601	SL	47	0					
+P	M2	Gr Southern-Mowata #2	95	2288	SL	472	0					
+P	M2	Henry-Hub	95	2790	SL	7539	0					
+P	M2	Jefferson Island Storage	95	9412	SL	1638	0					
+P	M2	South Hayes #1	95	9103	SL	356	0					
+P	M2	Superior-Pure	95	2740	SL	122	0					
+D	Atmos Energy Corporation	5704478	N	NNS	29760	12/1/2009	10/31/2015	1825	N	35568	1335000	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	Atmos KY Z-2 Shipper Ded	95	1885	2	21802	0					
+P	M2	Dynamic-Taylor Point	95	9437	SL	2035	0					
+P	M2	EasTrans-Champlin	95	2102	1	9056	0					
+P	M2	Egan Hub Storage	95	9415	SL	3977	0					
+P	M2	Gas Energy Dev-Hayes	95	9028	SL	295	0					
+P	M2	Henry-Hub	95	2790	SL	5020	0					
+P	M2	Jefferson Island Storage	95	9412	SL	2035	0					
+P	M2	LRC-Grand Cheniere	95	2392	SL	4088	0					
+P	M2	N. Lake Pagie #1	95	2847	SL	2902	0					
+P	M2	Superior-Pure	95	2740	SL	730	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	17355					
+P	WR	Storage Complex Withdraw	95	5800	3	0	18631					
+D	Atmos Energy Corporation	5704478	N	NNS	29762	12/1/2009	10/31/2015	1825	N	81799	2130000	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	Atmos KY Z-3 Mainline Ded	95	1995	3	10704	0					
+P	MQ	Atmos KY Z-3 SBG Deduct	95	1989	3	45663	0					
+P	MQ	Atmos KY Z-3 SLE Deduct	95	1988	3	3003	0					
+P	MQ	Atmos KY Z-3 SLM Deduct	95	1985	3	4035	0					
+P	MQ	Atmos KY Z-3 SLN Deduct	95	1990	3	4460	0					
+P	M2	Cotton Valley	95	9539	1	3551	0					
+P	M2	EasTrans-Champlin	95	2102	1	14692	0					
+P	M2	Egan Hub Storage	95	9415	SL	12249	0					
+P	M2	Enable-Perryville	95	2020	1	5236	0					
+P	M2	Henry-Hub	95	2790	SL	9491	0					
+P	M2	LRC-Grand Cheniere	95	2392	SL	10540	0					
+P	M2	Trunkline-Centerville	95	9829	SL	25000	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	27690					
+P	WR	Storage Complex Withdraw	95	5800	3	0	16702					
+D	Atmos Energy Corporation	5704478	N	NNS	29763	12/1/2009	10/31/2015	1825	N	8838	376150	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	Atmos KY Z-4 Shipper Ded	95	1981	4	4625	0					
+P	M2	Cotton Valley	95	9539	1	1295	0					
+P	M2	EasTrans-Champlin	95	2102	1	1900	0					
+P	M2	Henry-Hub	95	2790	SL	221	0					
+P	M2	Lebanon-REX	95	9045	4	4625	0					
+P	M2	Texaco-Bayou Sale	95	9895	SL	477	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	4890					
+P	WR	Storage Complex Withdraw	95	5800	3	0	5727					
+D	Atmos Energy Corporation	5704478	N	FT	31097	12/15/2010	10/31/2020		N	5000	0	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	Atmos KY Z-4 Shipper Ded	95	1981	4	5000	0					
+P	M2	ANR-Calumet (rec.)	95	9040	SL	61	0					
+P	M2	EasTrans-Champlin	95	2102	1	511	0					
+P	M2	Egan Hub Storage	95	9415	SL	280	0					
+P	M2	Fina Oil-Anslem Coulee	95	2601	SL	5	0					
+P	M2	Gr Southern-Mowata #2	95	2288	SL	52	0					
+P	M2	Henry-Hub	95	2790	SL	3667	0					
+P	M2	Jefferson Island Storage	95	9412	SL	182	0					
+P	M2	Lebanon-REX	95	9045	4	1918	0					
+P	M2	South Hayes #1	95	9103	SL	39	0					
+P	M2	Superior-Pure	95	2740	SL	14	0					
+D	Atmos Energy Corporation	6964415	N	STF	32658	11/1/2012	10/31/2020		Y	12500	0	
+P	MQ	Atmos MS Shipper Deduct	95	1631	1	12500	0					
+P	M2	FEP-Lula	95	9161	1	5000	0					
+P	M2	Lula-Mainline	95	9715	1	7500	0					
+D	Atmos Energy Corporation	5704478	N	FT	34380	12/16/2014	10/31/2020		N	10000	0	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	Atmos KY Z-3 SBG Deduct	95	1989	3	7000	0					
+P	MQ	Atmos KY Z-3 SLE Deduct	95	1988	3	3000	0					
+P	M2	Sligo Plant	95	2760	1	8100	0					
+P	M2	Texas Eastern-Evangeline	95	8107	SL	1900	0					
+P	M2	Trunkline-Centerville	95	9829	SL	1900	0					
+D	Atmos Energy Corporation	6964415	N	STF	35049	11/1/2015	3/31/2018	365	N	500	0	
+P	MQ	Atmos MS Shipper Deduct	95	1631	1	500	0					
+P	M2	EasTrans-Champlin	95	2102	1	90	0					
+P	M2	Regency-Riverton	95	9490	1	500	0					
+D	Atmos Energy Corporation	5704478	N	STF	35772	12/1/2016	3/31/2018	365	N	100	0	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	Atmos KY Z-3 Mainline Ded	95	1995	3	100	0					
+P	M2	Cotton Valley	95	9539	1	100	0					
+D	Atmos Energy Corporation	6964415	N	NNS	36301	6/12/2017	10/31/2018		N	561	19265	
+P	MQ	Friars pt Shipper Dedu	95	1327	1	169	0					
+P	M2	ANR - Eunice	95	9880	SL	43	0					
+P	M2	E C 14	95	2581	SL	30	0					
+P	M2	EasTrans-Champlin	95	2102	1	22	0					
+P	M2	Henry-Hub	95	2790	SL	52	0					
+P	M2	Tennessee-Egan	95	9003	SL	7	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	250					
+P	WR	Storage Complex Withdraw	95	5800	3	0	613					
+D	Atmos Energy Corporation	69371250	N	NNL	36789	4/1/2018	3/31/2023		N	1212	56000	
+P	MQ	LA Gas Shipper Deduct	95	1513	1	412	0					
+P	M2	Henry-Hub	95	2790	SL	212	0					
+P	M2	Jefferson Island Storage	95	9412	SL	200	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	728					
+P	WR	Storage Complex Withdraw	95	5800	3	0	1200					
+D	Atmos Energy Corporation	69371250	N	SGT	535	1/1/1998	10/31/1999	1825	N	553	11372	
+P	MQ	Trans La. Shipper Dedu	95	1494	SL	359	0					
+P	M2	EasTrans-Champlin	95	2102	1	73	0					
+P	M2	Henry-Hub	95	2790	SL	212	0					
+P	M2	LRC-Grand Cheniere	95	2392	SL	67	0					
+P	M2	Sligo Plant	95	2760	1	47	0					
+P	M2	Texas Eastern-Evangeline	95	8107	SL	28	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	148					
+P	WR	Storage Complex Withdraw	95	5800	3	0	1194					
+D	Atmos Energy Corporation	69371250	N	SGT	672	11/1/1993	10/31/2008	1825	N	530	21904	
+P	MQ	LA Gas Shipper Deduct	95	1513	1	219	0					
+P	M2	EasTrans-Champlin	95	2102	1	21	0					
+P	M2	Henry-Hub	95	2790	SL	121	0					
+P	M2	LRC-Grand Cheniere	95	2392	SL	50	0					
+P	M2	Pelico - Perryville	95	9535	1	28	0					
+P	M2	Sligo Plant	95	2760	1	41	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	285					
+P	WR	Storage Complex Withdraw	95	5800	3	0	1040					
+D	Atmos Energy Corporation	181918563	N	SGT	750	11/1/1993	10/31/1999	1825	N	7424	239576	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	United Cities Shipper Ded	95	1836	2	4120	0					
+P	M2	Dubach	95	2632	1	451	0					
+P	M2	Henry-Hub	95	2790	SL	2036	0					
+P	M2	Mobil-Lowry	95	9843	SL	178	0					
+P	M2	Tennessee-Egan	95	9003	SL	258	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	3114					
+P	WR	Storage Complex Withdraw	95	5800	3	0	5108					
+D	"Basile, Town of"	18169870	N	SGT	505	11/1/1993	10/31/2008	1825	N	300	8833	
+A	"Black Belt Energy Gas District, The"	N										
+P	MQ	Basile Shipper Deduct	95	1151	SL	153	0					
+P	M2	EasTrans-Champlin	95	2102	1	50	0					
+P	M2	Lowry	95	9446	SL	50	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	84	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	115					
+P	WR	Storage Complex Withdraw	95	5800	3	0	747					
+D	"Bells, City of"	1794601	N	SGT	604	11/1/1993	10/31/2008	1825	N	1221	12935	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	Bells Shipper Deduct	95	1172	1	1150	0					
+P	M2	ANR - Eunice	95	9880	SL	113	0					
+P	M2	Cokinos Energy	95	9406	SL	71	0					
+P	M2	Dubach	95	2632	1	77	0					
+P	M2	EasTrans-Champlin	95	2102	1	72	0					
+P	M2	Lowry	95	9446	SL	99	0					
+P	M2	Ritchie	95	8142	SL	42	0					
+P	M2	Tennessee-Egan	95	9003	SL	241	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	654	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	168					
+P	WR	Storage Complex Withdraw	95	5800	3	0	843					
+D	"Benton, City of"	790780514	N	STF	21774	1/1/2006	12/31/2011	1825	N	100	0	
+A	Utility Gas Management	N										
+P	MQ	Benton Shipper Deduct	95	1178	2	100	0					
+P	M2	LRC-Grand Cheniere	95	2392	SL	18	0					
+P	M2	Ritchie	95	8142	SL	5	0					
+P	M2	Tennessee-Egan	95	9003	SL	26	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	79	0					
+D	"Benton, City of"	790780514	N	SGT	705	11/1/1993	10/31/2008	1825	N	4740	120000	
+A	Utility Gas Management	N										
+P	MQ	Benton Shipper Deduct	95	1178	2	888	0					
+P	M2	Dubach	95	2632	1	244	0					
+P	M2	EasTrans-Champlin	95	2102	1	122	0					
+P	M2	Lowry	95	9446	SL	45	0					
+P	M2	LRC-Grand Cheniere	95	2392	SL	120	0					
+P	M2	Ritchie	95	8142	SL	42	0					
+P	M2	Tennessee-Egan	95	9003	SL	236	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	711	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	1560					
+P	WR	Storage Complex Withdraw	95	5800	3	0	6204					
+D	BHP Billiton Petroleum (Fayetteville) LLC	968908553	N	FT	31591	8/1/2011	12/31/2018		Y	75000	0	
+A	Tenaska Marketing Ventures	N										
+P	MQ	Lula	95	9714	1F	75000	0					
+P	M2	Little Creek	95	9071	1F	37969	0					
+P	M2	Twin Groves	95	9097	1F	37969	0					
+D	Boonville Natural Gas Corporation	5784657	N	STF	35257	1/1/2016	12/31/2019		N	0	0	
+D	Boonville Natural Gas Corporation	5784657	N	SGT	805	11/1/1993	10/31/2000	1825	N	3969	80000	
+P	MQ	Boonville Shipper Dedu	95	1187	3	1055	0					
+P	M2	Cokinos Energy	95	9406	SL	194	0					
+P	M2	Henry-Hub	95	2790	SL	371	0					
+P	M2	Mobil-Lowry	95	9843	SL	73	0					
+P	M2	Unocal-N Freshwater Bayou	95	2840	SL	55	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	1040					
+P	WR	Storage Complex Withdraw	95	5800	3	0	4687					
+D	BP Energy Company	625275755	N	FT	28815	4/1/2010	12/31/2018		Y	25000	0	
+P	MQ	Lula	95	9714	1F	25000	0					
+P	M2	Little Creek	95	9071	1F	12656	0					
+P	M2	Twin Groves	95	9097	1F	12656	0					
+D	"Brownsville Utility Board, City of"	137350872	N	STF	27428	11/1/2008	10/31/2013	1825	N	0	0	
+A	"CenterPoint Energy Services, Inc."	N										
+D	"Brownsville Utility Board, City of"	137350872	N	FT	5081	5/1/1994	3/31/2004	1825	N	700	0	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	Brownsvil Shipper Dedu	95	1203	1	700	0					
+P	M2	ANR-Calumet	95	9173	SL	50	0					
+P	M2	Cokinos Energy	95	9406	SL	46	0					
+P	M2	Dubach	95	2632	1	63	0					
+P	M2	EasTrans-Champlin	95	2102	1	49	0					
+P	M2	Henry-Hub	95	2790	SL	157	0					
+P	M2	Lowry	95	9446	SL	17	0					
+P	M2	Ritchie	95	8142	SL	14	0					
+P	M2	Tennessee-Egan	95	9003	SL	98	0					
+P	M2	Trunkline-Iowa	95	9475	SL	4	0					
+P	M2	Unocal-N Freshwater Bayou	95	2840	SL	266	0					
+D	"Brownsville Utility Board, City of"	137350872	N	SGT	608	11/1/1993	10/31/1998	1825	N	5085	197348	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	Brownsvil Shipper Dedu	95	1203	1	1819	0					
+P	M2	ANR-Calumet	95	9173	SL	100	0					
+P	M2	Cokinos Energy	95	9406	SL	249	0					
+P	M2	Dubach	95	2632	1	286	0					
+P	M2	EasTrans-Champlin	95	2102	1	236	0					
+P	M2	Henry-Hub	95	2790	SL	362	0					
+P	M2	Lowry	95	9446	SL	93	0					
+P	M2	Ritchie	95	8142	SL	58	0					
+P	M2	Tennessee-Egan	95	9003	SL	480	0					
+P	M2	Trunkline-Iowa	95	9475	SL	13	0					
+P	M2	Unocal-N Freshwater Bayou	95	2840	SL	628	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	2566					
+P	WR	Storage Complex Withdraw	95	5800	3	0	5032					
+D	"Carrollton, Kentucky, City of"	627238751	N	NNS	17130	1/1/2001	10/31/2008	1825	N	1000	147452	
+A	Public Energy Authority of Kentucky	N										
+P	MQ	Carrollton Shipper Ded	95	1212	4	1000	0					
+P	M2	EasTrans-Champlin	95	2102	1	1000	0					
+P	M2	Lebanon-REX	95	9045	4	190	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	1000					
+P	WR	Storage Complex Withdraw	95	5800	3	0	2600					
+D	CCI East Texas Upstream LLC	80441374	N	FT	35829	12/1/2016	3/31/2018	365	N	30000	0	
+A	Castleton Commodities Merchant Trading L.P.	N										
+P	MQ	Lebanon-Columbia Gas	95	1715	4	30000	0					
+P	M2	ANR - Eunice	95	9880	SL	9132	0					
+P	M2	EasTrans-Champlin	95	2102	1	30000	0					
+P	M2	Egan Hub Storage	95	9415	SL	2730	0					
+P	M2	Tennessee-Egan	95	9003	SL	6402	0					
+D	CenterPoint Energy Resources Corp.	6948210	N	NNS	105	11/1/1993	10/31/2021		N	17553	578709	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	Ark LA Shipper Deduct	95	1123	1	7899	0					
+P	M2	ANR-Calumet	95	9173	SL	1500	0					
+P	M2	Calhoun Plant	95	2631	1	874	0					
+P	M2	Cokinos Energy	95	9406	SL	924	0					
+P	M2	Delhi	95	9805	1	937	0					
+P	M2	Dubach	95	2632	1	1000	0					
+P	M2	Lowry	95	9446	SL	345	0					
+P	M2	N. Lake Pagie #1	95	2847	SL	1960	0					
+P	M2	Ritchie	95	8142	SL	227	0					
+P	M2	Tennessee-Egan	95	9003	SL	1811	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	7523					
+P	WR	Storage Complex Withdraw	95	5800	3	0	23251					
+D	CenterPoint Energy Resources Corp.	6948210	N	STF	19887	11/1/2002	3/31/2021		N	0	0	
+A	"CenterPoint Energy Services, Inc."	N										
+D	CenterPoint Energy Resources Corp. dba CenterPoint Louisiana Gas	46700779	N	SGT	515	11/1/1993	10/31/1998	1825	N	100	3192	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	Entex Shipper Deduct	95	1864	SL	62	0					
+P	M2	EasTrans-Champlin	95	2102	1	50	0					
+P	M2	Henry-Hub	95	2790	SL	34	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	41					
+P	WR	Storage Complex Withdraw	95	5800	3	0	188					
+D	"CenterPoint Energy Services, Inc."	838611739	N	FSS	36970	4/1/2018	3/31/2019		N	0	300000	
+P	IJ	Storage Complex Inject	95	4800	3	0	3900					
+P	WR	Storage Complex Withdraw	95	5800	3	0	2640					
+D	"CenterPoint Energy Services, Inc."	838611739	N	FSS	36978	4/1/2018	3/31/2019		N	0	300000	
+P	IJ	Storage Complex Inject	95	4800	3	0	3900					
+P	WR	Storage Complex Withdraw	95	5800	3	0	2640					
+D	"CenterPoint Energy Services, Inc."	838611739	N	FSS	36990	4/1/2018	3/31/2019		N	0	500000	
+P	IJ	Storage Complex Inject	95	4800	3	0	6500					
+P	WR	Storage Complex Withdraw	95	5800	3	0	4400					
+D	"CenterPoint Energy Services, Inc."	838611739	N	FSS	37052	4/1/2018	3/31/2019		N	0	600000	
+P	IJ	Storage Complex Inject	95	4800	3	0	7800					
+P	WR	Storage Complex Withdraw	95	5800	3	0	5280					
+D	Chandler Natural Gas Corporation	96544788	N	SGT	810	11/1/1993	10/31/2000	1825	N	1290	27000	
+P	MQ	Chandler Shipper Deduc	95	1225	3	299	0					
+P	M2	Henry-Hub	95	2790	SL	118	0					
+P	M2	Tennessee-Egan	95	9003	SL	44	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	53	0					
+P	M2	Unocal-N Freshwater Bayou	95	2840	SL	176	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	351					
+P	WR	Storage Complex Withdraw	95	5800	3	0	1562					
+D	"CIMA Energy, Ltd. "	945601599	N	FSS	36967	4/1/2018	3/31/2019		N	0	500000	
+P	IJ	Storage Complex Inject	95	4800	3	0	6500					
+P	WR	Storage Complex Withdraw	95	5800	3	0	4400					
+D	"CIMA Energy, Ltd. "	945601599	N	FSS	36968	4/1/2018	3/31/2019		N	0	500000	
+P	IJ	Storage Complex Inject	95	4800	3	0	6500					
+P	WR	Storage Complex Withdraw	95	5800	3	0	4400					
+D	"CIMA Energy, Ltd. "	945601599	N	FSS	36977	4/1/2018	3/31/2019		N	0	480000	
+P	IJ	Storage Complex Inject	95	4800	3	0	6240					
+P	WR	Storage Complex Withdraw	95	5800	3	0	4224					
+D	"CIMA Energy, Ltd. "	945601599	N	FSS	36982	4/1/2018	3/31/2019		N	0	500000	
+P	IJ	Storage Complex Inject	95	4800	3	0	6500					
+P	WR	Storage Complex Withdraw	95	5800	3	0	4400					
+D	"CIMA Energy, Ltd. "	945601599	N	FSS	36992	4/1/2018	3/31/2019		N	0	500000	
+P	IJ	Storage Complex Inject	95	4800	3	0	6500					
+P	WR	Storage Complex Withdraw	95	5800	3	0	4400					
+D	"CIMA Energy, Ltd. "	945601599	N	FSS	37003	4/1/2018	3/31/2019		N	0	500000	
+P	IJ	Storage Complex Inject	95	4800	3	0	6500					
+P	WR	Storage Complex Withdraw	95	5800	3	0	4400					
+D	"CIMA Energy, Ltd. "	945601599	N	FSS	37007	4/1/2018	3/31/2019		N	0	500000	
+P	IJ	Storage Complex Inject	95	4800	3	0	6500					
+P	WR	Storage Complex Withdraw	95	5800	3	0	4400					
+D	"CIMA Energy, Ltd. "	945601599	N	FSS	37030	4/1/2018	3/31/2019		N	0	644444	
+P	IJ	Storage Complex Inject	95	4800	3	0	8378					
+P	WR	Storage Complex Withdraw	95	5800	3	0	5671					
+D	"CIMA Energy, Ltd. "	945601599	N	FSS	37039	4/1/2018	3/31/2019		N	0	500000	
+P	IJ	Storage Complex Inject	95	4800	3	0	6500					
+P	WR	Storage Complex Withdraw	95	5800	3	0	4400					
+D	"CIMA Energy, Ltd. "	945601599	N	FSS	37076	4/1/2018	3/31/2019		N	0	250000	
+P	IJ	Storage Complex Inject	95	4800	3	0	3250					
+P	WR	Storage Complex Withdraw	95	5800	3	0	2200					
+D	Citizens Energy Group	6421481	N	NNS	33270	9/1/2013	10/31/2023		N	69926	4322322	
+A	"Exelon Generation Company, LLC"	N										
+P	MQ	Citizens Shipper Ded	95	1367	3	45410	0					
+P	M2	EasTrans-Champlin	95	2102	1	5158	0					
+P	M2	Egan Hub Storage	95	9415	SL	1942	0					
+P	M2	Enable-Helena	95	9303	1	1772	0					
+P	M2	Enable-Perryville	95	2020	1	9508	0					
+P	M2	Gulf South-Lonewa	95	8760	1	11576	0					
+P	M2	Lowry	95	9446	SL	220	0					
+P	M2	Mamou	95	8046	SL	1790	0					
+P	M2	Tennessee-Egan	95	9003	SL	4476	0					
+P	M2	Wintershall-Clarks	95	9832	1	951	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	56190					
+P	WR	Storage Complex Withdraw	95	5800	3	0	36565					
+D	"Clarendon, City of"	2909562	N	SGT	612	11/1/1993	10/31/1998	1825	N	1351	35000	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	Clarendon Shipper Dedu	95	1578	1	374	0					
+P	M2	Cokinos Energy	95	9406	SL	37	0					
+P	M2	Dubach	95	2632	1	75	0					
+P	M2	EasTrans-Champlin	95	2102	1	38	0					
+P	M2	Lowry	95	9446	SL	14	0					
+P	M2	Tennessee-Egan	95	9003	SL	73	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	219	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	455					
+P	WR	Storage Complex Withdraw	95	5800	3	0	1561					
+D	Clarksville Gas and Water Department	170943323	N	STF	35132	1/1/2018	12/31/2022		N	10000	0	
+P	MQ	Clarksville Shipper Deduc	95	1685	3	10000	0					
+P	M2	Enable-Bosco	95	9185	1	5000	0					
+P	M2	Midwestern-Whitesville	95	8073	3	5000	0					
+D	"Clay, City of"	71333306	N	SGT	815	11/1/1993	10/31/2008	1825	N	793	23153	
+A	Public Energy Authority of Kentucky	N										
+P	MQ	Clay Shipper Deduct	95	1235	3	178	0					
+P	M2	EasTrans-Champlin	95	2102	1	17	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	301					
+P	WR	Storage Complex Withdraw	95	5800	3	0	979					
+D	"CNE Gas Supply, LLC"	829868921	N	FT	35007	6/1/2016	5/31/2027		Y	30000	0	
+A	"Exelon Generation Company, LLC"	N										
+P	MQ	Louisville Shipper Ded	95	1529	4	30000	0					
+P	M2	Lebanon-REX	95	9045	4	30000	0					
+D	"CNE Gas Supply, LLC"	829868921	N	FT	35253	4/1/2016	6/30/2018		N	5000	0	
+A	"Exelon Generation Company, LLC"	N										
+P	MQ	Citizens Shipper Ded	95	1367	3	5000	0					
+P	M2	EasTrans-Champlin	95	2102	1	1000	0					
+P	M2	Gulf South-Lonewa	95	8760	1	1324	0					
+P	M2	Mamou	95	8046	SL	1851	0					
+P	M2	Tennessee-Egan	95	9003	SL	1575	0					
+P	M2	Unocal-N Freshwater Bayou	95	2840	SL	1000	0					
+D	"CNE Gas Supply, LLC"	829868921	N	FT	35577	11/1/2016	8/31/2019		N	5000	0	
+A	"Exelon Generation Company, LLC"	N										
+P	MQ	Citizens Shipper Ded	95	1367	3	5000	0					
+P	M2	Mitchellville (Portland)	95	2764	3	5000	0					
+D	"CNE Gas Supply, LLC"	829868921	N	FT	35746	11/1/2016	5/31/2018		N	5000	0	
+A	"Exelon Generation Company, LLC"	N										
+P	MQ	Atmos KY Z-3 Mainline Ded	95	1995	3	5000	0					
+P	M2	Mitchellville (Portland)	95	2764	3	5000	0					
+D	"Community Natural Gas Company, Inc."	7814049	N	STF	20302	11/1/2003	10/31/2019		N	400	0	
+A	Utility Gas Management	N										
+P	MQ	Community Shipper Dedu	95	1241	3	400	0					
+P	M2	DCP A.H.-Ada	95	9866	1	449	0					
+P	M2	Dubach	95	2632	1	3	0					
+D	"Community Natural Gas Company, Inc."	7814049	N	SGT	820	11/1/1993	10/31/2008	1825	N	2440	109377	
+A	Utility Gas Management	N										
+P	MQ	Community Shipper Dedu	95	1241	3	837	0					
+P	M2	Lowry	95	9446	SL	34	0					
+P	M2	LRC-Grand Cheniere	95	2392	SL	28	0					
+P	M2	Mobil-Lowry	95	9843	SL	93	0					
+P	M2	Ritchie	95	8142	SL	46	0					
+P	M2	Tennessee-Egan	95	9003	SL	181	0					
+P	M2	Trunkline-Iowa	95	9475	SL	42	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	670	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	1422					
+P	WR	Storage Complex Withdraw	95	5800	3	0	2406					
+D	"Covington, Tennessee, City of"	78591294	N	SGT	620	11/1/1993	10/31/2008	1825	N	5317	126000	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	Covington Shipper Dedu	95	1250	1	1991	0					
+P	M2	ANR-Calumet	95	9173	SL	100	0					
+P	M2	Cokinos Energy	95	9406	SL	218	0					
+P	M2	Dubach	95	2632	1	239	0					
+P	M2	EasTrans-Champlin	95	2102	1	221	0					
+P	M2	Henry-Hub	95	2790	SL	385	0					
+P	M2	Lowry	95	9446	SL	82	0					
+P	M2	Ritchie	95	8142	SL	54	0					
+P	M2	Tennessee-Egan	95	9003	SL	428	0					
+P	M2	Trunkline-Iowa	95	9475	SL	13	0					
+P	M2	Unocal-N Freshwater Bayou	95	2840	SL	674	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	1638					
+P	WR	Storage Complex Withdraw	95	5800	3	0	5151					
+D	Crockett Public Utility District	802511782	N	SGT	624	11/1/1993	10/31/1998	1825	N	1100	35000	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	Crockett Shipper Deduc	95	1175	1	290	0					
+P	M2	Cokinos Energy	95	9406	SL	40	0					
+P	M2	Dubach	95	2632	1	43	0					
+P	M2	EasTrans-Champlin	95	2102	1	41	0					
+P	M2	Lowry	95	9446	SL	24	0					
+P	M2	Ritchie	95	8142	SL	16	0					
+P	M2	Tennessee-Egan	95	9003	SL	92	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	249	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	455					
+P	WR	Storage Complex Withdraw	95	5800	3	0	1269					
+D	"Direct Energy Business Marketing, LLC"	78790103	N	FT	37033	4/1/2018	3/31/2019		N	30000	0	
+P	MQ	Lebanon-Columbia Gas	95	1715	4	30000	0					
+P	M2	Midwestern-Whitesville	95	8073	3	30000	0					
+D	"Direct Energy Business Marketing, LLC"	78790103	N	FSS	37041	4/1/2018	3/31/2019		N	0	2000000	
+P	IJ	Storage Complex Inject	95	4800	3	0	26000					
+P	WR	Storage Complex Withdraw	95	5800	3	0	17600					
+D	"Dome Gas Company, Inc., The"	100394	N	SGT	825	11/1/1993	10/31/2008	1825	N	2264	86704	
+A	BP Canada Energy Marketing Corporation	N										
+P	MQ	Dome Gas Shipper Deduc	95	1263	3	707	0					
+P	M2	ANR - Eunice	95	9880	SL	316	0					
+P	M2	EasTrans-Champlin	95	2102	1	84	0					
+P	M2	Lowry	95	9446	SL	90	0					
+P	M2	Ritchie	95	8142	SL	20	0					
+P	M2	Tennessee-Egan	95	9003	SL	129	0					
+P	M2	Texas Eastern-Sharon	95	2757	1	116	0					
+P	M2	Trunkline-Iowa	95	9475	SL	2	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	389	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	1127					
+P	WR	Storage Complex Withdraw	95	5800	3	0	2478					
+D	"Drakesboro, City of"	98947757	N	SGT	830	11/1/1993	10/31/2008	1825	N	1261	29265	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	Drakesboro Shiper Dedu	95	1266	3	697	0					
+P	M2	Calhoun Plant	95	2631	1	327	0					
+P	M2	Cokinos Energy	95	9406	SL	148	0					
+P	M2	Tennessee-Egan	95	9003	SL	211	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	635	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	380					
+P	WR	Storage Complex Withdraw	95	5800	3	0	747					
+D	"DTE Energy Trading, Inc."	179989231	N	FT	34937	12/1/2015	11/30/2025		Y	46000	0	
+P	MQ	Florida	95	8040	SL	46000	0					
+P	M2	Texas Eastern-Leb Lateral	95	9859	4	46000	0					
+D	"Duke Energy Ohio, Inc."	6999189	N	NNS	29907	1/1/2010	10/31/2013	1825	N	26607	2350000	
+A	"United Energy Trading, LLC"	N										
+P	MQ	Duke Energy OH Shipper DE	95	1229	4	10982	0					
+P	M2	ANR-Calumet	95	9173	SL	825	0					
+P	M2	Dubach	95	2632	1	664	0					
+P	M2	EasTrans-Champlin	95	2102	1	4583	0					
+P	M2	Enable-Helena	95	9303	1	1423	0					
+P	M2	Gulf South-Lonewa	95	8760	1	1486	0					
+P	M2	Henry-Hub	95	2790	SL	609	0					
+P	M2	Tennessee-Egan	95	9003	SL	20	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	1973	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	26607					
+P	WR	Storage Complex Withdraw	95	5800	3	0	25000					
+D	"Duke Energy Ohio, Inc."	6999189	N	STF	36389	11/1/2017	10/31/2018		N	17000	0	
+A	"United Energy Trading, LLC"	N										
+P	MQ	Duke Energy OH Shipper DE	95	1229	4	17000	0					
+P	M2	Enable-Bosco	95	9185	1	17000	0					
+D	"Dyersburg, City of"	67724377	N	NNS	205	11/1/1993	10/31/2009	1095	N	6000	259245	
+A	BP Canada Energy Marketing Corporation	N										
+P	MQ	Dyersburg Shipper Dedu	95	1282	2	3211	0					
+P	M2	ANR - Eunice	95	9880	SL	514	0					
+P	M2	ANR-Calumet	95	9173	SL	225	0					
+P	M2	Dubach	95	2632	1	328	0					
+P	M2	EasTrans-Champlin	95	2102	1	303	0					
+P	M2	Henry-Hub	95	2790	SL	527	0					
+P	M2	Lowry	95	9446	SL	411	0					
+P	M2	Ritchie	95	8142	SL	74	0					
+P	M2	Tennessee-Egan	95	9003	SL	586	0					
+P	M2	Trunkline-Iowa	95	9475	SL	18	0					
+P	M2	Unocal-N Freshwater Bayou	95	2840	SL	835	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	3370					
+P	WR	Storage Complex Withdraw	95	5800	3	0	4727					
+D	"Eco-Energy, LLC"	829498971	N	FT	36695	11/1/2017	10/31/2018		N	2000	0	
+P	MQ	Lebanon-Dayton	95	1720	4	2000	0					
+P	M2	PEPL-Montezuma	95	9589	3	2000	0					
+D	"Eco-Energy, LLC"	829498971	N	FSS	37032	4/1/2018	3/31/2019		N	0	200000	
+P	IJ	Storage Complex Inject	95	4800	3	0	2600					
+P	WR	Storage Complex Withdraw	95	5800	3	0	1760					
+D	"Eco-Energy, LLC"	829498971	N	STF	37082	4/1/2018	4/30/2018		N	30000	0	
+P	MQ	Florida	95	8040	SL	28500	0					
+P	MQ	Henry-Hub	95	2790	SL	1500	0					
+P	M2	East Haughton	95	9109	1	21239	0					
+P	M2	EasTrans-Champlin	95	2102	1	8761	0					
+D	"Elizabeth Natural Gas, Inc."	28049781	N	SGT	510	11/1/1993	10/31/1998	1825	N	25	248	
+A	BP Canada Energy Marketing Corporation	N										
+P	MQ	Elizabeth Shipper Dedu	95	1261	SL	6	0					
+P	M2	Lowry	95	9446	SL	8	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	3					
+P	WR	Storage Complex Withdraw	95	5800	3	0	44					
+D	"Elizabethtown, City of"	40420408	N	STF	20304	11/1/2003	10/31/2008	1825	N	3225	0	
+A	"Heath & Associates, Inc."	N										
+P	MQ	E Town Shipper Deduct	95	1296	4	3225	0					
+P	M2	Calhoun Plant	95	2631	1	352	0					
+P	M2	Dubach	95	2632	1	352	0					
+P	M2	Henry-Hub	95	2790	SL	1215	0					
+P	M2	IMC/Wintershall-Chalkley	95	2383	SL	55	0					
+P	M2	Jefferson Island Storage	95	9412	SL	527	0					
+P	M2	Lowry	95	9446	SL	146	0					
+P	M2	LRC-Grand Cheniere	95	2392	SL	370	0					
+P	M2	Superior-Pure	95	2740	SL	79	0					
+P	M2	Tennessee-Egan	95	9003	SL	377	0					
+P	M2	Trunkline-Iowa	95	9475	SL	49	0					
+D	"Elizabethtown, City of"	40420408	N	NNS	440	11/1/1995	10/31/2000	1825	N	3268	162067	
+A	"Heath & Associates, Inc."	N										
+P	MQ	E Town Shipper Deduct	95	1296	4	1706	0					
+P	M2	Calhoun Plant	95	2631	1	319	0					
+P	M2	Dubach	95	2632	1	319	0					
+P	M2	Henry-Hub	95	2790	SL	868	0					
+P	M2	IMC/Wintershall-Chalkley	95	2383	SL	8	0					
+P	M2	Jefferson Island Storage	95	9412	SL	372	0					
+P	M2	Lowry	95	9446	SL	50	0					
+P	M2	LRC-Grand Cheniere	95	2392	SL	136	0					
+P	M2	Superior-Pure	95	2740	SL	24	0					
+P	M2	Tennessee-Egan	95	9003	SL	822	0					
+P	M2	Trunkline-Iowa	95	9475	SL	5	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	2107					
+P	WR	Storage Complex Withdraw	95	5800	3	0	2223					
+D	"EM Energy OHIO, LLC"	79413346	N	FT	35451	4/1/2017	3/31/2032		Y	50000	0	
+A	BP Energy Company	N										
+P	MQ	Mamou	95	8046	SL	50000	0					
+P	M2	Lebanon-REX	95	9045	4	50000	0					
+D	"Evangeline Gas Company, Inc."	195576772	N	SGT	520	11/1/1993	10/31/2008	1825	N	1845	12173	
+A	"Constellation NewEnergy-Gas Division, LLC"	N										
+P	MQ	Evangeline Shipper Ded	95	1276	SL	1140	0					
+P	M2	ANR - Eunice	95	9880	SL	17	0					
+P	M2	Dubach	95	2632	1	188	0					
+P	M2	EasTrans-Champlin	95	2102	1	94	0					
+P	M2	Lowry	95	9446	SL	49	0					
+P	M2	LRC-Grand Cheniere	95	2392	SL	92	0					
+P	M2	Ritchie	95	8142	SL	34	0					
+P	M2	Tennessee-Egan	95	9003	SL	220	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	663	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	158					
+P	WR	Storage Complex Withdraw	95	5800	3	0	1605					
+D	"Evangeline Gas Company, Inc."	195576772	N	SGT	628	11/1/1993	10/31/2008	1825	N	30	349	
+A	"Constellation NewEnergy-Gas Division, LLC"	N										
+P	MQ	Evangeline Shipper Deduct	95	1567	1	14	0					
+P	M2	EasTrans-Champlin	95	2102	1	20	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	5					
+P	WR	Storage Complex Withdraw	95	5800	3	0	13					
+D	"Exelon Generation Company, LLC"	196748938	N	FSS	36973	4/1/2018	3/31/2019		N	0	2000000	
+P	IJ	Storage Complex Inject	95	4800	3	0	26000					
+P	WR	Storage Complex Withdraw	95	5800	3	0	17600					
+D	"Exelon Generation Company, LLC"	196748938	N	FSS	36976	4/1/2018	3/31/2019		N	0	920000	
+P	IJ	Storage Complex Inject	95	4800	3	0	11960					
+P	WR	Storage Complex Withdraw	95	5800	3	0	8096					
+D	"Exelon Generation Company, LLC"	196748938	N	FSS	37031	4/1/2018	3/31/2019		N	0	1155556	
+P	IJ	Storage Complex Inject	95	4800	3	0	15022					
+P	WR	Storage Complex Withdraw	95	5800	3	0	10168					
+D	"Exelon Generation Company, LLC"	196748938	N	FSS	37051	4/1/2018	3/31/2019		N	0	1000000	
+P	IJ	Storage Complex Inject	95	4800	3	0	13000					
+P	WR	Storage Complex Withdraw	95	5800	3	0	8800					
+D	First Utility District of Tipton County	41467879	N	SGT	632	11/1/1993	10/31/1998	1825	N	1202	48147	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	First Util Shipper Ded	95	1317	1	475	0					
+P	M2	Cokinos Energy	95	9406	SL	46	0					
+P	M2	Dubach	95	2632	1	52	0					
+P	M2	EasTrans-Champlin	95	2102	1	47	0					
+P	M2	Henry-Hub	95	2790	SL	81	0					
+P	M2	Lowry	95	9446	SL	86	0					
+P	M2	LRC-Grand Cheniere	95	2392	SL	68	0					
+P	M2	Ritchie	95	8142	SL	51	0					
+P	M2	Tennessee-Egan	95	9003	SL	290	0					
+P	M2	Unocal-N Freshwater Bayou	95	2840	SL	699	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	626					
+P	WR	Storage Complex Withdraw	95	5800	3	0	1004					
+D	"Flat Rock, Illinois, Village of"	95788824	N	SGT	835	11/1/1993	10/31/2008	1825	N	328	8038	
+A	Utility Gas Management	N										
+P	MQ	Flatrock Shipper Deduc	95	1321	3	84	0					
+P	M2	Calhoun Plant	95	2631	1	50	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	62	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	104					
+P	WR	Storage Complex Withdraw	95	5800	3	0	388					
+D	"Friendship, City of"	5292719	N	SGT	710	11/1/1993	10/31/2008	1825	N	238	8855	
+A	"Constellation NewEnergy-Gas Division, LLC"	N										
+P	MQ	Friendship Shipper Ded	95	1335	2	76	0					
+P	M2	EasTrans-Champlin	95	2102	1	30	0					
+P	M2	Lowry	95	9446	SL	14	0					
+P	M2	Ritchie	95	8142	SL	3	0					
+P	M2	Tennessee-Egan	95	9003	SL	20	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	53	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	115					
+P	WR	Storage Complex Withdraw	95	5800	3	0	251					
+D	"Fulton, City of"	49312747	N	SGT	715	11/1/1993	10/31/2008	1825	N	1741	55000	
+A	"Constellation NewEnergy-Gas Division, LLC"	N										
+P	MQ	Fulton Shipper Deduct	95	1341	2	514	0					
+P	M2	DCP A.H.-Ada	95	9866	1	196	0					
+P	M2	Dubach	95	2632	1	1	0					
+P	M2	Lowry	95	9446	SL	24	0					
+P	M2	LRC-Grand Cheniere	95	2392	SL	65	0					
+P	M2	Ritchie	95	8142	SL	4	0					
+P	M2	Tennessee-Egan	95	9003	SL	127	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	383	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	715					
+P	WR	Storage Complex Withdraw	95	5800	3	0	1929					
+D	"Gallaway, City of"	83266262	N	SGT	640	11/1/1993	10/31/1998	1825	N	142	7013	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	Gallaway Shipper Ded	95	1357	1	60	0					
+P	M2	DCP A.H.-Ada	95	9866	1	50	0					
+P	M2	Lowry	95	9446	SL	11	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	50	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	91					
+P	WR	Storage Complex Withdraw	95	5800	3	0	123					
+D	Gas Utility District No. 3 of Grant Parish	97564124	N	SGT	644	11/1/1993	10/31/1998	1825	N	174	21077	
+A	"Texla Energy Management, Inc."	N										
+P	MQ	Gas Utlty 3 Shipper Deduc	95	1359	1	225	0					
+P	M2	ANR - Eunice	95	9880	SL	67	0					
+P	M2	EasTrans-Champlin	95	2102	1	21	0					
+P	M2	Lowry	95	9446	SL	50	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	124	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	174					
+P	WR	Storage Complex Withdraw	95	5800	3	0	333					
+D	Gibson County Utility District	43139385	N	STF	21770	11/1/2005	10/31/2010	1825	N	0	0	
+A	"Constellation NewEnergy-Gas Division, LLC"	N										
+D	Gibson County Utility District	43139385	N	NNS	8828	11/1/1996	10/31/2000	1825	N	4000	237630	
+A	"Constellation NewEnergy-Gas Division, LLC"	N										
+P	MQ	Gibson Co Shipper Dedu	95	1362	2	2300	0					
+P	M2	ANR - Eunice	95	9880	SL	10	0					
+P	M2	ANR-Calumet	95	9173	SL	129	0					
+P	M2	Calif. Co - S Thornwell	95	2140	SL	8	0					
+P	M2	Dubach	95	2632	1	283	0					
+P	M2	EasTrans-Champlin	95	2102	1	262	0					
+P	M2	Henry-Hub	95	2790	SL	305	0					
+P	M2	Lowry	95	9446	SL	98	0					
+P	M2	LRC-Grand Cheniere	95	2392	SL	308	0					
+P	M2	Ritchie	95	8142	SL	73	0					
+P	M2	Tennessee-Egan	95	9003	SL	698	0					
+P	M2	Trunkline-Iowa	95	9475	SL	81	0					
+P	M2	Unocal-N Freshwater Bayou	95	2840	SL	681	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	3089					
+P	WR	Storage Complex Withdraw	95	5800	3	0	5512					
+D	"Gulf South Pipeline Company, LP"	78444247	Y	FT	21840	11/1/2005	10/31/2015	365	N	200000	0	
+P	MQ	Gulf South-Chacahoula	95	9473	SL	150000	0					
+P	MQ	Gulf South-Iowa	95	9474	SL	50000	0					
+P	M2	Gulf South-Lonewa	95	8760	1	200000	0					
+D	"Gulf South Pipeline Company, LP"	78444247	Y	FT	26281	6/1/2007	5/31/2008	365	N	191000	0	
+P	MQ	Gulf South-South Gibson	95	9493	SL	191000	0					
+P	M2	Gulf South Bosco	95	9430	1	58610	0					
+P	M2	Gulf South-Lonewa	95	8760	1	132390	0					
+D	"Gulf South Pipeline Company, LP"	78444247	Y	FT	30086	11/1/2010	10/31/2011	365	N	40000	0	
+P	MQ	Gulf South-Patoutville	95	8758	SL	40000	0					
+P	M2	Gulf South-Lonewa	95	8760	1	40000	0					
+D	"Gulf South Pipeline Company, LP"	78444247	Y	FT	31424	11/1/2011	10/31/2014	365	N	32200	0	
+P	MQ	Gulf South-Chacahoula	95	9473	SL	32200	0					
+P	M2	Gulf South Bosco	95	9430	1	32200	0					
+D	"Gulf South Pipeline Company, LP"	78444247	Y	FT	32044	4/1/2012	3/31/2013	365	N	42000	0	
+P	MQ	Gulf South-South Gibson	95	9493	SL	42000	0					
+P	M2	Gulf South-Lonewa	95	8760	1	42000	0					
+D	"Gulf South Pipeline Company, LP"	78444247	Y	FT-EFT	34343	12/1/2014	3/31/2016	365	N	5000	0	
+P	MQ	Atmos - Shovan	95	1507	1	5000	0					
+P	M2	Gulf South-Lonewa	95	8760	1	5000	0					
+D	Gulfport Energy Corporation	100694	N	FT	34939	6/1/2016	5/31/2036		Y	50000	0	
+A	"Eco-Energy, LLC"	N										
+P	MQ	Gulf South Bosco	95	9430	1	50000	0					
+P	M2	Lebanon-Dominion Receipt	95	8247	4	50000	0					
+D	Gulfport Energy Corporation	100694	N	FT	35446	4/1/2017	3/31/2032		Y	54000	0	
+A	"Eco-Energy, LLC"	N										
+P	MQ	Mamou	95	8046	SL	54000	0					
+P	M2	Texas Eastern-Lebanon	95	9959	4	54000	0					
+D	"Halls, Town of"	156380834	N	SGT	648	11/1/1993	10/31/1998	1825	N	1481	50996	
+A	BP Canada Energy Marketing Corporation	N										
+P	MQ	Halls Shipper Deduct	95	1374	1	565	0					
+P	M2	Dubach	95	2632	1	70	0					
+P	M2	EasTrans-Champlin	95	2102	1	65	0					
+P	M2	Henry-Hub	95	2790	SL	113	0					
+P	M2	Lowry	95	9446	SL	88	0					
+P	M2	Ritchie	95	8142	SL	22	0					
+P	M2	Tennessee-Egan	95	9003	SL	126	0					
+P	M2	Unocal-N Freshwater Bayou	95	2840	SL	227	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	663					
+P	WR	Storage Complex Withdraw	95	5800	3	0	1411					
+D	"Hardin, City of"	19667427	N	SGT	725	11/1/1993	10/31/2008	1825	N	845	22535	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	Hardin Shipper Deduct	95	1695	2	269	0					
+P	M2	Cokinos Energy	95	9406	SL	50	0					
+P	M2	Dubach	95	2632	1	98	0					
+P	M2	Tennessee-Egan	95	9003	SL	63	0					
+P	M2	Unocal-N Freshwater Bayou	95	2840	SL	191	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	293					
+P	WR	Storage Complex Withdraw	95	5800	3	0	903					
+D	"Henderson, City of"	71339527	N	NNS	315	11/1/1993	10/31/2018		N	5500	270000	
+A	Public Energy Authority of Kentucky	N										
+P	MQ	Henderson Shipper Dedu	95	1389	3	2757	0					
+P	M2	EasTrans-Champlin	95	2102	1	2757	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	3510					
+P	WR	Storage Complex Withdraw	95	5800	3	0	8500					
+D	"Henning, Town of"	837626407	N	SGT	652	11/1/1993	10/31/1998	1825	N	296	9435	
+A	BP Canada Energy Marketing Corporation	N										
+P	MQ	Henning Shipper Deduct	95	1393	1	77	0					
+P	M2	EasTrans-Champlin	95	2102	1	50	0					
+P	M2	Lowry	95	9446	SL	39	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	61	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	123					
+P	WR	Storage Complex Withdraw	95	5800	3	0	347					
+D	"Holly Grove, City of"	966807760	N	SGT	656	11/1/1993	10/31/1998	1825	N	598	12000	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	Holly Grove Shipper Deduc	95	1577	1	300	0					
+P	M2	Dubach	95	2632	1	57	0					
+P	M2	EasTrans-Champlin	95	2102	1	28	0					
+P	M2	Lowry	95	9446	SL	50	0					
+P	M2	Tennessee-Egan	95	9003	SL	55	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	165	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	156					
+P	WR	Storage Complex Withdraw	95	5800	3	0	466					
+D	"Honda of America Mfg., Inc."	690566815	N	FT	34194	11/1/2015	10/31/2019		N	3000	0	
+A	"Delta Energy, LLC"	N										
+P	MQ	Lebanon-Dayton	95	1720	4	3000	0					
+P	M2	Gulf South Bosco	95	9430	1	3000	0					
+D	Humboldt Utilities	173527433	N	FT	13148	11/1/1998	10/31/2015	1825	N	500	0	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	Humboldt Shipper Deduc	95	1418	1	500	0					
+P	M2	Egan Hub Storage	95	9415	SL	48	0					
+P	M2	LRC-Grand Cheniere	95	2392	SL	30	0					
+P	M2	Trunkline-Iowa	95	9475	SL	80	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	138	0					
+D	Humboldt Utilities	173527433	N	SGT	660	11/1/1993	10/31/2013	1825	N	4990	175000	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	Humboldt Shipper Deduc	95	1418	1	1900	0					
+P	M2	ANR-Calumet	95	9173	SL	136	0					
+P	M2	Cokinos Energy	95	9406	SL	177	0					
+P	M2	Dubach	95	2632	1	193	0					
+P	M2	EasTrans-Champlin	95	2102	1	180	0					
+P	M2	Henry-Hub	95	2790	SL	312	0					
+P	M2	Lowry	95	9446	SL	66	0					
+P	M2	Ritchie	95	8142	SL	43	0					
+P	M2	Tennessee-Egan	95	9003	SL	347	0					
+P	M2	Trunkline-Iowa	95	9475	SL	10	0					
+P	M2	Unocal-N Freshwater Bayou	95	2840	SL	491	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	2275					
+P	WR	Storage Complex Withdraw	95	5800	3	0	4680					
+D	Illinois Gas Company	2803120	N	NNS	320	11/1/1993	10/31/2008	1825	N	9703	354541	
+A	BP Canada Energy Marketing Corporation	N										
+P	MQ	Illinois Shipper Deduc	95	1423	3	3260	0					
+P	M2	ANR - Eunice	95	9880	SL	2717	0					
+P	M2	Lowry	95	9446	SL	118	0					
+P	M2	LRC-Grand Cheniere	95	2392	SL	316	0					
+P	M2	Ritchie	95	8142	SL	78	0					
+P	M2	Tennessee-Egan	95	9003	SL	619	0					
+P	M2	Trunkline-Iowa	95	9475	SL	31	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	4609					
+P	WR	Storage Complex Withdraw	95	5800	3	0	9895					
+D	Illinois Gas Company	2803120	N	FT	32607	11/1/2013	10/31/2018		N	500	0	
+A	BP Canada Energy Marketing Corporation	N										
+P	MQ	Illinois Shipper Deduc	95	1423	3	500	0					
+P	M2	DCP A.H.-Ada	95	9866	1	217	0					
+P	M2	Dubach	95	2632	1	1	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	424	0					
+D	"Indiana Gas Company, Inc. d/b/a Vectren Energy Delivery of Indiana, Inc."	6938211	N	NNS	33272	9/1/2013	10/31/2024		N	27594	1131733	
+A	"Exelon Generation Company, LLC"	N										
+P	MQ	Ind Gas (OPRL) Shipper De	95	1702	4	10721	0					
+P	M2	Calhoun Plant	95	2631	1	1085	0					
+P	M2	Cotton Valley	95	9539	1	462	0					
+P	M2	Dubach	95	2632	1	465	0					
+P	M2	EasTrans-Champlin	95	2102	1	3097	0					
+P	M2	Henry-Hub	95	2790	SL	2114	0					
+P	M2	IMC/Wintershall-Chalkley	95	2383	SL	136	0					
+P	M2	Lowry	95	9446	SL	315	0					
+P	M2	LRC-Grand Cheniere	95	2392	SL	1568	0					
+P	M2	Sligo Plant	95	2760	1	1912	0					
+P	M2	Southwest-Jeanerette	95	2035	SL	785	0					
+P	M2	Superior-Pure	95	2740	SL	336	0					
+P	M2	Trunkline-Centerville	95	9829	SL	392	0					
+P	M2	Unocal-N Freshwater Bayou	95	2840	SL	785	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	14713					
+P	WR	Storage Complex Withdraw	95	5800	3	0	25669					
+D	"Indiana Gas Company, Inc. d/b/a Vectren Energy Delivery of Indiana, Inc."	6938211	N	NNS	33275	9/1/2013	10/31/2024		N	68516	1806897	
+A	"Exelon Generation Company, LLC"	N										
+P	MQ	Indiana Gas HAB Deduct	95	1559	3	17912	0					
+P	MQ	Indiana Gas SLM Deduct	95	1558	3	9646	0					
+P	M2	DCP A.H.-Ada	95	9866	1	1322	0					
+P	M2	EasTrans-Champlin	95	2102	1	6169	0					
+P	M2	Henry-Hub	95	2790	SL	4912	0					
+P	M2	IMC/Wintershall-Chalkley	95	2383	SL	255	0					
+P	M2	Jefferson Island Storage	95	9412	SL	9977	0					
+P	M2	Lowry	95	9446	SL	1390	0					
+P	M2	Sligo Plant	95	2760	1	320	0					
+P	M2	Superior-Pure	95	2740	SL	630	0					
+P	M2	Tennessee-Egan	95	9003	SL	6540	0					
+P	M2	Unocal-N Freshwater Bayou	95	2840	SL	1470	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	23490					
+P	WR	Storage Complex Withdraw	95	5800	3	0	61198					
+D	"Indiana Gas Company, Inc. d/b/a Vectren Energy Delivery of Indiana, Inc."	6938211	N	FT	35488	11/1/2016	10/31/2036		Y	15000	0	
+A	"Exelon Generation Company, LLC"	N										
+P	MQ	Ind Gas (OPRL) Shipper De	95	1702	4	15000	0					
+P	M2	Franklin - REX	95	9244	3	15000	0					
+D	"Indiana Gas Company, Inc. d/b/a Vectren Energy Delivery of Indiana, Inc."	6938211	N	FT	35489	11/1/2016	10/31/2036		Y	10000	0	
+A	"Exelon Generation Company, LLC"	N										
+P	MQ	Indiana Gas HAB Deduct	95	1559	3	10000	0					
+P	M2	Franklin - REX	95	9244	3	10000	0					
+D	Indiana Natural Gas Corporation	44911683	N	STF	17583	11/1/2001	3/31/2020		N	0	0	
+A	"CenterPoint Energy Services, Inc."	N										
+D	Indiana Natural Gas Corporation	44911683	N	FT	17596	6/1/2001	10/31/2005	1825	N	250	0	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	Ind Nat Shipper Deduct	95	1471	3	250	0					
+P	M2	ANR - Eunice	95	9880	SL	5	0					
+D	Indiana Natural Gas Corporation	44911683	N	STF	21771	11/1/2005	10/31/2010	1825	N	250	0	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	Ind Nat Shipper Deduct	95	1471	3	250	0					
+P	M2	LRC-Grand Cheniere	95	2392	SL	28	0					
+P	M2	Ritchie	95	8142	SL	14	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	123	0					
+D	Indiana Natural Gas Corporation	44911683	N	SGT	840	11/1/1993	10/31/2018		N	6054	192403	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	Ind Nat Shipper Deduct	95	1471	3	2765	0					
+P	M2	Calhoun Plant	95	2631	1	347	0					
+P	M2	Lowry	95	9446	SL	65	0					
+P	M2	LRC-Grand Cheniere	95	2392	SL	174	0					
+P	M2	Ritchie	95	8142	SL	47	0					
+P	M2	Sligo Plant	95	2760	1	1400	0					
+P	M2	Tennessee-Egan	95	9003	SL	341	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	1028	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	2501					
+P	WR	Storage Complex Withdraw	95	5800	3	0	5178					
+D	Indiana Utilities Corporation	8785578	N	STF	20305	11/1/2003	10/31/2013	1825	N	200	0	
+P	MQ	Ind Util Shipper Deduc	95	1433	4	200	0					
+P	M2	EasTrans-Champlin	95	2102	1	271	0					
+D	Indiana Utilities Corporation	8785578	N	SGT	915	11/1/1993	10/31/1998	1825	N	3200	80000	
+P	MQ	Ind Util Shipper Deduc	95	1433	4	2174	0					
+P	M2	Cokinos Energy	95	9406	SL	384	0					
+P	M2	DCP A.H.-Bodcaw	95	9818	1	23	0					
+P	M2	EasTrans-Champlin	95	2102	1	12	0					
+P	M2	Henry-Hub	95	2790	SL	190	0					
+P	M2	Mobil-Lowry	95	9843	SL	144	0					
+P	M2	Unocal-N Freshwater Bayou	95	2840	SL	284	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	1040					
+P	WR	Storage Complex Withdraw	95	5800	3	0	2000					
+D	Indianapolis Power & Light Company	6938310	N	WNS	34015	11/1/2017	3/31/2022		Y	0	61500	
+D	Indianapolis Power & Light Company	6938310	N	SNS	34016	6/1/2017	5/31/2022		Y	20500	61500	
+P	MQ	Vectren-Johnson Co	95	9524	3	20500	0					
+P	M2	EasTrans-Champlin	95	2102	1	3469	0					
+P	M2	Egan Hub Storage	95	9415	SL	5261	0					
+P	M2	FEP-Lula	95	9161	1	3923	0					
+P	M2	Lowry	95	9446	SL	1962	0					
+P	M2	Pine Prairie-Easton	95	9115	SL	3923	0					
+P	M2	Trunkline-Iowa	95	9475	SL	1962	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	20500					
+P	WR	Storage Complex Withdraw	95	5800	3	0	20500					
+D	Indianapolis Power & Light Company	6938310	N	FT	34017	6/1/2017	5/31/2022		Y	84000	0	
+P	MQ	Vectren-Johnson Co	95	9524	3	84000	0					
+P	M2	EasTrans-Champlin	95	2102	1	14216	0					
+P	M2	Egan Hub Storage	95	9415	SL	21554	0					
+P	M2	FEP-Lula	95	9161	1	16077	0					
+P	M2	Lowry	95	9446	SL	8038	0					
+P	M2	Pine Prairie-Easton	95	9115	SL	16077	0					
+P	M2	Trunkline-Iowa	95	9475	SL	8038	0					
+D	Ingevity Virginia Corporation	80129551	N	NNS	35597	6/1/2016	10/31/2017	365	N	1473	69304	
+A	"eServices, LLC"	N										
+P	MQ	Westvaco #2	95	1881	2	1473	0					
+P	M2	ANR - Eunice	95	9880	SL	504	0					
+P	M2	Iowa	95	8170	SL	25	0					
+P	M2	Lowry	95	9446	SL	111	0					
+P	M2	Ritchie	95	8142	SL	40	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	522	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	901					
+P	WR	Storage Complex Withdraw	95	5800	3	0	473					
+D	Ingevity Virginia Corporation	80129551	N	FT	35598	6/1/2016	10/31/2017	365	N	3377	0	
+A	"eServices, LLC"	N										
+P	MQ	Westvaco #2	95	1881	2	3377	0					
+P	M2	ANR - Eunice	95	9880	SL	108	0					
+P	M2	DCP A.H.-Ada	95	9866	1	799	0					
+P	M2	EasTrans-Champlin	95	2102	1	253	0					
+P	M2	Iowa	95	8170	SL	26	0					
+P	M2	Lowry	95	9446	SL	33	0					
+P	M2	Ritchie	95	8142	SL	1	0					
+P	M2	Tennessee-Egan	95	9003	SL	774	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	1177	0					
+D	Jackson Energy Authority	38389347	N	NNS	17979	9/1/2001	10/31/2008	1825	N	23619	788363	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	Jackson Shipper Deduct	95	1460	1	12329	0					
+P	M2	Cokinos Energy	95	9406	SL	1739	0					
+P	M2	Dubach	95	2632	1	1688	0					
+P	M2	EasTrans-Champlin	95	2102	1	1563	0					
+P	M2	Henry-Hub	95	2790	SL	2712	0					
+P	M2	Lowry	95	9446	SL	581	0					
+P	M2	Ritchie	95	8142	SL	368	0					
+P	M2	Tennessee-Egan	95	9003	SL	2573	0					
+P	M2	Trunkline-Iowa	95	9475	SL	314	0					
+P	M2	Unocal-N Freshwater Bayou	95	2840	SL	6268	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	10249					
+P	WR	Storage Complex Withdraw	95	5800	3	0	15934					
+D	Jackson Energy Authority	38389347	N	STF	20306	5/1/2004	4/30/2018		N	3500	0	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	Jackson Shipper Deduct	95	1460	1	3500	0					
+P	M2	Cokinos Energy	95	9406	SL	229	0					
+P	M2	Dubach	95	2632	1	265	0					
+P	M2	EasTrans-Champlin	95	2102	1	245	0					
+P	M2	Henry-Hub	95	2790	SL	428	0					
+P	M2	Lowry	95	9446	SL	86	0					
+P	M2	Ritchie	95	8142	SL	70	0					
+P	M2	Tennessee-Egan	95	9003	SL	1737	0					
+P	M2	Trunkline-Iowa	95	9475	SL	8	0					
+P	M2	Unocal-N Freshwater Bayou	95	2840	SL	860	0					
+D	Jackson Energy Authority	38389347	N	STF	27427	11/1/2008	4/30/2017	730	N	1000	0	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	Jackson Shipper Deduct	95	1460	1	1000	0					
+P	M2	Egan Hub Storage	95	9415	SL	189	0					
+P	M2	LRC-Grand Cheniere	95	2392	SL	119	0					
+P	M2	Trunkline-Iowa	95	9475	SL	321	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	556	0					
+D	"Jasonville, City of"	7364818	N	SGT	845	11/1/1993	10/31/2008	1825	N	1256	49152	
+A	Utility Gas Management	N										
+P	MQ	Jasonville Shipper Ded	95	1470	3	463	0					
+P	M2	DCP A.H.- Minden	95	2455	1	120	0					
+P	M2	EasTrans-Champlin	95	2102	1	20	0					
+P	M2	Iowa	95	8170	SL	6	0					
+P	M2	Lowry	95	9446	SL	22	0					
+P	M2	LRC-Grand Cheniere	95	2392	SL	59	0					
+P	M2	Ritchie	95	8142	SL	15	0					
+P	M2	Tennessee-Egan	95	9003	SL	116	0					
+P	M2	Unocal-N Freshwater Bayou	95	2840	SL	350	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	639					
+P	WR	Storage Complex Withdraw	95	5800	3	0	1215					
+D	Jay-Bee Production Co.	80546663	N	FT	34446	3/1/2015	2/28/2025		Y	25000	0	
+A	"Icon Midstream Marketing, LLC"	N										
+A	Macquarie Energy LLC	N										
+P	MQ	Gulf South Bosco	95	9430	1	25000	0					
+P	M2	Lebanon-REX	95	9045	4	25000	0					
+D	Jay-Bee Production Co.	80546663	N	FT	34447	3/1/2015	2/28/2025		Y	35000	0	
+A	"Icon Midstream Marketing, LLC"	N										
+A	Macquarie Energy LLC	N										
+P	MQ	Mamou	95	8046	SL	35000	0					
+P	M2	Lebanon-REX	95	9045	4	35000	0					
+D	Jay-Bee Production Co.	80546663	N	FT	35450	4/1/2017	3/31/2032		Y	50000	0	
+A	"Icon Midstream Marketing, LLC"	N										
+A	Macquarie Energy LLC	N										
+P	MQ	Mamou	95	8046	SL	50000	0					
+P	M2	Lebanon-REX	95	9045	4	50000	0					
+D	"Jena, Town of"	144495447	N	SGT	664	11/1/1993	10/31/2008	1825	N	365	36600	
+A	"Black Belt Energy Gas District, The"	N										
+P	MQ	Jena Shipper Deduct	95	1472	1	400	0					
+P	M2	Calhoun Plant	95	2631	1	32	0					
+P	M2	DCP A.H.- Minden	95	2455	1	26	0					
+P	M2	Dubach	95	2632	1	30	0					
+P	M2	Duhon #1	95	9534	SL	220	0					
+P	M2	LRC-Grand Cheniere	95	2392	SL	51	0					
+P	M2	Ritchie	95	8142	SL	32	0					
+P	M2	Tennessee-Egan	95	9003	SL	73	0					
+P	M2	Valero-Carthage	95	9884	1	25	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	365					
+P	WR	Storage Complex Withdraw	95	5800	3	0	1300					
+D	"Jennings Gas, Inc."	188397392	N	SGT	530	11/1/1993	10/31/2011	1825	N	35	1298	
+A	BP Canada Energy Marketing Corporation	N										
+P	MQ	Jennings Shipper Deduc	95	1498	SL	14	0					
+P	M2	EasTrans-Champlin	95	2102	1	20	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	17					
+P	WR	Storage Complex Withdraw	95	5800	3	0	11					
+D	"Kaiser Marketing Ohio, LLC"	102177	N	FT	35448	11/1/2017	10/31/2032		Y	50000	0	
+A	"Kaiser Marketing Appalachian, LLC"	N										
+P	MQ	Mamou	95	8046	SL	50000	0					
+P	M2	Texas Eastern-Lebanon	95	9959	4	50000	0					
+D	KCP&L Greater Missouri Operations Company	6966055	N	STF	29743	10/1/2009	3/31/2022		N	0	0	
+D	Kentucky Utilities Company	6944938	N	SNS	18667	4/1/2002	10/31/2019		N	110000	330000	
+P	MQ	Bedford #2 Ky.	95	1522	4	110000	0					
+P	M2	ANR - Eunice	95	9880	SL	19474	0					
+P	M2	EasTrans-Champlin	95	2102	1	5663	0					
+P	M2	Pelico - Perryville	95	9535	1	60658	0					
+P	M2	Regency-Riverton	95	9490	1	11656	0					
+P	M2	Texas Eastern-Evangeline	95	8107	SL	18212	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	110000					
+P	WR	Storage Complex Withdraw	95	5800	3	0	110000					
+D	Kentucky Utilities Company	6944938	N	WNS	31869	11/1/2012	3/31/2022		N	0	343500	
+D	Kentucky Utilities Company	6944938	N	WNS	32790	11/1/2014	3/31/2024		N	0	321000	
+D	Kentucky Utilities Company	6944938	N	STF	32805	4/1/2015	10/31/2019		N	34000	0	
+P	MQ	Cane Run Power Generation	95	9590	4	34000	0					
+P	M2	ANR - Eunice	95	9880	SL	34000	0					
+D	Kentucky Utilities Company	6944938	N	SNS	32809	4/1/2015	10/31/2024		N	72000	216000	
+P	MQ	Cane Run Power Generation	95	9590	4	72000	0					
+P	M2	ANR - Eunice	95	9880	SL	72000	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	72000					
+P	WR	Storage Complex Withdraw	95	5800	3	0	72000					
+D	Kentucky Utilities Company	6944938	N	SNS	34713	5/1/2015	10/31/2018		N	28800	86400	
+P	MQ	KU - Bluegrass	95	9605	4	28800	0					
+P	M2	Enable-Helena	95	9303	1	14400	0					
+P	M2	Midcontinent-Perryville	95	9009	1	14400	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	28800					
+P	WR	Storage Complex Withdraw	95	5800	3	0	28800					
+D	Kentucky Utilities Company	6944938	N	STF-EFT	35799	4/1/2018	10/31/2019		Y	50000	0	
+P	MQ	Bedford #2 Ky.	95	1522	4	50000	0					
+P	M2	Enable-Helena	95	9303	1	20000	0					
+P	M2	FEP-Lula	95	9161	1	5000	0					
+P	M2	Pine Prairie-Easton	95	9115	SL	20000	0					
+P	M2	Regency-Riverton	95	9490	1	5000	0					
+D	"Kuttawa, City of"	75152968	N	SGT	730	11/1/1993	10/31/2008	1825	N	959	26000	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	Kuttawa Shipper Deduct	95	1493	2	450	0					
+P	M2	Cokinos Energy	95	9406	SL	42	0					
+P	M2	Dubach	95	2632	1	85	0					
+P	M2	EasTrans-Champlin	95	2102	1	43	0					
+P	M2	Lowry	95	9446	SL	16	0					
+P	M2	Tennessee-Egan	95	9003	SL	82	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	248	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	338					
+P	WR	Storage Complex Withdraw	95	5800	3	0	793					
+D	"Lawrenceburg Power, LLC"	80448139	N	FT	35919	2/1/2017	5/31/2021		N	180000	0	
+A	"NextEra Energy Marketing, LLC"	N										
+P	MQ	Lawrenceburg Power Plant	95	9582	4	180000	0					
+P	M2	Enable-Bosco	95	9185	1	180000	0					
+D	"Leitchfield, City of"	74078817	N	STF	21772	11/1/2005	10/31/2010	1825	N	200	0	
+A	"Constellation NewEnergy-Gas Division, LLC"	N										
+P	MQ	Leitchfld Shipper Dedu	95	1495	4	200	0					
+P	M2	LRC-Grand Cheniere	95	2392	SL	22	0					
+P	M2	Ritchie	95	8142	SL	12	0					
+P	M2	Tennessee-Egan	95	9003	SL	99	0					
+P	M2	Trunkline-Iowa	95	9475	SL	33	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	98	0					
+D	"Leitchfield, City of"	74078817	N	SGT	925	11/1/1993	10/31/2008	1825	N	4246	96871	
+A	"Constellation NewEnergy-Gas Division, LLC"	N										
+P	MQ	Leitchfld Shipper Dedu	95	1495	4	2753	0					
+P	M2	DCP A.H.-Ada	95	9866	1	353	0					
+P	M2	Dubach	95	2632	1	2	0					
+P	M2	Lowry	95	9446	SL	44	0					
+P	M2	LRC-Grand Cheniere	95	2392	SL	314	0					
+P	M2	Ritchie	95	8142	SL	145	0					
+P	M2	Tennessee-Egan	95	9003	SL	1099	0					
+P	M2	Trunkline-Iowa	95	9475	SL	294	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	1552	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	1259					
+P	WR	Storage Complex Withdraw	95	5800	3	0	1986					
+D	"Lewisport, City of"	966352551	N	SGT	850	11/1/1993	10/31/1998	1825	N	1067	18700	
+A	BP Canada Energy Marketing Corporation	N										
+P	MQ	Lewisport Shipper Dedu	95	1492	3	338	0					
+P	M2	Dubach	95	2632	1	113	0					
+P	M2	Linder Oil-Chacahoula	95	9873	SL	25	0					
+P	M2	Lowry	95	9446	SL	51	0					
+P	M2	Tennessee-Egan	95	9003	SL	73	0					
+P	M2	Unocal-N Freshwater Bayou	95	2840	SL	63	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	243					
+P	WR	Storage Complex Withdraw	95	5800	3	0	1072					
+D	"Lincolnland Agri-Energy, LLC"	137781915	N	FT	29204	4/1/2009	3/31/2016	365	N	4000	0	
+A	Utility Gas Management	N										
+P	MQ	Prairieland-Crawford Co.	95	9442	3	4000	0					
+P	M2	ANR - Eunice	95	9880	SL	601	0					
+D	"Linton, City of"	21377783	N	FT	4844	11/1/1993	10/31/2008	1825	N	400	0	
+A	Utility Gas Management	N										
+P	MQ	Linton Shipper Deduct	95	1496	3	400	0					
+P	M2	EasTrans-Champlin	95	2102	1	50	0					
+P	M2	Tennessee-Egan	95	9003	SL	142	0					
+P	M2	Unocal-N Freshwater Bayou	95	2840	SL	248	0					
+D	"Linton, City of"	21377783	N	SGT	855	11/1/1993	10/31/2008	1825	N	3256	117018	
+A	Utility Gas Management	N										
+P	MQ	Linton Shipper Deduct	95	1496	3	801	0					
+P	M2	DCP A.H.- Minden	95	2455	1	304	0					
+P	M2	Lowry	95	9446	SL	56	0					
+P	M2	LRC-Grand Cheniere	95	2392	SL	150	0					
+P	M2	Ritchie	95	8142	SL	37	0					
+P	M2	Tennessee-Egan	95	9003	SL	152	0					
+P	M2	Unocal-N Freshwater Bayou	95	2840	SL	638	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	1521					
+P	WR	Storage Complex Withdraw	95	5800	3	0	3891					
+D	Logan Aluminum Inc.	130400799	N	FT	30548	7/1/2010	10/31/2011	365	N	2500	0	
+A	Gallatin Energy Corporation	N										
+P	MQ	Atmos KY Z-3 SBG Deduct	95	1989	3	2500	0					
+P	M2	ANR - Eunice	95	9880	SL	279	0					
+P	M2	Dubach	95	2632	1	26	0					
+P	M2	Iowa	95	8170	SL	1243	0					
+P	M2	Lowry	95	9446	SL	155	0					
+P	M2	Tennessee-Egan	95	9003	SL	474	0					
+D	Logan Aluminum Inc.	130400799	N	FT	4843	11/1/1993	10/31/1998	1825	N	3035	0	
+A	Gallatin Energy Corporation	N										
+P	MQ	Atmos KY Z-3 SBG Deduct	95	1989	3	3035	0					
+P	M2	ANR - Eunice	95	9880	SL	997	0					
+P	M2	ANR-Calumet	95	9173	SL	1120	0					
+P	M2	DCP A.H.-Ada	95	9866	1	421	0					
+P	M2	Greystone-Iowa	95	9409	SL	19	0					
+P	M2	Lowry	95	9446	SL	71	0					
+P	M2	Tennessee-Egan	95	9003	SL	372	0					
+D	Louisiana Energy and Power Authority	104023692	N	FT	33290	10/1/2015	9/30/2025		N	12500	0	
+A	"Black Belt Energy Gas District, The"	N										
+P	MQ	LEPA Morgan City	95	9910	SL	12500	0					
+P	M2	Lula-Mainline	95	9715	1	12500	0					
+D	Louisville Gas and Electric Company	6945505	N	NNS	29781	12/1/2009	10/31/2018		N	97440	4548000	x1
+P	MQ	Louisville Shipper Ded	95	1529	4	60000	0					
+P	M2	ANR - Eunice	95	9880	SL	56899	0					
+P	M2	EasTrans-Champlin	95	2102	1	24473	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	59124					
+P	WR	Storage Complex Withdraw	95	5800	3	0	37900					
+D	Louisville Gas and Electric Company	6945505	N	FT	34951	6/1/2016	10/31/2026		Y	60000	0	
+P	MQ	Louisville Shipper Ded	95	1529	4	60000	0					
+P	M2	Lebanon-Dominion Receipt	95	8247	4	20000	0					
+P	M2	Lebanon-REX	95	9045	4	20000	0					
+P	M2	Texas Eastern-Lebanon	95	9959	4	20000	0					
+D	Macquarie Energy LLC	798846036	N	FT	26833	2/1/2008	3/31/2014	1825	Y	30000	0	
+P	MQ	Lebanon-Columbia Gas	95	1715	4	30000	0					
+P	M2	Gulf South Bosco	95	9430	1	27407	0					
+D	Macquarie Energy LLC	798846036	N	FT	36610	10/1/2017	3/31/2019		N	13000	0	
+P	MQ	Transco-Thibodaux	95	9481	SL	13000	0					
+P	M2	Cotton Valley	95	9539	1	2470	0					
+P	M2	Lebanon-REX	95	9045	4	13000	0					
+D	"Mamou, Town of"	87017976	N	SGT	540	11/1/1993	10/31/2019		N	575	26964	
+A	"Black Belt Energy Gas District, The"	N										
+P	MQ	Mamou Shipper Deduct	95	1552	SL	467	0					
+P	M2	ANR - Eunice	95	9880	SL	22	0					
+P	M2	ANR-Calumet	95	9173	SL	115	0					
+P	M2	Dubach	95	2632	1	88	0					
+P	M2	EasTrans-Champlin	95	2102	1	44	0					
+P	M2	Henry-Hub	95	2790	SL	103	0					
+P	M2	Lowry	95	9446	SL	16	0					
+P	M2	LRC-Grand Cheniere	95	2392	SL	44	0					
+P	M2	Tennessee-Egan	95	9003	SL	85	0					
+P	M2	Unocal-N Freshwater Bayou	95	2840	SL	39	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	351					
+P	WR	Storage Complex Withdraw	95	5800	3	0	1633					
+D	"Mansfield Power and Gas, LLC"	79096773	N	STF	36998	4/1/2018	10/31/2018		N	700	0	
+P	MQ	Indiana Gas SLM Deduct	95	1558	3	700	0					
+P	M2	Bicknell #2	95	9489	3	700	0					
+D	Marathon Petroleum Company LP	962993101	N	FT	31337	4/1/2011	4/30/2020		N	15000	0	
+P	MQ	Ameren IL Shipper Deduct	95	1349	3	15000	0					
+P	M2	Enable-Helena	95	9303	1	2110	0					
+P	M2	Enable-Perryville	95	2020	1	1340	0					
+P	M2	ETC Tiger-Bosco	95	9184	1	2700	0					
+P	M2	Gulf South-Lonewa	95	8760	1	741	0					
+P	M2	Lula-Mainline	95	9715	1	6000	0					
+P	M2	Regency-Riverton	95	9490	1	2109	0					
+D	Marathon Petroleum Company LP	962993101	N	STF	31342	4/1/2011	3/31/2020		N	0	0	
+D	"Martin, City of"	19607233	N	SGT	735	11/1/1993	10/31/1998	1825	N	3223	120000	
+A	"D2 Energy, LLC"	N										
+P	MQ	Martin Shipper Deduct	95	1571	2	1051	0					
+P	M2	ANR-Calumet	95	9173	SL	100	0					
+P	M2	Dubach	95	2632	1	169	0					
+P	M2	EasTrans-Champlin	95	2102	1	156	0					
+P	M2	Henry-Hub	95	2790	SL	272	0					
+P	M2	Lowry	95	9446	SL	58	0					
+P	M2	LRC-Grand Cheniere	95	2392	SL	154	0					
+P	M2	Ritchie	95	8142	SL	38	0					
+P	M2	Tennessee-Egan	95	9003	SL	302	0					
+P	M2	Trunkline-Iowa	95	9475	SL	9	0					
+P	M2	Unocal-N Freshwater Bayou	95	2840	SL	447	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	1560					
+P	WR	Storage Complex Withdraw	95	5800	3	0	3344					
+D	"Marvell, City of"	170115182	N	SGT	676	11/1/1993	10/31/1998	1825	N	1180	42062	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	Marvel Shipper Deduct	95	1579	1	374	0					
+P	M2	Cokinos Energy	95	9406	SL	52	0					
+P	M2	Dubach	95	2632	1	107	0					
+P	M2	EasTrans-Champlin	95	2102	1	53	0					
+P	M2	Lowry	95	9446	SL	20	0					
+P	M2	Tennessee-Egan	95	9003	SL	103	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	310	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	547					
+P	WR	Storage Complex Withdraw	95	5800	3	0	1249					
+D	"Mastic Home Exteriors, Inc."	4239000	N	STF	22320	11/1/2005	10/31/2018		N	650	0	
+A	Stand Energy Corporation	N										
+P	MQ	Lebanon-Dayton	95	1720	4	650	0					
+P	M2	Pineville	95	8063	1	650	0					
+D	"Maury City, Town of"	948834932	N	SGT	680	11/1/1993	10/31/2008	1825	N	599	14758	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	Maury City Shipper Ded	95	1584	1	175	0					
+P	M2	ANR-Calumet	95	9173	SL	10	0					
+P	M2	EasTrans-Champlin	95	2102	1	47	0					
+P	M2	Henry-Hub	95	2790	SL	28	0					
+P	M2	Lowry	95	9446	SL	179	0					
+P	M2	Ritchie	95	8142	SL	51	0					
+P	M2	Tennessee-Egan	95	9003	SL	264	0					
+P	M2	Unocal-N Freshwater Bayou	95	2840	SL	667	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	192					
+P	WR	Storage Complex Withdraw	95	5800	3	0	533					
+D	"Memphis Light, Gas and Water Division"	152524732	N	NNS	115	11/1/1993	10/31/2023		N	145121	5795280	
+P	MQ	Memphis Shipper Deduct	95	1600	1	52558	0					
+P	M2	Dubach	95	2632	1	18502	0					
+P	M2	EasTrans-Champlin	95	2102	1	11413	0					
+P	M2	Henry-Hub	95	2790	SL	37990	0					
+P	M2	Jefferson Island Storage	95	9412	SL	997	0					
+P	M2	Lowry	95	9446	SL	4095	0					
+P	M2	Tennessee-Egan	95	9003	SL	5239	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	75339					
+P	WR	Storage Complex Withdraw	95	5800	3	0	144882					
+D	"Memphis Light, Gas and Water Division"	152524732	N	STF	32434	11/1/2012	3/31/2019		N	1000	0	
+P	MQ	Memphis Shipper Deduct	95	1600	1	1000	0					
+P	M2	DCP A.H.-Ada	95	9866	1	123	0					
+P	M2	EasTrans-Champlin	95	2102	1	281	0					
+P	M2	Sligo Plant	95	2760	1	596	0					
+D	"Memphis Light, Gas and Water Division"	152524732	N	STF-EFT	33289	11/1/2013	3/31/2019		N	100	0	
+P	MQ	Memphis Shipper Deduct	95	1600	1	100	0					
+P	M2	Enable-Perryville	95	2020	1	100	0					
+P	M2	Regency-Riverton	95	9490	1	19	0					
+D	"Mercuria Energy America, Inc."	831749127	N	FT	34366	12/1/2014	12/31/2018		N	20000	0	
+P	MQ	Mamou	95	8046	SL	18000	0					
+P	MQ	Transco-Thibodaux	95	9481	SL	2000	0					
+P	M2	EasTrans-Champlin	95	2102	1	4670	0					
+P	M2	Enable-Helena	95	9303	1	10330	0					
+P	M2	Midwestern-Whitesville	95	8073	3	5000	0					
+D	"Metcalfe, Town of"	957923584	N	SGT	684	11/1/1993	10/31/1998	1825	N	237	5543	
+A	Municipal Gas Authority of Mississippi	N										
+P	MQ	Metcalfe Shipper Deduc	95	1601	1	59	0					
+P	M2	ANR - Eunice	95	9880	SL	17	0					
+P	M2	Calhoun Plant	95	2631	1	22	0					
+P	M2	E C 14	95	2581	SL	19	0					
+P	M2	Henry-Hub	95	2790	SL	42	0					
+P	M2	Tennessee-Egan	95	9003	SL	15	0					
+P	M2	Unocal-N Freshwater Bayou	95	2840	SL	36	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	72					
+P	WR	Storage Complex Withdraw	95	5800	3	0	276					
+D	Midwest Natural Gas Corporation	7987464	N	STF	19250	11/1/2003	10/31/2008	1825	N	2650	0	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	Midwest HAB Deduct	95	1611	3	2518	0					
+P	MQ	Midwest SLM Deduct	95	1610	3	132	0					
+P	M2	Dubach	95	2632	1	405	0					
+P	M2	LRC-Grand Cheniere	95	2392	SL	139	0					
+P	M2	Ritchie	95	8142	SL	73	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	2122	0					
+D	Midwest Natural Gas Corporation	7987464	N	NNS	330	11/1/1993	10/31/2008	1825	N	9042	316942	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	Midwest HAB Deduct	95	1611	3	4375	0					
+P	MQ	Midwest SLM Deduct	95	1610	3	308	0					
+P	M2	Calhoun Plant	95	2631	1	809	0					
+P	M2	Cokinos Energy	95	9406	SL	544	0					
+P	M2	DCP A.H.-Ada	95	9866	1	160	0					
+P	M2	Dubach	95	2632	1	224	0					
+P	M2	EasTrans-Champlin	95	2102	1	111	0					
+P	M2	Lowry	95	9446	SL	203	0					
+P	M2	Ritchie	95	8142	SL	134	0					
+P	M2	Tennessee-Egan	95	9003	SL	1066	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	1896	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	4120					
+P	WR	Storage Complex Withdraw	95	5800	3	0	6318					
+D	Midwest Natural Gas Corporation	7987464	N	FT	35495	11/1/2016	10/31/2031		Y	5000	0	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	Midwest HAB Deduct	95	1611	3	5000	0					
+P	M2	Franklin - REX	95	9244	3	5000	0					
+D	"Morgan City, Louisiana, City of"	75048942	N	SGT	545	11/1/1993	10/31/2008	1825	N	1000	98658	
+A	"Black Belt Energy Gas District, The"	N										
+P	MQ	Morgan City Shipper Ded	95	1561	SL	1068	0					
+P	M2	ANR - Eunice	95	9880	SL	14	0					
+P	M2	DCP A.H.- Minden	95	2455	1	149	0					
+P	M2	DCP A.H.-Ada	95	9866	1	152	0					
+P	M2	Dubach	95	2632	1	2	0					
+P	M2	Lowry	95	9446	SL	37	0					
+P	M2	LRC-Grand Cheniere	95	2392	SL	100	0					
+P	M2	Ritchie	95	8142	SL	34	0					
+P	M2	Tennessee-Egan	95	9003	SL	195	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	588	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	1000					
+P	WR	Storage Complex Withdraw	95	5800	3	0	5216					
+D	"Morganfield, City of"	877458141	N	STF	30921	11/1/2010	3/31/2013	365	N	0	0	
+A	"CenterPoint Energy Services, Inc."	N										
+D	"Morganfield, City of"	877458141	N	SGT	865	11/1/1993	10/31/2007	1825	N	3839	88653	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	Morganfield Shipper Dedu	95	1690	3	862	0					
+P	M2	Cokinos Energy	95	9406	SL	80	0					
+P	M2	DCP A.H.-Ada	95	9866	1	241	0					
+P	M2	Dubach	95	2632	1	2	0					
+P	M2	Iowa	95	8170	SL	8	0					
+P	M2	Lowry	95	9446	SL	30	0					
+P	M2	Ritchie	95	8142	SL	20	0					
+P	M2	Tennessee-Egan	95	9003	SL	157	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	471	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	1152					
+P	WR	Storage Complex Withdraw	95	5800	3	0	4871					
+D	Mowata Gas Company	557209038	N	SGT	550	11/1/1993	10/31/2008	1825	N	204	4564	
+A	BP Canada Energy Marketing Corporation	N										
+P	MQ	Mowata Shipper Deduct	95	1692	SL	53	0					
+P	M2	EasTrans-Champlin	95	2102	1	50	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	22	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	59					
+P	WR	Storage Complex Withdraw	95	5800	3	0	11					
+D	"Munford, City of"	166810929	N	NNS	20593	11/1/2003	10/31/2013	1825	Y	2470	75500	
+A	Tennessee Energy Acquisition Corporation	N										
+P	MQ	Munford Shipper Deduct	95	1870	1	820	0					
+P	M2	ANR-Calumet	95	9173	SL	18	0					
+P	M2	Dubach	95	2632	1	65	0					
+P	M2	EasTrans-Champlin	95	2102	1	60	0					
+P	M2	Henry-Hub	95	2790	SL	38	0					
+P	M2	Lowry	95	9446	SL	8	0					
+P	M2	LRC-Grand Cheniere	95	2392	SL	83	0					
+P	M2	Ritchie	95	8142	SL	21	0					
+P	M2	Tennessee-Egan	95	9003	SL	234	0					
+P	M2	Trunkline-Iowa	95	9475	SL	64	0					
+P	M2	Unocal-N Freshwater Bayou	95	2840	SL	327	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	982					
+P	WR	Storage Complex Withdraw	95	5800	3	0	2372					
+D	"Murray, City of"	614904092	N	NNS	15864	12/1/2000	10/31/2005	1825	N	3886	185000	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	Murray Shipper Deduct	95	1700	2	1299	0					
+P	M2	ANR - Eunice	95	9880	SL	296	0					
+P	M2	Cokinos Energy	95	9406	SL	173	0					
+P	M2	Dubach	95	2632	1	182	0					
+P	M2	EasTrans-Champlin	95	2102	1	168	0					
+P	M2	Lowry	95	9446	SL	64	0					
+P	M2	Ritchie	95	8142	SL	35	0					
+P	M2	Tennessee-Egan	95	9003	SL	317	0					
+P	M2	Trunkline-Iowa	95	9475	SL	7	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	300	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	2405					
+P	WR	Storage Complex Withdraw	95	5800	3	0	5674					
+D	"Murray, City of"	614904092	N	STF	21736	11/1/2005	10/31/2010	1825	N	1500	0	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	Murray Shipper Deduct	95	1700	2	1500	0					
+P	M2	Cokinos Energy	95	9406	SL	98	0					
+P	M2	Dubach	95	2632	1	113	0					
+P	M2	EasTrans-Champlin	95	2102	1	105	0					
+P	M2	Lowry	95	9446	SL	37	0					
+P	M2	Ritchie	95	8142	SL	30	0					
+P	M2	Tennessee-Egan	95	9003	SL	210	0					
+P	M2	Trunkline-Iowa	95	9475	SL	9	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	1031	0					
+D	"Nezpique Gas System, Inc."	786323980	N	SGT	555	11/1/1993	10/31/2008	1825	N	200	2520	
+A	"Fellon-McCord & Associates, LLC"	N										
+P	MQ	Nezpique Shipper Deduc	95	1705	SL	91	0					
+P	M2	EasTrans-Champlin	95	2102	1	50	0					
+P	M2	Lowry	95	9446	SL	11	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	50	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	33					
+P	WR	Storage Complex Withdraw	95	5800	3	0	159					
+D	Ohio Valley Gas Corporation	6940274	N	NNS	425	11/1/1993	10/31/2018		N	8068	369673	
+A	BP Canada Energy Marketing Corporation	N										
+P	MQ	Ohio Corp Shipper Dedu	95	1756	4	2703	0					
+P	M2	Dubach	95	2632	1	1	0					
+P	M2	EasTrans-Champlin	95	2102	1	713	0					
+P	M2	Lowry	95	9446	SL	396	0					
+P	M2	Ritchie	95	8142	SL	71	0					
+P	M2	Tennessee-Egan	95	9003	SL	708	0					
+P	M2	Texas Eastern-Sharon	95	2757	1	847	0					
+P	M2	Trunkline-Iowa	95	9475	SL	33	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	1558	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	4806					
+P	WR	Storage Complex Withdraw	95	5800	3	0	8071					
+D	Ohio Valley Gas Corporation	6940274	N	SGT	870	11/1/1993	10/31/2018		N	3999	172496	
+A	BP Canada Energy Marketing Corporation	N										
+P	MQ	Ohio Corp Shipper Dedu	95	1744	3	1406	0					
+P	M2	EasTrans-Champlin	95	2102	1	500	0					
+P	M2	Henry-Hub	95	2790	SL	330	0					
+P	M2	Lowry	95	9446	SL	132	0					
+P	M2	Ritchie	95	8142	SL	23	0					
+P	M2	Tennessee-Egan	95	9003	SL	297	0					
+P	M2	Trunkline-Iowa	95	9475	SL	10	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	569	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	2242					
+P	WR	Storage Complex Withdraw	95	5800	3	0	4088					
+D	"Ohio Valley Gas, Inc."	188104616	N	SGT	875	11/1/1993	10/31/2008	1825	N	2992	93161	
+A	BP Canada Energy Marketing Corporation	N										
+P	MQ	Ohio Inc Shipper Deduc	95	1728	3	989	0					
+P	M2	EasTrans-Champlin	95	2102	1	49	0					
+P	M2	Lowry	95	9446	SL	163	0					
+P	M2	Ritchie	95	8142	SL	41	0					
+P	M2	Tennessee-Egan	95	9003	SL	233	0					
+P	M2	Texas Eastern-Sharon	95	2757	1	312	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	701	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	1211					
+P	WR	Storage Complex Withdraw	95	5800	3	0	3125					
+D	"Olive Branch, City of"	13430228	N	NNS	27650	2/1/2009	10/31/2013	1825	N	5715	222177	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	Olive Branch Shipper Dedu	95	1767	1	2767	0					
+P	M2	Cokinos Energy	95	9406	SL	288	0					
+P	M2	DCP A.H.-Ada	95	9866	1	872	0					
+P	M2	Dubach	95	2632	1	6	0					
+P	M2	Lowry	95	9446	SL	108	0					
+P	M2	Ritchie	95	8142	SL	71	0					
+P	M2	Tennessee-Egan	95	9003	SL	566	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	1706	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	2888					
+P	WR	Storage Complex Withdraw	95	5800	3	0	4397					
+D	Poplar Grove Utility District	267479260	N	NNS	20592	12/1/2003	10/31/2013	1825	Y	1271	48000	
+A	Tennessee Energy Acquisition Corporation	N										
+P	MQ	Poplar Grove Shipper Dedu	95	1111	1	388	0					
+P	M2	DCP A.H.-Ada	95	9866	1	114	0					
+P	M2	Lowry	95	9446	SL	27	0					
+P	M2	LRC-Grand Cheniere	95	2392	SL	22	0					
+P	M2	Tennessee-Egan	95	9003	SL	77	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	210	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	624					
+P	WR	Storage Complex Withdraw	95	5800	3	0	1244					
+D	"Providence, City of"	74056789	N	SGT	885	11/1/1993	10/31/1998	1825	N	3206	65000	
+A	Public Energy Authority of Kentucky	N										
+P	MQ	Providence Shipper Ded	95	1781	3	600	0					
+P	M2	EasTrans-Champlin	95	2102	1	69	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	845					
+P	WR	Storage Complex Withdraw	95	5800	3	0	4222					
+D	Public Energy Authority of Kentucky	41783130	N	FT	34950	12/1/2015	11/30/2025		Y	10000	0	
+P	MQ	Carrollton Shipper Ded	95	1212	4	10000	0					
+P	M2	Texas Eastern-Leb Lateral	95	9859	4	10000	0					
+D	"Public Service Company of North Carolina, Inc."	6996607	N	FT	29970	11/1/2010	10/31/2013	365	N	5272	0	
+A	"Scana Services, Inc."	N										
+A	"Direct Energy Business Marketing, LLC"	N										
+P	MQ	Lebanon-Dominion	95	1247	4	5272	0					
+P	M2	EasTrans-Champlin	95	2102	1	5501	0					
+D	"R.E. Gas Development, LLC"	102142	N	FT	34955	6/1/2016	5/31/2036		Y	100000	0	
+A	BP Energy Company	N										
+A	JERA Energy America LLC	N										
+P	MQ	Gulf South Bosco	95	9430	1	100000	0					
+P	M2	Lebanon-Dominion Receipt	95	8247	4	100000	0					
+D	"R.E. Gas Development, LLC"	102142	N	FT	35433	4/1/2017	3/31/2037		Y	30000	0	
+A	BP Energy Company	N										
+P	MQ	Gulf South Bosco	95	9430	1	30000	0					
+P	M2	Lebanon-Dominion Receipt	95	8247	4	30000	0					
+D	"Ripley, City of"	93790970	N	STF	21482	11/1/2004	10/31/2019		N	250	0	
+A	"Constellation NewEnergy-Gas Division, LLC"	N										
+P	MQ	Ripley Shipper Deduct	95	1789	1	250	0					
+P	M2	ANR - Eunice	95	9880	SL	92	0					
+P	M2	Calif. Co - S Thornwell	95	2140	SL	14	0					
+P	M2	EasTrans-Champlin	95	2102	1	303	0					
+P	M2	Lowry	95	9446	SL	93	0					
+P	M2	Ritchie	95	8142	SL	33	0					
+P	M2	Tennessee-Egan	95	9003	SL	263	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	409	0					
+D	"Ripley, City of"	93790970	N	SGT	696	11/1/1993	10/31/1998	1825	N	5357	221493	
+A	"Constellation NewEnergy-Gas Division, LLC"	N										
+P	MQ	Ripley Shipper Deduct	95	1789	1	2460	0					
+P	M2	Calif. Co - S Thornwell	95	2140	SL	12	0					
+P	M2	Dubach	95	2632	1	327	0					
+P	M2	Lowry	95	9446	SL	112	0					
+P	M2	LRC-Grand Cheniere	95	2392	SL	298	0					
+P	M2	Ritchie	95	8142	SL	73	0					
+P	M2	Tennessee-Egan	95	9003	SL	585	0					
+P	M2	Trunkline-Iowa	95	9475	SL	18	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	1885	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	2879					
+P	WR	Storage Complex Withdraw	95	5800	3	0	4293					
+D	"SABIC Innovative Plastics Mt. Vernon, LLC"	603727103	N	FT	35303	7/1/2016	6/30/2036		Y	8265	0	
+A	"CIMA Energy, Ltd. "	N										
+P	MQ	Robards - SLM	95	9721	3	8265	0					
+P	M2	EasTrans-Champlin	95	2102	1	8265	0					
+D	"SABIC Innovative Plastics Mt. Vernon, LLC"	603727103	N	FT	35304	7/1/2016	6/30/2036		Y	29235	0	
+A	"CIMA Energy, Ltd. "	N										
+P	MQ	Robards - SLM	95	9721	3	29235	0					
+P	M2	Lebanon-REX	95	9045	4	29235	0					
+D	"SABIC Innovative Plastics Mt. Vernon, LLC"	603727103	N	FLS-FT	35305	7/1/2016	6/30/2036		Y	53500	0	
+A	"CIMA Energy, Ltd. "	N										
+P	MQ	SABIC Innovative Plastics	95	9496		53500	0    y12					
+P	M2	Robards - SIML	95	9722		53500	0    y12					
+D	"Sabine Pass Liquefaction, LLC"	78731670	N	FT	35030	1/1/2017	12/31/2026		Y	300000	0	
+P	MQ	Mamou	95	8046	SL	300000	0					
+P	M2	Lebanon-REX	95	9045	4	130000	0					
+P	M2	Lula-Mainline	95	9715	1	170000	0					
+D	"SLG, Inc."	161633425	N	FT	7473	1/1/1996	10/31/2027		N	6328	0	
+P	MQ	Lebanon-Dominion	95	1247	4	6328	0					
+P	M2	EasTrans-Champlin	95	2102	1	6603	0					
+D	"South Eastern Indiana Natural Gas Co., Inc."	968172148	N	STF	19252	11/1/2003	10/31/2008	1825	N	85	0	
+A	Utility Gas Management	N										
+P	MQ	So Eastern Shipper Ded	95	1819	4	85	0					
+P	M2	Dubach	95	2632	1	58	0					
+P	M2	LRC-Grand Cheniere	95	2392	SL	5	0					
+P	M2	Ritchie	95	8142	SL	2	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	24	0					
+D	"South Eastern Indiana Natural Gas Co., Inc."	968172148	N	SGT	930	11/1/1993	10/31/2008	1825	N	1991	82612	
+A	Utility Gas Management	N										
+P	MQ	So Eastern Shipper Ded	95	1819	4	811	0					
+P	M2	DCP A.H.-Ada	95	9866	1	148	0					
+P	M2	Dubach	95	2632	1	1	0					
+P	M2	Lowry	95	9446	SL	31	0					
+P	M2	Mobil-Lowry	95	9843	SL	82	0					
+P	M2	Ritchie	95	8142	SL	19	0					
+P	M2	Tennessee-Egan	95	9003	SL	162	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	488	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	1074					
+P	WR	Storage Complex Withdraw	95	5800	3	0	1866					
+D	"South Fulton, City of"	15000938	N	SGT	745	11/1/1993	10/31/2008	1825	N	1358	30312	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	South Fulton Shipper Dedu	95	1806	2	422	0					
+P	M2	Cokinos Energy	95	9406	SL	50	0					
+P	M2	Dubach	95	2632	1	100	0					
+P	M2	EasTrans-Champlin	95	2102	1	50	0					
+P	M2	Lowry	95	9446	SL	18	0					
+P	M2	Tennessee-Egan	95	9003	SL	96	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	291	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	394					
+P	WR	Storage Complex Withdraw	95	5800	3	0	1472					
+D	Southern Indiana Gas and Electric Company d/b/a Vectren Energy Delivery of 	144608457	N	FT	26787	3/31/2009	3/30/2029		Y	9000	0	
+A	"Exelon Generation Company, LLC"	N										
+P	MQ	Dogtown	95	9540	3	9000	0					
+P	M2	Henderson-Dogtown Rec	95	9567	3	9000	0					
+D	Southern Indiana Gas and Electric Company d/b/a Vectren Energy Delivery of 	144608457	N	NNS	33274	9/1/2013	10/31/2024		N	21153	438564	
+A	"Exelon Generation Company, LLC"	N										
+P	MQ	SIGECO North Deduct	95	1809	3	3800	0					
+P	MQ	SIGECO South Deduct	95	1808	3	6447	0					
+P	M2	ANR-Calumet	95	9173	SL	3020	0					
+P	M2	Cotton Valley	95	9539	1	409	0					
+P	M2	DCP A.H.-Ada	95	9866	1	374	0					
+P	M2	Henry-Hub	95	2790	SL	663	0					
+P	M2	Lowry	95	9446	SL	2672	0					
+P	M2	Tennessee-Egan	95	9003	SL	553	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	3237	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	5701					
+P	WR	Storage Complex Withdraw	95	5800	3	0	16812					
+D	Southern Indiana Gas and Electric Company d/b/a Vectren Energy Delivery of 	144608457	N	FT	35496	11/1/2016	10/31/2036		Y	25000	0	
+A	"Exelon Generation Company, LLC"	N										
+P	MQ	SIGECO South Deduct	95	1808	3	25000	0					
+P	M2	Franklin - REX	95	9244	3	25000	0					
+D	"Sturgis, City of"	6970917	N	SGT	890	11/1/1993	10/31/1998	1825	N	1233	35230	
+A	Public Energy Authority of Kentucky	N										
+P	MQ	Sturgis Shipper Deduct	95	1238	3	305	0					
+P	M2	EasTrans-Champlin	95	2102	1	305	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	458					
+P	WR	Storage Complex Withdraw	95	5800	3	0	1463					
+D	"Switzerland County Natural Gas Company, Inc."	930255856	N	STF	21773	11/1/2005	10/31/2010	1825	N	50	0	
+A	Utility Gas Management	N										
+P	MQ	Switzerland Shipper Deduc	95	1833	4	50	0					
+P	M2	DCP A.H.-Ada	95	9866	1	43	0					
+P	M2	LRC-Grand Cheniere	95	2392	SL	6	0					
+D	"Switzerland County Natural Gas Company, Inc."	930255856	N	SGT	935	11/1/1993	10/31/2008	1825	N	1096	45848	
+A	Utility Gas Management	N										
+P	MQ	Switzerland Shipper Deduc	95	1833	4	614	0					
+P	M2	Dubach	95	2632	1	1	0					
+P	M2	Lowry	95	9446	SL	21	0					
+P	M2	Mobil-Lowry	95	9843	SL	58	0					
+P	M2	Tennessee-Egan	95	9003	SL	181	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	442	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	596					
+P	WR	Storage Complex Withdraw	95	5800	3	0	733					
+D	"SWN Energy Services Company, LLC"	967770660	N	FT	27019	4/1/2009	3/31/2019		Y	400000	0	
+P	MQ	Sonat-Kosciusko	95	9559	1G	10550	0					
+P	MQ	TETCO-Kosciusko	95	9560	1G	389450	0					
+P	M2	Lula-Mainline	95	9715	1	401204	0					
+D	"SWN Energy Services Company, LLC"	967770660	N	FT	27022	4/1/2009	3/31/2019		Y	400000	0	
+P	MQ	ANR-Burdette	95	9503	1G	25000	0					
+P	MQ	Columbia Gulf-Isola	95	9519	1G	270000	0					
+P	MQ	Tennessee-Greenville	95	9500	1G	25000	0					
+P	MQ	Tennessee-Isola	95	9505	1G	50000	0					
+P	MQ	Trunkline-Burdette	95	9504	1G	30000	0					
+P	M2	TETCO-Kosciusko	95	9560	1G	400000	0					
+D	"SWN Energy Services Company, LLC"	967770660	N	FT	27434	6/1/2009	10/31/2020		Y	100000	0	
+P	MQ	Lula	95	9714	1F	100000	0					
+P	M2	South Rainbow #1	95	9020	1F	83000	0					
+P	M2	Southeast Rainbow #1	95	9027	1F	8000	0					
+P	M2	Sturgeon #1	95	9023	1F	9000	0					
+D	"SWN Energy Services Company, LLC"	967770660	N	FT	27435	4/1/2010	3/31/2020		Y	240000	0	
+P	MQ	Sonat-Kosciusko	95	9559	1G	240000	0					
+P	M2	Lula-Mainline	95	9715	1	240722	0					
+D	"SWN Energy Services Company, LLC"	967770660	N	FT	27437	4/1/2010	3/31/2020		Y	240000	0	
+P	MQ	Tennessee-Isola	95	9505	1G	240000	0					
+P	M2	TETCO-Kosciusko	95	9560	1G	240000	0					
+D	Sycamore Gas Company	88656632	N	NNS	20475	11/1/2003	10/31/2005	365	N	4060	187200	
+A	"CenterPoint Energy Services, Inc."	N										
+P	MQ	Lawburg Shipper Deduct	95	1489	4	1000	0					
+P	M2	ANR-Calumet	95	9173	SL	726	0					
+P	M2	Lebanon-REX	95	9045	4	548	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	2434					
+P	WR	Storage Complex Withdraw	95	5800	3	0	4680					
+D	"Tenaska Gas Storage, LLC"	4303603	N	FSS	36983	4/1/2018	3/31/2019		N	0	1000000	
+A	Tenaska Marketing Ventures	N										
+P	IJ	Storage Complex Inject	95	4800	3	0	13000					
+P	WR	Storage Complex Withdraw	95	5800	3	0	8800					
+D	Tennessee Valley Authority	1883032	N	WNS	30553	11/1/2010	3/31/2020		N	0	135000	
+D	Tennessee Valley Authority	1883032	N	STF-EFT	31033	11/1/2010	3/31/2020		Y	70000	0	
+P	MQ	TVA-Lagoon Creek	95	9588	1	3500	0					
+P	MQ	TVA-Southaven	95	9198	1	66500	0					
+P	M2	Lowry	95	9446	SL	70000	0					
+D	Tennessee Valley Authority	1883032	N	SNS	32147	4/1/2012	10/31/2019		Y	35000	105000	
+P	MQ	TVA-Lagoon Creek	95	9588	1	1050	0					
+P	MQ	TVA-Southaven	95	9198	1	33950	0					
+P	M2	Lowry	95	9446	SL	35000	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	35000					
+P	WR	Storage Complex Withdraw	95	5800	3	0	35000					
+D	Tennessee Valley Authority	1883032	N	WNS	35339	11/1/2016	3/31/2036		Y	0	120000	
+D	Tennessee Valley Authority	1883032	N	SNS	35340	9/1/2016	10/31/2036		Y	40000	120000	
+P	MQ	Midland - SBG	95	9724	3	40000	0					
+P	M2	Egan Hub Storage	95	9415	SL	15098	0					
+P	M2	Pine Prairie-Easton	95	9115	SL	32502	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	40000					
+P	WR	Storage Complex Withdraw	95	5800	3	0	40000					
+D	Tennessee Valley Authority	1883032	N	FT	35341	9/1/2016	10/31/2036		Y	160000	0	
+P	MQ	Midland - SBG	95	9724	3	160000	0					
+P	M2	Egan Hub Storage	95	9415	SL	60395	0					
+P	M2	Pine Prairie-Easton	95	9115	SL	130005	0					
+D	Tennessee Valley Authority	1883032	N	FLS-FT	35342	9/1/2016	10/31/2036		Y	230000	0	
+P	MQ	TVA- Paradise Power Plant	95	9195		230000	0    y13					
+P	M2	Midland - WKL	95	9725		230000	0    y13					
+D	"Twin Eagle Resource Management, LLC"	965177889	N	FSS	36966	4/1/2018	3/31/2019		N	0	500000	
+P	IJ	Storage Complex Inject	95	4800	3	0	6500					
+P	WR	Storage Complex Withdraw	95	5800	3	0	4400					
+D	"Twin Eagle Resource Management, LLC"	965177889	N	FSS	36969	4/1/2018	3/31/2019		N	0	500000	
+P	IJ	Storage Complex Inject	95	4800	3	0	6500					
+P	WR	Storage Complex Withdraw	95	5800	3	0	4400					
+D	"Twin Eagle Resource Management, LLC"	965177889	N	FSS	37004	4/1/2018	3/31/2019		N	0	500000	
+P	IJ	Storage Complex Inject	95	4800	3	0	6500					
+P	WR	Storage Complex Withdraw	95	5800	3	0	4400					
+D	"Twin Eagle Resource Management, LLC"	965177889	N	FSS	37042	4/1/2018	3/31/2019		N	0	1000000	
+P	IJ	Storage Complex Inject	95	4800	3	0	13000					
+P	WR	Storage Complex Withdraw	95	5800	3	0	8800					
+D	"Tyson Foods, Inc."	6903702	N	STF	29958	12/1/2010	11/30/2013	365	N	600	0	
+A	ConocoPhillips Company	N										
+P	MQ	United Cities Shipper Ded	95	1836	2	600	0					
+P	M2	Gr Southern-Mowata #3	95	9804	SL	17	0					
+P	M2	Henry-Hub	95	2790	SL	344	0					
+P	M2	Lowry	95	9446	SL	108	0					
+P	M2	Tennessee-Egan	95	9003	SL	123	0					
+P	M2	Valero-Carthage	95	9884	1	101	0					
+D	"Tyson Foods, Inc."	6903702	N	STF	29968	12/1/2010	11/30/2013	365	N	2000	0	
+A	ConocoPhillips Company	N										
+P	MQ	Atmos KY Z-3 Mainline Ded	95	1995	3	2000	0					
+P	M2	Gr Southern-Mowata #3	95	9804	SL	55	0					
+P	M2	Henry-Hub	95	2790	SL	1145	0					
+P	M2	Lowry	95	9446	SL	361	0					
+P	M2	Tennessee-Egan	95	9003	SL	411	0					
+P	M2	Valero-Carthage	95	9884	1	337	0					
+D	United States Gypsum Company	5212600	N	NNS	27594	7/1/2008	10/31/2009	1825	N	1500	30000	
+A	BP Canada Energy Marketing Corporation	N										
+P	MQ	U.S. Gypsum-Greenville	95	9476	1	1500	0					
+P	M2	EasTrans-Champlin	95	2102	1	31	0					
+P	M2	Henry-Hub	95	2790	SL	350	0					
+P	M2	Lowry	95	9446	SL	162	0					
+P	M2	Tennessee-Egan	95	9003	SL	87	0					
+P	M2	Texas Eastern-Sharon	95	2757	1	48	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	390					
+P	WR	Storage Complex Withdraw	95	5800	3	0	500					
+D	"Valero Renewable Fuels Company, LLC"	829990824	N	FT	33854	3/22/2014	4/12/2029		Y	27000	0	
+P	MQ	Dogtown	95	9540	3	27000	0					
+P	M2	Henderson-Dogtown Rec	95	9567	3	27000	0					
+D	"Valley Gas, Inc."	9856642	N	SGT	940	11/1/1993	10/31/2008	1825	N	523	17000	
+A	"Constellation NewEnergy-Gas Division, LLC"	N										
+P	MQ	Valley Gas Shipper Ded	95	1874	4	159	0					
+P	M2	DCP A.H.-Ada	95	9866	1	62	0					
+P	M2	Lebanon-REX	95	9045	4	87	0					
+P	M2	Lowry	95	9446	SL	50	0					
+P	M2	Unocal-Freshwater Bayou	95	9422	SL	34	0					
+P	IJ	Storage Complex Inject	95	4800	3	0	221					
+P	WR	Storage Complex Withdraw	95	5800	3	0	570					
+D	"Westlake Vinyls, Inc."	79396228	N	FT	7037	6/6/1995	10/31/2011	365	N	72	0	
+P	MQ	Westlake-Calvert City	95	9140	2	72	0					
+P	M2	Tennessee-Egan	95	9003	SL	98	0					
+D	"XTO Energy, Inc."	804712347	N	FT	29061	4/1/2009	10/31/2019		Y	300000	0	
+P	MQ	Columbia Gulf-Isola	95	9519	1G	50000	0					
+P	MQ	TETCO-Kosciusko	95	9560	1G	250000	0					
+P	M2	East Cutthroat #1	95	9076	1F	30000	0					
+P	M2	Enable-Searcy	95	9158	1F	240000	0					
+P	M2	Yellowstone #1	95	9062	1F	30000	0					
+D	"XTO Energy, Inc."	804712347	N	FT	31115	2/1/2011	3/31/2018	365	N	50000	0	
+P	MQ	TETCO-Kosciusko	95	9560	1G	50000	0					
+P	M2	Boy Scout	95	9091	1F	50327	0					
+P	M2	Lula-Mainline	95	9715	1	50000	0					
+D	"XTO Energy, Inc."	804712347	N	FT	31116	2/1/2011	3/31/2018	365	N	50000	0	
+P	MQ	Sonat-Kosciusko	95	9559	1G	25000	0					
+P	MQ	TETCO-Kosciusko	95	9560	1G	25000	0					
+P	M2	Lula-Mainline	95	9715	1	50251	0					
+P	M2	Quitman East	95	9095	1F	8052	0					
+P	M2	Quitman West	95	9093	1F	20131	0					
+P	M2	Southeast Rainbow #1	95	9027	1F	22144	0					
+												
+F	1											
+Multiple capacity packages exist for this contract.  The Contract Term Date of the next expiring contract is 10/31/2020.  The Max Daily Quantity of the next												
+"expiring contract is 61,633.  The Max Storage Quantity of the next expiring contract is 1,516,000."												
+												
+F	2											
+This location is located on the Southern Indiana Customer Lateral and is not in a service zone.												
+												
+F	3											
+This location is located on the Western Kentucky Customer Lateral and is not in a service zone.												

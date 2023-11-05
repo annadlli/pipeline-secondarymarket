@@ -1,0 +1,714 @@
+H	National Fuel Gas Supply Corporation	C000046	4/2/2018	O	4/1/2018	T	T	Ashley Koerntgen 716/857-7043				
+D	"Crown Energy Services, Inc."	129653858	N	EFT	E12074	8/25/2015	8/24/2016	365	N	300	0	
+P	M2	E of Hend / W & N of Overbeck	95	APPZN2		280	0					
+P	M2	D&L App Zn 9	95	APPZN9		20	0					
+P	MQ	Nfg Dist. City-Gate - PA	95	NFGDC-PA		280	0					
+P	MQ	Nfg Dist. City-Gate - PA	95	NFGDC-PA		20	0					
+D	Eastern Natural Gas Company	186126777	N	EFT	E00525	8/1/1993	3/31/2007	365	N	10058	0	 o1
+A	CenterPoint Energy Resources Corp.	N										
+P	M2	E of Hend / W & N of Overbeck	95	APPZN2		726	0					
+P	M2	Columbia	95	COLUMBIA		1436	0					
+P	M2	Nfgsc Storage	95	NFSTOR		4376	0					
+P	M2	Tgp Zone 4	95	TGP ZONE 4		2108	0					
+P	M2	TGP4 Non RoseLake/Andrews Sett	95	TGP4NON RLK/AND		1412	0					
+P	MQ	Eastern Natural City Gate	95	ENGCG		726	0					
+P	MQ	Eastern Natural City Gate	95	ENGCG		1436	0					
+P	MQ	Eastern Natural City Gate	95	ENGCG		4376	0					
+P	MQ	Eastern Natural City Gate	95	ENGCG		2108	0					
+P	MQ	Eastern Natural City Gate	95	ENGCG		1412	0					
+D	"EnergyMark, LLC"	832686880	N	EFT	E12331	12/15/2017	6/14/2048	0	N	2600	0	
+P	M2	RIDGWAY MARKET POOL	95	RIDGWAY		2600	0					
+P	MQ	Nfg Dist. Mineral Springs	95	NFGDC-MSMX		2600	0					
+D	"KIDN Marketing, Ltd"	946944402	N	EFT	E11127	7/1/2007	3/31/2016	365	N	2203	0	
+P	M2	Lamont	95	420072		1450	0					
+P	M2	Roselake	95	420527		245	0					
+P	M2	Nfgsc Storage	95	NFSTOR		508	0					
+P	MQ	Kane Gas City Gate	95	PSN1301336		1450	0					
+P	MQ	Kane Gas City Gate	95	PSN1301336		245	0					
+P	MQ	Kane Gas City Gate	95	PSN1301336		508	0					
+D	"KIDN Marketing, Ltd"	946944402	N	EFT	E12187	1/1/2016	3/31/2017	365	N	110	0	
+P	M2	E of Hend / W & N of Overbeck	95	APPZN2		110	0					
+P	MQ	Clarion River Gas City Gate	95	CRGCG		110	0					
+D	Liberty Util. (New England Natural Gas Co.) Corp.	43085850	N	EFT	E00531	8/1/1993	3/31/2003	365	N	830	0	
+P	M2	E of Hend / W & N of Overbeck	95	APPZN2		441	0					
+P	M2	Nfgsc Storage	95	NFSTOR		389	0					
+P	MQ	Wharton Transco	95	6325		441	0					
+P	MQ	Wharton Transco	95	6325		389	0					
+D	National Fuel Gas Distribution Corp.	6976666	Y	EFT	E00528	8/1/1993	3/31/2003	365	N	963011	0	 q2
+P	M2	Wheatfield	95	12003015		24029	0					
+P	M2	Pendleton	95	12003020		7395	0					
+P	M2	Ellisburg Station	95	41202		13845	0					
+P	M2	Roselake	95	420527		52082	0					
+P	M2	Niagara	95	421079		7395	0					
+P	M2	Ellwood City	95	600065		18159	0					
+P	M2	Leidy Transco	95	7126		37587	0					
+P	M2	M&N System  -Appl Zone 1	95	APPZN1		986	0					
+P	M2	M&N System  -Appl Zone 1	95	APPZN1		9259	0					
+P	M2	E of Hend / W & N of Overbeck	95	APPZN2		9212	0					
+P	M2	E of Over / W of Cost App Zn 8	95	APPZN8		7239	0					
+P	M2	D&L App Zn 9	95	APPZN9		978	0					
+P	M2	Columbia	95	COLUMBIA		1724	0					
+P	M2	Consolidated	95	CONSOLIDATE		97963	0					
+P	M2	Empire State Pipeline	95	EMPIRE		26366	0					
+P	M2	Nfgsc Storage	95	NFSTOR		326823	0					
+P	M2	Nfgsc Storage	95	NFSTOR		189078	0					
+P	M2	Texas_Eastern	95	TETCO		10767	0					
+P	M2	Tgp Zone 5	95	TGP ZONE 5		59981	0					
+P	M2	TGP4 Non RoseLake/Andrews Sett	95	TGP4NON RLK/AND		62143	0					
+P	MQ	Nfg Dist. City-Gate - NY	95	NFGDC-NY		24029	0					
+P	MQ	Nfg Dist. City-Gate - NY	95	NFGDC-NY		7395	0					
+P	MQ	Nfg Dist. City-Gate - NY	95	NFGDC-NY		13845	0					
+P	MQ	Nfg Dist. City-Gate - NY	95	NFGDC-NY		52082	0					
+P	MQ	Nfg Dist. City-Gate - NY	95	NFGDC-NY		7395	0					
+P	MQ	Nfg Dist. City-Gate - PA	95	NFGDC-PA		18159	0					
+P	MQ	Nfg Dist. City-Gate - NY	95	NFGDC-NY		37587	0					
+P	MQ	Nfg Dist. City-Gate - NY	95	NFGDC-NY		986	0					
+P	MQ	Nfg Dist. City-Gate - PA	95	NFGDC-PA		9259	0					
+P	MQ	Nfg Dist. City-Gate - NY	95	NFGDC-NY		9212	0					
+P	MQ	Nfg Dist. City-Gate - NY	95	NFGDC-NY		7239	0					
+P	MQ	Nfg Dist. City-Gate - NY	95	NFGDC-NY		978	0					
+P	MQ	Nfg Dist. City-Gate - PA	95	NFGDC-PA		1724	0					
+P	MQ	Nfg Dist. City-Gate - NY	95	NFGDC-NY		97963	0					
+P	MQ	Nfg Dist. City-Gate - NY	95	NFGDC-NY		26366	0					
+P	MQ	Nfg Dist. City-Gate - NY	95	NFGDC-NY		326823	0					
+P	MQ	Nfg Dist. City-Gate - PA	95	NFGDC-PA		189078	0					
+P	MQ	Nfg Dist. City-Gate - PA	95	NFGDC-PA		10767	0					
+P	MQ	Nfg Dist. City-Gate - NY	95	NFGDC-NY		59981	0					
+P	MQ	Nfg Dist. City-Gate - PA	95	NFGDC-PA		62143	0					
+D	National Fuel Gas Distribution Corp.	6976666	Y	EFT	E11178	4/1/2008	3/31/2018	365	N	9000	0	 q3
+P	M2	Nfgsc Storage	95	NFSTOR		9000	0					
+P	MQ	Nfg Dist. City-Gate - PA	95	NFGDC-PA		9000	0					
+D	National Fuel Gas Distribution Corp.	6976666	Y	EFT	E11179	4/1/2008	3/31/2009	365	N	92000	0	 q4
+P	M2	Pendleton	95	12003020		9000	0					
+P	M2	DTI Rq Points	95	20900		20000	0					
+P	M2	Nfgsc Storage	95	NFSTOR		63000	0					
+P	MQ	Nfg Dist. City-Gate - NY	95	NFGDC-NY		9000	0					
+P	MQ	Nfg Dist. City-Gate - NY	95	NFGDC-NY		20000	0					
+P	MQ	Nfg Dist. City-Gate - NY	95	NFGDC-NY		63000	0					
+D	National Fuel Gas Distribution Corp.	6976666	Y	EFT	E11969	11/1/2014	3/31/2017	365	N	10000	0	 q5
+P	M2	TGP4 Non RoseLake/Andrews Sett	95	TGP4NON RLK/AND		10000	0					
+P	MQ	NFGDC PA (Operational Cap.)	95	NFGDC PA		10000	0					
+D	"National Fuel Resources, Inc."	794898775	Y	EFT	E11918	4/1/2014	3/31/2015	365	N	5818	0	
+P	M2	DTI Rq Points	95	20900		5818	0					
+P	MQ	NFGDC NY (Operational Cap.)	95	NFGDC NY		5818	0					
+D	North East Heat & Light Company	4832226	N	EFT	E00530	8/1/1993	3/31/2003	365	N	5100	0	
+P	M2	Nfgsc Storage	95	NFSTOR		1111	0					
+P	M2	Tgp Zone 4	95	TGP ZONE 4		2580	0					
+P	M2	Tgp Zone 5	95	TGP ZONE 5		1409	0					
+P	MQ	Northeast Heat & Light	95	NEHLCG		1111	0					
+P	MQ	Northeast Heat & Light	95	NEHLCG		2580	0					
+P	MQ	Northeast Heat & Light	95	NEHLCG		1409	0					
+D	Peoples Natural Gas Company LLC	7916208	N	EFT	E00532	8/1/1993	3/31/2003	365	N	15476	0	
+P	M2	Consolidated	95	CONSOLIDATE		5683	0					
+P	M2	Nfgsc Storage	95	NFSTOR		9793	0					
+P	MQ	Peoples Gas City Gate	95	PNGCG		5683	0					
+P	MQ	Peoples Gas City Gate	95	PNGCG		9793	0					
+D	"Pivotal Utility Holdings, Inc."	56711344	N	EFT	E00526	8/1/1993	3/31/2003	365	N	11090	0	
+A	Sequent Energy Management. LP	N										
+P	M2	Texas_Eastern	95	TETCO		2773	0					
+P	M2	Tgp Zone 4	95	TGP ZONE 4		4990	0					
+P	M2	Tgp Zone 5	95	TGP ZONE 5		3327	0					
+P	MQ	Wharton Transco	95	6325		2773	0					
+P	MQ	Wharton Transco	95	6325		4990	0					
+P	MQ	Wharton Transco	95	6325		3327	0					
+D	"SLT Production, LLC"	79139373	N	EFT	E11860	11/1/2013	12/31/2018	0	N	2595	0	
+A	"Total Energy Resources, LLC"	N										
+A	"Total Energy Resources, LLC"	N										
+A	"SLT Production, LLC"	N										
+P	M2	TTEGR_APPZN2	95	PL00000139	Appalachian Zone 2	1595	0					
+P	M2	TTEGR_APPZN2	95	PL00000139	Appalachian Zone 2	1000	0					
+P	MQ	Lamont	95	420072		1595	0					
+P	MQ	Nfg Dist. Erie Control	95	NFGDC-ECTL		1000	0					
+D	South Jersey Energy Company d/b/a Open Flow Energy	610003899	N	EFT	E11252	10/1/2008	9/30/2018	0	N	500	0	
+P	M2	E of Hend / W & N of Overbeck	95	APPZN2		450	0					
+P	M2	E of Over / W of Cost App Zn 8	95	APPZN8		50	0					
+P	MQ	Nfg Dist. City-Gate - PA	95	NFGDC-PA		450	0					
+P	MQ	Nfg Dist. City-Gate - PA	95	NFGDC-PA		50	0					
+D	Vineyard Oil & Gas	37243623	N	EFT	E11864	11/1/2013	10/31/2014	365	N	1450	0	
+P	M2	Pendleton	95	12003020		50	0					
+P	M2	Lamont	95	420072		50	0					
+P	M2	VOG_NGP_APPZN2	95	PL00000069	Appalachian Zone 2	850	0					
+P	M2	CAT_APPZN2	95	PL00000130	Appalachian Zone 2	222	0					
+P	M2	CAT_APPZN2	95	PL00000130	Appalachian Zone 2	278	0					
+P	MQ	Nfg Dist. Mineral Springs	95	NFGDC-MSMX		50	0					
+P	MQ	Kane Gas City Gate	95	PSN1301336		50	0					
+P	MQ	Nfg Dist. Erie Control	95	NFGDC-ECTL		850	0					
+P	MQ	Northeast Heat & Light	95	NEHLCG		222	0					
+P	MQ	Nfg Dist. Erie Control	95	NFGDC-ECTL		278	0					
+D	Vineyard Oil & Gas	37243623	N	EFT	E12006	11/1/2014	10/31/2016	365	N	2300	0	
+P	M2	E of Hend / W & N of Overbeck	95	APPZN2		2220	0					
+P	M2	D&L App Zn 9	95	APPZN9		80	0					
+P	MQ	NFGDC PA (Operational Cap.)	95	NFGDC PA		2220	0					
+P	MQ	Nfg Dist. City-Gate - PA	95	NFGDC-PA		80	0					
+D	Atlanta Gas Light Company	6924708	N	FST	N11568	4/1/2011	3/31/2015	365	N	21106	0	
+A	Sequent Energy Management. LP	N										
+P	M2	Leidy Transco	95	7126		14049	0					
+P	M2	Nfgsc Storage	95	NFSTOR		0	14049					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	21106					
+P	MQ	Leidy Transco	95	7126		21106	0					
+D	Bay State Gas Company	69340214	N	FST	N11117	4/1/2008	3/31/2020	0	N	10000	0	
+P	M2	East Aurora	95	420077		6699	0					
+P	M2	Nfgsc Storage	95	NFSTOR		0	6699					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	10000					
+P	MQ	Roselake	95	420527		10000	0					
+D	Castleton Commodities Merchant Trading L.P.	118638852	N	FST	N12353	3/1/2018	8/31/2018	0	N	25000	0	
+P	M2	Leidy Transco	95	7126		8241	0					
+P	M2	Nfgsc Storage	95	NFSTOR		0	8241					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	25000					
+P	MQ	Niagara	95	421079		25000	0					
+D	Connecticut Natural Gas Corporation	1139294	N	FST	N01719	4/1/1996	3/31/2021	0	N	8964	0	
+P	M2	Roselake	95	420527		5669	0					
+P	M2	Nfgsc Storage	95	NFSTOR		0	5669					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	8964					
+P	MQ	Roselake	95	420527		8964	0					
+D	Consolidated Edison Company of NY Inc.	6982359	N	FST	N11192	4/1/2008	3/31/2023	0	N	7871	0	
+P	M2	Leidy Transco	95	7126		4452	0					
+P	M2	Nfgsc Storage	95	NFSTOR		0	4452					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	7871					
+P	MQ	Independence	95	2078		7871	0					
+D	Consolidated Edison Energy Inc.	48942564	N	FST	N11649	4/1/2012	3/31/2013	365	N	2270	0	
+P	M2	Leidy Transco	95	7126		1752	0					
+P	M2	Nfgsc Storage	95	NFSTOR		0	1752					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	2270					
+P	MQ	Leidy Transco	95	7126		2270	0					
+D	Consolidated Edison Energy Inc.	48942564	N	FST	N11651	4/1/2012	3/31/2013	365	N	1628	0	
+P	M2	Leidy Transco	95	7126		1024	0					
+P	M2	Nfgsc Storage	95	NFSTOR		0	1024					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	1628					
+P	MQ	Leidy Transco	95	7126		1628	0					
+D	"Crown Energy Services, Inc."	129653858	N	FST	N02300	4/1/2000	3/31/2010	365	N	1136	0	
+P	M2	Roselake	95	420527		761	0					
+P	M2	Nfgsc Storage	95	NFSTOR		0	761					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	1136					
+P	MQ	Nfg Dist. Mineral Springs	95	NFGDC-MSMX		1136	0					
+D	"Crown Energy Services, Inc."	129653858	N	FST	N10672	4/1/2004	3/31/2007	365	N	1667	0	
+P	M2	Roselake	95	420527		862	0					
+P	M2	Nfgsc Storage	95	NFSTOR		0	862					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	1667					
+P	MQ	Nfg Dist. Mineral Springs	95	NFGDC-MSMX		1667	0					
+D	"Direct Energy Business Marketing, LLC"	78790103	N	FST	N11913	4/1/2014	3/31/2016	365	N	2028	0	
+P	M2	Roselake	95	420527		1574	0					
+P	M2	Nfgsc Storage	95	NFSTOR		0	1574					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	2028					
+P	MQ	Nfg Dist. Mineral Springs	95	NFGDC-MSMX		2028	0					
+D	"Direct Energy Business Marketing, LLC"	78790103	N	FST	N11915	4/1/2014	3/31/2016	365	N	811	0	
+P	M2	Roselake	95	420527		543	0					
+P	M2	Nfgsc Storage	95	NFSTOR		0	543					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	811					
+P	MQ	NFGDC NY (Operational Cap.)	95	NFGDC NY		811	0					
+D	"Direct Energy Business Marketing, LLC"	78790103	N	FST	N11917	4/1/2014	3/31/2016	365	N	400	0	
+P	M2	Roselake	95	420527		268	0					
+P	M2	Nfgsc Storage	95	NFSTOR		0	268					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	400					
+P	MQ	Nfg Dist. Mineral Springs	95	NFGDC-MSMX		400	0					
+D	"EnergyMark, LLC"	832686880	N	FST	N11483	2/1/2010	3/31/2012	365	N	909	0	
+P	M2	Roselake	95	420527		609	0					
+P	M2	Nfgsc Storage	95	NFSTOR		0	609					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	909					
+P	MQ	Nfg Dist. Mineral Springs	95	NFGDC-MSMX		909	0					
+D	"EnergyMark, LLC"	832686880	N	FST	N11485	2/1/2010	3/31/2012	365	N	2273	0	
+P	M2	Roselake	95	420527		1523	0					
+P	M2	Nfgsc Storage	95	NFSTOR		0	1523					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	2273					
+P	MQ	Nfg Dist. Mineral Springs	95	NFGDC-MSMX		2273	0					
+D	"EnergyMark, LLC"	832686880	N	FST	N11924	5/1/2014	3/31/2019	0	N	2483	0	
+P	M2	Roselake	95	420527		2248	0					
+P	M2	Nfgsc Storage	95	NFSTOR		0	2248					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	2483					
+P	MQ	Lamont	95	420072		1483	0					
+P	MQ	NFGDC PA (Operational Cap.)	95	NFGDC PA		1000	0					
+D	Green Plains Trade Group LLC dba Green Pl. En. Ser	848984915	N	FST	N12192	4/1/2016	3/31/2018	365	N	6900	0	
+P	M2	Roselake	95	420527		3850	0					
+P	M2	Nfgsc Storage	95	NFSTOR		0	3850					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	6900					
+P	MQ	Roselake	95	420527		6900	0					
+D	Liberty Utilities (EnergyNorth Natural Gas) Corp.	830408873	N	FST	N02358	4/1/2000	3/31/2003	365	N	6098	0	
+A	National Grid - RI	N										
+P	M2	Roselake	95	420527		4628	0					
+P	M2	Nfgsc Storage	95	NFSTOR		0	4628					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	6098					
+P	MQ	Roselake	95	420527		6098	0					
+D	"NOCO Natural Gas, LLC"	806750449	N	FST	N12081	7/1/2015	3/31/2018	365	N	1705	0	
+P	M2	Ellisburg Station	95	41202		776	0					
+P	M2	Nfgsc Storage	95	NFSTOR		0	776					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	1705					
+P	MQ	Independence	95	2078		705	0					
+P	MQ	Roselake	95	420527		1000	0					
+D	NSTAR Gas Company	75345678	N	FST	N10517	4/1/2003	3/31/2006	365	N	3096	0	
+A	Yankee Gas Services Company	N										
+A	"Merrill Lynch Commodities, Inc."	N										
+P	M2	Ellisburg Station	95	41202		2061	0					
+P	M2	Nfgsc Storage	95	NFSTOR		0	2061					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	3096					
+P	MQ	Wharton Transco	95	6325		3096	0					
+D	"National Fuel Resources, Inc."	794898775	Y	FST	N10796	4/1/2005	3/31/2023	0	N	2000	0	
+P	M2	Roselake	95	420527		1340	0					
+P	M2	Nfgsc Storage	95	NFSTOR		0	1340					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	2000					
+P	MQ	Nfg Dist. Mineral Springs	95	NFGDC-MSMX		2000	0					
+D	"National Fuel Resources, Inc."	794898775	Y	FST	N11081	4/1/2007	3/31/2040	0	N	10000	0	
+P	M2	Roselake	95	420527		6696	0					
+P	M2	Nfgsc Storage	95	NFSTOR		0	6696					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	10000					
+P	MQ	Nfg Dist. Mineral Springs	95	NFGDC-MSMX		10000	0					
+D	"National Fuel Resources, Inc."	794898775	Y	FST	N11188	4/1/2008	3/31/2020	0	N	7881	0	
+P	M2	Roselake	95	420527		5278	0					
+P	M2	Nfgsc Storage	95	NFSTOR		0	5278					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	7881					
+P	MQ	Nfg Dist. Island Run	95	NFGDC-IR		7881	0					
+D	"National Fuel Resources, Inc."	794898775	Y	FST	N11800	4/1/2013	3/31/2020	0	N	3034	0	
+P	M2	Leidy Transco	95	7126		2323	0					
+P	M2	Nfgsc Storage	95	NFSTOR		0	2323					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	3034					
+P	MQ	NFGDC PA (Operational Cap.)	95	NFGDC PA		3034	0					
+D	"National Fuel Resources, Inc."	794898775	Y	FST	N11959	9/1/2014	3/31/2020	0	N	2649	0	
+P	M2	Roselake	95	420527		2398	0					
+P	M2	Nfgsc Storage	95	NFSTOR		0	2398					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	2649					
+P	MQ	Nfg Dist. Island Run	95	NFGDC-IR		2649	0					
+D	"North American Energy, Inc. d/b/a IDT Energy"	883235830	N	FST	N02419	4/1/2001	3/31/2012	365	N	1334	0	
+A	BP Energy Company	N										
+P	M2	Ellisburg Station	95	41202		1035	0					
+P	M2	Nfgsc Storage	95	NFSTOR		0	1035					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	1334					
+P	MQ	Nfg Dist. Mineral Springs	95	NFGDC-MSMX		1334	0					
+D	"South Jersey Resources Group, LLC"	36474336	N	FST	N02421	4/1/2001	3/31/2017	365	N	3333	0	
+P	M2	Roselake	95	420527		2587	0					
+P	M2	Nfgsc Storage	95	NFSTOR		0	2587					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	3333					
+P	MQ	Wharton Transco	95	6325		3333	0					
+D	"South Jersey Resources Group, LLC"	36474336	N	FST	N10798	4/1/2005	3/31/2020	0	N	18922	0	
+P	M2	Roselake	95	420527		1156	0					
+P	M2	Leidy Transco	95	7126		11518	0					
+P	M2	Nfgsc Storage	95	NFSTOR		0	12674					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	18922					
+P	MQ	Wharton Transco	95	6325		8922	0					
+P	MQ	Nfg Dist. City-Gate - PA	95	NFGDC-PA		10000	0					
+D	"South Jersey Resources Group, LLC"	36474336	N	FST	N10958	4/2/2006	3/31/2020	0	N	2042	0	
+P	M2	Roselake	95	420527		1367	0					
+P	M2	Nfgsc Storage	95	NFSTOR		0	1367					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	2042					
+P	MQ	Leidy Transco	95	7126		2042	0					
+D	"South Jersey Resources Group, LLC"	36474336	N	FST	N11090	4/1/2007	3/31/2023	0	N	1364	0	
+P	M2	Nfgsc Storage	95	NFSTOR		0	914					
+P	M2	PAPCO_APPZN2	95	PL00000138	Appalachian Zone 2	914	0					
+P	MQ	Leidy Transco	95	7126		1364	0					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	1364					
+D	"Spotlight Energy, LLC"	79978564	N	FST	N12355	3/1/2018	8/31/2018	0	N	40100	0	
+P	M2	Leidy Transco	95	7126		13218	0					
+P	M2	Nfgsc Storage	95	NFSTOR		0	13218					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	40100					
+P	MQ	East Aurora	95	420077		40100	0					
+D	"Tennessee Gas Pipeline Company, L.L.C"	1939164	N	FST	N12086	8/7/2015	3/31/2019	0	N	14386	0	
+P	M2	Roselake	95	420527		7387	0					
+P	M2	Nfgsc Storage	95	NFSTOR		0	7387					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	14386					
+P	MQ	Roselake	95	420527		14386	0					
+D	"Valley Energy, Inc."	54086520	N	FST	N10239	11/15/2002	3/31/2007	365	N	688	0	
+A	Union Energy Services	N										
+P	M2	Roselake	95	420527		534	0					
+P	M2	Nfgsc Storage	95	NFSTOR		0	534					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	688					
+P	MQ	Roselake	95	420527		688	0					
+D	Yankee Gas Services Company dba Eversource Energy	361667371	N	FST	N10258	4/1/2003	3/31/2006	365	N	5499	0	
+P	M2	Roselake	95	420527		3683	0					
+P	M2	Nfgsc Storage	95	NFSTOR		0	3683					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	5499					
+P	MQ	Roselake	95	420527		5499	0					
+D	Yankee Gas Services Company dba Eversource Energy	361667371	N	FST	N10553	4/1/2003	3/31/2017	365	N	9552	0	
+P	M2	Nashville Storage	95	420243		7414	0					
+P	M2	Nfgsc Storage	95	NFSTOR		0	7414					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	9552					
+P	MQ	Wharton Transco	95	6325		1810	0					
+P	MQ	Holbrook	95	70015		7742	0					
+D	"Beacon Landfill Gas Holdings, LLC"	784122363	N	FT	F10890	9/1/2007	8/31/2017	365	N	2306	0	
+A	"South Jersey Resources Group, LLC"	N										
+A	"Shell Energy North America (US), L.P."	N										
+P	M2	Holbrook	95	70015		2306	0					
+P	MQ	Imperial Landfill (To plant)	95	IMPTO		2306	0					
+D	"Beacon Landfill Gas Holdings, LLC"	784122363	N	FT	F10891	8/1/2007	7/31/2017	365	N	4010	0	
+A	"South Jersey Resources Group, LLC"	N										
+A	"Shell Energy North America (US), L.P."	N										
+P	M2	Lamont	95	420072		4010	0					
+P	MQ	Greentree Landfill (to plant)	95	GREENTO		4010	0					
+D	"Beacon Landfill Gas Holdings, LLC"	784122363	N	FT	F10892	8/1/2007	7/31/2017	365	N	1650	0	
+A	"South Jersey Resources Group, LLC"	N										
+A	"Shell Energy North America (US), L.P."	N										
+P	M2	Greentree Landfill from plant	95	GREENFROM		1650	0					
+P	MQ	Roselake	95	420527		1650	0					
+D	"Beacon Landfill Gas Holdings, LLC"	784122363	N	FT	F10905	9/1/2007	8/31/2017	365	N	950	0	
+A	"South Jersey Resources Group, LLC"	N										
+A	"Shell Energy North America (US), L.P."	N										
+P	M2	Imperial Landfill from plant	95	IMPFROM		950	0					
+P	MQ	Roselake	95	420527		950	0					
+D	"Beacon Landfill Gas Holdings, LLC"	784122363	N	FT	F10906	10/1/2006	9/30/2016	365	N	3650	0	
+A	"South Jersey Resources Group, LLC"	N										
+A	"Shell Energy North America (US), L.P."	N										
+P	M2	Imperial Landfill from plant	95	IMPFROM		3650	0					
+P	MQ	Leidy Transco	95	7126		3650	0					
+D	"Beacon Landfill Gas Holdings, LLC"	784122363	N	FT	F10907	10/1/2006	9/30/2016	365	N	6350	0	
+A	"South Jersey Resources Group, LLC"	N										
+A	"Shell Energy North America (US), L.P."	N										
+P	M2	Greentree Landfill from plant	95	GREENFROM		6350	0					
+P	MQ	Leidy Transco	95	7126		6350	0					
+D	"Beacon Landfill Gas Holdings, LLC"	784122363	N	FT	F11098	7/1/2007	8/31/2008	365	N	1168	0	
+A	"South Jersey Resources Group, LLC"	N										
+A	"Shell Energy North America (US), L.P."	N										
+P	M2	Holbrook	95	70015		1168	0					
+P	MQ	Roselake	95	420527		1168	0					
+D	"Beacon Landfill Gas Holdings, LLC"	784122363	N	FT	F11547	10/26/2011	11/25/2032	0	N	10000	0	 o6
+A	"South Jersey Resources Group, LLC"	N										
+A	"Shell Energy North America (US), L.P."	N										
+P	M2	Imperial Landfill from plant	95	IMPFROM		10000	0					
+P	MQ	Holbrook	95	70015		10000	0					
+D	"Belden & Blake, LLC"	9864569	N	FT	F11466	7/14/2010	7/13/2020	0	Y	2500	0	 q7
+A	"National Fuel Resources, Inc."	Y										
+P	M2	Van	95	VAN-NFGDC		2500	0					
+P	MQ	Nfg Dist. Erie Control	95	NFGDC-ECTL		2500	0					
+D	"Columbia Gas Of Pennsylvania, Inc."	8781668	N	FT	F02091	11/1/1998	10/31/2004	31	N	4304	0	
+P	M2	Leidy Transco	95	7126		4304	0					
+P	MQ	Warren To Columbia Dist Gate	95	PSN0329621		4304	0					
+D	"Columbia Gas Transmission, LLC"	54748041	N	FT	F02308	1/22/2001	10/31/2004	365	N	6608	0	
+P	M2	Ellwood City	95	600065		6608	0					
+P	MQ	Lewis Run	95	637062		6608	0					
+D	Consolidated Edison Company of NY Inc.	6982359	N	FT	F11185	11/1/2008	10/31/2018	0	N	68311	0	
+P	M2	Leidy Transco	95	7126		68311	0					
+P	MQ	Independence	95	2078		68311	0					
+D	"DTE Energy Trading, Inc."	179989231	N	FT	F12332	12/1/2017	11/30/2018	0	N	10000	0	
+P	M2	Leidy Transco	95	7126		10000	0					
+P	MQ	Roselake	95	420527		10000	0					
+D	"Direct Energy Business Marketing, LLC"	78790103	N	FT	F11911	4/1/2014	3/31/2016	365	N	2000	0	
+P	M2	Niagara	95	421079		2000	0					
+P	MQ	Nfg Dist. Mineral Springs	95	NFGDC-MSMX		2000	0					
+D	"Direct Energy Business Marketing, LLC"	78790103	N	FT	F11922	5/1/2014	12/12/2015	365	N	1500	0	
+P	M2	"Diversified Oil & Gas, LLC"	95	PSP1132801	Appalachian Zone 2	1500	0					
+P	MQ	Nfg Dist. Mineral Springs	95	NFGDC-MSMX		1500	0					
+D	"Direct Energy Business Marketing, LLC"	78790103	N	FT	F12197	11/1/2017	10/31/2023	0	N	12700	0	
+P	M2	Lamont	95	420072		5200	0					
+P	M2	Lamont	95	420072		7500	0					
+P	MQ	Nfg Dist. Erie Control	95	NFGDC-ECTL		5200	0					
+P	MQ	ESNE-Energy Systems North East	95	NOR2702		7500	0					
+D	Dresser Rand Company	161187539	N	FT	F11338	12/17/2008	12/16/2018	0	N	1700	0	
+A	PACE Global Energy Services	N										
+A	"EnergyMark, LLC"	N										
+P	M2	Lamont	95	420072		1700	0					
+P	MQ	Dresser Rand - Olean	95	DRESSEROLEAN		1700	0					
+D	J. Aron & Company	6980312	N	FT	F12357	4/1/2018	10/31/2018	0	N	20000	0	
+P	M2	Leidy Transco	95	7126		20000	0					
+P	MQ	Roselake	95	420527		20000	0					
+D	JKLM Energy LLC	79800027	N	FT	F12041	9/1/2015	12/31/2017	365	N	20000	0	
+A	Vineyard Oil & Gas Company	N										
+P	M2	"JKLM Energy, LLC"	95	PSP3104594	Appalachian Zone 6	20000	0					
+P	MQ	Roselake	95	420527		20000	0					
+D	JKLM Energy LLC	79800027	N	FT	F12185	4/1/2016	3/31/2019	0	N	60000	0	
+A	Vineyard Oil & Gas Company	N										
+P	M2	"JKLM Energy, LLC"	95	PSP3104595	Appalachian Zone 7	60000	0					
+P	MQ	Roselake	95	420527		60000	0					
+D	NLMK Pennsylvania	46798059	N	FT	F11097	4/1/2007	6/1/2019	0	N	11000	0	 q8
+A	Fellon-McCord & Associates	N										
+A	"National Fuel Resources, Inc."	Y										
+A	"National Fuel Resources, Inc."	Y										
+P	M2	Mercer (from TGP)	95	420069		11000	0					
+P	MQ	Nfg Dist. Wheatland Loop	95	NFGDC-CAP		11000	0					
+D	National Fuel Gas Distribution Corp.	6976666	Y	FT	F12030	9/1/2015	6/30/2021	0	N	19000	0	 q9
+P	M2	Wharton Transco	95	6325		8000	0					
+P	M2	Wharton Transco	95	6325		11000	0					
+P	MQ	Roselake	95	420527		8000	0					
+P	MQ	Tuscarora	95	22009010		11000	0					
+D	National Fuel Gas Distribution Corp.	6976666	Y	FT	F12198	11/1/2017	3/31/2028	0	N	31000	0	 q10
+P	M2	Lamont	95	420072		31000	0					
+P	MQ	Nfg Dist. Erie Control	95	NFGDC-ECTL		31000	0					
+D	"National Fuel Resources, Inc."	794898775	Y	FT	F11839	11/1/2013	10/31/2023	0	N	10000	0	
+P	M2	Leidy Transco	95	7126		10000	0					
+P	MQ	Independence	95	2078		10000	0					
+D	"National Fuel Resources, Inc."	794898775	Y	FT	F11925	6/1/2014	4/30/2017	365	N	16883	0	
+P	M2	Niagara	95	421079		16883	0					
+P	MQ	Nfg Dist. Mineral Springs	95	NFGDC-MSMX		16883	0					
+D	"National Fuel Resources, Inc."	794898775	Y	FT	F12199	11/1/2017	10/31/2027	0	N	20000	0	
+P	M2	Lamont	95	420072		20000	0					
+P	MQ	Nfg Dist. Erie Control	95	NFGDC-ECTL		20000	0					
+D	"R.E. Gas Development, LLC"	78464938	N	FT	F11979	10/1/2014	10/31/2023	0	N	30000	0	
+P	M2	"Rex Energy I, LLC"	95	PSP1U44931	Appalachian Zone 1	1500	0					
+P	M2	Mercer (from TGP)	95	420069		28500	0					
+P	MQ	Holbrook	95	70015		1500	0					
+P	MQ	Holbrook	95	70015		28500	0					
+D	"Range Resources - Appalachia, LLC"	114534337	N	FT	F11546	10/22/2011	12/21/2022	0	N	150000	0	
+P	M2	"Range Resources-Applch, LLC"	95	4111	Appalachian Zone 1	150000	0					
+P	MQ	Holbrook	95	70015		150000	0					
+D	"Range Resources - Appalachia, LLC"	114534337	N	FT	F11665	11/1/2012	10/31/2022	0	N	150000	0	
+P	M2	"Range Resources-Applch, LLC"	95	4111	Appalachian Zone 1	100000	0					
+P	M2	Intrct btwn Prod/TSP New Meter	95	LINENPRODTAP		50000	0					
+P	MQ	Holbrook	95	70015		100000	0					
+P	MQ	Holbrook	95	70015		50000	0					
+D	"Range Resources - Appalachia, LLC"	114534337	N	FT	F11878	11/1/2014	10/31/2024	0	N	105000	0	
+P	M2	"Range Resources-Applch, LLC"	95	4111	Appalachian Zone 1	105000	0					
+P	MQ	Mercer (to TGP)	95	412888		105000	0					
+D	"Range Resources - Appalachia, LLC"	114534337	N	FT	F12052	10/16/2015	10/15/2025	0	N	145000	0	
+P	M2	"Range Resources-Applch, LLC"	95	4111	Appalachian Zone 1	100000	0					
+P	M2	"Range Resources-Applch, LLC"	95	4111	Appalachian Zone 1	45000	0					
+P	MQ	Holbrook	95	70015		100000	0					
+P	MQ	Mercer (to TGP)	95	412888		45000	0					
+D	Rice Energy Marketing LLC	79663699	N	FT	F12045	2/1/2015	11/2/2023	0	N	5000	0	
+A	Sequent Energy Management. LP	N										
+P	M2	"Rice Drilling B, LLC"	95	PSP1U44941	Appalachian Zone 1	5000	0					
+P	MQ	Holbrook	95	70015		5000	0					
+D	"SWN Energy Services Company, LLC"	967770660	N	FT	F12044	2/1/2015	3/31/2021	0	N	40000	0	
+P	M2	Independence	95	2078		40000	0					
+P	MQ	Leidy Transco	95	7126		40000	0					
+D	Seneca Resources Corp.	7912918	Y	FT	F11333	5/7/2009	8/6/2025	0	N	4000	0	
+P	M2	"Diversified Oil & Gas, LLC"	95	PSP1132801	Appalachian Zone 2	4000	0					
+P	MQ	Leidy Transco	95	7126		4000	0					
+D	Seneca Resources Corp.	7912918	Y	FT	F11538	10/1/2011	10/31/2020	0	N	20000	0	
+P	M2	Seneca Resources Corp.	95	PSP1U44501	Appalachian Zone 8	20000	0					
+P	MQ	Lamont	95	420072		20000	0					
+D	Seneca Resources Corp.	7912918	Y	FT	F11542	11/1/2011	10/31/2020	0	N	20000	0	
+P	M2	Seneca Resources Corp.	95	PSP1144491	Appalachian Zone 6	20000	0					
+P	MQ	Leidy Transco	95	7126		20000	0					
+D	Seneca Resources Corp.	7912918	Y	FT	F12051	11/1/2015	10/31/2030	0	N	30000	0	
+P	M2	Seneca Resources Corp.	95	PSP1140861	Appalachian Zone 8	18500	0					
+P	M2	Seneca Resources Corp.	95	PSP1140861	Appalachian Zone 8	11500	0					
+P	MQ	Mercer (to TGP)	95	412888		18500	0					
+P	MQ	Holbrook	95	70015		11500	0					
+D	Sheffield Land & Timber Co.	79139373	N	FT	F11246	7/1/2008	6/30/2013	365	N	3000	0	
+A	"Total Energy Resources, LLC"	N										
+A	"Total Energy Resources, LLC"	N										
+P	M2	TTEGR_APPZN2	95	PL00000139	Appalachian Zone 2	3000	0					
+P	MQ	Nfg Dist. Erie Control	95	NFGDC-ECTL		3000	0					
+D	"South Jersey Resources Group, LLC"	36474336	N	FT	F11836	8/15/2013	11/30/2023	0	N	13482	0	
+P	M2	Leidy Transco	95	7126		13482	0					
+P	MQ	Roselake	95	420527		13482	0					
+D	"South Jersey Resources Group, LLC"	36474336	N	FT	F11837	11/1/2013	1/31/2022	0	N	24400	0	
+P	M2	Leidy Transco	95	7126		24400	0					
+P	MQ	Roselake	95	420527		24400	0					
+D	"South Jersey Resources Group, LLC"	36474336	N	FT	F12208	11/1/2017	10/31/2027	0	N	8800	0	
+P	M2	Lamont	95	420072		8800	0					
+P	MQ	Nfg Dist. Erie Control	95	NFGDC-ECTL		8800	0					
+D	St. Bonaventure University	74040544	N	FT	F11596	12/17/2011	12/16/2021	0	N	400	0	
+A	"EnergyMark, LLC"	N										
+P	M2	Lamont	95	420072		400	0					
+P	MQ	St Bonaventure University	95	STBONA		400	0					
+D	Stand Energy Corporation	121293039	N	FT	F12182	1/1/2016	3/31/2017	365	N	900	0	
+P	M2	Alliance Petroleum Corporation	95	PSP1U44081	Appalachian Zone 8	900	0					
+P	MQ	Leidy Transco	95	7126		900	0					
+D	Stand Energy Corporation	121293039	N	FT	F12218	9/1/2016	4/2/2017	365	N	3000	0	
+P	M2	Boone Mountain	95	BOONE-NFGDC		2800	0					
+P	M2	Boone Mountain	95	BOONE-NFGDC		200	0					
+P	MQ	Nfg Dist. Island Run	95	NFGDC-IR		2800	0					
+P	MQ	Leidy Transco	95	7126		200	0					
+D	"Statoil Natural Gas, LLC"	130073534	N	FT	F11640	1/16/2013	1/15/2033	0	N	320000	0	
+P	M2	Roselake	95	420527		320000	0					
+P	MQ	Niagara	95	421079		320000	0					
+D	United Refining Company	118331149	N	FT	F02092	11/1/1998	11/20/2023	0	N	13000	0	
+P	M2	Roselake	95	420527		13000	0					
+P	MQ	United Refining Company	95	UNI2854		13000	0					
+D	United Refining Company	118331149	N	FT	F12200	11/1/2017	10/31/2027	0	N	5000	0	
+P	M2	Lamont	95	420072		5000	0					
+P	MQ	United Refining Company	95	UNI2854		5000	0					
+D	"Crown Energy Services, Inc."	129653858	N	FT	F11514	11/1/2010	3/31/2015	365	N	2800	0	
+P	M2	Niagara	95	421079		2800	0					
+P	MQ	Nfg Dist. Mineral Springs	95	NFGDC-MSMX		2800	0					
+D	"National Fuel Resources, Inc."	794898775	Y	FT	F10977	11/1/2006	4/30/2017	365	N	12168	0	 o11
+P	M2	Niagara	95	421079		12168	0					
+P	MQ	Nfg Dist. Vicksburg	95	NFGDC-VICK		12168	0					
+D	"North American Energy, Inc. d/b/a IDT Energy"	883235830	N	FT	F01640	11/1/1995	10/31/1996	365	N	3976	0	
+A	BP Energy Company	N										
+P	M2	Niagara	95	421079		3976	0					
+P	MQ	Nfg Dist. Mineral Springs	95	NFGDC-MSMX		3976	0					
+D	Consolidated Edison Company of NY Inc.	6982359	N	FT	F01775	11/1/1996	10/31/2018	0	N	31028	0	 o12
+P	M2	Niagara	95	421079		31028	0					
+P	MQ	Leidy Transco	95	7126		31028	0					
+D	"Pivotal Utility Holdings, Inc."	56711344	N	FT	F01642	11/1/1995	11/1/2007	365	N	15712	0	 o13
+A	Sequent Energy Management. LP	N										
+P	M2	Niagara	95	421079		15712	0					
+P	MQ	Leidy Transco	95	7126		15712	0					
+D	"National Fuel Resources, Inc."	794898775	Y	FT	F11397	11/1/2009	10/31/2017	365	N	0	0	 o14
+P	M2	Niagara	95	421079		0	0					
+P	MQ	Nfg Dist. Mineral Springs	95	NFGDC-MSMX		0	0					
+D	"Transcontinental Gas Pipe Line Company, LLC"	7933021	N	X-54	X00054	3/29/1990	3/31/2009	365	N	99794	0	 o15
+P	M2	Leidy Transco	95	7126		99794	0					
+P	M2	Ec-1 At Ellisburg	95	PYELLIS		99794	0					
+P	MQ	Ec-1 At Ellisburg	95	PYELLIS		99794	0					
+P	MQ	Leidy Transco	95	7126		99794	0					
+D	Eastern Natural Gas Company	186126777	N	ESS	G00538	8/1/1993	3/31/2007	365	N	0	198194	
+A	CenterPoint Energy Resources Corp.	N										
+P	M2	Nfgsc Storage	95	NFSTOR		0	4376					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	1165					
+D	"KIDN Marketing, Ltd"	946944402	N	ESS	G11126	7/1/2007	3/31/2016	365	N	0	76676	
+P	M2	Nfgsc Storage	95	NFSTOR		0	508					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	451					
+D	Liberty Util. (New England Natural Gas Co.) Corp.	43085850	N	ESS	G00542	8/1/1993	3/31/2003	365	N	0	57531	
+P	M2	Nfgsc Storage	95	NFSTOR		0	381					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	339					
+D	National Fuel Gas Distribution Corp.	6976666	Y	ESS	G00539	8/1/1993	3/31/2003	365	N	0	23882071	 q16
+P	M2	Nfgsc Storage	95	NFSTOR		0	511633					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	140483					
+D	North East Heat & Light Company	4832226	N	ESS	G00541	8/1/1993	3/31/2003	365	N	0	114909	
+P	M2	Nfgsc Storage	95	NFSTOR		0	1111					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	676					
+D	Peoples Natural Gas Company LLC	7916208	N	ESS	G00543	8/1/1993	3/31/2003	365	N	0	748611	
+P	M2	Nfgsc Storage	95	NFSTOR		0	9793					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	4404					
+D	Atlanta Gas Light Company	6924708	N	FSS	O11567	4/1/2011	3/31/2015	365	N	0	2321660	
+A	Sequent Energy Management. LP	N										
+P	M2	Nfgsc Storage	95	NFSTOR		0	21106					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	13656					
+D	Bay State Gas Company	69340214	N	FSS	O11116	4/1/2008	3/31/2020	0	N	0	1100000	
+P	M2	Nfgsc Storage	95	NFSTOR		0	10000					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	6471					
+D	Castleton Commodities Merchant Trading L.P.	118638852	N	FSS	O12352	3/1/2018	8/31/2018	0	N	0	250000	
+P	M2	Nfgsc Storage	95	NFSTOR		0	25000					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	8065					
+D	Connecticut Natural Gas Corporation	1139294	N	FSS	O01718	4/1/1996	3/31/2021	0	N	0	1000000	
+P	M2	Nfgsc Storage	95	NFSTOR		0	9091					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	5556					
+D	Consolidated Edison Company of NY Inc.	6982359	N	FSS	O11191	4/1/2008	3/31/2023	0	N	0	598180	
+P	M2	Nfgsc Storage	95	NFSTOR		0	7871					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	4327					
+D	Consolidated Edison Energy Inc.	48942564	N	FSS	O11648	4/1/2012	3/31/2013	365	N	0	340560	
+P	M2	Nfgsc Storage	95	NFSTOR		0	2270					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	1703					
+D	Consolidated Edison Energy Inc.	48942564	N	FSS	O11650	4/1/2012	3/31/2013	365	N	0	179080	
+P	M2	Nfgsc Storage	95	NFSTOR		0	1628					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	995					
+D	"Crown Energy Services, Inc."	129653858	N	FSS	O02299	4/1/2000	3/31/2010	365	N	0	125000	
+P	M2	Nfgsc Storage	95	NFSTOR		0	1136					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	735					
+D	"Crown Energy Services, Inc."	129653858	N	FSS	O10671	4/1/2004	3/31/2007	365	N	0	100000	
+P	M2	Nfgsc Storage	95	NFSTOR		0	1667					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	833					
+D	"Direct Energy Business Marketing, LLC"	78790103	N	FSS	O11912	4/1/2014	3/31/2016	365	N	0	304200	
+P	M2	Nfgsc Storage	95	NFSTOR		0	2028					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	1521					
+D	"Direct Energy Business Marketing, LLC"	78790103	N	FSS	O11914	4/1/2014	3/31/2016	365	N	0	89210	
+P	M2	Nfgsc Storage	95	NFSTOR		0	811					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	525					
+D	"Direct Energy Business Marketing, LLC"	78790103	N	FSS	O11916	4/1/2014	3/31/2016	365	N	0	44000	
+P	M2	Nfgsc Storage	95	NFSTOR		0	400					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	259					
+D	"EnergyMark, LLC"	832686880	N	FSS	O11482	2/1/2010	3/31/2012	365	N	0	100000	
+P	M2	Nfgsc Storage	95	NFSTOR		0	909					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	588					
+D	"EnergyMark, LLC"	832686880	N	FSS	O11484	2/1/2010	3/31/2012	365	N	0	250000	
+P	M2	Nfgsc Storage	95	NFSTOR		0	2273					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	1471					
+D	"EnergyMark, LLC"	832686880	N	FSS	O11923	5/1/2014	3/31/2019	0	N	0	375000	
+P	M2	Nfgsc Storage	95	NFSTOR		0	2483					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	2206					
+D	Green Plains Trade Group LLC dba Green Pl. En. Ser	848984915	N	FSS	O12191	4/1/2016	3/31/2018	365	N	0	531300	
+P	M2	Nfgsc Storage	95	NFSTOR		0	6900					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	3795					
+D	Liberty Utilities (EnergyNorth Natural Gas) Corp.	830408873	N	FSS	O02357	4/1/2000	3/31/2003	365	N	0	670800	
+A	National Grid - RI	N										
+P	M2	Nfgsc Storage	95	NFSTOR		0	6098					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	4472					
+D	"NOCO Natural Gas, LLC"	806750449	N	FSS	O11792	4/1/2013	3/31/2017	365	N	0	455000	
+P	M2	Nfgsc Storage	95	NFSTOR		0	3034					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	2275					
+D	"NOCO Natural Gas, LLC"	806750449	N	FSS	O11793	4/1/2013	3/31/2017	365	N	0	33540	
+P	M2	Nfgsc Storage	95	NFSTOR		0	559					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	279					
+D	"NOCO Natural Gas, LLC"	806750449	N	FSS	O12080	7/1/2015	3/31/2018	365	N	0	150000	
+P	M2	Nfgsc Storage	95	NFSTOR		0	1705					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	765					
+D	NSTAR Gas Company	75345678	N	FSS	O10516	4/1/2003	3/31/2006	365	N	0	340560	
+A	Yankee Gas Services Company	N										
+A	"Merrill Lynch Commodities, Inc."	N										
+P	M2	Nfgsc Storage	95	NFSTOR		0	3096					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	2003					
+D	National Fuel Gas Distribution Corp.	6976666	Y	FSS	O02427	4/1/2001	3/31/2003	365	N	0	468700	 q17
+P	M2	Nfgsc Storage	95	NFSTOR		0	13420					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	2757					
+D	National Fuel Gas Distribution Corp.	6976666	Y	FSS	O02432	4/1/2001	3/31/2014	365	N	0	200000	 q18
+P	M2	Nfgsc Storage	95	NFSTOR		0	10666					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	2222					
+D	National Fuel Gas Distribution Corp.	6976666	Y	FSS	O02433	4/1/2001	3/31/2011	365	N	0	1314647	 q19
+P	M2	Nfgsc Storage	95	NFSTOR		0	15285					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	7733					
+D	National Fuel Gas Distribution Corp.	6976666	Y	FSS	O11565	4/1/2011	3/31/2017	365	N	0	1757500	 q20
+P	M2	Nfgsc Storage	95	NFSTOR		0	18500					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	9764					
+D	National Fuel Gas Distribution Corp.	6976666	Y	FSS	O11566	4/1/2011	3/31/2017	365	N	0	120000	 q21
+P	M2	Nfgsc Storage	95	NFSTOR		0	2000					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	1000					
+D	National Fuel Gas Distribution Corp.	6976666	Y	FSS	O11966	9/15/2014	3/31/2018	365	N	0	747890	 q22
+P	M2	Nfgsc Storage	95	NFSTOR		0	6799					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	4399					
+D	"National Fuel Resources, Inc."	794898775	Y	FSS	O11080	4/1/2007	3/31/2020	0	N	0	866910	
+P	M2	Nfgsc Storage	95	NFSTOR		0	7881					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	5099					
+D	"National Fuel Resources, Inc."	794898775	Y	FSS	O11187	4/1/2008	3/31/2040	0	N	0	770792	
+P	M2	Nfgsc Storage	95	NFSTOR		0	10138					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	5576					
+D	"National Fuel Resources, Inc."	794898775	Y	FSS	O11189	4/1/2008	3/31/2023	0	N	0	151611	
+P	M2	Nfgsc Storage	95	NFSTOR		0	1991					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	1097					
+D	"National Fuel Resources, Inc."	794898775	Y	FSS	O11799	4/1/2013	3/31/2020	0	N	0	455000	
+P	M2	Nfgsc Storage	95	NFSTOR		0	3034					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	2275					
+D	"National Fuel Resources, Inc."	794898775	Y	FSS	O11958	9/1/2014	3/31/2020	0	N	0	400000	
+P	M2	Nfgsc Storage	95	NFSTOR		0	2649					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	2353					
+D	"North American Energy, Inc. d/b/a IDT Energy"	883235830	N	FSS	O02418	4/1/2001	3/31/2012	365	N	0	200000	
+A	BP Energy Company	N										
+P	M2	Nfgsc Storage	95	NFSTOR		0	1334					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	1000					
+D	"South Jersey Resources Group, LLC"	36474336	N	FSS	O02420	4/1/2001	3/31/2017	365	N	0	500000	
+P	M2	Nfgsc Storage	95	NFSTOR		0	3333					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	2500					
+D	"South Jersey Resources Group, LLC"	36474336	N	FSS	O10797	4/1/2005	3/31/2020	0	N	0	2081420	
+P	M2	Nfgsc Storage	95	NFSTOR		0	18922					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	12243					
+D	"South Jersey Resources Group, LLC"	36474336	N	FSS	O10957	4/2/2006	3/31/2020	0	N	0	224576	
+P	M2	Nfgsc Storage	95	NFSTOR		0	2042					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	1321					
+D	"South Jersey Resources Group, LLC"	36474336	N	FSS	O11089	4/1/2007	3/31/2023	0	N	0	150040	
+P	M2	Nfgsc Storage	95	NFSTOR		0	1364					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	883					
+D	"Spotlight Energy, LLC"	79978564	N	FSS	O12354	3/1/2018	8/31/2018	0	N	0	401000	
+P	M2	Nfgsc Storage	95	NFSTOR		0	40100					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	12935					
+D	"Tennessee Gas Pipeline Company, L.L.C"	1939164	N	FSS	O12085	8/7/2015	3/31/2019	0	N	0	899470	
+P	M2	Nfgsc Storage	95	NFSTOR		0	14386					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	7253					
+D	"Valley Energy, Inc."	54086520	N	FSS	O10238	11/15/2002	3/31/2007	365	N	0	103200	
+A	Union Energy Services	N										
+P	M2	Nfgsc Storage	95	NFSTOR		0	688					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	516					
+D	Yankee Gas Services Company dba Eversource Energy	361667371	N	FSS	O10257	4/1/2003	3/31/2006	365	N	0	604890	
+P	M2	Nfgsc Storage	95	NFSTOR		0	5499					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	3558					
+D	Yankee Gas Services Company dba Eversource Energy	361667371	N	FSS	O10552	4/1/2003	3/31/2017	365	N	0	1432729	
+P	M2	Nfgsc Storage	95	NFSTOR		0	9552					
+P	MQ	Nfgsc Storage	95	NFSTOR		0	7164					
+D	Central Hudson Gas & Electric Corp.	6993695	N	SS-1	P01503	4/1/1984	3/31/1995	365	N	4690	516000	
+A	New Jersey Resources Energy Services	N										
+P	M2	Roselake	95	420527		4690	0					
+P	MQ	Py Storage	95	PYSTOR		0	3440					
+D	"Transcontinental Gas Pipe Line Company, LLC"	7933021	N	SS-1	P01517	4/1/1990	3/31/2009	365	N	99794	10977384	
+P	M2	Roselake	95	420527		99794	0					
+P	MQ	Py Storage	95	PYSTOR		0	73183					
+D	"Transcontinental Gas Pipe Line Company, LLC"	7933021	N	SS-1	P01519	4/1/1984	3/31/2023	0	N	46910	5160000	
+P	M2	Wharton Transco	95	6325		46910	0					
+P	MQ	Py Storage	95	PYSTOR		0	34400					
+F	1	May through October MDTQ = 8358.  November through April = 10058.										
+F	2	Affiliated LDC.										
+F	3	Affiliated LDC.										
+F	4	Affiliated LDC.										
+F	5	Affiliated LDC.										
+F	6	"Total MDTQ of 10,000 consists of 6800 eff 10/26/2011-11/25/2027 and 3200 eff 10/26/2011-11/25/2032"										
+F	7	Agent is an Affiliate										
+F	8	Agent is an Affiliate										
+F	9	Affiliated LDC.										
+F	10	Affiliated LDC.										
+F	11	Former 7C Contract - MDTQ represents the Dth equivalent of 12000 Mcf										
+F	12	Former 7C Contract - MDTQ represents the Dth equivalent of 30600 Mcf										
+F	13	Former 7C Contract - MDTQ represents the Dth equivalent of 15495 Mcf										
+F	14	November through March MDTQ = 4816.  April through October MDTQ = 0										
+F	15	7C Shipper - MDTQ represents the Dth equivalent of 96700 Mcf. Full MDTQ may flow in either direction										
+F	16	Affiliated LDC.										
+F	17	Affiliated LDC.										
+F	18	Affiliated LDC.										
+F	19	Affiliated LDC.										
+F	20	Affiliated LDC.										
+F	21	Affiliated LDC.										
+F	22	Affiliated LDC.										

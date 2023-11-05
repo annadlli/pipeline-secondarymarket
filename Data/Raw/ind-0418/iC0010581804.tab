@@ -1,0 +1,307 @@
+H	"Pine Prairie Energy Center, LLC"	C001058	4/2/2018	O	4/1/2018		T	Sam Leuschen 713-652-3689					
+D	Anadarko Energy Services Company	19-911-6823	N	FSS	AES01640S	4/1/2017	3/31/2021		Y		2000000		
+P	M2	ANR Pipeline Company (SE)	95	766185			16667						
+P	M2	Columbia Gulf Transmission Company	95	4205			16667						
+P	M2	Tennessee Gas Pipeline Company (zon 	95	421043	 		16666						
+P	MQ	Columbia Gulf Transmission Company	95	4205			32000						
+P	MQ	Florida Gas Transmission Company (Z	95	78456			10000						
+P	MQ	Tennessee Gas Pipeline Company (zon	95	421043			33000						
+P	MQ	Transcontinental Gas Pipe Line Corp	95	9003442			15000						
+P	MQ	"Texas Gas Transmission, LLC (SL)"	95	9115			10000						
+D	"Cleco Power, LLC"	03-955-8619	N	FSS	CLP01311S	6/1/2014	5/31/2019		Y		1800000		
+P	M2	Columbia Gulf Transmission Company	95	4205			50000						
+P	MQ	Columbia Gulf Transmission Company	95	4205			80000						
+D	"Cleco Power, LLC"	03-955-8619	N	FSS	CLP01312S	6/1/2014	5/31/2019		Y		200000	X1	
+D	"Cleco Power, LLC"	03-955-8619	N	NNSS	CLP01312NNS	6/1/2014	5/31/2019		Y			X1	
+D	"EDF Trading North America, LLC"	13-038-5763	N	FSS	EDF01571S	4/1/2016	3/31/2019		Y		3000000		
+P	M2	Columbia Gulf Transmission Company	95	4205			70000						
+P	M2	"Texas Eastern Transmission, LP (WLA"	95	75524			30000						
+P	MQ	Transcontinental Gas Pipe Line Corp	95	9003442			150000						
+D	MC Global Gas Corporation	07-868-9899	N	FSS	MCG01591S	4/1/2018	3/31/2023		Y		2000000		
+P	M2	"Texas Eastern Transmission, LP (WLA"	95	75524			10000						
+P	M2	Tennessee Gas Pipeline Company (zon 	95	421043			40000						
+P	MQ	"Texas Eastern Transmission, LP (WLA"	95	75524			20000						
+P	MQ	Tennessee Gas Pipeline Company (zon	95	421043			80000			 			     
+D	J. Aron & Company	00-698-0312	N	FSS	JAR01619S	4/1/2018	3/31/2021		Y		13000000		
+P	M2	ANR Pipeline Company (ML2)	95	490941			40000						
+P	M2	ANR Pipeline Company (SE)	95	766185			40000						
+P	M2	Columbia Gulf Transmission Company	95	4205			205000						
+P	M2	Tennessee Gas Pipeline Company (zon	95	421043			40000						
+P	MQ	KM LA Pipeline	95	44404			50000						
+P	MQ	"Texas Eastern Transmission, LP (WLA"	95	75524			100000						
+P	MQ	Tennessee Gas Pipeline Company (zon	95	421043			250000						
+P	MQ	Transcontinental Gas Pipe Line Corp	95	9003442			200000						
+P	MQ	"Texas Gas Transmission, LLC (SL)"	95	9115			50000						
+D	"Sabine Pass Liquefaction, LLC"	07-873-1670	N	FSS	SPL01557S	4/1/2018	3/31/2028		Y		8000000		
+P	M2	"Texas Eastern Transmission, LP (WLA"	95	75524			120000						
+P	M2	Transcontinental Gas Pipe Line Corp	95	9003442			360000						
+P	M2	"Texas Gas Transmission, LLC (SL)"	95	9115			120000						
+P	MQ	Transcontinental Gas Pipe Line Corp	95	9003442			200000						
+D	"Sequent Energy Management, L.P."	61-207-5846	N	FSS	SEM01648S	4/1/2017	3/31/2020		Y		2000000		
+P	M2	Columbia Gulf Transmission Company	95	4205			25000						
+P	M2	Tennessee Gas Pipeline Company (zon	95	421043			25000						
+P	MQ	Transcontinental Gas Pipe Line Corp	95	9003442			100000						
+D	"Tenaska Gas Storage, LLC"	00-430-3603	N	FSS	TGS01988S	4/1/2018	3/31/2019		Y		2000000		
+P	M2	Columbia Gulf Transmission Company	95	4205			25000						
+P	M2	Tennessee Gas Pipeline Company (zon	95	421043			25000						
+P	MQ	Acadia-Entergy	95	6565656			20000						
+P	MQ	Columbia Gulf Transmission Company	95	4205			50000			     			
+P	MQ	Tennessee Gas Pipeline Company (zon	95	421043			50000						
+D	"Tenaska Gas Storage, LLC"	00-430-3603	N	NNSS	TGS02032NNS	4/1/2018	3/31/2019		Y			X2	
+D	"Tennessee Gas Pipeline Company, LLC"	00-193-9164	N	FSS	TEN01698S	4/1/2017	3/31/2027		Y		2000000		
+P	M2	Tennessee Gas Pipeline Company (zon	95	421043			50000						
+P	MQ	Tennessee Gas Pipeline Company (zon	95	421043			100000						
+D	Tennessee Valley Authority	96-753-7572	N	FSS	TVA01434S	4/1/2015	3/31/2020		Y		1500000		
+P	M2	"Texas Gas Transmission, LLC (SL)"	95	9115			60000						
+P	MQ	"Texas Gas Transmission, LLC (SL)"	95	9115			120000						
+D	Tennessee Valley Authority	96-753-7572	N	NNSS	TVA01435NNS	4/1/2015	3/31/2020		Y				
+P	M2	"Texas Gas Transmission, LLC (SL)"	95	9115			60000						
+P	MQ	"Texas Gas Transmission, LLC (SL)"	95	9115			120000						
+D	Tennessee Valley Authority	96-753-7572	N	FSS	TVA01634S	4/1/2017	3/31/2027		Y		1500000		
+P	M2	ANR Pipeline Company (ML2)	95	490941			40000						
+P	M2	Tennessee Gas Pipeline Company (zon	95	421043			20000						
+P	MQ	ANR Pipeline Company (ML2)	95	490940			45000						
+P	MQ	Columbia Gulf Transmission Company	95	4205			5000						
+P	MQ	Tennessee Gas Pipeline Company (zon	95	421043			50000						
+P	MQ	"Texas Gas Transmission, LLC (SL)"	95	9115			20000						
+D	Tennessee Valley Authority	96-753-7572	N	FSS	TVA02045S	4/1/2018	3/31/2025		Y		1500000		
+P	M2	"Texas Gas Transmission, LLC (SL)"	95	9115			60000						
+P	MQ	"Texas Gas Transmission, LLC (SL)"	95	9115			120000						
+D	"TOTAL GAS & POWER NORTH AMERICA, INC."	62-005-9980	N	FSS	TGP00088S	4/1/2009	3/31/2020		Y		2000000		
+P	M2	"Texas Gas Transmission, LLC (SL)"	95	9115			50000						
+P	M2	"Texas Eastern Transmission, LP (WLA"	95	75524			50000						
+P	MQ	ANR Pipeline Company (SE)	95	766184			13333						
+P	MQ	Columbia Gulf Transmission Company	95	4205			26668						
+P	MQ	"Texas Gas Transmission, LLC (SL)"	95	9115			13333						
+P	MQ	Transcontinental Gas Pipe Line Corp	95	9003442			20000						
+P	MQ	"Texas Eastern Transmission, LP (WLA"	95	75524			13333						
+P	MQ	Tennessee Gas Pipeline Company (zon	95	421043			13333						
+D	Uniper Global Commodities North America LLC	07-909-3350	N	FSS	UNI01989S	4/1/2018	3/31/2019		Y		2000000		
+P	M2	Columbia Gulf Transmission Company	95	4205			25000						
+P	M2	Tennessee Gas Pipeline Company (zon	95	421043			25000						
+P	MQ	Columbia Gulf Transmission Company	95	4205			50000						     
+P	MQ	Tennessee Gas Pipeline Company (zon	95	421043			50000						
+D	Castleton Commodities Merchant Trading L.P.	11-863-8852	N	FL	CCM02028L	2/2/2018	9/30/2018		Y		75000		
+P	M2	Columbia Gulf Transmission Company	95	4205			2500						
+P	M2	Tennessee Gas Pipeline Company (zon	95	421043			2500						
+P	M2	PPEC Hub	95	22222			2500						
+P	M2	"Texas Gas Transmission, LLC (SL)"	95	9115			2500						
+P	M2	"Texas Eastern Transmission, LP (WLA"	95	75524			2500						
+P	MQ	PPEC Hub	95	22222			75000						
+P	MQ	Transcontinental Gas Pipe Line Corp	95	9003442			75000						
+P	MQ	Tennessee Gas Pipeline Company (zon	95	421043			75000						
+D	Castleton Commodities Merchant Trading L.P.	11-863-8852	N	FL	CCM02031L	2/3/2018	9/30/2018		Y		1000000		
+P	M2	Columbia Gulf Transmission Company	95	4205			33500						
+P	M2	Tennessee Gas Pipeline Company (zon	95	421043			33500						
+P	M2	PPEC Hub	95	22222			33500						
+P	M2	"Texas Gas Transmission, LLC (SL)"	95	9115			33500						
+P	M2	"Texas Eastern Transmission, LP (WLA"	95	75524			33500						
+P	MQ	PPEC Hub	95	22222			38500						
+P	MQ	Tennessee Gas Pipeline Company (zon	95	421043			38500						
+D	"Exelon Generation Company, LLC"	19-674-8938	N	FL	EGC02029L	2/2/2018	9/30/2018		Y		75000		
+P	M2	Columbia Gulf Transmission Company	95	4205			2500						
+P	M2	Tennessee Gas Pipeline Company (zon	95	421043			2500						
+P	M2	PPEC Hub	95	22222			2500						
+P	M2	"Texas Gas Transmission, LLC (SL)"	95	9115			2500						
+P	M2	"Texas Eastern Transmission, LP (WLA"	95	75524			2500						
+P	MQ	Columbia Gulf Transmission Company	95	4205			75000						
+P	MQ	PPEC Hub	95	22222			75000						
+P	MQ	Transcontinental Gas Pipe Line Corp	95	9003442			75000						
+D	"Exelon Generation Company, LLC"	19-674-8938	N	FL	EGC02033L	2/3/2018	9/30/2018		Y		500000		
+P	M2	Columbia Gulf Transmission Company	95	4205			16700						
+P	M2	Tennessee Gas Pipeline Company (zon	95	421043			16700						
+P	M2	PPEC Hub	95	22222			16700						
+P	M2	"Texas Gas Transmission, LLC (SL)"	95	9115			16700						
+P	M2	"Texas Eastern Transmission, LP (WLA"	95	75524			16700						
+P	MQ	PPEC Hub	95	22222			19250						
+P	MQ	Transcontinental Gas Pipe Line Corp	95	9003442			19250						
+P	MQ	"Texas Eastern Transmission, LP (WLA"	95	75524			19250						
+P	MQ	Tennessee Gas Pipeline Company (zon	95	421043			19250						
+D	"Hartree Partners, LP"	01-595-6162	N	FL	HAR02030L	2/2/2018	9/30/2018		Y		75000		
+P	M2	PPEC Hub	95	22222			2500						
+P	MQ	ANR Pipeline Company (ML2)	95	490940			75000						
+P	MQ	ANR Pipeline Company (SE)	95	766184			75000						
+P	MQ	Columbia Gulf Transmission Company	95	4205			75000						
+P	MQ	PPEC Hub	95	22222			7100						
+P	MQ	"Texas Eastern Transmission, LP (WLA"	95	75524			75000						
+P	MQ	Tennessee Gas Pipeline Company (zon	95	421043			75000						
+D	"Hartree Partners, LP"	01-595-6162	N	FL	HAR01728L	3/1/2018	8/31/2018		Y		500000		
+P	M2	ANR Pipeline Company (SE)	95	766185			16130						
+P	M2	Columbia Gulf Transmission Company	95	4205			16130						
+P	M2	Tennessee Gas Pipeline Company (zon 	95	421043	 		16130						
+P	M2	PPEC Hub	95	22222			16130						
+P	MQ	ANR Pipeline Company (SE)	95	766184			16130						
+P	MQ	Columbia Gulf Transmission Company	95	4205			16130						
+P	MQ	PPEC Hub	95	22222			16130						
+P	MQ	Tennessee Gas Pipeline Company (zon	95	421043			16130						
+D	J. Aron & Company	00-698-0312	N	FL	JAR01725L	3/1/2018	8/31/2018		Y		500000		
+P	M2	PPEC Hub	95	22222			16130						
+P	M2	Tennessee Gas Pipeline Company (zon	95	421043			16130						
+P	MQ	PPEC Hub	95	22222			16130						
+P	MQ	Tennessee Gas Pipeline Company (zon	95	421043			16130						
+D	Macquarie Energy LLC	79-884-6036	N	FL	CAG01724L	12/1/2017	8/31/2018		Y		1000000		
+P	M2	Columbia Gulf Transmission Company	95	4205			32300						
+P	M2	Tennessee Gas Pipeline Company (zon	95	421043			32300						
+P	M2	PPEC Hub	95	22222			32300						
+P	MQ	Columbia Gulf Transmission Company	95	4205			32300						
+P	MQ	PPEC Hub	95	22222			32300						
+P	MQ	Transcontinental Gas Pipe Line Corp	95	9003442			32300						
+P	MQ	Tennessee Gas Pipeline Company (zon	95	421043			32300						
+D	CIMA ENERGY LTD	94-560-1599	N	FP	CIM01965P	10/25/2017	4/30/2018		Y		210000		
+P	M2	Tennessee Gas Pipeline Company (zon	95	421043			30000						
+P	M2	PPEC Hub	95	22222			30000						
+P	MQ	ANR Pipeline Company (SE)	95	766184			7100						
+P	MQ	Columbia Gulf Transmission Company	95	4205			7100						
+P	MQ	PPEC Hub	95	22222			7100						
+P	MQ	Tennessee Gas Pipeline Company (zon	95	421043			7100						
+P	MQ	Transcontinental Gas Pipe Line Corp	95	9003442			7100						
+D	CIMA ENERGY LTD	94-560-1599	N	FP	CIM01973P	11/1/2017	4/30/2018		Y		30000		
+P	M2	Tennessee Gas Pipeline Company (zon	95	421043			30000						
+P	M2	PPEC Hub	95	22222			30000						
+P	MQ	ANR Pipeline Company (SE)	95	766184			1100						
+P	MQ	Columbia Gulf Transmission Company	95	4205			1100						
+P	MQ	PPEC Hub	95	22222			1100						
+P	MQ	Tennessee Gas Pipeline Company (zon	95	421043			1100						
+P	MQ	Transcontinental Gas Pipe Line Corp	95	9003442			1100						
+D	"DTE Energy Trading, Inc."	17-998-9231	N	FP	DTE01957P	10/18/2017	4/30/2018		Y		60000		
+P	M2	Columbia Gulf Transmission Company	95	4205			60000						
+P	M2	Tennessee Gas Pipeline Company (zon	95	421043			60000						
+P	M2	PPEC Hub	95	22222			60000						
+P	MQ	Columbia Gulf Transmission Company	95	4205			2000						
+P	MQ	Tennessee Gas Pipeline Company (zon	95	421043			2000						
+P	MQ	PPEC Hub	95	22222			2000						
+P	MQ	Transcontinental Gas Pipe Line Corp	95	9003442			2000						
+D	"DTE Energy Trading, Inc."	17-998-9231	N	FP	DTE01960P	10/19/2017	4/30/2018		Y		30000		
+P	M2	Columbia Gulf Transmission Company	95	4205			30000						
+P	M2	Tennessee Gas Pipeline Company (zon	95	421043			30000						
+P	M2	PPEC Hub	95	22222			30000						
+P	MQ	Columbia Gulf Transmission Company	95	4205			1000						
+P	MQ	Tennessee Gas Pipeline Company (zon	95	421043			1000						
+P	MQ	PPEC Hub	95	22222			1000						
+P	MQ	Transcontinental Gas Pipe Line Corp	95	9003442			1000						
+D	"Exelon Generation Company, LLC"	19-674-8938	N	FP	EGC01954P	10/14/2017	4/30/2018		Y		1156300		
+P	M2	Columbia Gulf Transmission Company	95	4205			116300						
+P	M2	"Texas Gas Transmission, LLC (SL)"	95	9115			116300						
+P	M2	PPEC Hub	95	22222			116300						
+P	MQ	PPEC Hub	95	22222			38550						
+P	MQ	Transcontinental Gas Pipe Line Corp	95	9003442			38550						
+D	"Exelon Generation Company, LLC"	19-674-8938	N	FP	EGC01958P	10/19/2017	4/30/2018		Y		488700		
+P	M2	Columbia Gulf Transmission Company	95	4205			100000						
+P	M2	"Texas Gas Transmission, LLC (SL)"	95	9115			100000						
+P	M2	PPEC Hub	95	22222			100000						
+P	MQ	PPEC Hub	95	22222			16300						
+P	MQ	Transcontinental Gas Pipe Line Corp	95	9003442			16300						
+D	"Exelon Generation Company, LLC"	19-674-8938	N	FP	EGC01971P	11/1/2017	4/30/2018		Y		60000		
+P	M2	Columbia Gulf Transmission Company	95	4205			60000						
+P	M2	"Texas Gas Transmission, LLC (SL)"	95	9115			60000						
+P	M2	PPEC Hub	95	22222			60000						
+P	MQ	PPEC Hub	95	22222			2000						
+P	MQ	Transcontinental Gas Pipe Line Corp	95	9003442			2000						
+D	"Exelon Generation Company, LLC"	19-674-8938	N	FP	EGC01979P	11/3/2017	5/31/2018		Y		25000		
+P	M2	Columbia Gulf Transmission Company	95	4205			25000						
+P	M2	"Texas Gas Transmission, LLC (SL)"	95	9115			25000						
+P	M2	PPEC Hub	95	22222			25000						
+P	MQ	PPEC Hub	95	22222			825						
+P	MQ	Transcontinental Gas Pipe Line Corp	95	9003442			825						
+D	"Exelon Generation Company, LLC"	19-674-8938	N	FP	EGC02044P	3/3/2018	4/30/2018		Y		180000		
+P	M2	PPEC Hub	95	22222			60000						
+P	MQ	PPEC Hub	95	22222			6000						
+P	MQ	Transcontinental Gas Pipe Line Corp	95	9003442			6000						
+P	MQ	"Texas Eastern Transmission, LP (WLA"	95	75524			6000						
+P	MQ	Tennessee Gas Pipeline Company (zon	95	421043			6000						
+D	Hartree Partners LP	01-595-6162	N	FP	HAR01956P	10/17/2017	4/30/2018		Y		1030000		
+P	M2	PPEC Hub	95	22222			150000						
+P	MQ	ANR Pipeline Company (SE)	95	766184			34350						
+P	MQ	Columbia Gulf Transmission Company	95	4205			34350						
+P	MQ	PPEC Hub	95	22222			34350						
+P	MQ	Tennessee Gas Pipeline Company (zon	95	421043			34350						
+P	MQ	Transcontinental Gas Pipe Line Corp	95	9003442			34350						
+D	Hartree Partners LP	01-595-6162	N	FP	HAR01961P	10/20/2017	4/30/2018		Y		160000		
+P	M2	Columbia Gulf Transmission Company	95	4205			40000						
+P	M2	PPEC Hub	95	22222			40000						
+P	M2	Tennessee Gas Pipeline Company (zon	95	421043			40000						
+P	MQ	Columbia Gulf Transmission Company	95	4205			5350						
+P	MQ	PPEC Hub	95	22222			5350						
+P	MQ	Tennessee Gas Pipeline Company (zon	95	421043			5350						
+D	Hartree Partners LP	01-595-6162	N	FP	HAR01970P	11/1/2017	4/30/2018		Y		60000		
+P	M2	PPEC Hub	95	22222			60000						
+P	MQ	ANR Pipeline Company (SE)	95	766184			2000						
+P	MQ	Columbia Gulf Transmission Company	95	4205			2000						
+P	MQ	PPEC Hub	95	22222			2000						
+P	MQ	Tennessee Gas Pipeline Company (zon	95	421043			2000						
+P	MQ	Transcontinental Gas Pipe Line Corp	95	9003442			2000						
+D	Hartree Partners LP	01-595-6162	N	FP	HAR01976P	11/2/2017	5/31/2018		Y		155000		
+P	M2	PPEC Hub	95	22222			62000						
+P	MQ	ANR Pipeline Company (SE)	95	766184			5000						
+P	MQ	Columbia Gulf Transmission Company	95	4205			5000						
+P	MQ	PPEC Hub	95	22222			5000						
+P	MQ	Tennessee Gas Pipeline Company (zon	95	421043			5000						
+P	MQ	Transcontinental Gas Pipe Line Corp	95	9003442			5000						
+D	Hartree Partners LP	01-595-6162	N	FP	HAR01981P	11/4/2017	5/31/2018		Y		186000		
+P	M2	PPEC Hub	95	22222			62000						
+P	MQ	ANR Pipeline Company (SE)	95	766184			6025						
+P	MQ	Columbia Gulf Transmission Company	95	4205			6025						
+P	MQ	PPEC Hub	95	22222			6025						
+P	MQ	Tennessee Gas Pipeline Company (zon	95	421043			6025						
+P	MQ	Transcontinental Gas Pipe Line Corp	95	9003442			6025						
+D	Hartree Partners LP	01-595-6162	N	FP	HAR02043P	3/2/2018	4/30/2018		Y		340000		
+P	M2	PPEC Hub	95	22222			60000						
+P	MQ	ANR Pipeline Company (SE)	95	766184			11400						
+P	MQ	Columbia Gulf Transmission Company	95	4205			11400						
+P	MQ	PPEC Hub	95	22222			11400						
+P	MQ	Tennessee Gas Pipeline Company (zon	95	421043			11400						
+P	MQ	Transcontinental Gas Pipe Line Corp	95	9003442			11400				    		
+D	J. Aron & Company	00-698-0312	N	FP	JAR01959P	10/19/2017	4/30/2018		Y		300000		
+P	M2	PPEC Hub	95	22222			60000						
+P	M2	Tennessee Gas Pipeline Company (zon	95	421043			60000						
+P	MQ	PPEC Hub	95	22222			10000						
+P	MQ	Transcontinental Gas Pipe Line Corp	95	9003442			10000						
+D	J. Aron & Company	00-698-0312	N	FP	JAR01964P	10/24/2017	4/30/2018		Y		680000		
+P	M2	PPEC Hub	95	22222			100000						
+P	M2	Tennessee Gas Pipeline Company (zon	95	421043			100000						
+P	MQ	PPEC Hub	95	22222			22675						
+P	MQ	Transcontinental Gas Pipe Line Corp	95	9003442			22675						
+D	J. Aron & Company	00-698-0312	N	FP	JAR01972P	11/1/2017	4/30/2018		Y		60000		
+P	M2	PPEC Hub	95	22222			60000						
+P	M2	Tennessee Gas Pipeline Company (zon	95	421043			60000						
+P	MQ	PPEC Hub	95	22222			2000						
+P	MQ	Transcontinental Gas Pipe Line Corp	95	9003442			2000						
+D	J. Aron & Company	00-698-0312	N	FP	JAR01977P	11/2/2017	5/31/2018		Y		403000		
+P	M2	PPEC Hub	95	22222			93000						
+P	M2	Tennessee Gas Pipeline Company (zon	95	421043			93000						
+P	MQ	PPEC Hub	95	22222			13025						
+P	MQ	Transcontinental Gas Pipe Line Corp	95	9003442			13025						
+D	Macquarie Energy LLC	79-884-6036	N	FP	MCE01968P	10/28/2017	4/30/2018		Y		300000		
+P	M2	Columbia Gulf Transmission Company	95	4205			100000						
+P	M2	PPEC Hub	95	22222			100000						
+P	MQ	ANR Pipeline Company (SE)	95	766184			10000						
+P	MQ	Columbia Gulf Transmission Company	95	4205			10000						
+P	MQ	PPEC Hub	95	22222			10000						
+P	MQ	Transcontinental Gas Pipe Line Corp	95	9003442			10000						
+P	MQ	Tennessee Gas Pipeline Company (zon	95	421043			10000						
+D	Macquarie Energy LLC	79-884-6036	N	FP	MCE01974P	11/1/2017	4/30/2018		Y		60000		
+P	M2	Columbia Gulf Transmission Company	95	4205			60000						
+P	M2	PPEC Hub	95	22222			60000						
+P	MQ	ANR Pipeline Company (SE)	95	766184			2000						
+P	MQ	Columbia Gulf Transmission Company	95	4205			2000						
+P	MQ	PPEC Hub	95	22222			2000						
+P	MQ	Transcontinental Gas Pipe Line Corp	95	9003442			2000						
+P	MQ	Tennessee Gas Pipeline Company (zon	95	421043			2000						
+D	Macquarie Energy LLC	79-884-6036	N	FP	MCE01978P	11/2/2017	5/31/2018		Y		124000		
+P	M2	Columbia Gulf Transmission Company	95	4205			62000						
+P	M2	PPEC Hub	95	22222			62000						
+P	MQ	ANR Pipeline Company (SE)	95	766184			4000						
+P	MQ	Columbia Gulf Transmission Company	95	4205			4000						
+P	MQ	PPEC Hub	95	22222			4000						
+P	MQ	Transcontinental Gas Pipe Line Corp	95	9003442			4000						
+P	MQ	Tennessee Gas Pipeline Company (zon	95	421043			4000						
+D	Macquarie Energy LLC	79-884-6036	N	FP	MCE01982P	11/4/2017	5/31/2018		Y		93000		
+P	M2	Columbia Gulf Transmission Company	95	4205			31000						
+P	M2	PPEC Hub	95	22222			31000						
+P	MQ	ANR Pipeline Company (SE)	95	766184			3025						
+P	MQ	Columbia Gulf Transmission Company	95	4205			3025						
+P	MQ	PPEC Hub	95	22222			3025						
+P	MQ	Transcontinental Gas Pipe Line Corp	95	9003442			3025						
+P	MQ	Tennessee Gas Pipeline Company (zon	95	421043			3025						
+F	1	This contract has no primary points. All on-system points are secondary.											
+F	2	This contract has no primary points.											

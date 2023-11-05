@@ -1,0 +1,23 @@
+H	"Mississippi Hub, LLC"	C001199	3/27/2018	O	4/1/2018	B	B	Jerrod Harrison (619) 696-2987		
+D	Castleton Commodity Merchant Trading LP	38714783	N	FSS	CCMT18001FS	4/1/2018	3/31/2021	1095	N	1000000
+P	IJ	Transco	95	1113564	Zone 1	25000				
+P	WR	Transco	95	1113564	Zone 1	50000				
+D	NJR Energy Services Company	25715156	N	FSS	NJR18001Fs	4/1/2018	3/31/2021	1095	N	2000000
+P	IJ	Transco	95	1113564	Zone 1	40000				
+P	WR	Transco	95	1113564	Zone 1	120000				
+D       DTE Energy Trading Inc	179989231	N	FSS	DTE18001FS	4/1/2018	3/31/2019	364	1000000		
+P	IJ	Transco	95	1113564	Zone 1	31300				
+P       WR      Transco 95      1113564	Zone 1  50000									
+D       Duke Energy Carolinas LLC	957879984	N	FSS	DEC00490FSS	11/1/2015	3/31/2021	1095	N	1250000	
+P       IJ      Transco 95      1113564 Zone 1  70000										
+P       WR      Transco 95      1113564 Zone 1  100000										
+D	Sequent Energy Management LP	612075846	N	FSS	SEQ18001FS	4/1/2018	3/31/2020	730	N	1500000
+P	IJ	Transco	95	1113564	Zone 1	37500				
+P	WR	Transco	95	1113564	Zone 1	112500				
+D	Southern Natural Gas Company LLC	19761464	N	FSS	SNG18001FS	4/1/2018	3/31/2020	730	N	3000000
+P	IJ	Sonat	95	1112164	Zone 1	75000				
+P	WR	Sonat	95	1112164	Zone 1	150000				
+D	Tenaska Gas Storage LLC	624240628	N	FSS	TGS18002FS	4/1/2018	3/31/2020	730	N	1000000
+P	IJ	Transco	95	1113564	Zone 1	20000				
+P	WR	Transco	95	1113564	Zone 1	60000				
+ 										

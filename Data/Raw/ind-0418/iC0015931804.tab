@@ -1,0 +1,57 @@
+H	"SG RESOURCES MISSISSIPPI, L.L.C."	C001593	4/2/2018	O	4/1/2018		T	Sam Leuschen 713-652-3689			
+D	BP ENERGY COMPANY	62-527-5755	N	FSS	BP00002S	5/1/2008	4/30/2018		Y		4000000
+P	M2	"Destin Pipeline Company, L.L.C."	95	20291			150000				
+P	M2	Florida Gas Transmission Company	95	78461			37500				
+P	MQ	"Destin Pipeline Company, L.L.C."	95	11299			75000				
+P	MQ	Florida Gas Transmission Company	95	78460			300000				
+D	"Duke Energy Florida, LLC"	00-692-3700	N	FSS	Progress00007S	5/1/2008	5/31/2018		Y		500000
+P	M2	"Destin Pipeline Company, L.L.C."	95	20291			12500				
+P	M2	Mobile Bay Lateral (FGT & Transco)	95	1005320			12500				
+P	M2	"Southeast Supply Header, LLC"	95	83109			25000				
+P	MQ	Florida Gas Transmission Company	95	78460			50000				
+P	MQ	Mobile Bay Lateral (FGT & Transco)	95	1005320			50000				
+D	Florida Power & Light Company	00-692-2371	N	FSS	FPL01049S	4/1/2018	3/31/2019		Y		1000000
+P	M2	"Southeast Supply Header, LLC"	95	83109			50000				
+P	MQ	Florida Gas Transmission Company	95	78460			85000				
+D	FLORIDA MUNICIPAL POWER AGENCY	79-832-6856	N	FSS	FMPA00186S	4/1/2011	3/31/2021		Y		1000000
+A	Florida Gas Utility	N									
+P	M2	"Destin Pipeline Company, L.L.C."	95	20291			10000				
+P	M2	Florida Gas Transmission Company	95	78461			20000				
+P	M2	Transcontinental Gas Pipe Line Corp	95	9003942			20000				
+P	MQ	Florida Gas Transmission Company	95	78460			75000				
+P	MQ	Transcontinental Gas Pipe Line Corp	95	9003942			25000				
+D	"Infinite Energy,Inc."	96-878-6749	N	FSS	Infinite00836S	4/1/2016	3/31/2019		Y		500000
+P	M2	"Destin Pipeline Company, L.L.C."	95	20291			10000				
+P	M2	Florida Gas Transmission Company	95	78461			15000				
+P	M2	Transcontinental Gas Pipe Line Corp	95	9003942			10000				
+P	MQ	Florida Gas Transmission Company	95	78460			30000				
+P	MQ	Transcontinental Gas Pipe Line Corp	95	9003942			10000				
+D	Orlando Utilities Commission	00-407-6071	N	FSS	OUC00973S	10/1/2017	9/30/2022		Y		300000
+P	M2	Florida Gas Transmission Company	95	78461			10000				
+P	MQ	Florida Gas Transmission Company	95	78460			30000				
+D	"Seminole Electric Cooperative, Inc."	07-833-2657	N	FSS	Seminole00687S	11/1/2014	3/31/2021		Y		450000
+P	M2	Florida Gas Transmission Company	95	78461			10000				
+P	MQ	Florida Gas Transmission Company	95	78460			30000				
+D	"Sequent Energy Management, L.P."	61-207-5846	N	FSS	SEQ00907S	4/1/2017	3/31/2020		Y		1000000
+P	M2	Florida Gas Transmission Company	95	78461			25000				
+P	MQ	Florida Gas Transmission Company	95	78460			50000				
+D	"Shell Energy North America (US), LP"	83-756-5548	N	FSS	Shell00205S	9/1/2012	4/1/2021		Y		10000000
+P	M2	"Destin Pipeline Company, L.L.C."	95	20291			100000				
+P	M2	Florida Gas Transmission Company	95	78461			35000				
+P	M2	Transcontinental Gas Pipe Line Corp	95	9003942			20000				
+P	M2	"Southeast Supply Header, LLC"	95	83109			45000				
+P	MQ	"Destin Pipeline Company, L.L.C."	95	11299			15000				
+P	MQ	Florida Gas Transmission Company	95	78460			155000				
+P	MQ	Transcontinental Gas Pipe Line Corp	95	9003942			30000				
+D	Tampa Electric Company	00-692-4286	N	FSS	TEC01047S	4/1/2018	3/31/2023		Y		500000
+P	M2	"Destin Pipeline Company, L.L.C."	95	20291			10000				
+P	M2	Florida Gas Transmission Company	95	78461			20000				
+P	M2	"Southeast Supply Header, LLC"	95	83109			20000				
+P	M2	Transcontinental Gas Pipe Line Corp	95	9003942			10000				
+P	MQ	"Destin Pipeline Company, L.L.C."	95	11299			10000				
+P	MQ	Florida Gas Transmission Company	95	78460			50000				
+P	MQ	"Southeast Supply Header, LLC"	95	83109			20000				
+P	MQ	Transcontinental Gas Pipe Line Corp	95	9003942			35000				
+D	"Tenaska Gas Storage, LLC"	00-430-3603	N	FSS	TGS01052S	4/1/2018	3/31/2019		Y		1000000
+P	M2	"Southeast Supply Header, LLC"	95	83109			30000				
+P	MQ	Florida Gas Transmission Company	95	78460			50000				

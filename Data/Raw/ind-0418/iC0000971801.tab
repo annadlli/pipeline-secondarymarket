@@ -1,0 +1,87 @@
+H	"Cimarron River Pipeline, LLC"	C000097	2/1/2018	R	1/1/2018	T		Tyler Culbertson (303) 605-2278		
+D	"DCP Operating Company, LP"	3048953	Y	FT	CRP0003000IoC	10/9/2008	10/8/2018		N	239220
+P	M2	Clark County 1	95	29		4176				
+P	M2	Clark County 1 Oneok	95	78107		566				
+P	M2	Ellis County 2	95	45		11043				
+P	M2	Woodward County 1	95	147		1031				
+P	M2	Woodward County 1 Oneok	95	78108		714				
+P	M2	Northrup	95	96		20042				
+P	M2	Farnsworth	95	26106		10021				
+P	M2	Hutchinson County 1	95	77		0				
+P	M2	Spearman Compressor	95	2160		23740				
+P	M2	Perryton Barlow	95	78865		3066				
+P	M2	Perryton Compressor	95	2509		92				
+P	M2	Beaver County 1	95	6		6225				
+P	M2	Beaver County 11	95	16		4962				
+P	M2	Beaver County 12	95	17		7028				
+P	M2	Beaver County 13	95	18		1004				
+P	M2	Beaver County 2	95	8		7896				
+P	M2	Beaver County 3	95	9		1004				
+P	M2	Beaver County 5	95	10		0				
+P	M2	Beaver County 6	95	11		11043				
+P	M2	Beaver County 7	95	12		8917				
+P	M2	Boyd Unit 1	95	26009		49				
+P	M2	Bridges B-17	95	62850		19				
+P	M2	Clark County 2	95	30		9820				
+P	M2	Ellis County 1	95	44		19076				
+P	M2	Ellis County 3	95	46		5020				
+P	M2	Harvey Thurmond PDC	95	62817		3948				
+P	M2	Leroy	95	16248		3970				
+P	M2	Ruby	95	16250		2978				
+P	M2	Timberland PLD to Baker 1 and 2	95	45609		9925				
+P	M2	Traders Creek	95	208		2977				
+P	M2	Watkins	95	16249		2993				
+P	M2	Woodward County 2	95	148		3092				
+P	MQ	PEPL 100line	95	78888		139120				
+P	MQ	Baker Delivery	95	13216		100100				
+P	M2	Hobit	95	43		38701				
+P	M2	Comanche Interconnect	95	42		21835				
+D	Mewbourne Oil Company	47839923	N	FT	CRP0002000	10/9/2008	10/8/2018		Y	24000
+P	M2	Beaver County 1	95	6		159				
+P	M2	Beaver County 7	95	12		2093				
+P	M2	Beaver County 12	95	17		209				
+P	M2	Perryton Compressor	95	2509		418				
+P	M2	Ellis County 1	95	44		419				
+P	M2	Ellis County 2	95	45		8088				
+P	M2	Ellis County 3	95	46		654				
+P	M2	Bourquin Central Delivery	95	13410		406				
+P	M2	Janzen	95	59531		2071				
+P	M2	Spearman Compressor	95	2160		7107				
+P	M2	Spearman Continental Compressor	95	62789		621				
+P	M2	Woodward County 1	95	147		27				
+P	M2	Woodward County 2	95	148		1285				
+P	M2	Farnsworth	95	26106		1553				
+P	MQ	Beaver Plant PVR	95	59370		13100				
+P	MQ	PVR Spearman	95	78977		10900				
+D	ETC Field Services LLC		N	FT	CRP0001000ioc	10/9/2008	10/8/2018		Y	81267
+P	M2	Spearman Continental Compressor	95	62789		22555				
+P	M2	Janzen	95	59531		8372				
+P	M2	Spearman Compressor	95	2160		4709				
+P	M2	Dude Wilson 	95	59945		10361				
+P	M2	Northrup	95	96		2616				
+P	M2	Ellis County Interconnect	95	63023		7067				
+P	M2	Baldwin 1	95	25895		58				
+P	M2	Halliburton 1 PDC	95	62443		58				
+P	M2	Clark County 2	95	30		30				
+P	M2	Clark County 1	95	95		72				
+P	M2	Beaver County 1	95	6		117				
+P	M2	Beaver County 2	95	8		70				
+P	M2	Beaver County 3	95	9		72				
+P	M2	Beaver County 6	95	11		327				
+P	M2	Beaver County 12	95	17		239				
+P	M2	Beaver County 13	95	18		60				
+P	M2	Woodward County 3	95	149		24				
+P	M2	Ellis County 2 Oneok	95	78109		60				
+P	M2	Beaver County 7	95	12		12100				
+P	MQ	Beaver Plant PVR	95	59370		80984				
+P	MQ	NNG Mullinville	95	4		283				
+P	M2	PVR Perryton Barlow B Line	95	51		15144				
+D	"EOG Resources, Inc."	186830733	N	FT	CRP0005000	11/1/2008	10/31/2018		Y	20000
+P	M2	Beaver County 6	95	11		4194				
+P	M2	Beaver County 7	95	12		4194				
+P	M2	Farnsworth	95	26106		4186				
+P	M2	Northrup	95	96		4186				
+P	M2	Perryton Barlow	95	78865		4186				
+P	MQ	PEPL 100line	95	78888		10000				
+P	MQ	Baker Delivery	95	13216		10000				
+F	1	Footnote Placeholder								

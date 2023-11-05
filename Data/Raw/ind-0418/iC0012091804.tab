@@ -1,0 +1,190 @@
+H	Vector Pipeline L.P.	C001209	4/1/2018	O	4/2/2018	T		Lisa A. Steinman 734-462-0232				
+D	Bluewater Gas Storage LLC	146848804	N	FT-1	FT1-BLU-5956	11/1/2018	3/31/2019		N	50000		
+P	M2	St. Clair (US) Interconnect	95	ST101U	Zone 2	50000						
+P	MQ	Guardian Interconnect	95	GU151	Zone 1	50000						
+D	BP Canada Energy Marketing Corp.	248799413	N	FT-1	FT1-BPC-0418	11/1/2007	10/31/2021		N	25000		x1
+P	M2	Guardian Interconnect	95	GU151	Zone 1	25000						
+P	MQ	St. Clair (US) Interconnect	95	ST101U	Zone 2	25000						
+D	BP Canada Energy Marketing Corp.	248799413	N	FT-1	FT1-BPC-1301	11/1/2009	10/31/2021		N	60000		x2
+P	M2	Northern Border Interconnect	95	NB101	Zone 1	55000						
+P	M2	Guardian Interconnect	95	GU151	Zone 1	5000						
+P	MQ	St. Clair (US) Interconnect	95	ST101U	Zone 2	60000						
+D	Crete Energy Venture LLC	40065091	N	FT-1	FT1-CRE-0004	2/1/2002	1/31/2027		Y	108000		x3
+P	M2	Crete Lateral Interconnect	95	CM151	Zone 1	108000						
+P	MQ	Crete Interconnect	95	CM151	Zone 1	108000						
+D	"DTE Energy Trading, Inc."	179989231	Y	FT-1	FT1-DTE-5969	4/1/2018	4/30/2018		N	27215		
+P	M2	Alliance Interconnect	95	AL101	Zone 1	27215						
+P	MQ	St. Clair (US) Interconnect	95	ST101U	Zone 2	27215						
+D	DTE Gas Company	6958540	Y	FT-1	FT1-MCG-0013	1/1/2001	11/30/2020		Y			x4
+P	M2	Belle River Mills Interconnect	95	BR101	Zone 2							
+P	MQ	Milford Junction Interconnect	95	MJ151	Zone 2							
+D	DTE Gas Company	6958540	Y	FT-1	FT1-MCG-5676	11/1/2017	10/31/2022		N	20000		x5
+P	M2	Alliance Interconnect	95	AL101	Zone 1	20000						
+P	MQ	Milford Junction Interconnect	95	MJ151	Zone 2	20000						
+D	Enbridge Gas Distribution Inc.	246667372	Y	FT-1	FT1-EGD-5581	6/1/2016	10/31/2025		Y	110000		
+A	Castleton Commodities Merchant Trading L.P.	N										
+A	Tenaska Marketing Ventures	N										
+P	M2	Alliance Interconnect	95	AL101	Zone 1	80000						
+P	M2	Northern Border Interconnect	95	NB101	Zone 1	30000						
+P	MQ	St. Clair (US) Interconnect	95	ST101U	Zone 2	110000						
+D	Enbridge Gas Distribution Inc.	246667372	Y	FT-1	FT1-EGD-5582	6/1/2016	10/31/2020		Y	65000		
+A	Castleton Commodities Merchant Trading L.P.	N										
+P	M2	Alliance Interconnect	95	AL101	Zone 1	20000						
+P	M2	Northern Border Interconnect	95	NB101	Zone 1	45000						
+P	MQ	St. Clair (US) Interconnect	95	ST101U	Zone 2	65000						
+D	J. Aron & Company LLC	6980312	N	FT-1	FT1-JAC-1300	11/1/2009	10/31/2019		N	25000		x6
+P	M2	Alliance Interconnect	95	AL101	Zone 1	25000						
+P	MQ	St. Clair (US) Interconnect	95	ST101U	Zone 2	25000						
+D	Koch Energy Services LLC	832703297	N	FT-1	FT1-KES-5941	4/1/2018	6/30/2018		N	10000		
+P	M2	Northern Border Interconnect	95	NB101	Zone 1	10000						
+P	MQ	St. Clair (US) Interconnect	95	ST101U	Zone 2	10000						
+D	Morgan Stanley Capital Group Inc.	130198013	N	FT-1	FT1-MSC-5958	4/1/2018	4/30/2018		N	50000		
+P	M2	Alliance Interconnect	95	AL101	Zone 1	50000						
+P	MQ	St. Clair (US) Interconnect	95	ST101U	Zone 2	50000						
+D	Northern Indiana Public Service Company	6937585	N	FT-1	FT1-NIP-0118	4/1/2007	3/31/2023		N	25000		x7
+P	M2	Milford Junction Interconnect	95	MJ151	Zone 2	25000						
+P	MQ	Crown Point Interconnect	95	CP151	Zone 1	25000						
+D	Northern Indiana Public Service Company	6937585	N	FT-1	FT1-NIP-0124	3/1/2006	3/31/2021		N	65000		x8
+P	M2	Alliance Interconnect	95	AL101	Zone 1	65000						
+P	MQ	Crown Point Interconnect	95	CP151	Zone 1	65000						
+D	Northern Indiana Public Service Company	6937585	N	FT-1	FT1-NIP-5845	11/1/2018	3/31/2023		N	40000		x9
+P	M2	Washington 10 Interconnect	95	RO101	Zone 2	40000						
+P	MQ	Crown Point Interconnect	95	CP151	Zone 1	40000						
+D	Rover Pipeline LLC	79717714	N	FT-1	FT1-RPL-5254	5/1/2018	4/30/2038		Y	925000		x10
+P	M2	Proposed Rover Interconnect	95	ET151	Zone 2	925000						
+P	MQ	St. Clair (US) Interconnect	95	ST101U	Zone 2	925000						
+D	Sequent Energy Management L.P.	612075846	N	FT-1	FT1-SEQ-5965	4/1/2018	4/30/2018		N	1000		
+P	M2	Sheridan Interconnect	95	VSH101	Zone 2	1000						
+P	MQ	Guardian Interconnect	95	GU151	Zone 1	1000						
+D	St. Joseph Energy Center LLC	80886739	N	FT-H	FTH-SJE-0005	4/1/2018	3/31/2030		N	90400		
+P	M2	Washington 10 Interconnect	95	RO101	Zone 2	90400						
+P	MQ	St. Joseph Energy Center	95	SJEC151	Zone 2	90400						
+D	The Andersons Albion Ethanol LLC	604523204	N	FT-1	FT1-AAE-5650	12/1/2016	3/31/2027		N	12000		X11
+P	M2	Alliance Interconnect	95	AL101	Zone 1	12000						
+P	MQ	Marengo Interconnect	95	MG101	Zone 2	12000						
+D	The Peoples Gas Light and Coke Company	6932115	N	FT-1	FT1-PGL-5585	4/1/2017	3/31/2028		N	10000		x12
+P	M2	Alliance Interconnect	95	AL101	Zone 1	10000						
+P	MQ	Washington 10 Interconnect	95	RO101	Zone 2	10000						
+D	The Peoples Gas Light and Coke Company	6932115	N	FT-1	FT1-PGL-5757	4/1/2018	10/31/2020		N	19000		x13
+P	M2	Alliance Interconnect	95	AL101	Zone 1	19000						
+P	MQ	Milford Junction Interconnect	95	MJ151	Zone 2	19000						
+D	The Peoples Gas Light and Coke Company	6932115	N	FT-1	FT1-PGL-5758	11/1/2018	3/31/2021		N	80000		x14
+P	M2	Washington 10 Interconnect	95	RO101	Zone 2	80000						
+P	MQ	Proposed Peoples Smith Road Inter.	95	MA151	Zone 1	80000						
+D	The Peoples Gas Light and Coke Company	6932115	N	FT-H	FTH-PGL-0004	11/1/2018	3/31/2028		N	40000		
+P	M2	Washington 10 Interconnect	95	RO101	Zone 2	40000						
+P	MQ	Proposed Peoples Smith Road Inter.	95	MA151	Zone 1	40000						
+D	Union Gas Limited	200408144	Y	FT-1	FT1-UGL-5577	4/1/2016	10/31/2022		Y	80000		
+A	Tenaska Marketing Ventures	N										
+P	M2	Alliance Interconnect	95	AL101	Zone 1	40140						
+P	M2	Northern Border Interconnect	95	NB101	Zone 1	39860						
+P	MQ	St. Clair (US) Interconnect	95	ST101U	Zone 2	80000						
+D	Wisconsin Electric Power Company	7947385	N	FT-1	FT1-WEP-5226	4/1/2015	8/31/2018		N	16235		x15
+P	M2	Guardian Interconnect	95	GU151	Zone 1	16235						
+P	MQ	Bluewater Interconnect	95	BW151	Zone 2	16235						
+D	Wisconsin Electric Power Company	7947385	N	FT-1	FT1-WEP-5227	11/1/2015	3/31/2020		N	55972		x16
+P	M2	Bluewater Interconnect	95	BW151	Zone 2	55972						
+P	MQ	Guardian Interconnect	95	GU151	Zone 1	55972						
+D	Wisconsin Electric Power Company	7947385	N	FT-1	FT1-WEP-5553	4/1/2016	8/31/2018		N	6905		x17
+P	M2	Guardian Interconnect	95	GU151	Zone 1	6905						
+P	MQ	Washington 10 Interconnect	95	RO101	Zone 2	6905						
+D	Wisconsin Electric Power Company	7947385	N	FT-1	FT1-WEP-5554	11/1/2016	3/31/2022		N	23894		x18
+P	M2	Washington 10 Interconnect	95	RO101	Zone 2	23894						
+P	MQ	Guardian Interconnect	95	GU151	Zone 1	23894						
+D	Wisconsin Electric Power Company	7947385	N	FT-1	FT1-WEP-5894	11/1/2018	3/31/2048		N	63890		x19
+P	M2	Bluewater Interconnect	95	BW151	Zone 2	63890						
+P	MQ	Guardian Interconnect	95	GU151	Zone 1	63890						
+D	Wisconsin Electric Power Company	7947385	N	FT-1	FT1-WEP-5895	11/1/2018	3/31/2023		N	41754		x20
+P	M2	St. Clair (US) Interconnect	95	ST101U	Zone 2	41754						
+P	MQ	Guardian Interconnect	95	GU151	Zone 1	41754						
+D	Wisconsin Electric Power Company	7947385	N	FT-1	FT1-WEP-5896	4/1/2018	10/31/2047		N	4550		x21
+P	M2	Guardian Interconnect	95	GU151	Zone 1	4550						
+P	MQ	Bluewater Interconnect	95	BW151	Zone 2	4550						
+D	Wisconsin Electric Power Company	7947385	N	FT-1	FT1-WEP-5897	4/1/2018	10/31/2047		Y	22616		x22
+P	M2	St. Clair (US) Interconnect	95	ST101U	Zone 2	22616						
+P	MQ	Bluewater Interconnect	95	BW151	Zone 2	22616						
+D	Wisconsin Gas LLC	7947047	N	FT-1	FT1-WIS-4879	4/1/2016	10/31/2025		Y	28572		x23
+P	M2	Guardian Interconnect	95	GU151	Zone 1	28572						
+P	MQ	Washington 10 Interconnect	95	RO101	Zone 2	28572						
+D	Wisconsin Gas LLC	7947047	N	FT-1	FT1-WIS-4880	11/1/2016	3/31/2026		Y	83334		x24
+P	M2	Washington 10 Interconnect	95	RO101	Zone 2	83334						
+P	MQ	Guardian Interconnect	95	GU151	Zone 1	83334						
+D	Wisconsin Gas LLC	7947047	N	FT-1	FT1-WIS-5224	4/1/2015	8/31/2018		N	8697		x25
+P	M2	Guardian Interconnect	95	GU151	Zone 1	8697						
+P	MQ	Bluewater Interconnect	95	BW151	Zone 2	8697						
+D	Wisconsin Gas LLC	7947047	N	FT-1	FT1-WIS-5225	11/1/2015	3/31/2020		N	29985		x26
+P	M2	Bluewater Interconnect	95	BW151	Zone 2	29985						
+P	MQ	Guardian Interconnect	95	GU151	Zone 1	29985						
+D	Wisconsin Gas LLC	7947047	N	FT-1	FT1-WIS-5888	11/1/2018	3/31/2048		N	98860		x27
+P	M2	Bluewater Interconnect	95	BW151	Zone 2	98860						
+P	MQ	Guardian Interconnect	95	GU151	Zone 1	98860						
+D	Wisconsin Gas LLC	7947047	N	FT-1	FT1-WIS-5889	11/1/2018	3/31/2023		N	64607		x28
+P	M2	St. Clair (US) Interconnect	95	ST101U	Zone 2	64607						
+P	MQ	Guardian Interconnect	95	GU151	Zone 1	64607						
+D	Wisconsin Gas LLC	7947047	N	FT-1	FT1-WIS-5890	4/1/2018	10/31/2047		N	6850		x29
+P	M2	Guardian Interconnect	95	GU151	Zone 1	6850						
+P	MQ	Bluewater Interconnect	95	BW151	Zone 2	6850						
+D	Wisconsin Gas LLC	7947047	N	FT-1	FT1-WIS-5891	4/1/2018	10/31/2047		Y	35184		x30
+P	M2	St. Clair (US) Interconnect	95	ST101U	Zone 2	35184						
+P	MQ	Bluewater Interconnect	95	BW151	Zone 2	35184						
+D	Wisconsin Public Service Corporation	7947345	N	FT-1	FT1-WPS-5898	11/1/2018	3/31/2048		N	23250		x31
+P	M2	Bluewater Interconnect	95	BW151	Zone 2	23250						
+P	MQ	Guardian Interconnect	95	GU151	Zone 1	23250						
+D	Wisconsin Public Service Corporation	7947345	N	FT-1	FT1-WPS-5899	11/1/2018	3/31/2023		N	15195		x32
+P	M2	St. Clair (US) Interconnect	95	ST101U	Zone 2	15195						
+P	MQ	Guardian Interconnect	95	GU151	Zone 1	15195						
+D	Wisconsin Public Service Corporation	7947345	N	FT-1	FT1-WPS-5900	4/1/2018	10/31/2047		N	1600		x33
+P	M2	Guardian Interconnect	95	GU151	Zone 1	1600						
+P	MQ	Bluewater Interconnect	95	BW151	Zone 2	1600						
+D	Wisconsin Public Service Corporation	7947345	N	FT-1	FT1-WPS-5901	4/1/2018	10/31/2047		Y	8286		x34
+P	M2	St. Clair (US) Interconnect	95	ST101U	Zone 2	8286						
+P	MQ	Bluewater Interconnect	95	BW151	Zone 2	8286						
+F	1	Effective 04/01/2019 Primary Receipt Point changes to Northern Border.										
+F	2	Effective 04/01/2019 Primary Receipt Point changes to Northern Border.										
+F	3	"Receipt Point located at 16"" lateral where service can only be nominated for delivery to Crete Power Plant."										
+F	4	Contracted Capacity is equal to the capacity of a single 36-inch 1000 psig MAOP pipeline between Belle River Mills and Milford Junction										
+F	4	as determined by a maximum delivery pressure of 1000 psig from DTE Gas to Vector at the Primary Receipt Point and a delivery										
+F	4	pressure of 550 psig from Vector to DTE Gas at the Primary Delivery Point.										
+F	5	"Winter MDQ 20,000 Dth/d - November-March and Summer MDQ 10,000 Dth/d - April-October."										
+F	6	Permanent Capacity Release from Nexen Marketing U.S.A. Inc. to J. Aron & Company effective 08/01/2010.										
+F	7	"Effective 04/01/2018 Primary Receipt Point changes to Milford Junction; Primary Delivery Point changes to Crown Point, term is extended to 03/31/2023; and"										
+F	7	"Contracted Capacity increases to 25,000 Dth/d."										
+F	8	"Summer MDQ April-October 1,000 Dth/d 2018, 2019 and 2020 and Winter MDQ November-March 65,000 Dth/d."										
+F	9	"Winter MDQ 40,000 Dth/d - November-March and Summer MDQ 0 Dth/d - April-October."										
+F	10	"Primary term commences 05/01/2018, subject to Rover Pipeline LLC in-service date and contract start date election;"										
+F	10	"MDQ increases to 950,000 Dth/d 11/01/2019."										
+	11	"Effective 04/01/2018 MDQ increases to 12,000 Dth/d."										
+F	12	Contract extended to 03/31/2028.										
+F	13	"Summer MDQ 19,000 Dth/d - April-October and Winter MDQ 0 Dth/d - November-March.  "										
+F	14	"Winter MDQ 80,000 Dth/d - December-March and Summer MDQ 0 Dth/d - April-November.  Effective 11/01/2019 Primary Receipt Point changes to Milford Junction."										
+F	15	"Summer MDQ 16,235 Dth/d - April-October and Winter MDQ 0 Dth/d - November-March.  Contract extended to 08/31/2018."										
+F	16	"Winter MDQ 55,972 Dth/d - November-March and Summer MDQ 0 Dth/d - April-October."										
+F	17	"Summer MDQ 6,905 Dth/d - April-October and Winter MDQ 0 Dth/d - November-March.  Contract extended to 08/31/2018."										
+F	18	"Winter MDQ 23,894 Dth/d - November-March and Summer MDQ 0 Dth/d - April-October."										
+F	19	"Various Winter MDQs (November-March each year with Summer MDQ 0 Dth/d - April-October) beginning with 63,890 Dth/d 11/01/2018, "										
+F	19	"changes to 49,565 Dth/d 11/01/2019,  93,487 Dth/d 11/01/2020, 106,820 Dth/d 11/01/2022, 181,200 Dth/d 11/01/2023, 182,000 Dth/d 11/01/2027."										
+F	20	"Various Winter MDQs (November-March each year with Summer MDQ 0 Dth/d - April-October) beginning with 41,754 Dth/d 11/01/2018, "										
+F	20	"changes to 56,079 Dth/d 11/01/2019,  74,380 Dth/d 11/01/2020."										
+F	21	"Summer MDQ 4,550 Dth/d - April-October and Winter MDQ 0 Dth/d - November-March.  "										
+F	22	"Various Summer MDQs (April-October each year with Winter MDQ 0 Dth/d - November-March) beginning with 22,616 Dth/d 04/01/2018, "										
+F	22	"changes to 38,616 Dth/d 04/01/2020,  42,044 Dth/d 04/01/2022, 42,250 Dth/d 04/01/2027"										
+F	23	"Summer MDQ 28,572 Dth/d - April-October and Winter MDQ 0 Dth/d - November-March."										
+F	24	"Winter MDQ 83,334 Dth/d - November-March and Summer MDQ 0 Dth/d - April-October."										
+F	25	"Summer MDQ 8,697 Dth/d - April-October and Winter MDQ 0 Dth/d - November-March.  Contract extended to 08/31/2018."										
+F	26	"Winter MDQ 29,985 Dth/d - November-March and Summer MDQ 0 Dth/d - April-October."										
+F	27	"Various Winter MDQs (November-March each year with Summer MDQ 0 Dth/d - April-October) beginning with 98,860 Dth/d 11/01/2018, "										
+F	27	"changes to 76,694 Dth/d 11/01/2019,  109,600 Dth/d 11/01/2020, 118,489 Dth/d 11/01/2022, 205,689 Dth/d 11/01/2023, 206,223 Dth/d 11/01/2027."										
+F	28	"Various Winter MDQs (November-March each year with Summer MDQ 0 Dth/d - April-October) beginning with 64,607 Dth/d 11/01/2018, "										
+F	28	"changes to 86,773 Dth/d 11/01/2019,  87,200 Dth/d 11/01/2020."										
+F	29	"Various Summer MDQs (April-October each year with Winter MDQ 0 Dth/d - November-March) beginning with 6,850 Dth/d 04/01/2018, "										
+F	29	"changes to 5,200 Dth/d 04/01/2019."										
+F	30	"Various Summer MDQs (April-October each year with Winter MDQ 0 Dth/d - November-March) beginning with 35,184 Dth/d 04/01/2018, "										
+F	30	"changes to 36,834 Dth/d 04/01/2019, 45,406 Dth/d 04/01/2020,  47,691 Dth/d 04/01/2022, 47,829 Dth/d 04/01/2027."										
+F	31	"Various Winter MDQs (November-March each year with Summer MDQ 0 Dth/d - April-October) beginning with 23,250 Dth/d 11/01/2018, "										
+F	31	"changes to 59,741 Dth/d 11/01/2019,  70,913 Dth/d 11/01/2020, 127,333 Dth/d 11/01/2023."										
+F	32	"Various Winter MDQs (November-March each year with Summer MDQ 0 Dth/d - April-October) beginning with 15,195 Dth/d 11/01/2018, "										
+F	32	"changes to 67,592 Dth/d 11/01/2019,  56,420 Dth/d 11/01/2020."										
+F	33	"Various Summer MDQs (April-October each year with Winter MDQ 0 Dth/d - November-March) beginning with 1,600 Dth/d 04/01/2018, "										
+F	33	"changes to 3,250 Dth/d 04/01/2019."										
+F	34	"Various Summer MDQs (April-October each year with Winter MDQ 0 Dth/d - November-March) beginning with 8,286 Dth/d 04/01/2018, "										
+F	34	"changes to 29,493 Dth/d 04/01/2019."										

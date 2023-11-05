@@ -1,0 +1,1122 @@
+H	"WBI Energy Transmission, Inc."	C000111	4/2/2018	O	4/1/2018	F	F	Lynn Lindblom 701-530-1604	f1/g1			
+D	"United Energy Trading, LLC"	119162860	N	FS-1	FS-10	11/8/2011	3/31/2022		N		1510000	
+P	IJ	WBI-Agg Storage (Inject)	95	5800			10000					
+P	WR	WBI-Agg Storage (Withdraw)	95	5801			10000					
+P	SB	WBI-Agg Storage (Cap.)	95	77776			1510000					
+D	Montana-Dakota Utilities Co.	6962286	Y	FS-1	FS-15	7/15/2015	7/14/2035		N		12364007	
+P	IJ	WBI-Agg Storage (Inject)	95	5800			118172					
+P	WR	WBI-Agg Storage (Withdraw)	95	5801			210665					
+P	SB	WBI-Agg Storage (Cap.)	95	77776			12364007					
+D	Montana-Dakota Utilities Co.	6962286	Y	FT-1	FT-8	7/1/2017	6/30/2022		N	290748		
+P	M2	Malta-WBI Midstream (NG)	95	871		484						
+P	MQ	MDU-Malta Border	95	1070		484						
+P	M2	Whitewater	95	880		10320						
+P	MQ	MDU-Malta Border	95	1070		270						
+P	MQ	MDU-Whitewater Border	95	1080		26						
+P	MQ	MDU-Hinsdale Border	95	1120		81						
+P	MQ	MDU-St. Marie Border	95	1130		90						
+P	MQ	MDU-Glasgow Border	95	1140		560						
+P	MQ	MDU-Fort Peck Border	95	1150		62						
+P	MQ	MDU-Tran.Line(08)MTZ22	95	1155		51						
+P	MQ	MDU-Nashua Border	95	1160		100						
+P	MQ	MDU-Frazer Border	95	1170		43						
+P	MQ	MDU-Wolf Point Border	95	1180		525						
+P	MQ	MDU-Poplar Border	95	1190		592						
+P	MQ	MDU-Tran.Line(09)MTZ22	95	1195		230						
+P	MQ	MDU-Richey Border	95	1200		105						
+P	MQ	MDU-Glendive Border	95	1220		318						
+P	MQ	MDU-Tran.Line(05)MTZ20	95	1245		60						
+P	MQ	MDU-Savage Border	95	1250		45						
+P	MQ	MDU-Sidney Border	95	1280		109						
+P	MQ	MDU-Fairview Border	95	1300		20						
+P	MQ	MDU-Trenton Border	95	1390		9						
+P	MQ	MDU-Williston Border	95	1410		11						
+P	MQ	MDU-Ray Border	95	1460		12						
+P	MQ	MDU-Tioga Border	95	1470		22						
+P	MQ	MDU-Lignite Border	95	1475		5						
+P	MQ	MDU-Tran.Line(06)MTZ241	95	1479		9						
+P	MQ	MDU-Tran.Line(06)MTZ212	95	1484		9						
+P	MQ	MDU-Tran.Line(06)MTZ211	95	1485		6						
+P	MQ	MDU-Tran.Line(06)NDZ25	95	1486		4						
+P	MQ	MDU-Tran.Line(06)NDZ24	95	1488		10						
+P	MQ	MDU-White Earth Border	95	1490		14						
+P	MQ	MDU-Tran.Line(06)NDZ241	95	1491		6						
+P	MQ	MDU-Stanley Border	95	1510		34						
+P	MQ	MDU-Palermo Border	95	1520		10						
+P	MQ	MDU-Minot Border	95	1550		293						
+P	MQ	MDU-Prairie View Hgts Master	95	1610		2						
+P	MQ	MDU-Max Border	95	1620		14						
+P	MQ	MDU-Turtle Lake Border	95	1640		10						
+P	MQ	MDU-Underwood Border	95	1650		17						
+P	MQ	MDU-Riverdale Border	95	1660		14						
+P	MQ	MDU-Washburn Border	95	1670		59						
+P	MQ	MDU-Wilton Border	95	1680		58						
+P	MQ	MDU-Tran.Line(07)NDZ261	95	1685		42						
+P	MQ	MDU-Tran.Line(07)NDZ262	95	1686		46						
+P	MQ	MDU-Apple Valley Border	95	1690		66						
+P	MQ	MDU-Steele Border	95	1700		67						
+P	MQ	MDU-Dawson Border	95	1710		11						
+P	MQ	MDU-Tappen Border	95	1720		31						
+P	MQ	MDU-Medina Border	95	1730		39						
+P	MQ	MDU-Tran.Line(03)NDZ271	95	1735		20						
+P	MQ	MDU-Cleveland Border	95	1740		28						
+P	MQ	MDU-Jamestown Border	95	1760		330						
+P	MQ	MDU-Sanborn Border	95	1780		8						
+P	MQ	MDU-Valley City Border	95	1790		181						
+P	MQ	MDU-Tran.Line(24)NDZ272	95	1791		38						
+P	MQ	MDU-Carrington Border	95	1800		175						
+P	MQ	MDU-New Rockford Border	95	1810		55						
+P	MQ	MDU-Sheyenne Border	95	1820		40						
+P	MQ	MDU-Fort Totten Border	95	1830		37						
+P	MQ	MDU-Langdon Border	95	1860		131						
+P	MQ	MDU-Park River Border	95	1870		159						
+P	MQ	MDU-P.A.R. Housing	95	1889		35						
+P	MQ	MDU-Cavalier Border	95	1930		106						
+P	MQ	MDU-Tran.Line(04)NDZ273	95	1935		37						
+P	MQ	MDU-Bismarck Border	95	1960		800						
+P	MQ	MDU-Mandan Border	95	1970		340						
+P	MQ	MDU-New Salem Border	95	2010		138						
+P	MQ	MDU-Glen Ullin Border	95	2020		127						
+P	MQ	MDU-Hebron Border	95	2030		90						
+P	MQ	MDU-Richardton Border	95	2040		88						
+P	MQ	MDU-Taylor Border	95	2050		37						
+P	MQ	MDU-Mott Border	95	2060		61						
+P	MQ	MDU-New England Border	95	2080		19						
+P	MQ	MDU-Lefor Border	95	2090		9						
+P	MQ	MDU-Gladstone Border	95	2100		33						
+P	MQ	MDU-Tran.Line(02)NDZ31	95	2115		33						
+P	MQ	MDU-Tran.Line(02)NDZ28	95	2116		54						
+P	MQ	MDU-Dickinson Border	95	2120		234						
+P	MQ	MDU-South Heart Border	95	2130		27						
+P	MQ	MDU-Killdeer Border	95	2140		112						
+P	MQ	MDU-Belfield Border	95	2150		28						
+P	MQ	MDU-Golva Border	95	2180		34						
+P	MQ	MDU-Wibaux Border	95	2185		43						
+P	MQ	MDU-Tran.Line(01)MTZ32	95	2187		6						
+P	MQ	MDU-Tran.Line(01)NDZ32	95	2188		18						
+P	MQ	MDU-Tran.Line(01)NDZ31	95	2189		11						
+P	MQ	MDU-Baker Border	95	5110		306						
+P	MQ	MDU-Marmarth Border	95	5120		44						
+P	MQ	MDU-Rhame Border	95	5130		44						
+P	MQ	MDU-Bowman Border	95	5150		188						
+P	MQ	MDU-Camp Crook Border	95	5170		27						
+P	MQ	MDU-Belle Fourche Border	95	5220		150						
+P	MQ	MDU-Spearfish Border	95	5230		127						
+P	MQ	MDU-St. Onge Border	95	5250		27						
+P	MQ	MDU-Deadwood-Lead Agg Pt	95	5265		242						
+P	MQ	MDU-Whitewood Border	95	5280		111						
+P	MQ	MDU-Whitewood Wheeler	95	5290		2						
+P	MQ	MDU-Skelly Master	95	5300		45						
+P	MQ	MDU-Sturgis Border	95	5310		151						
+P	MQ	MDU-Pine Acres Master	95	5320		55						
+P	MQ	MDU-Fort Meade Housing	95	5330		61						
+P	MQ	MDU-Rapid-Black Hawk Agg Pt	95	5380		397						
+P	MQ	MDU-Tran.Line(15)SDZ37	95	5516		404						
+P	M2	Bowdoin	95	885		2672						
+P	MQ	MDU-St. Marie Border	95	1130		44						
+P	MQ	MDU-Glasgow Border	95	1140		284						
+P	MQ	MDU-Fort Peck Border	95	1150		52						
+P	MQ	MDU-Tran.Line(08)MTZ22	95	1155		28						
+P	MQ	MDU-Nashua Border	95	1160		26						
+P	MQ	MDU-Frazer Border	95	1170		20						
+P	MQ	MDU-Tran.Line(09)MTZ22	95	1195		36						
+P	MQ	MDU-Richey Border	95	1200		30						
+P	MQ	MDU-Tran.Line(10)MTZ22	95	1205		7						
+P	MQ	MDU-Tran.Line(05)MTZ20	95	1245		27						
+P	MQ	MDU-Savage Border	95	1250		7						
+P	MQ	MDU-Apple Valley Border	95	1690		34						
+P	MQ	MDU-Tappen Border	95	1720		4						
+P	MQ	MDU-Medina Border	95	1730		39						
+P	MQ	MDU-Jamestown Border	95	1760		400						
+P	MQ	MDU-Sanborn Border	95	1780		9						
+P	MQ	MDU-Sheyenne Border	95	1820		26						
+P	MQ	MDU-Fort Totten Border	95	1830		41						
+P	MQ	MDU-Devils Lake Border	95	1840		331						
+P	MQ	MDU-M.S.R.	95	1850		3						
+P	MQ	MDU-Grafton Border	95	1880		200						
+P	MQ	MDU-P.A.R. Housing	95	1889		8						
+P	MQ	MDU-Tran.Line(04)NDZ273	95	1935		30						
+P	MQ	MDU-Bismarck Border	95	1960		250						
+P	MQ	MDU-Mandan Border	95	1970		100						
+P	MQ	MDU-Glen Ullin Border	95	2020		50						
+P	MQ	MDU-Regent Border	95	2070		39						
+P	MQ	MDU-New England Border	95	2080		21						
+P	MQ	MDU-Tran.Line(02)NDZ28	95	2116		51						
+P	MQ	MDU-Dickinson Border	95	2120		100						
+P	MQ	MDU-South Heart Border	95	2130		26						
+P	MQ	MDU-Sentinel Butte Border	95	2160		35						
+P	MQ	MDU-Tran.Line(11)MTZ18	95	5115		13						
+P	MQ	MDU-Bowman Border	95	5150		17						
+P	MQ	MDU-Field Line(12)MTZ18	95	5153		5						
+P	MQ	MDU-Tran.Line(12)NDZ34	95	5156		4						
+P	MQ	MDU-Encore Master	95	5157		1						
+P	MQ	MDU-Tran.Line(14)MTZ17	95	5195		5						
+P	MQ	MDU-Colony Am. Col. West	95	5200		5						
+P	MQ	MDU-Belle Fourche Am. Col. Wht	95	5211		10						
+P	MQ	MDU-Skelly Master	95	5300		24						
+P	MQ	MDU-Pine Acres Master	95	5320		12						
+P	MQ	MDU-Rapid-Black Hawk Agg Pt	95	5380		199						
+P	MQ	MDU-Tran.Line(15)WYZ37	95	5515		19						
+P	M2	McKenzie Plant	95	910		26351						
+P	MQ	MDU-St. Marie Border	95	1130		27						
+P	MQ	MDU-Glasgow Border	95	1140		205						
+P	MQ	MDU-Nashua Border	95	1160		20						
+P	MQ	MDU-Wolf Point Border	95	1180		220						
+P	MQ	MDU-Glendive Border	95	1220		398						
+P	MQ	MDU-Sidney Lewis & Clark	95	1262		50						
+P	MQ	MDU-Sidney Border	95	1280		1099						
+P	MQ	MDU-Fairview Border	95	1300		274						
+P	MQ	MDU-Watford City West Border	95	1325		347						
+P	MQ	MDU-Arnegard Border	95	1350		36						
+P	MQ	MDU-Trenton Border	95	1390		34						
+P	MQ	MDU-Williston Border	95	1410		3472						
+P	MQ	MDU-Epping Border	95	1450		125						
+P	MQ	MDU-Ray Border	95	1460		216						
+P	MQ	MDU-Tioga Border	95	1470		360						
+P	MQ	MDU-Lignite Border	95	1475		40						
+P	MQ	MDU-Tran.Line(06)MTZ241	95	1479		26						
+P	MQ	MDU-Tran.Line(06)MTZ212	95	1484		47						
+P	MQ	MDU-Tran.Line(06)MTZ211	95	1485		107						
+P	MQ	MDU-Tran.Line(06)NDZ25	95	1486		6						
+P	MQ	MDU-White Earth Border	95	1490		5						
+P	MQ	MDU-Tran.Line(06)MTZ213	95	1495		50						
+P	MQ	MDU-Ross Border	95	1500		72						
+P	MQ	MDU-Stanley Border	95	1510		155						
+P	MQ	MDU-Palermo Border	95	1520		9						
+P	MQ	MDU-Berthold Border	95	1530		40						
+P	MQ	MDU-Des Lacs Border	95	1540		45						
+P	MQ	MDU-Minot Border	95	1550		2566						
+P	MQ	MDU-Ruthville Border	95	1570		25						
+P	MQ	MDU-Burlington Border	95	1600		45						
+P	MQ	MDU-Prairie View Hgts Master	95	1610		7						
+P	MQ	MDU-Max Border	95	1620		44						
+P	MQ	MDU-Garrison Border	95	1630		191						
+P	MQ	MDU-Turtle Lake Border	95	1640		89						
+P	MQ	MDU-Underwood Border	95	1650		67						
+P	MQ	MDU-Riverdale Border	95	1660		48						
+P	MQ	MDU-Washburn Border	95	1670		65						
+P	MQ	MDU-Wilton Border	95	1680		56						
+P	MQ	MDU-Tran.Line(30)NDZ264	95	1689		60						
+P	MQ	MDU-Steele Border	95	1700		87						
+P	MQ	MDU-Jamestown Border	95	1760		328						
+P	MQ	MDU-Valley City Border	95	1790		337						
+P	MQ	MDU-Fort Totten Border	95	1830		28						
+P	MQ	MDU-Devils Lake Border	95	1840		886						
+P	MQ	MDU-Park River Border	95	1870		39						
+P	MQ	MDU-Grafton Border	95	1880		339						
+P	MQ	MDU-Walhalla Border	95	1900		28						
+P	MQ	MDU-Bismarck Border	95	1960		1362						
+P	MQ	MDU-Mandan Border	95	1970		335						
+P	MQ	MDU-New Salem Border	95	2010		116						
+P	MQ	MDU-Glen Ullin Border	95	2020		65						
+P	MQ	MDU-Hebron Border	95	2030		20						
+P	MQ	MDU-Richardton Border	95	2040		244						
+P	MQ	MDU-Mott Border	95	2060		119						
+P	MQ	MDU-Regent Border	95	2070		42						
+P	MQ	MDU-New England Border	95	2080		50						
+P	MQ	MDU-Tran.Line(02)NDZ31	95	2115		69						
+P	MQ	MDU-Tran.Line(02)NDZ28	95	2116		26						
+P	MQ	MDU-Dickinson Border	95	2120		1128						
+P	MQ	MDU-South Heart Border	95	2130		57						
+P	MQ	MDU-Beach Border	95	2170		55						
+P	MQ	MDU-Wibaux Border	95	2185		85						
+P	MQ	MDU-Billings Border	95	3820		1068						
+P	MQ	MDU-Baker Border	95	5110		61						
+P	MQ	MDU-Bowman Border	95	5150		351						
+P	MQ	MDU-Camp Crook Border	95	5170		2						
+P	MQ	MDU-Belle Fourche Border	95	5220		411						
+P	MQ	MDU-Deadwood-Lead Agg Pt	95	5265		776						
+P	MQ	MDU-Whitewood Border	95	5280		78						
+P	MQ	MDU-Skelly Master	95	5300		28						
+P	MQ	MDU-Sturgis Border	95	5310		116						
+P	MQ	MDU-Pine Acres Master	95	5320		16						
+P	MQ	MDU-Fort Meade Housing	95	5330		33						
+P	MQ	MDU-Rapid-Black Hawk Agg Pt	95	5380		6818						
+P	M2	Red Wing Plant	95	950		2465						
+P	MQ	MDU-Williston Border	95	1410		200						
+P	MQ	MDU-Minot Border	95	1550		520						
+P	MQ	MDU-Jamestown Border	95	1760		130						
+P	MQ	MDU-Mandan Border	95	1970		200						
+P	MQ	MDU-Dickinson Border	95	2120		200						
+P	MQ	MDU-Rhame Border	95	5130		95						
+P	MQ	MDU-Bowman Border	95	5150		259						
+P	MQ	MDU-Tran.Line(12)NDZ34	95	5156		6						
+P	MQ	MDU-Belle Fourche Border	95	5220		100						
+P	MQ	MDU-Spearfish Border	95	5230		127						
+P	MQ	MDU-Deadwood-Lead Agg Pt	95	5265		422						
+P	MQ	MDU-Sturgis Border	95	5310		206						
+P	M2	Pine Unit	95	955		5350						
+P	MQ	MDU-Watford City West Border	95	1325		337						
+P	MQ	MDU-Ray Border	95	1460		76						
+P	MQ	MDU-Tioga Border	95	1470		224						
+P	MQ	MDU-Stanley Border	95	1510		201						
+P	MQ	MDU-Minot Border	95	1550		1598						
+P	MQ	MDU-Burlington Border	95	1600		79						
+P	MQ	MDU-Devils Lake Border	95	1840		335						
+P	MQ	MDU-Rapid-Black Hawk Agg Pt	95	5380		2500						
+P	M2	Lignite Plant	95	980		2385						
+P	MQ	MDU-Glasgow Border	95	1140		105						
+P	MQ	MDU-Poplar Border	95	1190		58						
+P	MQ	MDU-Glendive Border	95	1220		130						
+P	MQ	MDU-Sidney Border	95	1280		100						
+P	MQ	MDU-Williston Border	95	1410		203						
+P	MQ	MDU-Jamestown Border	95	1760		280						
+P	MQ	MDU-Valley City Border	95	1790		100						
+P	MQ	MDU-Carrington Border	95	1800		90						
+P	MQ	MDU-New Rockford Border	95	1810		90						
+P	MQ	MDU-Devils Lake Border	95	1840		220						
+P	MQ	MDU-Park River Border	95	1870		90						
+P	MQ	MDU-Grafton Border	95	1880		110						
+P	MQ	MDU-Cavalier Border	95	1930		90						
+P	MQ	MDU-Bismarck Border	95	1960		299						
+P	MQ	MDU-Baker Border	95	5110		50						
+P	MQ	MDU-Belle Fourche Border	95	5220		270						
+P	MQ	MDU-Sturgis Border	95	5310		100						
+P	M2	Tioga Plant	95	990		9093						
+P	MQ	MDU-St. Marie Border	95	1130		166						
+P	MQ	MDU-Glasgow Border	95	1140		329						
+P	MQ	MDU-Nashua Border	95	1160		29						
+P	MQ	MDU-Wolf Point Border	95	1180		89						
+P	MQ	MDU-Poplar Border	95	1190		120						
+P	MQ	MDU-Sidney Border	95	1280		43						
+P	MQ	MDU-Fairview Border	95	1300		65						
+P	MQ	MDU-Alexander Border	95	1360		82						
+P	MQ	MDU-Williston Border	95	1410		78						
+P	MQ	MDU-Epping Border	95	1450		6						
+P	MQ	MDU-Tran.Line(06)MTZ241	95	1479		37						
+P	MQ	MDU-Tran.Line(06)MTZ212	95	1484		1						
+P	MQ	MDU-Tran.Line(06)MTZ211	95	1485		2						
+P	MQ	MDU-Tran.Line(06)NDZ241	95	1491		1						
+P	MQ	MDU-Berthold Border	95	1530		30						
+P	MQ	MDU-Minot Border	95	1550		480						
+P	MQ	MDU-Garrison Border	95	1630		58						
+P	MQ	MDU-Turtle Lake Border	95	1640		19						
+P	MQ	MDU-Underwood Border	95	1650		18						
+P	MQ	MDU-Washburn Border	95	1670		77						
+P	MQ	MDU-Wilton Border	95	1680		29						
+P	MQ	MDU-Tran.Line(07)NDZ261	95	1685		44						
+P	MQ	MDU-Tran.Line(07)NDZ262	95	1686		45						
+P	MQ	MDU-Tran.Line(07)NDZ264	95	1689		60						
+P	MQ	MDU-Tran.Line(30)NDZ260	95	1691		1						
+P	MQ	MDU-Steele Border	95	1700		18						
+P	MQ	MDU-Jamestown Border	95	1760		694						
+P	MQ	MDU-Valley City Border	95	1790		76						
+P	MQ	MDU-Carrington Border	95	1800		82						
+P	MQ	MDU-New Rockford Border	95	1810		61						
+P	MQ	MDU-Fort Totten Border	95	1830		21						
+P	MQ	MDU-Devils Lake Border	95	1840		134						
+P	MQ	MDU-Langdon Border	95	1860		141						
+P	MQ	MDU-Park River Border	95	1870		67						
+P	MQ	MDU-Walhalla Border	95	1900		126						
+P	MQ	MDU-Cavalier Border	95	1930		63						
+P	MQ	MDU-Bismarck Border	95	1960		2070						
+P	MQ	MDU-New Salem Border	95	2010		73						
+P	MQ	MDU-Glen Ullin Border	95	2020		78						
+P	MQ	MDU-Hebron Border	95	2030		40						
+P	MQ	MDU-Richardton Border	95	2040		26						
+P	MQ	MDU-New England Border	95	2080		59						
+P	MQ	MDU-Dickinson Border	95	2120		850						
+P	MQ	MDU-Belfield Border	95	2150		159						
+P	MQ	MDU-Beach Border	95	2170		144						
+P	MQ	MDU-Wibaux Border	95	2185		67						
+P	MQ	MDU-Baker Border	95	5110		125						
+P	MQ	MDU-Bowman Border	95	5150		97						
+P	MQ	MDU-Belle Fourche Border	95	5220		200						
+P	MQ	MDU-Spearfish Border	95	5230		445						
+P	MQ	MDU-Deadwood-Lead Agg Pt	95	5265		100						
+P	MQ	MDU-Whitewood Border	95	5280		83						
+P	MQ	MDU-Sturgis Border	95	5310		214						
+P	MQ	MDU-Rapid-Black Hawk Agg Pt	95	5380		871						
+P	M2	NBPL-Manning (R)	95	1011		38055						
+P	MQ	MDU-Tran.Line(26)MTZ41	95	1012		3						
+P	MQ	MDU-Tran.Line(26)MTZ39	95	1013		1						
+P	MQ	MDU-Glasgow Border	95	1140		325						
+P	MQ	MDU-Wolf Point Border	95	1180		287						
+P	MQ	MDU-Poplar Border	95	1190		418						
+P	MQ	MDU-Glendive Border	95	1220		1101						
+P	MQ	MDU-Sidney Border	95	1280		450						
+P	MQ	MDU-Williston Border	95	1410		650						
+P	MQ	MDU-Berthold Border	95	1530		115						
+P	MQ	MDU-Minot Border	95	1550		1205						
+P	MQ	MDU-Windsor Staloch Farms	95	1745		1						
+P	MQ	MDU-Jamestown Border	95	1760		1558						
+P	MQ	MDU-Jamestown Gavilon Grain	95	1762		1						
+P	MQ	MDU-Valley City Peavey Master	95	1789		1						
+P	MQ	MDU-Valley City Border	95	1790		399						
+P	MQ	MDU-Carrington Border	95	1800		329						
+P	MQ	MDU-New Rockford Border	95	1810		222						
+P	MQ	MDU-Barlow Barlow Elevator	95	1811		1						
+P	MQ	MDU-Devils Lake Border	95	1840		869						
+P	MQ	MDU-Langdon Border	95	1860		433						
+P	MQ	MDU-Grafton Border	95	1880		818						
+P	MQ	MDU-P.A.R. Turbine	95	1890		137						
+P	MQ	MDU-Walhalla Industrial	95	1900		122						
+P	MQ	MDU-Harmon Farms	95	1939		1						
+P	MQ	MDU-Bismarck Border	95	1960		9250						
+P	MQ	MDU-Mandan Border	95	1970		2190						
+P	MQ	MDU-Hebron Border	95	2030		10						
+P	MQ	MDU-Taylor Border	95	2050		20						
+P	MQ	MDU-Gladstone Border	95	2100		26						
+P	MQ	MDU-Dickinson Border	95	2120		1685						
+P	MQ	MDU-South Heart Border	95	2130		100						
+P	MQ	MDU-Belfield Border	95	2150		60						
+P	MQ	MDU-Billings Border	95	3820		1500						
+P	MQ	MDU-Belle Creek Field	95	5190		101						
+P	MQ	MDU-Belle Fourche Border	95	5220		200						
+P	MQ	MDU-Spearfish Border	95	5230		903						
+P	MQ	MDU-Deadwood-Lead Agg Pt	95	5265		450						
+P	MQ	MDU-Sturgis Border	95	5310		300						
+P	MQ	MDU-Fort Meade Hospital	95	5340		150						
+P	MQ	MDU-Rapid-Black Hawk Agg Pt	95	5380		5320						
+P	MQ	MDU-Buffalo Border	95	5530		853						
+P	MQ	MDU-Sheridan Border	95	5540		5405						
+P	MQ	MDU-Tran.Line(23)WYZ91	95	5545		85						
+P	M2	Little Knife Plant	95	1020		8677						
+P	MQ	MDU-Glasgow Border	95	1140		115						
+P	MQ	MDU-Wolf Point Border	95	1180		61						
+P	MQ	MDU-Glendive Border	95	1220		96						
+P	MQ	MDU-Sidney Border	95	1280		35						
+P	MQ	MDU-Williston Border	95	1410		500						
+P	MQ	MDU-Minot Border	95	1550		950						
+P	MQ	MDU-Tran.Line(07)NDZ264	95	1689		32						
+P	MQ	MDU-Valley City Border	95	1790		385						
+P	MQ	MDU-Bismarck Border	95	1960		383						
+P	MQ	MDU-Mandan Border	95	1970		144						
+P	MQ	MDU-Taylor Border	95	2050		28						
+P	MQ	MDU-Mott Border	95	2060		96						
+P	MQ	MDU-New England Border	95	2080		75						
+P	MQ	MDU-Tran.Line(02)NDZ28	95	2116		8						
+P	MQ	MDU-South Heart Border	95	2130		11						
+P	MQ	MDU-Killdeer Border	95	2140		118						
+P	MQ	MDU-Belfield Border	95	2150		37						
+P	MQ	MDU-Beach Border	95	2170		64						
+P	MQ	MDU-Wibaux Border	95	2185		35						
+P	MQ	MDU-Billings Border	95	3820		1107						
+P	MQ	MDU-Baker Border	95	5110		205						
+P	MQ	MDU-Bowman Border	95	5150		87						
+P	MQ	MDU-Spearfish Border	95	5230		655						
+P	MQ	MDU-Deadwood-Lead Agg Pt	95	5265		308						
+P	MQ	MDU-Sturgis Border	95	5310		200						
+P	MQ	MDU-Rapid-Black Hawk Agg Pt	95	5380		2942						
+P	M2	NBPL-Glen Ullin (R)	95	1051		62561						
+P	MQ	MDU-Whitewater Border	95	1080		17						
+P	MQ	MDU-Hinsdale Border	95	1120		32						
+P	MQ	MDU-St. Marie Border	95	1130		87						
+P	MQ	MDU-Glasgow Border	95	1140		1190						
+P	MQ	MDU-Fort Peck Border	95	1150		94						
+P	MQ	MDU-Tran.Line(08)MTZ22	95	1155		49						
+P	MQ	MDU-Nashua Border	95	1160		108						
+P	MQ	MDU-Frazer Border	95	1170		60						
+P	MQ	MDU-Wolf Point Border	95	1180		854						
+P	MQ	MDU-Poplar Border	95	1190		741						
+P	MQ	MDU-Tran.Line(09)MTZ22	95	1195		59						
+P	MQ	MDU-Richey Border	95	1200		53						
+P	MQ	MDU-Tran.Line(10)MTZ22	95	1205		9						
+P	MQ	MDU-Glendive Border	95	1220		1814						
+P	MQ	MDU-Tran.Line(05)MTZ20	95	1245		71						
+P	MQ	MDU-Savage Border	95	1250		72						
+P	MQ	MDU-Sidney Border	95	1280		1271						
+P	MQ	MDU-Fairview Border	95	1300		107						
+P	MQ	MDU-Watford City West Border	95	1325		71						
+P	MQ	MDU-Arnegard Border	95	1350		5						
+P	MQ	MDU-Alexander Border	95	1360		16						
+P	MQ	MDU-Trenton Border	95	1390		57						
+P	MQ	MDU-Williston Border	95	1410		1265						
+P	MQ	MDU-Epping Border	95	1450		36						
+P	MQ	MDU-Ray Border	95	1460		89						
+P	MQ	MDU-Tioga Border	95	1470		256						
+P	MQ	MDU-Lignite Border	95	1475		47						
+P	MQ	MDU-Tran.Line(06)MTZ212	95	1484		108						
+P	MQ	MDU-Tran.Line(06)MTZ211	95	1485		135						
+P	MQ	MDU-Tran.Line(06)NDZ25	95	1486		1						
+P	MQ	MDU-Tran.Line(06)NDZ24	95	1488		25						
+P	MQ	MDU-White Earth Border	95	1490		18						
+P	MQ	MDU-Ross Border	95	1500		23						
+P	MQ	MDU-Stanley Border	95	1510		301						
+P	MQ	MDU-Palermo Border	95	1520		14						
+P	MQ	MDU-Berthold Border	95	1530		92						
+P	MQ	MDU-Des Lacs Border	95	1540		35						
+P	MQ	MDU-Minot Border	95	1550		480						
+P	MQ	MDU-Ruthville Border	95	1570		22						
+P	MQ	MDU-Minot A.F.B.	95	1580		1682						
+P	MQ	MDU-Burlington Border	95	1600		277						
+P	MQ	MDU-Prairie View Hgts Master	95	1610		10						
+P	MQ	MDU-Max Border	95	1620		51						
+P	MQ	MDU-Garrison Border	95	1630		349						
+P	MQ	MDU-Turtle Lake Border	95	1640		172						
+P	MQ	MDU-Underwood Border	95	1650		163						
+P	MQ	MDU-Riverdale Border	95	1660		39						
+P	MQ	MDU-Washburn Border	95	1670		260						
+P	MQ	MDU-Wilton Border	95	1680		166						
+P	MQ	MDU-Tran.Line(07)NDZ261	95	1685		62						
+P	MQ	MDU-Tran.Line(07)NDZ262	95	1686		59						
+P	MQ	MDU-Apple Valley Border	95	1690		176						
+P	MQ	MDU-Steele Border	95	1700		184						
+P	MQ	MDU-Dawson Border	95	1710		13						
+P	MQ	MDU-Tappen Border	95	1720		39						
+P	MQ	MDU-Medina Border	95	1730		65						
+P	MQ	MDU-Tran.Line(03)NDZ271	95	1735		13						
+P	MQ	MDU-Cleveland Border	95	1740		15						
+P	MQ	MDU-Eldridge Border	95	1755		22						
+P	MQ	MDU-Jamestown Border	95	1760		1805						
+P	MQ	MDU-Sanborn Border	95	1780		31						
+P	MQ	MDU-Valley City Peavey Master	95	1789		5						
+P	MQ	MDU-Valley City Border	95	1790		523						
+P	MQ	MDU-Tran.Line(24)NDZ272	95	1791		82						
+P	MQ	MDU-Carrington Border	95	1800		386						
+P	MQ	MDU-New Rockford Border	95	1810		420						
+P	MQ	MDU-Sheyenne Border	95	1820		153						
+P	MQ	MDU-Fort Totten Border	95	1830		125						
+P	MQ	MDU-Devils Lake Border	95	1840		627						
+P	MQ	MDU-M.S.R.	95	1850		15						
+P	MQ	MDU-Langdon Border	95	1860		207						
+P	MQ	MDU-Park River Border	95	1870		275						
+P	MQ	MDU-Grafton Border	95	1880		349						
+P	MQ	MDU-P.A.R. Housing	95	1889		35						
+P	MQ	MDU-Walhalla Industrial	95	1900		233						
+P	MQ	MDU-Cavalier Border	95	1930		521						
+P	MQ	MDU-Tran.Line(04)NDZ273	95	1935		65						
+P	MQ	MDU-Bismarck Border	95	1960		6091						
+P	MQ	MDU-Mandan Border	95	1970		1595						
+P	MQ	MDU-New Salem Border	95	2010		172						
+P	MQ	MDU-Glen Ullin Border	95	2020		228						
+P	MQ	MDU-Hebron Border	95	2030		231						
+P	MQ	MDU-Richardton Border	95	2040		125						
+P	MQ	MDU-Taylor Border	95	2050		23						
+P	MQ	MDU-Mott Border	95	2060		118						
+P	MQ	MDU-Regent Border	95	2070		47						
+P	MQ	MDU-New England Border	95	2080		123						
+P	MQ	MDU-Lefor Border	95	2090		11						
+P	MQ	MDU-Gladstone Border	95	2100		36						
+P	MQ	MDU-Tran.Line(02)NDZ28	95	2116		17						
+P	MQ	MDU-Dickinson Border	95	2120		1183						
+P	MQ	MDU-South Heart Border	95	2130		49						
+P	MQ	MDU-Killdeer Border	95	2140		117						
+P	MQ	MDU-Belfield Border	95	2150		362						
+P	MQ	MDU-Sentinel Butte Border	95	2160		16						
+P	MQ	MDU-Beach Border	95	2170		288						
+P	MQ	MDU-Golva Border	95	2180		3						
+P	MQ	MDU-Wibaux Border	95	2185		87						
+P	MQ	MDU-Tran.Line(01)MTZ32	95	2187		8						
+P	MQ	MDU-Tran.Line(01)NDZ32	95	2188		20						
+P	MQ	MDU-Tran.Line(01)NDZ31	95	2189		14						
+P	MQ	MDU-Lovell Border	95	3580		406						
+P	MQ	MDU-Cowley Border	95	3600		47						
+P	MQ	MDU-Powell Border	95	3640		1103						
+P	MQ	MDU-Laurel Border	95	3780		686						
+P	MQ	MDU-Billings Border	95	3820		6921						
+P	MQ	MDU-Crow Agency Border	95	3880		126						
+P	MQ	MDU-Hardin Border	95	3900		428						
+P	MQ	MDU-Forsyth Border	95	3910		252						
+P	MQ	MDU-Miles City Border	95	3930		1782						
+P	MQ	MDU-Terry Border	95	3960		63						
+P	MQ	MDU-Baker Border	95	5110		520						
+P	MQ	MDU-Tran.Line(11)MTZ18	95	5115		24						
+P	MQ	MDU-Marmarth Border	95	5120		17						
+P	MQ	MDU-Rhame Border	95	5130		32						
+P	MQ	MDU-Bowman Border	95	5150		433						
+P	MQ	MDU-Camp Crook Border	95	5170		1						
+P	MQ	MDU-Tran.Line(13)SDZ36	95	5175		12						
+P	MQ	MDU-Tran.Line(14)MTZ17	95	5195		7						
+P	MQ	MDU-Belle Fourche Am. Col. Mst	95	5211		42						
+P	MQ	MDU-Belle Fourche Border	95	5220		738						
+P	MQ	MDU-Spearfish Border	95	5230		1727						
+P	MQ	MDU-St. Onge Border	95	5250		12						
+P	MQ	MDU-Deadwood-Lead Agg Pt	95	5265		887						
+P	MQ	MDU-Whitewood Border	95	5280		137						
+P	MQ	MDU-Skelly Master	95	5300		34						
+P	MQ	MDU-Sturgis Border	95	5310		624						
+P	MQ	MDU-Pine Acres Master	95	5320		31						
+P	MQ	MDU-Fort Meade Housing	95	5330		71						
+P	MQ	MDU-Fort Meade Hospital	95	5340		40						
+P	MQ	MDU-Rapid-Black Hawk Agg Pt	95	5380		14903						
+P	MQ	MDU-Tran.Line(15)WYZ37	95	5515		2						
+P	MQ	MDU-Tran.Line(15)SDZ37	95	5516		31						
+P	M2	Sidney Plant	95	1275		8485						
+P	MQ	MDU-Glendive Border	95	1220		100						
+P	MQ	MDU-Williston Border	95	1410		550						
+P	MQ	MDU-Minot Border	95	1550		1800						
+P	MQ	MDU-Ruthville Border	95	1570		27						
+P	MQ	MDU-Burlington Border	95	1600		135						
+P	MQ	MDU-Max Border	95	1620		40						
+P	MQ	MDU-Turtle Lake Border	95	1640		96						
+P	MQ	MDU-Underwood Border	95	1650		101						
+P	MQ	MDU-Riverdale Border	95	1660		26						
+P	MQ	MDU-Apple Valley Border	95	1690		35						
+P	MQ	MDU-Steele Border	95	1700		70						
+P	MQ	MDU-Dawson Border	95	1710		9						
+P	MQ	MDU-Tappen Border	95	1720		14						
+P	MQ	MDU-Medina Border	95	1730		43						
+P	MQ	MDU-Cleveland Border	95	1740		15						
+P	MQ	MDU-Jamestown Border	95	1760		964						
+P	MQ	MDU-Sanborn Border	95	1780		8						
+P	MQ	MDU-Carrington Border	95	1800		91						
+P	MQ	MDU-Fort Totten Border	95	1830		47						
+P	MQ	MDU-Park River Border	95	1870		217						
+P	MQ	MDU-P.A.R. Housing	95	1889		8						
+P	MQ	MDU-Cavalier Border	95	1930		89						
+P	MQ	MDU-Bismarck Border	95	1960		1309						
+P	MQ	MDU-Mandan Border	95	1970		275						
+P	MQ	MDU-New Salem Border	95	2010		13						
+P	MQ	MDU-Hebron Border	95	2030		15						
+P	MQ	MDU-Dickinson Border	95	2120		915						
+P	MQ	MDU-Killdeer Border	95	2140		10						
+P	MQ	MDU-Beach Border	95	2170		50						
+P	MQ	MDU-Baker Border	95	5110		45						
+P	MQ	MDU-Tran.Line(13)SDZ36	95	5175		1						
+P	MQ	MDU-Belle Fourche Border	95	5220		190						
+P	MQ	MDU-Spearfish Border	95	5230		460						
+P	MQ	MDU-Deadwood-Lead Agg Pt	95	5265		380						
+P	MQ	MDU-Sturgis Border	95	5310		137						
+P	MQ	MDU-Rapid-Black Hawk Agg Pt	95	5380		200						
+P	M2	Ray Plant	95	1455		4505						
+P	MQ	MDU-Tioga Border	95	1470		195						
+P	MQ	MDU-Stanley Border	95	1510		120						
+P	MQ	MDU-Minot Border	95	1550		1300						
+P	MQ	MDU-Burlington Border	95	1600		105						
+P	MQ	MDU-Eldridge Border	95	1755		5						
+P	MQ	MDU-Jamestown Border	95	1760		230						
+P	MQ	MDU-Jamestown ND State Hosp	95	1765		5						
+P	MQ	MDU-Valley City Border	95	1790		51						
+P	MQ	MDU-Carrington Border	95	1800		58						
+P	MQ	MDU-Devils Lake Border	95	1840		97						
+P	MQ	MDU-Langdon Border	95	1860		90						
+P	MQ	MDU-Grafton Border	95	1880		480						
+P	MQ	MDU-Bismarck Border	95	1960		53						
+P	MQ	MDU-Mandan Border	95	1970		420						
+P	MQ	MDU-Spearfish Border	95	5230		929						
+P	MQ	MDU-Deadwood-Lead Agg Pt	95	5265		367						
+P	M2	Robinson Lake Plant	95	1513		5270						
+P	MQ	MDU-Minot Border	95	1550		4140						
+P	MQ	MDU-Bismarck Border	95	1960		1130						
+P	M2	Worland Plant-Devon	95	2990		10988						
+P	MQ	MDU-Minot Border	95	1550		970						
+P	MQ	MDU-Bismarck Border	95	1960		314						
+P	MQ	MDU-Mandan Border	95	1970		135						
+P	MQ	MDU-Dickinson Border	95	2120		280						
+P	MQ	MDU-Tran.Line(19)WYZ3	95	3524		2						
+P	MQ	MDU-Tran.Line(20)WYZ4	95	3575		100						
+P	MQ	MDU-Lovell Border	95	3580		251						
+P	MQ	MDU-Cowley Border	95	3600		173						
+P	MQ	MDU-Powell Border	95	3640		1757						
+P	MQ	MDU-Tran.Line(21)WYZ6	95	3685		8						
+P	MQ	MDU-Tran.Line(21)WYZ7	95	3686		80						
+P	MQ	MDU-Belfry Border	95	3690		42						
+P	MQ	MDU-Bridger Border	95	3700		35						
+P	MQ	MDU-Fromberg Border	95	3710		25						
+P	MQ	MDU-Edgar Border	95	3720		10						
+P	MQ	MDU-Joliet Border	95	3730		72						
+P	MQ	MDU-Silesia Border	95	3740		16						
+P	MQ	MDU-Rockvale Border	95	3750		20						
+P	MQ	MDU-Slaughterhouse Road Master	95	3755		5						
+P	MQ	MDU-Laurel Border	95	3780		450						
+P	MQ	MDU-Billings Border	95	3820		4627						
+P	MQ	MDU-Tran.Line(22)MTZ10	95	3875		92						
+P	MQ	MDU-Tran.Line(22)MTZ11	95	3876		20						
+P	MQ	MDU-Tran.Line(22)MTZ12	95	3877		22						
+P	MQ	MDU-Tran.Line(22)MTZ13	95	3878		85						
+P	MQ	MDU-Crow Agency Border	95	3880		47						
+P	MQ	MDU-Pryor Border	95	3890		49						
+P	MQ	MDU-Hardin Industrial	95	3895		35						
+P	MQ	MDU-Hardin Border	95	3900		78						
+P	MQ	MDU-Tran.Line(18)MTZ142	95	3901		2						
+P	MQ	MDU-Tran.Line(18)MTZ14	95	3903		49						
+P	MQ	MDU-Tran.Line(18)WYZ141	95	3904		2						
+P	MQ	MDU-Tran.Line(18)MTZ151	95	3906		16						
+P	MQ	MDU-Forsyth Border	95	3910		150						
+P	MQ	MDU-Tran.Line(17)MTZ15	95	3925		13						
+P	MQ	MDU-Miles City Border	95	3930		428						
+P	MQ	MDU-Terry Border	95	3960		38						
+P	MQ	MDU-Ismay Border	95	3970		11						
+P	MQ	MDU-Tran.Line(16)MTZ16	95	3980		14						
+P	MQ	MDU-Rapid-Black Hawk Agg Pt	95	5380		465						
+P	M2	Garland Plant-Merit	95	3125		1015						
+P	MQ	MDU-Powell Border	95	3640		150						
+P	MQ	MDU-Laurel Border	95	3780		350						
+P	MQ	MDU-Billings Border	95	3820		215						
+P	MQ	MDU-Miles City Border	95	3930		300						
+P	M2	Liscom Creek	95	3301		1000						
+P	MQ	MDU-Billings Border	95	3820		1000						
+P	M2	TIGT-Bridger (R)	95	3366		6500						
+P	MQ	MDU-Williston Border	95	1410		500						
+P	MQ	MDU-Minot Border	95	1550		1000						
+P	MQ	MDU-Jamestown Border	95	1760		500						
+P	MQ	MDU-Mandan Border	95	1970		500						
+P	MQ	MDU-Dickinson Border	95	2120		1000						
+P	MQ	MDU-Billings Border	95	3820		2000						
+P	MQ	MDU-Rapid-Black Hawk Agg Pt	95	5380		1000						
+P	M2	TMID-Wind River (R)	95	3376		14534						
+P	MQ	MDU-Williston Border	95	1410		635						
+P	MQ	MDU-Minot Border	95	1550		555						
+P	MQ	MDU-Jamestown Border	95	1760		562						
+P	MQ	MDU-Valley City Border	95	1790		511						
+P	MQ	MDU-New Rockford Border	95	1810		161						
+P	MQ	MDU-Devils Lake Border	95	1840		1012						
+P	MQ	MDU-Langdon Border	95	1860		168						
+P	MQ	MDU-Grafton Border	95	1880		136						
+P	MQ	MDU-Bismarck Border	95	1960		1079						
+P	MQ	MDU-Mandan Border	95	1970		341						
+P	MQ	MDU-Hebron Border	95	2030		133						
+P	MQ	MDU-Richardton Border	95	2040		109						
+P	MQ	MDU-Mott Border	95	2060		155						
+P	MQ	MDU-Dickinson Border	95	2120		1190						
+P	MQ	MDU-Powell Border	95	3640		608						
+P	MQ	MDU-Bridger Border	95	3700		111						
+P	MQ	MDU-Laurel Border	95	3780		909						
+P	MQ	MDU-Billings Border	95	3820		2902						
+P	MQ	MDU-Tran.Line(22)MTZ10	95	3875		19						
+P	MQ	MDU-Tran.Line(22)MTZ13	95	3878		13						
+P	MQ	MDU-Crow Agency Border	95	3880		110						
+P	MQ	MDU-Hardin Industrial	95	3895		90						
+P	MQ	MDU-Hardin Border	95	3900		494						
+P	MQ	MDU-Rosebud Border	95	3920		6						
+P	MQ	MDU-Miles City Border	95	3930		1164						
+P	MQ	MDU-Belle Fourche Border	95	5220		200						
+P	MQ	MDU-Spearfish Border	95	5230		262						
+P	MQ	MDU-Deadwood-Lead Agg Pt	95	5265		179						
+P	MQ	MDU-Sturgis Border	95	5310		142						
+P	MQ	MDU-Rapid-Black Hawk Agg Pt	95	5380		578						
+P	M2	CIG-Elk Basin (R)	95	3391		46347						
+P	MQ	MDU-Wolf Point Border	95	1180		253						
+P	MQ	MDU-Glendive Border	95	1220		647						
+P	MQ	MDU-Sidney Border	95	1280		323						
+P	MQ	MDU-Williston Border	95	1410		528						
+P	MQ	MDU-Minot Border	95	1550		1542						
+P	MQ	MDU-Jamestown Border	95	1760		639						
+P	MQ	MDU-Valley City Border	95	1790		254						
+P	MQ	MDU-Carrington Border	95	1800		96						
+P	MQ	MDU-Devils Lake Border	95	1840		329						
+P	MQ	MDU-Grafton Border	95	1880		171						
+P	MQ	MDU-Bismarck Border	95	1960		2182						
+P	MQ	MDU-Mandan Border	95	1970		874						
+P	MQ	MDU-Dickinson Border	95	2120		663						
+P	MQ	MDU-Beach Border	95	2170		99						
+P	MQ	MDU-Lovell Border	95	3580		665						
+P	MQ	MDU-Cowley Border	95	3600		135						
+P	MQ	MDU-Powell Border	95	3640		1173						
+P	MQ	MDU-Belfry Border	95	3690		80						
+P	MQ	MDU-Bridger Border	95	3700		370						
+P	MQ	MDU-Fromberg Border	95	3710		222						
+P	MQ	MDU-Edgar Border	95	3720		50						
+P	MQ	MDU-Joliet Border	95	3730		204						
+P	MQ	MDU-Silesia Border	95	3740		1						
+P	MQ	MDU-Rockvale Border	95	3750		48						
+P	MQ	MDU-Slaughterhouse Road Master	95	3755		30						
+P	MQ	MDU-Laurel Border	95	3780		1238						
+P	MQ	MDU-Billings Border	95	3820		25893						
+P	MQ	"MDU-Billings JTL Group, Inc."	95	3871		30						
+P	MQ	MDU-Tran.Line(22)MTZ10	95	3875		107						
+P	MQ	MDU-Tran.Line(22)MTZ13	95	3878		195						
+P	MQ	MDU-Crow Agency Border	95	3880		100						
+P	MQ	MDU-Pryor Border	95	3890		61						
+P	MQ	MDU-Hardin Border	95	3900		404						
+P	MQ	MDU-Forsyth Border	95	3910		220						
+P	MQ	MDU-Rosebud Border	95	3920		6						
+P	MQ	MDU-Miles City Border	95	3930		1477						
+P	MQ	MDU-Terry Border	95	3960		80						
+P	MQ	MDU-Baker Border	95	5110		87						
+P	MQ	MDU-Bowman Border	95	5150		76						
+P	MQ	MDU-Belle Fourche Am. Col. Mst	95	5211		34						
+P	MQ	MDU-Belle Fourche Border	95	5220		214						
+P	MQ	MDU-Spearfish Border	95	5230		433						
+P	MQ	MDU-Deadwood-Lead Agg Pt	95	5265		270						
+P	MQ	MDU-Sturgis Border	95	5310		223						
+P	MQ	MDU-Rapid-Black Hawk Agg Pt	95	5380		3195						
+P	MQ	MDU-Tran.Line(15)SDZ37	95	5516		426						
+P	M2	NWE-Warren (R)	95	3421		3992						
+P	MQ	MDU-Bismarck Border	95	1960		1500						
+P	MQ	MDU-Crow Agency Border	95	3880		169						
+P	MQ	MDU-Hardin Border	95	3900		646						
+P	MQ	MDU-Forsyth Border	95	3910		443						
+P	MQ	MDU-Rosebud Border	95	3920		40						
+P	MQ	MDU-Miles City Border	95	3930		970						
+P	MQ	MDU-Terry Border	95	3960		224						
+P	M2	Silvertip	95	3682		3368						
+P	MQ	MDU-Lovell Border	95	3580		343						
+P	MQ	MDU-Powell Border	95	3640		590						
+P	MQ	MDU-Laurel Border	95	3780		498						
+P	MQ	MDU-Billings Border	95	3820		1616						
+P	MQ	MDU-Forsyth Border	95	3910		321						
+P	M2	Baker Area Mainline	95	4018		6283						
+P	MQ	MDU-Malta Border	95	1070		1005						
+P	MQ	MDU-Glasgow Border	95	1140		178						
+P	MQ	MDU-Williston Border	95	1410		400						
+P	MQ	MDU-Minot Border	95	1550		1300						
+P	MQ	MDU-Jamestown Border	95	1760		300						
+P	MQ	MDU-Devils Lake Border	95	1840		200						
+P	MQ	MDU-Dickinson Border	95	2120		200						
+P	MQ	MDU-Belle Fourche Border	95	5220		200						
+P	MQ	MDU-Sturgis Border	95	5310		200						
+P	MQ	MDU-Rapid-Black Hawk Agg Pt	95	5380		2300						
+P	M2	Big Horn Plant	95	4020		100						
+P	MQ	MDU-Mandan Border	95	1970		100						
+P	M2	Marmarth Plant	95	4108		474						
+P	MQ	MDU-Mandan Border	95	1970		474						
+P	M2	Padlock	95	4832		4165						
+P	MQ	MDU-Buffalo Border	95	5530		910						
+P	MQ	MDU-Sheridan Border	95	5540		3255						
+P	M2	Recluse-MPR	95	5068		469						
+P	MQ	MDU-Buffalo Border	95	5530		469						
+P	M2	MIGC-Recluse (R)	95	5069		4840						
+P	MQ	MDU-Glendive Border	95	1220		431						
+P	MQ	MDU-Sidney Border	95	1280		284						
+P	MQ	MDU-Stanley Border	95	1510		50						
+P	MQ	MDU-Minot Border	95	1550		799						
+P	MQ	MDU-Garrison Border	95	1630		110						
+P	MQ	MDU-Washburn Border	95	1670		100						
+P	MQ	MDU-Wilton Border	95	1680		60						
+P	MQ	MDU-P.A.R. Turbine	95	1890		25						
+P	MQ	MDU-Bismarck Border	95	1960		1789						
+P	MQ	MDU-Mandan Border	95	1970		885						
+P	MQ	MDU-Belfield Border	95	2150		50						
+P	MQ	MDU-Rapid-Black Hawk Agg Pt	95	5380		257						
+D	"Sequent Energy Management, L.P."	612075846	N	FT-1	FT-850	9/9/2009	9/8/2034		N	40000		
+P	M2	McKenzie Plant	95	910		500						
+P	MQ	CIG-Elk Basin (D)	95	3390		357						
+P	MQ	MDU-Lovell Western Sugar	95	3590		143						
+P	M2	Springbrook Plant	95	991		1900						
+P	MQ	CIG-Elk Basin (D)	95	3390		1900						
+P	M2	NBPL-Manning (R)	95	1011		19054						
+P	MQ	WBI-Aggregate Storage (Inject)	95	5800		19054						
+P	M2	Little Knife Plant	95	1020		3100						
+P	MQ	CIG-Elk Basin (D)	95	3390		3100						
+P	M2	NBPL-Glen Ullin (R)	95	1051		3115						
+P	MQ	MDU-Lovell Western Sugar	95	3590		3000						
+P	MQ	MDU-Laurel CHS Refinery	95	3770		77						
+P	MQ	MDU-Billings Border	95	3820		38						
+P	M2	Sidney Plant	95	1275		480						
+P	MQ	MDU-Billings Border	95	3820		450						
+P	MQ	MDU-Belle Fourche New Gen Feed	95	5215		30						
+P	M2	Norse Plant	95	1477		6400						
+P	MQ	Northern Border-Charbonneau(D)	95	1036		6000						
+P	MQ	MDU-Minot Border	95	1550		400						
+P	M2	CIG-Elk Basin (R)	95	3391		1851						
+P	MQ	MDU-Billings Border	95	3820		1851						
+P	M2	WBI-Agg Storage (Withdraw)	95	5801		3600						
+P	MQ	CIG-Elk Basin (D)	95	3390		3600						
+D	"United Energy Trading, LLC"	119162860	N	FT-1	FT-949	4/1/2011	3/31/2022		N	3500		
+P	M2	MIGC-Recluse (R)	95	5069		3500						
+P	MQ	NBPL-Manning (D)	95	1010		3500						
+D	"United Energy Trading, LLC"	119162860	N	FT-1	FT-950	4/1/2011	3/31/2022		N	1500		
+P	M2	MIGC-Recluse (R)	95	5069		1500						
+P	MQ	NBPL-Manning (D)	95	1010		1500						
+D	"United Energy Trading, LLC"	119162860	N	FT-1	FT-1034	11/8/2011	3/31/2022		N	2000		
+P	M2	NBPL-Manning (R)	95	1011		2000						
+P	MQ	Northern Border-Manning (D)	95	1010		2000						
+D	Phillips 66 Company	78378508	N	FT-1	FT-1072	12/19/2011	12/18/2021		N	3100		
+A	ConocoPhillips Company	N										
+P	M2	Madden-Moncrief	95	3377		3100						
+P	MQ	Phillips 66 Refinery-Billings	95	3800		3100						
+D	Northern States Power Co.	805191129	N	FT-1	FT-1097	11/1/2012	4/30/2019		N	8000		
+P	M2	Baker Area Mainline	95	4018		8000						
+P	MQ	NSP-Tower City Border	95	1793		30						
+P	MQ	NSP-Buffalo Border	95	1794		10						
+P	MQ	NSP-Tran.Line(24)NDZ272	95	1798		76						
+P	MQ	NSP-Cass-Mpltn Agg Pt	95	1818		7884						
+D	Northern States Power Co.	805191129	N	FT-1	FT-1125	7/2/2013	7/1/2033		N	461		
+P	M2	Baker Area Mainline	95	4018		461						
+P	MQ	NSP-Oriska Border	95	1792		48						
+P	MQ	NSP-Tower City Border	95	1793		180						
+P	MQ	NSP-Buffalo Border	95	1794		74						
+P	MQ	NSP-Cass-Mpltn Agg Pt	95	1818		159						
+D	Montana-Dakota Utilities Co.	6962286	Y	FT-1	FT-1171	11/1/2013	10/31/2018		N	3300		
+P	M2	McKenzie Plant	95	910		3300						
+P	MQ	MDU-Bismarck Border	95	1960		3300						
+D	"Tharaldson Ethanol Plant I, LLC"	798955196	N	FT-1	FT-1248	5/1/2014	12/13/2024		Y	9250		yc2
+A	"Kinect Energy, Inc."	N										
+P	M2	NBPL-Glen Ullin (R)	95	1051		9250						
+P	MQ	Tharaldson Ethanol-Casselton	95	1799		9250						
+D	"Tharaldson Ethanol Plant I, LLC"	798955196	N	FT-1	FT-1249	5/1/2014	7/31/2031		N	550		yc2
+A	"Kinect Energy, Inc."	N										
+P	M2	NBPL-Glen Ullin (R)	95	1051		550						
+P	MQ	Tharaldson Ethanol-Casselton	95	1799		550						
+D	Montana-Dakota Utilities Co.	6962286	Y	FT-1	FT-1250	5/1/2014	10/31/2031		N	550		yc2
+P	M2	NBPL-Glen Ullin (R)	95	1051		550						
+P	MQ	MDU-Jamestown Border	95	1760		150						
+P	MQ	MDU-Valley City Border	95	1790		100						
+P	MQ	MDU-Devils Lake Border	95	1840		200						
+P	MQ	MDU-Langdon Border	95	1860		50						
+P	MQ	MDU-Grafton Border	95	1880		50						
+D	"Tharaldson Ethanol Plant I, LLC"	798955196	N	FT-1	FT-1251	5/1/2014	12/18/2018		N	850		yc2
+A	"Kinect Energy, Inc."	N										
+P	M2	NBPL-Glen Ullin (R)	95	1051		850						
+P	MQ	Tharaldson Ethanol-Casselton	95	1799		850						
+D	"Dakota Growers Pasta Company, Inc."	796219376	N	FT-1	FT-1252	5/1/2014	12/15/2018		N	400		yc2
+A	Rainbow Gas Company	N										
+P	M2	NBPL-Glen Ullin (R)	95	1051		400						
+P	MQ	MDU-Carrington Border	95	1800		400						
+D	"ONEOK Rockies Midstream, L.L.C."	933845604	N	FT-1 (Garden Creek)	FT-1253	5/1/2014	12/1/2021		Y	50000		yc2
+P	M2	Garden Creek Plant	95	1311		50000						
+P	MQ	Northern Border-Spring Creek(D	95	1316		50000						
+D	"ONEOK Rockies Midstream, L.L.C."	933845604	N	FT-1 (Stateline)	FT-1254	5/1/2014	7/31/2022		Y	80000		yc2
+P	M2	Stateline I Plant	95	1395		80000						
+P	MQ	Northern Border-Stateline (D)	95	1406		80000						
+D	"ONEOK Rockies Midstream, L.L.C."	933845604	N	FT-1 (Garden Creek)	FT-1255	8/19/2014	8/18/2024		Y	75000		
+P	M2	Garden Creek Plant	95	1311		75000						
+P	MQ	Northern Border-Spring Creek(D	95	1316		75000						
+D	"Red Trail Energy, LLC"	144885915	N	FT-1	FT-1256	2/1/2015	1/31/2022		N	3000		
+A	Rainbow Gas Company	N										
+P	M2	NBPL-Glen Ullin (R)	95	1051		3000						
+P	MQ	Red Trail Energy-Richardton	95	2045		3000						
+D	Montana-Dakota Utilities Co.	6962286	Y	FT-1	FT-1264	9/1/2014	9/30/2024		N	7300		
+P	M2	NBPL-Glen Ullin (R)	95	1051		7300						
+P	MQ	MDU-Hebron Border	95	2030		100						
+P	MQ	MDU-Dickinson Border	95	2120		5700						
+P	MQ	MDU-Miles City Border	95	3930		1500						
+D	Montana-Dakota Utilities Co.	6962286	Y	FT-1	FT-1267	12/19/2014	12/18/2034		Y	12500		
+P	M2	NBPL-Manning (R)	95	1011		7500						
+P	MQ	MDU-Belle Fourche Border	95	5220		625						
+P	MQ	MDU-Spearfish Border	95	5230		625						
+P	MQ	MDU-Deadwood-Lead Agg Pt	95	5265		750						
+P	MQ	MDU-Sturgis Border	95	5310		500						
+P	MQ	MDU-Rapid-Black Hawk Agg Pt	95	5380		5000						
+P	M2	NBPL-Glen Ullin (R)	95	1051		5000						
+P	MQ	MDU-Rapid-Black Hawk Agg Pt	95	5380		5000						
+D	CHS Inc.	6163067	N	FT-1	FT-1273	10/1/2014	9/30/2019		N	8000		
+P	M2	CIG-Elk Basin (R)	95	3391		8000						
+P	MQ	CHS Refinery-Laurel	95	3770		8000						
+D	Rainbow Gas Company	186688347	N	FT-1	FT-1285	1/1/2015	12/31/2019		N	20000		
+P	M2	Robinson Lake Plant	95	1513		20000						
+P	MQ	Northern Border-Charbonneau(D)	95	1036		20000						
+D	Rainbow Gas Company	186688347	N	FT-1	FT-1297	12/25/2015	12/24/2022		N	8000		
+P	M2	Robinson Lake Plant	95	1513		8000						
+P	MQ	Northern Border-Charbonneau(D)	95	1036		8000						
+D	Rainbow Gas Company	186688347	N	FT-1	FT-1316	8/1/2016	7/31/2019		N	86		
+P	M2	Sidney Plant	95	1275		86						
+P	MQ	Dakota Spirit Ag-Spiritwood	95	1774		86						
+D	"ONEOK Rockies Midstream, L.L.C."	933845604	N	FT-1	FT-1319	5/25/2016	10/31/2023		N	12000		
+P	M2	McKenzie Plant	95	910		7000						
+P	MQ	Northern Border-Charbonneau(D)	95	1036		7000						
+P	M2	Lignite Plant	95	980		3500						
+P	MQ	Northern Border-Charbonneau(D)	95	1036		3500						
+P	M2	Marmarth Plant	95	4108		1500						
+P	MQ	Northern Border-Charbonneau(D)	95	1036		1500						
+D	Oasis Petroleum Marketing LLC	78841440	N	FT-1 (Garden Creek)	FT-1321	8/1/2016	7/31/2026		Y	70000		
+P	M2	Wild Basin Plant	95	1305		70000						
+P	MQ	Northern Border-Spring Creek(D	95	1316		70000						
+D	Montana-Dakota Utilities Co.	6962286	Y	FT-1	FT-1334	11/1/2016	10/31/2021		N	5000		
+P	M2	NBPL-Manning (R)	95	1011		5000						
+P	MQ	MDU-Bismarck Border	95	1960		3000						
+P	MQ	MDU-Mandan Border	95	1970		1000						
+P	MQ	MDU-Dickinson Border	95	2120		1000						
+D	"Nesson Gathering System, LLC"	797461915	N	FT-1	FT-1343	9/16/2016	9/30/2021		N	7000		
+P	M2	Nesson Plant	95	1465		7000						
+P	MQ	Northern Border-Charbonneau(D)	95	1036		7000						
+D	"Nesson Gathering System, LLC"	797461915	N	FT-1	FT-1344	10/1/2016	9/30/2019		N	1650		
+P	M2	Nesson Plant	95	1465		1650						
+P	MQ	Northern Border-Glen Ullin (D)	95	1050		1650						
+D	GCC Dacotah Inc.	74000998	N	FT-1	FT-1345	10/1/2016	9/30/2018		N	542		
+A	"Constellation NewEnergy-Gas Division, LLC"	N										
+P	M2	Sidney Plant	95	1275		542						
+P	MQ	MDU-Rapid City Dacotah Cement	95	5430		542						
+D	"Nesson Gathering System, LLC"	797461915	N	FT-1	FT-1353	6/3/2016	6/2/2021		N	8000		
+P	M2	Nesson Plant	95	1465		8000						
+P	MQ	Northern Border-Charbonneau(D)	95	1036		8000						
+D	CHS Inc.	6163067	N	FT-1	FT-1368	5/1/2017	4/30/2018		N	6000		
+P	M2	Baker Area Mainline	95	4018		6000						
+P	MQ	CHS Refinery-Laurel	95	3770		6000						
+D	Rainbow Gas Company	186688347	N	FT-1	FT-1369	12/9/2016	11/1/2020		N	5000		
+P	M2	Whitewater	95	880		5000						
+P	MQ	Northern Border-Manning (D)	95	1010		5000						
+D	"Zavanna, LLC"	961239670	N	FT-1	FT-1374	6/7/2016	11/2/2018		N	2500		
+A	"ARM Energy Management, LLC"	N										
+P	M2	Springbrook Plant	95	991		2500						
+P	MQ	Northern Border-Charbonneau(D)	95	1036		2500						
+D	"Zavanna, LLC"	961239670	N	FT-1	FT-1375	6/7/2016	4/2/2018		N	2500		
+A	"ARM Energy Management, LLC"	N										
+P	M2	Springbrook Plant	95	991		2500						
+P	MQ	Northern Border-Charbonneau(D)	95	1036		2500						
+D	Montana-Dakota Utilities Co.	6962286	Y	FT-1	FT-1380	7/1/2017	6/30/2022		N	14000		
+P	M2	McKenzie Plant	95	910		800						
+P	MQ	MDU-Bismarck Border	95	1960		500						
+P	MQ	MDU-Mandan Border	95	1970		300						
+P	M2	Tioga Plant	95	990		2000						
+P	MQ	MDU-Sidney Border	95	1280		350						
+P	MQ	MDU-Watford City West Border	95	1325		140						
+P	MQ	MDU-Arnegard Border	95	1350		11						
+P	MQ	MDU-Trenton Border	95	1390		11						
+P	MQ	MDU-Williston Border	95	1410		1425						
+P	MQ	MDU-Tran.Line(06)MTZ241	95	1479		3						
+P	MQ	MDU-Tran.Line(06)MTZ212	95	1484		19						
+P	MQ	MDU-Tran.Line(06)MTZ211	95	1485		11						
+P	MQ	MDU-Tran.Line(06)NDZ24	95	1488		30						
+P	M2	Little Knife Plant	95	1020		4000						
+P	MQ	MDU-Minot Border	95	1550		450						
+P	MQ	MDU-Wilton Border	95	1680		50						
+P	MQ	MDU-Bismarck Border	95	1960		2900						
+P	MQ	MDU-Mandan Border	95	1970		600						
+P	M2	Sidney Plant	95	1275		950						
+P	MQ	MDU-Minot Border	95	1550		450						
+P	MQ	MDU-Bismarck Border	95	1960		500						
+P	M2	TMID-Wind River (R)	95	3376		1050						
+P	MQ	MDU-Billings Border	95	3820		1050						
+P	M2	CIG-Elk Basin (R)	95	3391		3525						
+P	MQ	MDU-Billings Border	95	3820		3150						
+P	MQ	MDU-Miles City Border	95	3930		375						
+P	M2	Silvertip	95	3682		1175						
+P	MQ	MDU-Laurel Border	95	3780		225						
+P	MQ	MDU-Billings Border	95	3820		950						
+P	M2	Big Horn Plant	95	4020		500						
+P	MQ	MDU-Bismarck Border	95	1960		500						
+D	"Liberty Midstream Solutions, LLC"	80444838	N	FT-1	FT-1388	5/5/2017	5/4/2024		N	6000		
+A	Rainbow Gas Company	N										
+P	M2	County Line Plant	95	1000		6000						
+P	MQ	Northern Border-Charbonneau(D)	95	1036		2000						
+P	MQ	Northern Border-Glen Ullin (D)	95	1050		4000						
+D	"Liberty Midstream Solutions, LLC"	80444838	N	FT-1	FT-1389	6/1/2017	5/31/2027		N	10000		
+A	Rainbow Gas Company	N										
+P	M2	County Line Plant	95	1000		10000						
+P	MQ	Northern Border-Charbonneau(D)	95	1036		10000						
+D	"ONEOK Rockies Midstream, L.L.C."	933845604	N	FT-1	FT-1390	5/1/2017	4/30/2027		Y	40000		
+P	M2	McKenzie Plant-Charbonneau	95	905		40000						
+P	MQ	Northern Border-Charbonneau(D)	95	1036		40000						
+D	"Sequent Energy Management, L.P."	612075846	N	FT-1	FT-1394	9/1/2017	8/31/2018		N	5081		
+P	M2	Nesson Plant	95	1465		5081						
+P	MQ	Northern Border-Glen Ullin (D)	95	1050		5081						
+D	Rainbow Gas Company	186688347	N	FT-1	FT-1395	10/16/2017	10/15/2018		N	150		
+P	M2	Sidney Plant	95	1275		150						
+P	MQ	MDU-Rapid-Black Hawk Agg Pt	95	5380		150						
+D	"Scout Energy Group II, LP"	78518788	N	FT-1	FT-1396	11/1/2017	10/31/2018		N	13400		
+A	"CIMA ENERGY, LTD"	N										
+P	M2	Whitewater	95	880		4100						
+P	MQ	Northern Border-Manning (D)	95	1010		1200						
+P	MQ	Northern Border-Glen Ullin (D)	95	1050		2900						
+P	M2	Bowdoin	95	885		4300						
+P	MQ	Northern Border-Manning (D)	95	1010		4300						
+P	M2	Baker Area Grasslands Mainline	95	4015		4000						
+P	MQ	Northern Border-Manning (D)	95	1010		4000						
+P	M2	Baker Area Mainline	95	4018		1000						
+P	MQ	Northern Border-Manning (D)	95	1010		1000						
+D	Rainbow Gas Company	186688347	N	FT-1	FT-1400	11/14/2017	11/13/2018		N	700		
+P	M2	Sidney Plant	95	1275		700						
+P	MQ	MDU-Bismarck Border	95	1960		700						
+D	Montana-Dakota Utilities Co.	6962286	Y	FT-1	FT-1401	12/1/2017	11/30/2018		N	5000		
+P	M2	TMID-Wind River (R)	95	3376		2450						
+P	MQ	MDU-Billings Border	95	3820		2450						
+P	M2	CIG-Elk Basin (R)	95	3391		2550						
+P	MQ	MDU-Laurel Border	95	3780		300						
+P	MQ	MDU-Billings Border	95	3820		2250						
+D	Phillips 66 Company	78378508	N	FT-1	FT-1402	11/1/2017	10/31/2020		N	3000		
+A	ConocoPhillips Company	N										
+P	M2	CIG-Elk Basin (R)	95	3391		3000						
+P	MQ	Phillips 66 Refinery-Billings	95	3800		3000						
+D	Phillips 66 Company	78378508	N	FT-1	FT-1403	11/1/2017	10/31/2019		N	4000		
+A	ConocoPhillips Company	N										
+P	M2	Madden-Moncrief	95	3377		4000						
+P	MQ	Phillips 66 Refinery-Billings	95	3800		4000						
+D	"Zavanna, LLC"	961239670	N	FT-1	FT-1404	11/1/2017	10/31/2018		N	2500		
+A	"ARM Energy Management, LLC"	N										
+P	M2	Springbrook Plant	95	991		2500						
+P	MQ	Northern Border-Charbonneau(D)	95	1036		2500						
+D	Montana-Dakota Utilities Co.	6962286	Y	FT-1	FT-1406	12/1/2017	11/30/2018		N	385		
+P	M2	WBI-Agg Storage (Withdraw)	95	5801		385						
+P	MQ	MDU-Glendive Turbine	95	1210		253						
+P	MQ	MDU-Miles City Turbine	95	3950		132						
+D	Rainbow Gas Company	186688347	N	FT-1	FT-1407	11/1/2017	10/31/2027		N	8000		
+P	M2	Robinson Lake Plant	95	1513		8000						
+P	MQ	Northern Border-Glen Ullin (D)	95	1050		7640						
+P	MQ	MDU-Williston Border	95	1410		360						
+D	"Zavanna, LLC"	961239670	N	FT-1	FT-1408	6/3/2017	6/2/2018		N	2500		
+A	"ARM Energy Management, LLC"	N										
+P	M2	Springbrook Plant	95	991		2500						
+P	MQ	Northern Border-Charbonneau(D)	95	1036		2500						
+D	Montana-Dakota Utilities Co.	6962286	Y	FT-1	FT-1409	1/28/2018	1/27/2023		N	17600		
+P	M2	Tioga Plant	95	990		4539						
+P	MQ	MDU-Tioga Border	95	1470		500						
+P	MQ	MDU-Stanley Border	95	1510		500						
+P	MQ	MDU-Minot Border	95	1550		3539						
+P	M2	NBPL-Charbonneau (R)	95	1037		11600						
+P	MQ	MDU-Watford City West Border	95	1325		700						
+P	MQ	MDU-Alexander Border	95	1360		197						
+P	MQ	MDU-Trenton Border	95	1390		123						
+P	MQ	MDU-Williston Border	95	1410		8245						
+P	MQ	MDU-Ray Border	95	1460		300						
+P	MQ	MDU-Tran.Line(06)NDZ24	95	1488		25						
+P	MQ	MDU-Tran.Line(06)NDZ241	95	1491		10						
+P	MQ	MDU-Minot Border	95	1550		2000						
+P	M2	Ray Plant	95	1455		1461						
+P	MQ	MDU-Minot Border	95	1550		1461						
+D	Andeavor Field Services LLC	8133480	N	FT-1	FT-1420	6/1/2017	5/31/2023		N	6000		
+A	Rainbow Gas Company	N										
+P	M2	Robinson Lake Plant	95	1513		6000						
+P	MQ	Northern Border-Charbonneau(D)	95	1036		6000						
+D	Montana-Dakota Utilities Co.	6962286	Y	FT-1	FT-1421	11/1/2017	10/31/2037		N	3000		
+P	M2	CIG-Elk Basin (R)	95	3391		3000						
+P	MQ	MDU-Billings Border	95	3820		3000						
+D	"ONEOK Rockies Midstream, L.L.C."	933845604	N	FT-1 (Garden Creek)	FT-1422	4/1/2018	3/31/2019		Y	145000		
+P	M2	Garden Creek Plant	95	1311		145000						
+P	MQ	Northern Border-Spring Creek(D	95	1316		145000						
+D	"MIECO, Inc."	118562412	N	FT-1	FT-1451	12/1/2017	11/30/2018		N	2365		
+P	M2	NBPL-Manning (R)	95	1011		2365						
+P	MQ	CIG-Elk Basin (D)	95	3390		2365						
+D	Montana-Dakota Utilities Co.	6962286	Y	FTN-1	FTN-6	7/1/2017	6/30/2022		N	115665		
+P	MQ	MDU-Malta Border	95	1070		245						
+P	MQ	MDU-St. Marie Border	95	1130		50						
+P	MQ	MDU-Glasgow Border	95	1140		1120						
+P	MQ	MDU-Nashua Border	95	1160		50						
+P	MQ	MDU-Wolf Point Border	95	1180		783						
+P	MQ	MDU-Poplar Border	95	1190		628						
+P	MQ	MDU-Glendive Border	95	1220		1989						
+P	MQ	MDU-Sidney Border	95	1280		1526						
+P	MQ	MDU-Fairview Border	95	1300		121						
+P	MQ	MDU-Watford City West Border	95	1325		458						
+P	MQ	MDU-Williston Border	95	1410		3772						
+P	MQ	MDU-Ray Border	95	1460		75						
+P	MQ	MDU-Tioga Border	95	1470		188						
+P	MQ	MDU-Stanley Border	95	1510		216						
+P	MQ	MDU-Minot Border	95	1550		9900						
+P	MQ	MDU-Minot A.F.B.	95	1580		1000						
+P	MQ	MDU-Burlington Border	95	1600		160						
+P	MQ	MDU-Garrison Border	95	1630		183						
+P	MQ	MDU-Turtle Lake Border	95	1640		84						
+P	MQ	MDU-Underwood Border	95	1650		94						
+P	MQ	MDU-Washburn Border	95	1670		134						
+P	MQ	MDU-Wilton Border	95	1680		86						
+P	MQ	MDU-Steele Border	95	1700		110						
+P	MQ	MDU-Jamestown Border	95	1760		3211						
+P	MQ	MDU-Valley City Border	95	1790		1056						
+P	MQ	MDU-Carrington Border	95	1800		462						
+P	MQ	MDU-New Rockford Border	95	1810		200						
+P	MQ	MDU-Fort Totten Border	95	1830		60						
+P	MQ	MDU-Devils Lake Border	95	1840		1855						
+P	MQ	MDU-Langdon Border	95	1860		407						
+P	MQ	MDU-Park River Border	95	1870		170						
+P	MQ	MDU-Grafton Border	95	1880		924						
+P	MQ	MDU-Walhalla Industrial	95	1900		126						
+P	MQ	MDU-Cavalier Border	95	1930		179						
+P	MQ	MDU-Bismarck Border	95	1960		14400						
+P	MQ	MDU-Mandan Border	95	1970		3955						
+P	MQ	MDU-New Salem Border	95	2010		129						
+P	MQ	MDU-Glen Ullin Border	95	2020		118						
+P	MQ	MDU-Hebron Border	95	2030		242						
+P	MQ	MDU-Richardton Border	95	2040		150						
+P	MQ	MDU-Mott Border	95	2060		130						
+P	MQ	MDU-New England Border	95	2080		75						
+P	MQ	MDU-Dickinson Border	95	2120		3961						
+P	MQ	MDU-Belfield Border	95	2150		123						
+P	MQ	MDU-Beach Border	95	2170		182						
+P	MQ	MDU-Wibaux Border	95	2185		60						
+P	MQ	MDU-Lovell Border	95	3580		666						
+P	MQ	MDU-Cowley Border	95	3600		80						
+P	MQ	MDU-Powell Border	95	3640		1886						
+P	MQ	MDU-Laurel Border	95	3780		1357						
+P	MQ	MDU-Billings Border	95	3820		23440						
+P	MQ	MDU-Tran.Line(22)MTZ10	95	3875		30						
+P	MQ	MDU-Crow Agency Border	95	3880		164						
+P	MQ	MDU-Hardin Border	95	3900		807						
+P	MQ	MDU-Forsyth Border	95	3910		528						
+P	MQ	MDU-Miles City Border	95	3930		2540						
+P	MQ	MDU-Terry Border	95	3960		108						
+P	MQ	MDU-Baker Border	95	5110		555						
+P	MQ	MDU-Bowman Border	95	5150		492						
+P	MQ	MDU-Belle Fourche Border	95	5220		1128						
+P	MQ	MDU-Spearfish Border	95	5230		2262						
+P	MQ	MDU-Deadwood-Lead Agg Pt	95	5265		1494						
+P	MQ	MDU-Sturgis Border	95	5310		1014						
+P	MQ	MDU-Rapid-Black Hawk Agg Pt	95	5380		16049						
+P	MQ	MDU-Tran.Line(15)SDZ37	95	5516		375						
+P	MQ	MDU-Buffalo Border	95	5530		1161						
+P	MQ	MDU-Sheridan Border	95	5540		4382						
+F	1	"WBI Transmission's Maximum Daily Delivery Quantity (MDDQ) for Transportation quantities and Maximum Storage Capacity Quantity (MSCQ) for Storage quantities are stated in ""equivalent dkt.""  Equivalent dkt is defined as the relevant capacity in Mcf converte"										
+F	1	"d to dkt using an assumed thermal content of 1,000 Btu's per cubic foot."										
+F	2	"Effective May 1, 2014, the following contracts were renumbered for administrative reasons:  FT-769 to FT-1248; FT-1053 to FT-1249; FT-1054 to FT-1250; FT-1146 to FT-1251; FT-1160 to FT-1252; FT-1056 to FT-1253; FT-1109 to FT-1254"										

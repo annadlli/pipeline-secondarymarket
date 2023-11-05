@@ -1,0 +1,14 @@
+H	"TransUnion Interstate Pipeline, L.P."	C001700	4/2/2018	O	4/1/2018	T		Bryan Escobedo (346) 241-3574			
+											
+D	"Entergy Arkansas, Inc."	6903298	N	FT	FTS-TUI-0001	3/4/2016	12/31/2032	0	N	107500	0
+P	M2	Regency Intrastate	95	TU-R001		107500	0				
+P	MQ	Union Power Station	95	TU-D001		107500	0				
+D	"Entergy New Orleans, Inc."	6947824	N	FT	FTS-TUI-0003	3/4/2016	12/31/2032	0	N	107500	0
+P	M2	Regency Intrastate	95	TU-R001		107500	0				
+P	MQ	Union Power Station	95	TU-D001		107500	0				
+D	"Entergy Louisiana, Inc."	8002187	N	FT	FTS-TUI-0004	3/4/2016	12/31/2032	0	N	215000	0
+P	M2	Regency Intrastate	95	TU-R001		215000	0				
+P	MQ	Union Power Station	95	TU-D001		215000	0				
+D	El Dorado Chemical Company	103970307	N	FT	FTS-TUI-0001	5/1/2016	4/30/2026	0	N	40000	0
+P	M2	Regency Intrastate	95	TU-R001		40000	0				
+P	MQ	TUIP-El Dorado Chemical Delivery Me	95	TU-D002		40000	0				

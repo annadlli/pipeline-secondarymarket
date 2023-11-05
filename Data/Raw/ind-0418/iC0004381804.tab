@@ -1,0 +1,340 @@
+H	"Iroquois Gas Transmission System, L.P."	C000438	4/2/2018	O	4/1/2018	T		"Scott E. Rupff, (203) 925-7291"				
+D	Bay State Gas Company dba Columbia Gas of Massachusetts	69340214	N	RTS	182003	11/1/2017	11/1/2022		N	28840		
+A	Bay State Gas Company dba Columbia Gas of Massachusetts	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	28840						
+P	MQ	WRIGHT	95	2255	ZONE 1	28840						
+D	Boston Gas Company dba National Grid	6951586	N	RTS	42001	12/1/1991	11/1/2022		N	46133		
+A	KeySpan Gas East Corporation dba National Grid	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	46133						
+P	MQ	WRIGHT	95	2255	ZONE 1	46133						
+D	BP Energy Company	625275755	N	RTS	141028	11/1/2017	6/1/2018		N	50000		
+A	BP Energy Company	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	50000						
+P	MQ	WRIGHT	95	2255	ZONE 1	50000						
+D	"Brooklyn Navy Yard Cogen. Partners, LP"	808843569	N	RTS	198001	10/1/1996	10/1/2021		N	25548		
+A	KeySpan Gas East Corporation dba National Grid	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	25548						
+P	MQ	SOUTH COMMACK	95	2249	ZONE 2	25548						
+D	Central Hudson Gas & Electric Corporation	6993695	N	RTS	51001	1/25/1992	11/1/2022		N	20234		
+A	Central Hudson Gas & Electric Corporation	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	20234						
+P	MQ	PLEASANT VALLEY	95	2262	ZONE 2	20234						
+D	Colonial Gas Company d/b/a National Grid	6954903	N	RTS	48001	12/1/1991	11/1/2022		N	6070		
+A	KeySpan Gas East Corporation dba National Grid	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	6070						
+P	MQ	WRIGHT	95	2255	ZONE 1	6070						
+D	Connecticut Natural Gas Corporation	1139294	N	RTS	60001	1/25/1992	11/1/2022		N	25292		x1/x2
+A	The Southern Connecticut Gas Company	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	25292		x1/x2				
+P	MQ	GLASTONBURY	95	2274	AGT	10000		x1/x2				
+P	MQ	BLOOMFIELD	95	2276	TGP ZONE 6	15000		x1/x2				
+P	MQ	STRATFORD	95	2339	ZONE 2	292		x1/x2				
+P	MQ	MILFORD	95	2247	ZONE 2	292		x1/x2				
+P	MQ	BROOKFIELD	95	2256	ZONE 2	292		x1/x2				
+P	MQ	SHELTON A	95	2254	ZONE 2	292		x1/x2				
+D	Connecticut Natural Gas Corporation	1139294	N	RTS	60007	11/1/2006	11/1/2019		N	6128		
+A	The Southern Connecticut Gas Company	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	6128						
+P	MQ	WRIGHT	95	2255	ZONE 1	6128						
+D	Connecticut Natural Gas Corporation	1139294	N	RTS	60010	6/1/2008	11/1/2020		N	6070		
+A	The Southern Connecticut Gas Company	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	6070						
+P	MQ	WRIGHT	95	2255	ZONE 1	6070						
+D	Connecticut Natural Gas Corporation	1139294	N	RTS	60011	11/1/2010	11/1/2019		N	5000		
+A	The Southern Connecticut Gas Company	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	5000						
+P	MQ	BROOKFIELD	95	2256	ZONE 2	5000						
+P	MQ	SHELTON A	95	2254	ZONE 2	5000						
+D	Connecticut Natural Gas Corporation	1139294	N	RTS	60012	11/1/2011	4/1/2021		N	6866		
+A	The Southern Connecticut Gas Company	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	6866						
+P	MQ	WRIGHT	95	2255	ZONE 1	6866						
+D	Connecticut Natural Gas Corporation	1139294	N	RTS	60013	4/1/2012	11/1/2019		N	5000		x1
+A	The Southern Connecticut Gas Company	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	5000		x1				
+P	MQ	SHELTON A	95	2254	ZONE 2	5000		x1				
+P	MQ	STRATFORD	95	2339	ZONE 2	5000		x1				
+P	MQ	MILFORD	95	2247	ZONE 2	5000		x1				
+D	Connecticut Natural Gas Corporation	1139294	N	RTS	60015	11/1/2013	11/1/2019		N	6000		x1
+A	The Southern Connecticut Gas Company	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	6000		x1				
+P	MQ	BROOKFIELD	95	2256	ZONE 2	6000		x1				
+P	MQ	SHELTON A	95	2254	ZONE 2	6000		x1				
+P	MQ	STRATFORD	95	2339	ZONE 2	6000		x1				
+P	MQ	MILFORD	95	2247	ZONE 2	6000		x1				
+D	ConocoPhillips Company	1368265	N	RTS	301505	11/1/2005	6/1/2020		Y	10000		x1/x3
+A	ConocoPhillips Company	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	10000		x1/x3				
+P	MQ	SOUTH COMMACK	95	2249	ZONE 2	10000		x1/x3				
+D	Consolidated Edison Company of New York Inc.	6982359	N	RTS	56001	1/25/1992	11/1/2023		N	20234		
+A	Consolidated Edison Company of New York Inc.	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	20234						
+P	MQ	SOUTH COMMACK	95	2249	ZONE 2	20234						
+D	Consolidated Edison Company of New York Inc.	6982359	N	RTS	56016	1/1/2009	11/1/2023		Y	110000		
+A	Consolidated Edison Company of New York Inc.	N										
+P	M2	BROOKFIELD	95	2256	ZONE 2	110000						
+P	MQ	HUNTS POINT	95	2363	ZONE 2	110000						
+D	Consolidated Edison Company of New York Inc.	6982359	N	RTS	56018	11/1/2017	11/1/2020		N	20000		
+A	Consolidated Edison Company of New York Inc.	N										
+P	M2	BROOKFIELD	95	2256	ZONE 2	20000						
+P	MQ	HUNTS POINT	95	2363	ZONE 2	20000						
+D	"Direct Energy Business Marketing, LLC"	78790103	N	RTS	746502	4/1/2014	4/1/2022		N	30000		x1/x4
+A	"Direct Energy Business Marketing, LLC"	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	20000		x1/x4				
+P	M2	BROOKFIELD	95	2256	ZONE 2	10000		x1/x4				
+P	MQ	HUNTS POINT	95	2363	ZONE 2	30000		x1/x4				
+D	"Direct Energy Business Marketing, LLC"	78790103	N	RTS	746505	11/1/2015	4/1/2022		N	8000		x1
+A	"Direct Energy Business Marketing, LLC"	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	8000		x1				
+P	MQ	HUNTS POINT	95	2363	ZONE 2	8000		x1				
+D	"Direct Energy Business Marketing, LLC"	78790103	N	RTS	746507	11/1/2017	4/1/2019		Y	0		x8
+A	"Direct Energy Business Marketing, LLC"	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	0		x8				
+P	MQ	WRIGHT	95	2255	ZONE 1	0		x8				
+D	"DTE Energy Trading, Inc."	179989231	N	RTS	183014	11/1/2017	11/1/2020		Y	20000		
+A	"DTE Energy Trading, Inc."	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	20000						
+P	MQ	BROOKFIELD	95	2256	ZONE 2	20000						
+D	EMERA ENERGY SERVICES - BRIDGEPORT ENERGY LLC	101069263	N	RTS	783003	3/1/2017	4/1/2019		Y	10000		
+A	Emera Energy Services Inc.	N										
+P	M2	BROOKFIELD	95	2256	ZONE 2	10000						
+P	MQ	STRATFORD	95	2339	ZONE 2	10000						
+D	EMERA ENERGY SERVICES - BRIDGEPORT ENERGY LLC	101069263	N	RTS	783005	3/1/2017	3/1/2021		Y	20000		x1/x7
+A	Emera Energy Services Inc.	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	10000		x1/x7				
+P	M2	BROOKFIELD	95	2256	ZONE 2	10000		x1/x7				
+P	MQ	SOUTH COMMACK	95	2249	ZONE 2	20000		x1/x7				
+D	Emera Energy Services Inc.	101069263	N	RTS	271534	4/1/2018	11/1/2018		Y	20000		
+A	Emera Energy Services Inc.	N										
+P	M2	SOUTH COMMACK	95	2249	ZONE 2	20000						
+P	MQ	WADDINGTON	95	2250	ZONE 1	20000						
+D	"ENGIE Energy Marketing NA, Inc."	829627699	N	RTS	785502	4/1/2018	11/1/2018		Y	2500		
+A	"ENGIE Energy Marketing NA, Inc."	N										
+P	M2	SOUTH COMMACK	95	2249	ZONE 2	2500						
+P	MQ	WADDINGTON	95	2250	ZONE 1	2500						
+D	"ENGIE Energy Marketing NA, Inc."	829627699	N	RTS	785503	4/1/2018	11/1/2018		Y	2500		
+A	"ENGIE Energy Marketing NA, Inc."	N										
+P	M2	BROOKFIELD	95	2256	ZONE 2	2500						
+P	MQ	WADDINGTON	95	2250	ZONE 1	2500						
+D	"ENSTOR Energy Services, LLC"	78315779	N	RTS	730502	5/1/2012	4/1/2020		Y	30000		
+A	Castleton Commodities Merchant Trading L.P.	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	30000						
+P	MQ	HUNTS POINT	95	2363	ZONE 2	30000						
+D	Freepoint Commodities LLC	967963906	N	RTS	725020	11/1/2017	11/1/2018		Y	15000		
+A	Freepoint Commodities LLC	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	15000						
+P	MQ	WRIGHT	95	2255	ZONE 1	15000						
+D	Freepoint Commodities LLC	967963906	N	RTS	725021	4/1/2018	11/1/2018		Y	15000		
+A	Freepoint Commodities LLC	N										
+P	M2	SOUTH COMMACK	95	2249	ZONE 2	15000						
+P	MQ	WADDINGTON	95	2250	ZONE 1	15000						
+D	KeySpan Gas East Corporation dba National Grid	53106352	N	RTS	55001	1/25/1992	11/1/2021		N	87760		
+A	The Brooklyn Union Gas Company d/b/a National Grid NY	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	87760						
+P	MQ	SOUTH COMMACK	95	2249	ZONE 2	87760						
+D	KeySpan Gas East Corporation dba National Grid	53106352	N	RTS	55014	11/14/2008	11/1/2023		Y	200000		
+A	The Brooklyn Union Gas Company d/b/a National Grid NY	N										
+P	M2	BROOKFIELD	95	2256	ZONE 2	200000						
+P	MQ	SOUTH COMMACK	95	2249	ZONE 2	200000						
+D	KeySpan Gas East Corporation dba National Grid	53106352	N	RTS	55016	11/1/2015	11/1/2021		N	25000		x1
+A	The Brooklyn Union Gas Company d/b/a National Grid NY	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	25000		x1				
+P	MQ	HUNTS POINT	95	2363	ZONE 2	25000		x1				
+D	KeySpan Gas East Corporation dba National Grid	53106352	N	RTS	55018	11/15/2016	11/1/2021		N	7000		
+A	The Brooklyn Union Gas Company d/b/a National Grid NY	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	7000						
+P	MQ	SOUTH COMMACK	95	2249	ZONE 2	7000						
+D	Liberty Utilities (EnergyNorth Natural Gas) Corp.	194387015	N	RTS	47001	12/1/1991	11/1/2022		N	4047		
+A	Liberty Utilities (EnergyNorth Natural Gas) Corp.	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	4047						
+P	MQ	WRIGHT	95	2255	ZONE 1	4047						
+D	Macquarie Energy LLC	798846036	N	RTS	409016	4/1/2018	11/1/2018		Y	20000		
+A	Macquarie Energy LLC	N										
+P	M2	BROOKFIELD	95	2256	ZONE 2	20000						
+P	MQ	WADDINGTON	95	2250	ZONE 1	20000						
+D	"Mercuria Energy America, Inc."	831749127	N	RTS	754014	4/1/2018	11/1/2018		Y	10000		
+A	"Mercuria Energy America, Inc."	N										
+P	M2	SOUTH COMMACK	95	2249	ZONE 2	10000						
+P	MQ	WADDINGTON	95	2250	ZONE 1	10000						
+D	"Mercuria Energy America, Inc."	831749127	N	RTS	754015	4/1/2018	11/1/2018		Y	27500		
+A	"Mercuria Energy America, Inc."	N										
+P	M2	BROOKFIELD	95	2256	ZONE 2	27500						
+P	MQ	WADDINGTON	95	2250	ZONE 1	27500						
+D	"Mercuria Energy America, Inc."	831749127	N	RTS	754002	12/1/2014	4/1/2019		Y	0		x1/x5
+A	"Mercuria Energy America, Inc."	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	0		x1/x5				
+P	MQ	HUNTS POINT	95	2363	ZONE 2	0		x1/x5				
+D	"Mercuria Energy America, Inc."	831749127	N	RTS	754013	12/1/2017	5/1/2018		N	20000		
+A	"Mercuria Energy America, Inc."	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	20000						
+P	MQ	WRIGHT	95	2255	ZONE 1	20000						
+D	Milford Power Co. LLC	85501711	N	RTS	271002	11/1/2000	4/1/2026		N	35000		
+A	"Dynegy Marketing and Trade, LLC"	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	35000						
+P	MQ	MILFORD B	95	2348	ZONE 2	35000						
+D	"New Athens Generating Co., LLC"	799660022	N	RTS	268001	9/1/2003	9/1/2018		N	70000		
+A	NJR Energy Services Company	N										
+P	M2	WRIGHT	95	2255	ZONE 2	70000						
+P	MQ	ATHENS	95	2366	ZONE 2	70000						
+D	New York State Electric & Gas Corporation	41866497	N	RTS	52001	11/1/1992	11/1/2022		N	17199		x1
+A	New York State Electric & Gas Corporation	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	17199		x1				
+P	MQ	BROOKFIELD	95	2256	ZONE 2	17199		x1				
+D	Niagara Mohawk Power Corporation d/b/a National Grid	6994735	N	RTS	73005	11/1/1993	11/1/2021		N	51596		 
+A	KeySpan Gas East Corporation dba National Grid	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	51596						
+P	MQ	BOONVILLE	95	2345	ZONE 1	2500						
+P	MQ	CROGHAN	95	2259	ZONE 1	49096						
+D	NJR Energy Services Company	25715165	N	RTS	289011	11/1/2006	4/1/2024		N	35000		
+A	NJR Energy Services Company	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	35000						
+P	MQ	SOUTH COMMACK	95	2249	ZONE 2	35000						
+D	NJR Energy Services Company	25715165	N	RTS	289015	1/1/2017	4/1/2024		N	5468		
+A	NJR Energy Services Company	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	5468						
+P	MQ	SOUTH COMMACK	95	2249	ZONE 2	5468						
+D	NJR Energy Services Company	25715165	N	RTS	289016	11/1/2017	9/1/2018		Y	48500		
+A	NJR Energy Services Company	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	48500						
+P	MQ	WRIGHT	95	2255	ZONE 1	48500						
+D	"Northern Utilities, Inc."	49286305	N	RTS	181003	11/1/2017	11/1/2018		N	6569		
+A	"Northern Utilities, Inc."	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	6569						
+P	MQ	WRIGHT	95	2255	ZONE 1	6569						
+D	"St. Lawrence Gas Company, Inc."	43827138	N	RTS	164006	11/1/1998	11/1/2023		N	3000		
+A	"St. Lawrence Gas Company, Inc."	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	3000						
+P	MQ	NEW BREMEN	95	2260	ZONE 1	3000						
+D	"St. Lawrence Gas Company, Inc."	43827138	N	RTS	164019	11/2/2016	11/1/2018		N	4500		
+A	"St. Lawrence Gas Company, Inc."	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	4500						
+P	MQ	NEW BREMEN	95	2260	ZONE 1	4500						
+D	Statoil Natural Gas LLC	130073534	N	RTS	712006	11/1/2017	6/1/2018		N	5000		
+A	Statoil Natural Gas LLC	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	5000						
+P	MQ	WRIGHT	95	2255	ZONE 1	5000						
+D	The Brooklyn Union Gas Company d/b/a National Grid NY	6978795	N	RTS	54001	1/25/1992	11/1/2022		N	80936		
+A	KeySpan Gas East Corporation dba National Grid	N										
+P	M2	CANAJOHARIE	95	2261	ZONE 1	80936						
+P	MQ	SOUTH COMMACK	95	2249	ZONE 2	80936						
+D	The Narragansett Electric Company dba National Grid	1193655	N	RTS	50001	12/1/1991	11/1/2022		N	1012		
+A	KeySpan Gas East Corporation dba National Grid	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	1012						
+P	MQ	WRIGHT	95	2255	ZONE 1	1012						
+D	The Southern Connecticut Gas Company	97221246	N	RTS	53001	1/25/1992	11/1/2020		N	35409		x1
+A	Connecticut Natural Gas Corporation	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	35409		x1				
+P	MQ	BROOKFIELD	95	2256	ZONE 2	35409		x1				
+P	MQ	SHELTON A	95	2254	ZONE 2	35409		x1				
+P	MQ	STRATFORD	95	2339	ZONE 2	35409		x1				
+P	MQ	MILFORD	95	2247	ZONE 2	35409		x1				
+D	The Southern Connecticut Gas Company	97221246	N	RTS	53006	10/1/2004	11/1/2023		N	10000		x1/x6
+A	Connecticut Natural Gas Corporation	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	10000		x1/x6				
+P	MQ	SHELTON A	95	2254	ZONE 2	10000		x1/x6				
+P	MQ	STRATFORD	95	2339	ZONE 2	10000		x1/x6				
+P	MQ	MILFORD	95	2247	ZONE 2	10000		x1/x6				
+D	The Southern Connecticut Gas Company	97221246	N	RTS	53010	6/1/2008	11/1/2019		N	9106		
+A	Connecticut Natural Gas Corporation	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	9106						
+P	MQ	WRIGHT	95	2255	ZONE 1	9106						
+D	The Southern Connecticut Gas Company	97221246	N	RTS	53011	4/1/2012	11/1/2019		N	3000		x1
+A	Connecticut Natural Gas Corporation	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	3000		x1				
+P	MQ	BROOKFIELD	95	2256	ZONE 2	3000		x1				
+P	MQ	SHELTON A	95	2254	ZONE 2	3000		x1				
+P	MQ	STRATFORD	95	2339	ZONE 2	3000		x1				
+P	MQ	MILFORD	95	2247	ZONE 2	3000		x1				
+D	The Southern Connecticut Gas Company	97221246	N	RTS	53012	11/1/2013	11/1/2019		N	10000		x1
+A	Connecticut Natural Gas Corporation	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	10000		x1				
+P	MQ	BROOKFIELD	95	2256	ZONE 2	10000		x1				
+P	MQ	SHELTON A	95	2254	ZONE 2	10000		x1				
+P	MQ	STRATFORD	95	2339	ZONE 2	10000		x1				
+P	MQ	MILFORD	95	2247	ZONE 2	10000		x1				
+D	The Southern Connecticut Gas Company	97221246	N	RTS	53013	11/1/2014	11/1/2020		N	10000		x1
+A	Connecticut Natural Gas Corporation	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	10000		x1				
+P	MQ	BROOKFIELD	95	2256	ZONE 2	10000		x1				
+P	MQ	SHELTON A	95	2254	ZONE 2	10000		x1				
+P	MQ	STRATFORD	95	2339	ZONE 2	10000		x1				
+P	MQ	MILFORD	95	2247	ZONE 2	10000		x1				
+D	"Twin Eagle Resource Management, LLC"	965177889	N	RTS	730005	11/1/2017	6/1/2018		N	15122		
+A	"Twin Eagle Resource Management, LLC"	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	15122						
+P	MQ	WRIGHT	95	2255	ZONE 1	15122						
+D	"Twin Eagle Resource Management, LLC"	965177889	N	RTS	730007	11/1/2017	5/1/2018		N	5000		
+A	"Twin Eagle Resource Management, LLC"	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	5000						
+P	MQ	WRIGHT	95	2255	ZONE 1	5000						
+D	Uniper Global Commodities North America LLC	79093350	N	RTS	765002	4/1/2018	11/1/2018		Y	5000		
+A	Uniper Global Commodities North America LLC	N										
+P	M2	SOUTH COMMACK	95	2249	ZONE 2	5000						
+P	MQ	WADDINGTON	95	2250	ZONE 1	5000						
+D	Vitol Inc.	790620046	N	RTS	749506	4/1/2018	11/1/2018		Y	10000		
+A	Vitol Inc.	N										
+P	M2	SOUTH COMMACK	95	2249	ZONE 2	10000						
+P	MQ	WADDINGTON	95	2250	ZONE 1	10000						
+D	"Wells Fargo Commodities, LLC"	199721957	N	RTS	781006	11/1/2017	5/1/2018		N	10000		
+A	"Wells Fargo Commodities, LLC"	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	10000						
+P	MQ	WRIGHT	95	2255	ZONE 1	10000						
+D	Yankee Gas Services Company	361667371	N	RTS	59001	12/1/1991	11/1/2022		N	59690		x1/x2
+A	Yankee Gas Services Company	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	59690		x1/x2				
+P	MQ	WRIGHT	95	2255	ZONE 1	9105		x1/x2				
+P	MQ	NEW MILFORD	95	2252	ZONE 2	12646		x1/x2				
+P	MQ	WATERBURY	95	2273	AGT 	3000		x1/x2				
+P	MQ	TORRINGTON	95	2275	TGP ZONE 6	1000		x1/x2				
+P	MQ	WINSTED	95	2277	TGP ZONE 6	200		x1/x2				
+P	MQ	DERBY	95	2279	TGP ZONE 6	100		x1/x2				
+P	MQ	LONGRIDGE	95	2281	TGP ZONE 6	100		x1/x2				
+P	MQ	EAST GRANBY	95	2283	TGP ZONE 6	9000		x1/x2				
+P	MQ	STAMFORD	95	2284	TGP ZONE 6	10000		x1/x2				
+P	MQ	NORWALK	95	2286	TGP ZONE 6	1600		x1/x2				
+P	MQ	SHELTON B	95	2253	ZONE 2	12646		x1/x2				
+D	Yankee Gas Services Company	361667371	N	RTS	59004	11/1/2008	11/1/2022		N	5058		x1
+A	Yankee Gas Services Company	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	5058		x1				
+P	MQ	NEW MILFORD	95	2252	ZONE 2	5058		x1				
+D	Yankee Gas Services Company	361667371	N	RTS	59012	11/1/2010	11/1/2019		N	6115		x1
+A	Yankee Gas Services Company	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	6115		x1				
+P	MQ	NEW MILFORD	95	2252	ZONE 2	6115		x1				
+P	MQ	BROOKFIELD	95	2256	ZONE 2	6115		x1				
+P	MQ	SHELTON A	95	2254	ZONE 2	6115		x1				
+P	MQ	SHELTON B	95	2253	ZONE 2	6115		x1				
+P	MQ	SOUTH COMMACK	95	2249	ZONE 2	6115		x1				
+D	Yankee Gas Services Company	361667371	N	RTS	59013	4/1/2012	11/1/2019		N	8160		x1
+A	Yankee Gas Services Company	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	8160		x1				
+P	MQ	NEW MILFORD	95	2252	ZONE 2	8160		x1				
+P	MQ	BROOKFIELD	95	2256	ZONE 2	8160		x1				
+P	MQ	SHELTON A	95	2254	ZONE 2	8160		x1				
+P	MQ	SHELTON B	95	2253	ZONE 2	8160		x1				
+D	Yankee Gas Services Company	361667371	N	RTS	59014	4/1/2012	11/1/2019		N	2000		x1
+A	Yankee Gas Services Company	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	2000		x1				
+P	MQ	NEW MILFORD	95	2252	ZONE 2	2000		x1				
+P	MQ	BROOKFIELD	95	2256	ZONE 2	2000		x1				
+P	MQ	SHELTON A	95	2254	ZONE 2	2000		x1				
+P	MQ	SHELTON B	95	2253	ZONE 2	2000		x1				
+D	Yankee Gas Services Company	361667371	N	RTS	59015	11/1/2013	11/1/2019		N	20000		x1
+A	Yankee Gas Services Company	N										
+P	M2	WADDINGTON	95	2250	ZONE 1	20000		x1				
+P	MQ	NEW MILFORD	95	2252	ZONE 2	20000		x1				
+P	MQ	BROOKFIELD	95	2256	ZONE 2	20000		x1				
+P	MQ	SHELTON A	95	2254	ZONE 2	20000		x1				
+P	MQ	SHELTON B	95	2253	ZONE 2	20000		x1				
+F	1	"A Primary Receipt Point to receive gas from shippers on Constitution Pipeline Company in Wright, NY may be added when the facilities required to enable Iroquois to render service "										
+F	1	"under the Wright Interconnect Project (WIP) are constructed, installed, and made operational."										
+F	2	Deliveries to AGT points are made at Brookfield.  Deliveries to TGP points are made at Shelton A.										
+F	3	"The ConocoPhillips Company contract 301505 is for 10,000 Dth from Oct 1 to Jun 1 for each year of the service contract (zero Dth at other times)."										
+F	4	"Direct Energy Business Marketing, LLC contract 746502 primary receipt capacity at Waddington will be 20,000 Dth from April 1 to November 1 for each year of the service contract (30,000 Dth at other times)."										
+F	4	"Direct Energy Business Marketing, LLC contract 746502 primary receipt capacity at Brookfield will be 10,000 Dth from April 1 to November 1 for each year of the service contract (zero Dth at other times)."										
+F	5	"Mercuria contract 754002 is for 30,000 Dth from Nov 1 to Apr 1 for each year of the service contract (zero Dth at other times)."										
+F	6	"The Southern Connecticut Gas Company contract 53006 is for 10,000 Dth from Oct 1 to Dec 1; 7,000 Dth from Dec 1 to Jan 1; "										
+F	6	"10,000 Dth from Jan 1 to May 1; and 0 Dth from May 1 to Oct 1 for each year of the service contract."										
+F	7	"Emera Energy Services, Inc. - Bridgeport Energy LLC contract 783005 primary receipt capacity at Waddington will be 10,000 Dth from April 1 through November 1 of each year (20,000 Dth at other times)."										
+F	7	"Emera Energy Services, Inc. - Bridgeport Energy LLC contract 783005 primary receipt capacity at Brookfield will be 10,000 Dth from April 1 through November 1 of each year (zero Dth at other times)."										
+F	8	"Direct Energy Business Marketing, LLC contract 746507 is for 20,000 Dth from November 1 to April 1 for each year of the service contract (zero Dth at other times)."										

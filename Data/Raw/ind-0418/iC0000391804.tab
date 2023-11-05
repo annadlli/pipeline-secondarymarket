@@ -1,0 +1,11 @@
+H	SOUTHERN LNG COMPANY  L.L.C.	C000039	4/2/2018	O	4/1/2018		T	Sherry Noack 713-420-3764				
+D	"BG LNG SERVICES, L.L.C."	31219129	N	LNG-1	450002-LNG1SLNG	7/1/2011	4/30/2027		Y	0	4084000	n1
+P	WR	SLNG STORAGE	95	688888		0	643230					
+D	SHELL NA LNG LLC	135973134	N	LNG-1	450010-LNG1SLNG	3/1/2010	1/31/2036		Y	0	3369300	n1
+A	"SHELL ENERGY NORTH AMERICA (US), L.P."	N										
+P	WR	SLNG STORAGE	95	688888		0	551340					
+D	SHELL NA LNG LLC	135973134	N	LNG-3	450011-LNG3SLNG	7/1/2010	6/30/2035		Y	0	4308620	x2/n1
+A	"SHELL ENERGY NORTH AMERICA (US), L.P."	N										
+P	WR	SLNG STORAGE	95	688888		0	413505					
+F	1	"The Contract Primary Term Expiration Date has not passed. Contract may or may not continue under an ""evergreen"" or ""rollover"" provision."										
+F	2	Adjusted contract end date to reflect end of appropriate gas day versus calendar day that had previously been reported (end of 6/30/35 gas day which is 8:59 a.m. on 7/1/35 versus 8:59 a.m. on 7/1/35 calendar day).										

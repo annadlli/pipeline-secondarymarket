@@ -1,0 +1,25 @@
+H	"Kinetica Energy Express, LLC"	C003552	4/3/2018	O	4/1/2018	T		Michelle Dundee 713-228-3347				
+D	Murphy Exploration & Production Company USA	7875416	N	FFT	FFT-MEP-0004	3/1/2014	3/1/2024		N	3300	0	m1/Yd2
+P	M2	Longhorn Medusa	95	12812		3300	0					
+P	MQ	Venice	95	20568		3300	0					
+D	Town of Grand Isle Louisiana	29475043	N	FT	LFT-GIL-0001	9/1/2013	8/31/2026		Y	1047	0	
+A	Black Belt Energy	N										
+P	M2	Acadian	95	14000		1047	0					
+P	MQ	Grand Isle	95	20363		1047	0					
+D	W&T Offshore Inc.	114284037	N	FT	LFT-WTO-0003	10/4/2013	10/6/2113		N	100	0	m1/Yd2/k4
+P	M2	Sabine	95	15000		100	0					
+P	MQ	Southwest Lateral	95	24004		100	0					
+D	Deepwater Development Company LLC	968779145	N	FFT	FFT-LLO-0007	10/1/2014	6/30/2041		N	21374	0	m1/Yd2/o3
+A	Targa Gas Marketing	N										
+P	M2	Mississippi Canyon 547	95	12848		21374	0					
+P	MQ	Lafitte Lake Washington	95	21073		9950	0					
+P	MQ	Port Sulphur	95	24000		11424	0					
+D	LLOG Omega Holdings LLC	53914094	N	FFT	FFT-LOH-0006	10/1/2014	6/30/2041		N	21589	0	m1/Yd2/o3
+A	Targa Gas Marketing	N										
+P	M2	Mississippi Canyon 547	95	12848		21589	0					
+P	MQ	Lafitte Lake Washington	95	21073		10050	0					
+P	MQ	Port Sulphur	95	24000		11539	0					
+F	1	Reserve Dedication. Life of Lease										
+F	2	Reserve Dedication. Life of Lease										
+F	3	Maximum Daily Quantity stated is for effective date of report										
+F	4	Non-Conforming Agreement										

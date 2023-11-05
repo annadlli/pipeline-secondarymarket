@@ -1,0 +1,551 @@
+H	Viking Gas Transmission	C000581	4/2/2018	O	4/1/2018	T		Teri Tingler 918-588-7745		
+D	"ACE Ethanol, LLC"	59647052	N	FT-A	AF0001	7/1/2002	5/31/2019		N	2000
+A	"Kinect Energy, Inc."	N								
+P	M2	Emerson	29	33973	Zone-1	2000			P	
+P	MQ	Cadott	29	28694	Zone-2	2000			P	
+D	"ACE Ethanol, LLC"	59647052	N	FT-A	AF0197	11/1/2012	10/31/2022		N	2000
+A	"Kinect Energy, Inc."	N								
+P	M2	Emerson	29	33973	Zone-1	2000			P	
+P	MQ	ANR Marshfield	29	28872	Zone-2	2000			P	
+D	American Crystal Sugar Company	64792773	N	FT-A	AF0058	8/1/2003	9/30/2021		N	10920
+A	"Kinect Energy, Inc."	N								
+P	M2	Emerson	29	33973	Zone-1	0			P	
+P	MQ	Little Falls	29	288040	Zone-1	0			P	
+P	M2	Emerson	29	33973	Zone-1	3120			P	
+P	MQ	Crookston	29	12002	Zone-1	3120			P	
+P	M2	Emerson	29	33973	Zone-1	3120			P	
+P	MQ	Moorhead	29	15224	Zone-1	3120			P	
+P	M2	Emerson	29	33973	Zone-1	4680			P	
+P	MQ	East Grand Forks	29	12001	Zone-1	4680			P	
+D	BP Canada Energy Marketing Corp.	248799413	N	FT-A	AF0017	11/1/2002	10/31/2022		N	15000
+P	M2	Emerson	29	33973	Zone-1	15000			P	
+P	MQ	ANR Marshfield	29	28872	Zone-2	15000			P	
+D	"Big River Resources Boyceville, LLC"	78305637	N	FT-A	AF0176	6/1/2012	5/31/2022		N	1300
+A	"Kinect Energy, Inc."	N								
+P	M2	Emerson	29	33973	Zone-1	1300			P	
+P	MQ	ANR Marshfield	29	28872	Zone-2	1300			P	
+D	"Big River Resources Boyceville, LLC"	78305637	N	FT-A	AF0194	11/1/2012	10/31/2022		N	2500
+A	"Kinect Energy, Inc."	N								
+P	M2	Emerson	29	33973	Zone-1	2500			P	
+P	MQ	ANR Marshfield	29	28872	Zone-2	2500			P	
+D	"Big River Resources Boyceville, LLC"	78305637	N	FT-A	AF0198	11/1/2012	10/31/2022		N	700
+A	"Kinect Energy, Inc."	N								
+P	M2	Emerson	29	33973	Zone-1	700			P	
+P	MQ	ANR Marshfield	29	28872	Zone-2	700			P	
+D	CHS Inc.	6147177	N	FT-A	AF0268	12/1/2015	3/31/2020		N	1500
+P	M2	Emerson	29	33973	Zone-1	1500			P	
+P	MQ	Northstar	29	1250238	Zone-1	1500			P	
+D	"CNE Gas Supply, LLC"	829868921	N	FT-A	AF0298	8/1/2016	3/31/2019		N	662
+P	M2	Emerson	29	33973	Zone-1	662			P	
+P	MQ	ANR Marshfield	29	28872	Zone-2	662			P	
+D	"CNE Gas Supply, LLC"	829868921	N	FT-A	AF0306	4/1/2017	10/31/2019		N	2500
+P	M2	Emerson	29	33973	Zone-1	2500			P	
+P	MQ	Chisago Zn1	29	11856	Zone-1	2500			P	
+D	"CNE Gas Supply, LLC"	829868921	N	FT-A	AF0316	4/1/2017	1/31/2019		N	267
+P	M2	Emerson	29	33973	Zone-1	267			P	
+P	MQ	Greenwood	29	28667	Zone-2	267			P	
+D	Cardinal FG Company	786016220	N	FT-A	AF0003	11/1/2001	10/31/2019		N	3700
+A	"Kinect Energy, Inc."	N								
+P	M2	Emerson	29	33973	Zone-1	3700			P	
+P	MQ	North Colfax	29	288048	Zone-2	3700			P	
+D	Cardinal FG Company	786016220	N	FT-A	AF0222	2/1/2015	1/31/2020		N	200
+A	"Kinect Energy, Inc."	N								
+P	M2	Emerson	29	33973	Zone-1	200			P	
+P	MQ	North Colfax	29	288048	Zone-2	200			P	
+D	Cardinal FG Company	786016220	N	FT-A	AF0227	11/1/2015	10/31/2020		N	300
+A	"Kinect Energy, Inc."	N								
+P	M2	Emerson	29	33973	Zone-1	300			P	
+P	MQ	North Colfax	29	288048	Zone-2	300			P	
+D	CenterPoint Energy Resources Corp. d/b/a	612012989	N	FT-A	AF0032	11/1/1993	10/31/2020		N	51809
+P	M2	Emerson	29	33973	Zone-1	1031			P	
+P	MQ	Milaca	29	11967	Zone-1	1031			P	
+P	M2	Emerson	29	33973	Zone-1	50711			P	
+P	MQ	South Cambridge	29	27867	Zone-1	50711			P	
+P	M2	Emerson	29	33973	Zone-1	67			P	
+P	MQ	Dalbo	29	11896	Zone-1	67			P	
+D	CenterPoint Energy Resources Corp. d/b/a	612012989	N	FT-A	AF0033	11/1/2000	10/31/2020		N	5000
+P	M2	Emerson	29	33973	Zone-1	5000			P	
+P	MQ	South Cambridge	29	27867	Zone-1	5000			P	
+D	CenterPoint Energy Resources Corp. d/b/a	612012989	N	FT-A	AF0319	11/1/2017	10/31/2022		N	20000
+P	M2	Emerson	29	33973	Zone-1	10000			P	
+P	MQ	Chisago Zn1	29	11856	Zone-1	10000			P	
+P	M2	Emerson	29	33973	Zone-1	10000			P	
+P	MQ	Genola	29	11971	Zone-1	10000			P	
+D	"CenterPoint Energy Services, Inc. "	838611739	N	FT-A	AF0034	1/27/1996	10/31/2020		N	2000
+P	M2	Emerson	29	33973	Zone-1	2000			P	
+P	MQ	ANR Marshfield	29	28872	Zone-2	2000			P	
+D	"CenterPoint Energy Services, Inc. "	838611739	N	FT-A	AF0050	6/1/2003	10/31/2020		N	950
+P	M2	Chisago Zn2	29	179031	Zone-2	950			P	
+P	MQ	ANR Marshfield	29	28872	Zone-2	950			P	
+D	"CenterPoint Energy Services, Inc. "	838611739	N	FT-A	AF0170	11/21/2010	3/31/2021		N	4583
+P	M2	Emerson	29	33973	Zone-1	120			P	
+P	MQ	Boyceville	29	28689	Zone-2	120			P	
+P	M2	Emerson	29	33973	Zone-1	1763			P	
+P	MQ	ANR Marshfield	29	28872	Zone-2	1763			P	
+P	M2	Emerson	29	33973	Zone-1	200			P	
+P	MQ	Eau Claire	29	28693	Zone-2	200			P	
+P	M2	Emerson	29	33973	Zone-1	200			P	
+P	MQ	Menomonie	29	28691	Zone-2	200			P	
+P	M2	Emerson	29	33973	Zone-1	2000			P	
+P	MQ	Greenwood	29	28667	Zone-2	2000			P	
+P	M2	Emerson	29	33973	Zone-1	300			P	
+P	MQ	Fergus Falls	29	11979	Zone-1	300			P	
+D	"City of Argyle, Minnesota"	106885796	N	FT-A	AF0002	11/1/1994	10/31/2027		N	369
+A	"Constellation NewEnergy - Gas Division, "	N								
+P	M2	Emerson	29	33973	Zone-1	369			P	
+P	MQ	Argyle	29	11939	Zone-1	369			P	
+D	"City of Hallock, Minnesota"	169477817	N	FT-A	AF0008	11/1/1994	10/31/2027		N	774
+A	"Constellation NewEnergy - Gas Division, "	N								
+P	M2	Emerson	29	33973	Zone-1	774			P	
+P	MQ	Hallock	29	11910	Zone-1	774			P	
+D	"City of Hawley, Minnesota"	156318123	N	FT-A	AF0004	11/1/1993	10/31/2027		N	504
+A	"Constellation NewEnergy - Gas Division, "	N								
+P	M2	Emerson	29	33973	Zone-1	504			P	
+P	MQ	Hawley	29	11859	Zone-1	504			P	
+D	"City of Hawley, Minnesota"	156318123	N	FT-A	AF0233	11/1/2015	10/31/2020		N	100
+P	M2	Emerson	29	33973	Zone-1	100			P	
+P	MQ	Hawley	29	11859	Zone-1	100			P	
+D	"City of Lake Park, Minnesota"	130725708	N	FT-A	AF0007	11/1/1994	10/31/2021		N	357
+A	"Constellation NewEnergy - Gas Division, "	N								
+P	M2	Emerson	29	33973	Zone-1	357			P	
+P	MQ	Lake Park	29	11815	Zone-1	357			P	
+D	"City of New York Mills, Minnesota"	164183121	N	FT-A	AF0009	11/1/1994	10/31/2027		N	644
+A	"Constellation NewEnergy - Gas Division, "	N								
+P	M2	Emerson	29	33973	Zone-1	644			P	
+P	MQ	New York Mills	29	11981	Zone-1	644			P	
+D	"City of New York Mills, Minnesota"	164183121	N	FT-A	AF0234	11/1/2015	10/31/2020		N	100
+P	M2	Emerson	29	33973	Zone-1	100			P	
+P	MQ	New York Mills	29	11981	Zone-1	100			P	
+D	"City of Perham, Minnesota"	800935434	N	FT-A	AF0005	11/1/1993	10/31/2022		N	1309
+A	"Kinect Energy, Inc."	N								
+P	M2	Emerson	29	33973	Zone-1	1309			P	
+P	MQ	Perham	29	11980	Zone-1	1309			P	
+D	"City of Perham, Minnesota"	800935434	N	FT-A	AF0065	1/1/2004	10/31/2021		N	250
+A	"Kinect Energy, Inc."	N								
+P	M2	Emerson	29	33973	Zone-1	250			P	
+P	MQ	Perham	29	11980	Zone-1	250			P	
+D	"City of Perham, Minnesota"	800935434	N	FT-A	AF0068	1/1/2004	10/31/2022		N	750
+A	"Kinect Energy, Inc."	N								
+P	M2	Emerson	29	33973	Zone-1	750			P	
+P	MQ	Pine Lake	29	288041	Zone-1	750			P	
+D	"City of Perham, Minnesota"	800935434	N	FT-A	AF0093	6/1/2005	10/31/2021		N	250
+A	"Kinect Energy, Inc."	N								
+P	M2	Emerson	29	33973	Zone-1	250			P	
+P	MQ	ANR Marshfield	29	28872	Zone-2	250			P	
+D	"City of Perham, Minnesota"	800935434	N	FT-A	AF0101	1/1/2006	10/31/2019		N	600
+A	"Kinect Energy, Inc."	N								
+P	M2	Emerson	29	33973	Zone-1	600			P	
+P	MQ	Chisago Zn1	29	11856	Zone-1	600			P	
+D	"City of Perham, Minnesota"	800935434	N	FT-A	AF0145	11/1/2008	10/31/2028		N	417
+A	"Kinect Energy, Inc."	N								
+P	M2	Emerson	29	33973	Zone-1	417			P	
+P	MQ	Perham	29	11980	Zone-1	417			P	
+D	"City of Perham, Minnesota"	800935434	N	FT-A	AF0180	11/1/2011	10/31/2022		N	500
+A	"Kinect Energy, Inc."	N								
+P	M2	Emerson	29	33973	Zone-1	500			P	
+P	MQ	Chisago Zn1	29	11856	Zone-1	500			P	
+D	"City of Perham, Minnesota"	800935434	N	FT-A	AF0221	2/1/2015	1/31/2026		N	1000
+A	"Kinect Energy, Inc."	N								
+P	M2	Emerson	29	33973	Zone-1	1000			P	
+P	MQ	Perham	29	11980	Zone-1	1000			P	
+D	"City of Perham, Minnesota"	800935434	N	FT-A	AF0236	11/1/2015	10/31/2020		N	1000
+A	"Kinect Energy, Inc."	N								
+P	M2	Emerson	29	33973	Zone-1	1000			P	
+P	MQ	Perham	29	11980	Zone-1	1000			P	
+D	"City of Perham, Minnesota"	800935434	N	FT-A	AF0322	12/1/2017	11/30/2022		N	350
+A	"Kinect Energy, Inc."	N								
+P	M2	Emerson	29	33973	Zone-1	350			P	
+P	MQ	ANR Marshfield	29	28872	Zone-2	350			P	
+D	"City of Randall, Minnesota"	617073275	N	FT-A	AF0056	1/1/2004	9/30/2021		N	207
+A	"Kinect Energy, Inc."	N								
+P	M2	Emerson	29	33973	Zone-1	207			P	
+P	MQ	Randall	29	288039	Zone-1	207			P	
+D	"City of Stephen, Minnesota"	156048407	N	FT-A	AF0011	11/1/1994	10/31/2027		N	408
+A	"Constellation NewEnergy - Gas Division, "	N								
+P	M2	Emerson	29	33973	Zone-1	408			P	
+P	MQ	Stephen	29	11938	Zone-1	408			P	
+D	"City of Warren, Minnesota"	130638935	N	FT-A	AF0006	11/1/1994	10/31/2027		N	824
+A	"Constellation NewEnergy - Gas Division, "	N								
+P	M2	Emerson	29	33973	Zone-1	824			P	
+P	MQ	Warren	29	11940	Zone-1	824			P	
+D	"City of Warren, Minnesota"	130638935	N	FT-A	AF0232	11/1/2015	10/31/2020		N	100
+P	M2	Emerson	29	33973	Zone-1	100			P	
+P	MQ	Warren	29	11940	Zone-1	100			P	
+D	Community Co-ops of Lake Park	6181820	N	FT-A	AF0235	11/1/2015	10/31/2020		N	550
+A	"Constellation NewEnergy - Gas Division, "	N								
+P	M2	Emerson	29	33973	Zone-1	550			P	
+P	MQ	Ada GMT	29	1400745	Zone-1	550			P	
+D	"ConAgra Foods, Inc."	7258908	N	FT-A	AF0282	11/1/2016	10/31/2018		N	900
+A	Constellation Energy Services - Natural 	N								
+P	M2	Emerson	29	33973	Zone-1	900			P	
+P	MQ	Menomonie	29	28691	Zone-2	900			P	
+D	DTE Gas Company	6958540	N	FT-A	AF0081	12/1/2004	3/31/2022		N	21076
+P	M2	Emerson	29	33973	Zone-1	21076			P	
+P	MQ	ANR Marshfield	29	28872	Zone-2	21076			P	
+D	"Dooley's Natural Gas II, LLC"	79493700	N	FT-A	AF0224	2/1/2015	1/31/2019		N	500
+A	"Kinect Energy, Inc."	N								
+P	M2	Emerson	29	33973	Zone-1	500			P	
+P	MQ	Genola	29	11971	Zone-1	500			P	
+D	"EDF Trading North America, LLC"	130385763	N	FT-A	AF0301	11/1/2016	10/31/2018		N	25000
+P	M2	Emerson	29	33973	Zone-1	25000			P	
+P	MQ	ANR Marshfield	29	28872	Zone-2	25000			P	
+D	"Great Plains Natural Gas Co., a division"	156188708	N	FT-A	AF0049	11/1/2003	10/31/2022		N	0
+P	M2	Chisago Zn1	29	11856	Zone-1	0			P	
+P	MQ	Crookston	29	12002	Zone-1	0			P	
+P	M2	Chisago Zn1	29	11856	Zone-1	0			P	
+P	MQ	Fergus Falls	29	11979	Zone-1	0			P	
+D	"Great Plains Natural Gas Co., a division"	156188708	N	FT-A	AF0092	6/1/2005	10/31/2022		N	500
+P	M2	Emerson	29	33973	Zone-1	500			P	
+P	MQ	Chisago Zn1	29	11856	Zone-1	500			P	
+D	"Great Plains Natural Gas Co., a division"	156188708	N	FT-A	AF0193	11/1/2012	10/31/2022		N	8000
+P	M2	Chisago Zn1	29	11856	Zone-1	2500			P	
+P	MQ	Crookston	29	12002	Zone-1	2500			P	
+P	M2	Chisago Zn1	29	11856	Zone-1	5500			P	
+P	MQ	Fergus Falls	29	11979	Zone-1	5500			P	
+D	"Great Plains Natural Gas Co., a division"	156188708	N	FT-A	AF0199	11/1/2013	10/31/2022		N	4500
+P	M2	Emerson	29	33973	Zone-1	4500			P	
+P	MQ	Chisago Zn1	29	11856	Zone-1	4500			P	
+D	Greater Minnesota Gas Inc.	837271790	N	FT-A	AF0200	11/1/2013	10/31/2018		N	2000
+A	"Kinect Energy, Inc."	N								
+P	M2	Chisago Zn1	29	11856	Zone-1	2000			P	
+P	MQ	Randall GMG	29	1387607	Zone-1	2000			P	
+D	Greater Minnesota Gas Inc.	837271790	N	FT-A	AF0216	11/1/2014	10/31/2018		N	1400
+A	"Kinect Energy, Inc."	N								
+P	M2	Emerson	29	33973	Zone-1	1400			P	
+P	MQ	Chisago Zn1	29	11856	Zone-1	1400			P	
+D	Greater Minnesota Gas Inc.	837271790	N	FT-A	AF0220	2/1/2015	1/31/2026		N	1200
+A	"Kinect Energy, Inc."	N								
+P	M2	Emerson	29	33973	Zone-1	1200			P	
+P	MQ	Randall GMG	29	1387607	Zone-1	1200			P	
+D	Greater Minnesota Gas Inc.	837271790	N	FT-A	AF0300	12/1/2017	11/30/2022		N	2200
+A	"Kinect Energy, Inc."	N								
+P	M2	Emerson	29	33973	Zone-1	2200			P	
+P	MQ	Chisago Zn1	29	11856	Zone-1	2200			P	
+D	"Green Plains Otter Tail, LLC"	967786331	N	FT-A	AF0214	11/1/2014	10/31/2018		N	2200
+P	M2	Emerson	29	33973	Zone-1	2200			P	
+P	MQ	Chisago Zn1	29	11856	Zone-1	2200			P	
+D	"Green Plains Otter Tail, LLC"	967786331	N	FT-A	AF0317	6/1/2017	5/31/2018		N	2700
+P	M2	Emerson	29	33973	Zone-1	2700			P	
+P	MQ	Chisago Zn1	29	11856	Zone-1	2700			P	
+D	J.R. Simplot Company	9073503	N	FT-A	AF0070	5/1/2004	10/31/2022		N	3500
+A	France Financial Consulting Ltd.	N								
+P	M2	Emerson	29	33973	Zone-1	3500			P	
+P	MQ	Grand Forks	29	15274	Zone-1	3500			P	
+D	"Koch Energy Services, LLC"	832703297	N	FT-A	AF0314	11/1/2017	10/31/2018		N	22000
+P	M2	Emerson	29	33973	Zone-1	22000			P	
+P	MQ	ANR Marshfield	29	28872	Zone-2	22000			P	
+D	"Lake Region Energy Services, Inc."	6962906	N	FT-A	AF0320	12/1/2017	11/30/2022		N	800
+A	"Kinect Energy, Inc."	N								
+P	M2	Emerson	29	33973	Zone-1	800			P	
+P	MQ	Chisago Zn1	29	11856	Zone-1	800			P	
+D	"Midwest Natural Gas, Inc."	41200809	N	FT-A	AF0021	11/1/2001	10/31/2021		N	750
+A	"Kinect Energy, Inc."	N								
+P	M2	Emerson	29	33973	Zone-1	750			P	
+P	MQ	Boyceville	29	28689	Zone-2	750			P	
+D	"Midwest Natural Gas, Inc."	41200809	N	FT-A	AF0115	4/1/2006	10/31/2018		N	810
+A	"Kinect Energy, Inc."	N								
+P	M2	Emerson	29	33973	Zone-1	810			P	
+P	MQ	ANR Marshfield	29	28872	Zone-2	810			P	
+D	Minnesota Energy Resources Corporation	780062605	N	FT-A	AF0012	11/1/1994	10/31/2022		N	14493
+P	M2	Emerson	29	33973	Zone-1	0			P	
+P	MQ	Chisago Zn1	29	11856	Zone-1	0			P	
+P	M2	Emerson	29	33973	Zone-1	1756			P	
+P	MQ	Staples	29	12028	Zone-1	1756			P	
+P	M2	Emerson	29	33973	Zone-1	332			P	
+P	MQ	Audubon	29	11816	Zone-1	332			P	
+P	M2	Emerson	29	33973	Zone-1	4008			P	
+P	MQ	Detroit Lakes	29	11818	Zone-1	4008			P	
+P	M2	Emerson	29	33973	Zone-1	416			P	
+P	MQ	Frazee	29	11977	Zone-1	416			P	
+P	M2	Emerson	29	33973	Zone-1	561			P	
+P	MQ	Ada	29	11975	Zone-1	561			P	
+P	M2	Emerson	29	33973	Zone-1	6038			P	
+P	MQ	Wadena	29	11982	Zone-1	6038			P	
+P	M2	Emerson	29	33973	Zone-1	643			P	
+P	MQ	Bertha	29	12027	Zone-1	643			P	
+P	M2	Emerson	29	33973	Zone-1	739			P	
+P	MQ	Camp Ripley	29	288038	Zone-1	739			P	
+D	Minnesota Energy Resources Corporation	780062605	N	FT-A	AF0321	12/1/2017	11/30/2022		N	0
+P	M2	Chisago Zn1	29	11856	Zone-1	0			P	
+P	MQ	Ada	29	11975	Zone-1	0			P	
+P	M2	Chisago Zn1	29	11856	Zone-1	0			P	
+P	MQ	Audubon	29	11816	Zone-1	0			P	
+P	M2	Chisago Zn1	29	11856	Zone-1	0			P	
+P	MQ	Bertha	29	12027	Zone-1	0			P	
+P	M2	Chisago Zn1	29	11856	Zone-1	0			P	
+P	MQ	Camp Ripley	29	288038	Zone-1	0			P	
+P	M2	Chisago Zn1	29	11856	Zone-1	0			P	
+P	MQ	Detroit Lakes	29	11818	Zone-1	0			P	
+P	M2	Chisago Zn1	29	11856	Zone-1	0			P	
+P	MQ	Frazee	29	11977	Zone-1	0			P	
+P	M2	Chisago Zn1	29	11856	Zone-1	0			P	
+P	MQ	Staples	29	12028	Zone-1	0			P	
+P	M2	Chisago Zn1	29	11856	Zone-1	0			P	
+P	MQ	Wadena	29	11982	Zone-1	0			P	
+D	"Northern States Power Company, a Minneso"	6962419	N	FT-A	AF0037	6/1/2002	10/31/2022		N	15600
+A	Xcel Energy Services Inc. 	N								
+P	M2	Emerson	29	33973	Zone-1	10950			P	
+P	MQ	ANR Marshfield	29	28872	Zone-2	10950			P	
+P	M2	Emerson	29	33973	Zone-1	2150			P	
+P	MQ	North Branch	29	288036	Zone-2	2150			P	
+P	M2	Emerson	29	33973	Zone-1	2500			P	
+P	MQ	Taylors Falls	29	288035	Zone-2	2500			P	
+D	"Northern States Power Company, a Minneso"	6962419	N	FT-A	AF0044	5/1/1994	10/31/2018		N	29002
+A	Xcel Energy Services Inc. 	N								
+P	M2	Emerson	29	33973	Zone-1	11318			P	
+P	MQ	Fargo	29	15225	Zone-1	11318			P	
+P	M2	Emerson	29	33973	Zone-1	1200			P	
+P	MQ	Green Lake	29	288037	Zone-1	1200			P	
+P	M2	Emerson	29	33973	Zone-1	1670			P	
+P	MQ	East Grand Forks	29	12001	Zone-1	1670			P	
+P	M2	Emerson	29	33973	Zone-1	454			P	
+P	MQ	Dilworth	29	11861	Zone-1	454			P	
+P	M2	Emerson	29	33973	Zone-1	5475			P	
+P	MQ	Moorhead	29	15224	Zone-1	5475			P	
+P	M2	Emerson	29	33973	Zone-1	8885			P	
+P	MQ	Grand Forks	29	15274	Zone-1	8885			P	
+D	"Northern States Power Company, a Minneso"	6962419	N	FT-A	AF0103	1/1/2006	10/31/2019		N	10000
+A	Xcel Energy Services Inc. 	N								
+P	M2	Emerson	29	33973	Zone-1	2250			P	
+P	MQ	Moorhead	29	15224	Zone-1	2250			P	
+P	M2	Emerson	29	33973	Zone-1	3250			P	
+P	MQ	Fargo	29	15225	Zone-1	3250			P	
+P	M2	Emerson	29	33973	Zone-1	4000			P	
+P	MQ	East Grand Forks	29	12001	Zone-1	4000			P	
+P	M2	Emerson	29	33973	Zone-1	500			P	
+P	MQ	Dilworth	29	11861	Zone-1	500			P	
+D	"Northern States Power Company, a Minneso"	6962419	N	FT-A	AF0116	6/1/2006	5/31/2021		N	1903
+A	Xcel Energy Services Inc. 	N								
+P	M2	Emerson	29	33973	Zone-1	1903			P	
+P	MQ	Grand Forks	29	15274	Zone-1	1903			P	
+D	"Northern States Power Company, a Minneso"	6962419	N	FT-A	AF0217	11/1/2014	10/31/2019		N	72213
+A	Xcel Energy Services Inc. 	N								
+P	M2	ANR Marshfield	29	28872	Zone-2	12279			P	
+P	MQ	Genola	29	11971	Zone-1	12279			P	
+P	M2	ANR Marshfield	29	28872	Zone-2	15706			P	
+P	MQ	Chisago Zn1	29	11856	Zone-1	15706			P	
+P	M2	ANR Marshfield	29	28872	Zone-2	2050			P	
+P	MQ	Green Lake	29	288037	Zone-1	2050			P	
+P	M2	ANR Marshfield	29	28872	Zone-2	2451			P	
+P	MQ	Dilworth	29	11861	Zone-1	2451			P	
+P	M2	ANR Marshfield	29	28872	Zone-2	35118			P	
+P	MQ	Fargo	29	15225	Zone-1	35118			P	
+P	M2	ANR Marshfield	29	28872	Zone-2	4609			P	
+P	MQ	Moorhead	29	15224	Zone-1	4609			P	
+D	"Northern States Power Company, a Minneso"	6962419	N	FT-A	AF0218	11/1/2014	10/31/2019		N	15000
+A	Xcel Energy Services Inc. 	N								
+P	M2	ANR Marshfield	29	28872	Zone-2	15000			P	
+P	MQ	Fargo	29	15225	Zone-1	15000			P	
+D	"Northern States Power Company, a Wiscons"	7945868	N	FT-A	AF0023	5/1/1994	10/31/2018		N	563
+A	Xcel Energy Services Inc. 	N								
+P	M2	Emerson	29	33973	Zone-1	0			P	
+P	MQ	Chippewa Falls	29	28664	Zone-2	0			P	
+P	M2	Emerson	29	33973	Zone-1	0			P	
+P	MQ	Eau Claire	29	28693	Zone-2	0			P	
+P	M2	Emerson	29	33973	Zone-1	0			P	
+P	MQ	Fall Creek	29	288049	Zone-2	0			P	
+P	M2	Emerson	29	33973	Zone-1	0			P	
+P	MQ	Menomonie	29	28691	Zone-2	0			P	
+P	M2	Emerson	29	33973	Zone-1	0			P	
+P	MQ	North Colfax	29	288048	Zone-2	0			P	
+P	M2	Emerson	29	33973	Zone-1	0			P	
+P	MQ	Wheaton	29	288045	Zone-2	0			P	
+P	M2	Emerson	29	33973	Zone-1	563			P	
+P	MQ	Boyceville	29	28689	Zone-2	563			P	
+D	"Northern States Power Company, a Wiscons"	7945868	N	FT-A	AF0029	11/1/1993	4/30/2019		N	11000
+A	Xcel Energy Services Inc. 	N								
+P	M2	Chisago Zn2	29	179031	Zone-2	1000			P	
+P	MQ	Menomonie	29	28691	Zone-2	1000			P	
+P	M2	Chisago Zn2	29	179031	Zone-2	1500			P	
+P	MQ	Chippewa Falls	29	28664	Zone-2	1500			P	
+P	M2	Chisago Zn2	29	179031	Zone-2	200			P	
+P	MQ	Fall Creek	29	288049	Zone-2	200			P	
+P	M2	Chisago Zn2	29	179031	Zone-2	2478			P	
+P	MQ	Eau Claire	29	28693	Zone-2	2478			P	
+P	M2	Chisago Zn2	29	179031	Zone-2	322			P	
+P	MQ	North Colfax	29	288048	Zone-2	322			P	
+P	M2	Chisago Zn2	29	179031	Zone-2	5500			P	
+P	MQ	Wheaton	29	288045	Zone-2	5500			P	
+D	"Northern States Power Company, a Wiscons"	7945868	N	FT-A	AF0104	1/1/2006	4/30/2019		N	11000
+A	Xcel Energy Services Inc. 	N								
+P	M2	Emerson	29	33973	Zone-1	11000			P	
+P	MQ	Chisago Zn1	29	11856	Zone-1	11000			P	
+D	"Northern States Power Company, a Wiscons"	7945868	N	FT-A	AF0155	11/1/2009	10/31/2029		N	725
+A	Xcel Energy Services Inc. 	N								
+P	M2	Emerson	29	33973	Zone-1	725			P	
+P	MQ	ANR Marshfield	29	28872	Zone-2	725			P	
+D	"Northern States Power Company, a Wiscons"	7945868	N	FT-A	AF0163	11/1/2010	10/31/2022		N	7056
+A	Xcel Energy Services Inc. 	N								
+P	M2	Emerson	29	33973	Zone-1	7056			P	
+P	MQ	ANR Marshfield	29	28872	Zone-2	7056			P	
+D	"Northern States Power Company, a Wiscons"	7945868	N	FT-A	AF0219	11/1/2014	10/31/2019		N	8500
+A	Xcel Energy Services Inc. 	N								
+P	M2	ANR Marshfield	29	28872	Zone-2	1000			P	
+P	MQ	Menomonie	29	28691	Zone-2	1000			P	
+P	M2	ANR Marshfield	29	28872	Zone-2	1293			P	
+P	MQ	Boyceville	29	28689	Zone-2	1293			P	
+P	M2	ANR Marshfield	29	28872	Zone-2	15			P	
+P	MQ	Wheaton	29	288045	Zone-2	15			P	
+P	M2	ANR Marshfield	29	28872	Zone-2	20			P	
+P	MQ	Fall Creek	29	288049	Zone-2	20			P	
+P	M2	ANR Marshfield	29	28872	Zone-2	2000			P	
+P	MQ	Chippewa Falls	29	28664	Zone-2	2000			P	
+P	M2	ANR Marshfield	29	28872	Zone-2	3494			P	
+P	MQ	Eau Claire	29	28693	Zone-2	3494			P	
+P	M2	ANR Marshfield	29	28872	Zone-2	678			P	
+P	MQ	North Colfax	29	288048	Zone-2	678			P	
+D	ProGold Limited Liability Company	60683179	N	FT-A	AF0067	6/1/2004	12/31/2022		N	5000
+A	"Cargill, Incorporated"	N								
+P	M2	Emerson	29	33973	Zone-1	5000			P	
+P	MQ	Fergus Falls	29	11979	Zone-1	5000			P	
+D	"Sequent Energy Management, L.P."	612075846	N	FT-A	AF0303	11/1/2016	10/31/2018		N	10000
+P	M2	Emerson	29	33973	Zone-1	10000			P	
+P	MQ	ANR Marshfield	29	28872	Zone-2	10000			P	
+D	"Sequent Energy Management, L.P."	612075846	N	FT-A	AF0310	4/1/2017	3/31/2019		N	4000
+P	M2	Emerson	29	33973	Zone-1	4000			P	
+P	MQ	ANR Marshfield	29	28872	Zone-2	4000			P	
+D	"St. Croix Valley Natural Gas Company, In"	6215263	N	FT-A	AF0020	1/1/2003	10/31/2022		N	1600
+A	BP Canada Energy Marketing Corp.	N								
+P	M2	Emerson	29	33973	Zone-1	1600			P	
+P	MQ	Boyceville	29	28689	Zone-2	1600			P	
+D	"St. Croix Valley Natural Gas Company, In"	6215263	N	FT-A	AF0260	11/1/2015	10/31/2020		N	750
+P	M2	Emerson	29	33973	Zone-1	750			P	
+P	MQ	Boyceville	29	28689	Zone-2	750			P	
+D	"Tharaldson Ethanol Plant 1, L.L.C."	798955196	N	FT-A	AF0324	12/1/2017	11/30/2022		N	350
+A	"Kinect Energy, Inc."	N								
+P	M2	Emerson	29	33973	Zone-1	350			P	
+P	MQ	ANR Marshfield	29	28872	Zone-2	350			P	
+D	Wisconsin Gas LLC	7947047	N	FT-A	AF0022	11/1/1993	10/31/2019		N	4300
+P	M2	Emerson	29	33973	Zone-1	0			P	
+P	MQ	ANR Marshfield	29	28872	Zone-2	0			P	
+P	M2	Emerson	29	33973	Zone-1	0			P	
+P	MQ	Blackbrook	29	288050	Zone-2	0			P	
+P	M2	Emerson	29	33973	Zone-1	0			P	
+P	MQ	Polk	29	218305	Zone-2	0			P	
+P	M2	Emerson	29	33973	Zone-1	0			P	
+P	MQ	Wheeler	29	362793	Zone-2	0			P	
+P	M2	Emerson	29	33973	Zone-1	0			P	
+P	MQ	Wisc Gas Marshfield	29	288051	Zone-2	0			P	
+P	M2	Emerson	29	33973	Zone-1	1057			P	
+P	MQ	Cadott	29	28694	Zone-2	1057			P	
+P	M2	Emerson	29	33973	Zone-1	1640			P	
+P	MQ	Greenwood	29	28667	Zone-2	1640			P	
+P	M2	Emerson	29	33973	Zone-1	186			P	
+P	MQ	Chili	29	288047	Zone-2	186			P	
+P	M2	Emerson	29	33973	Zone-1	328			P	
+P	MQ	South Colfax	29	28692	Zone-2	328			P	
+P	M2	Emerson	29	33973	Zone-1	369			P	
+P	MQ	Dresser	29	28789	Zone-2	369			P	
+P	M2	Emerson	29	33973	Zone-1	720			P	
+P	MQ	Boyceville	29	28689	Zone-2	720			P	
+D	Wisconsin Gas LLC	7947047	N	FT-A	AF0025	11/1/2000	10/31/2019		N	16193
+P	M2	Emerson	29	33973	Zone-1	0			P	
+P	MQ	Blackbrook	29	288050	Zone-2	0			P	
+P	M2	Emerson	29	33973	Zone-1	0			P	
+P	MQ	Cadott	29	28694	Zone-2	0			P	
+P	M2	Emerson	29	33973	Zone-1	0			P	
+P	MQ	Chili	29	288047	Zone-2	0			P	
+P	M2	Emerson	29	33973	Zone-1	0			P	
+P	MQ	Dresser	29	28789	Zone-2	0			P	
+P	M2	Emerson	29	33973	Zone-1	0			P	
+P	MQ	Greenwood	29	28667	Zone-2	0			P	
+P	M2	Emerson	29	33973	Zone-1	0			P	
+P	MQ	South Colfax	29	28692	Zone-2	0			P	
+P	M2	Emerson	29	33973	Zone-1	0			P	
+P	MQ	Wheeler	29	362793	Zone-2	0			P	
+P	M2	Emerson	29	33973	Zone-1	0			P	
+P	MQ	Wilson	29	1400841	Zone-2	0			P	
+P	M2	Emerson	29	33973	Zone-1	11003			P	
+P	MQ	ANR Marshfield	29	28872	Zone-2	11003			P	
+P	M2	Emerson	29	33973	Zone-1	2165			P	
+P	MQ	Chisago Zn2	29	179031	Zone-2	2165			P	
+P	M2	Emerson	29	33973	Zone-1	2356			P	
+P	MQ	Wisc Gas Marshfield	29	288051	Zone-2	2356			P	
+P	M2	Emerson	29	33973	Zone-1	669			P	
+P	MQ	Boyceville	29	28689	Zone-2	669			P	
+D	Wisconsin Gas LLC	7947047	N	FT-A	AF0059	11/1/2003	10/31/2018		N	33465
+P	M2	Emerson	29	33973	Zone-1	0			P	
+P	MQ	Chisago Zn2	29	179031	Zone-2	0			P	
+P	M2	Emerson	29	33973	Zone-1	0			P	
+P	MQ	Greenwood	29	28667	Zone-2	0			P	
+P	M2	Emerson	29	33973	Zone-1	1127			P	
+P	MQ	ANR Marshfield	29	28872	Zone-2	1127			P	
+P	M2	Emerson	29	33973	Zone-1	125			P	
+P	MQ	Cadott	29	28694	Zone-2	125			P	
+P	M2	Emerson	29	33973	Zone-1	15			P	
+P	MQ	Blackbrook	29	288050	Zone-2	15			P	
+P	M2	Emerson	29	33973	Zone-1	2602			P	
+P	MQ	Wheeler	29	362793	Zone-2	2602			P	
+P	M2	Emerson	29	33973	Zone-1	36			P	
+P	MQ	Boyceville	29	28689	Zone-2	36			P	
+P	M2	Emerson	29	33973	Zone-1	4486			P	
+P	MQ	Wilson	29	1400841	Zone-2	4486			P	
+P	M2	Emerson	29	33973	Zone-1	5			P	
+P	MQ	South Colfax	29	28692	Zone-2	5			P	
+P	M2	Emerson	29	33973	Zone-1	5034			P	
+P	MQ	Wisc Gas Marshfield	29	288051	Zone-2	5034			P	
+P	M2	Emerson	29	33973	Zone-1	6			P	
+P	MQ	Dresser	29	28789	Zone-2	6			P	
+P	M2	Emerson	29	33973	Zone-1	69			P	
+P	MQ	Chili	29	288047	Zone-2	69			P	
+P	M2	St. Vincent	29	174672	Zone-1	0			P	
+P	MQ	ANR Marshfield	29	28872	Zone-2	0			P	
+P	M2	St. Vincent	29	174672	Zone-1	0			P	
+P	MQ	Chisago Zn2	29	179031	Zone-2	0			P	
+P	M2	St. Vincent	29	174672	Zone-1	0			P	
+P	MQ	Greenwood	29	28667	Zone-2	0			P	
+P	M2	St. Vincent	29	174672	Zone-1	112			P	
+P	MQ	Chili	29	288047	Zone-2	112			P	
+P	M2	St. Vincent	29	174672	Zone-1	202			P	
+P	MQ	Cadott	29	28694	Zone-2	202			P	
+P	M2	St. Vincent	29	174672	Zone-1	25			P	
+P	MQ	Blackbrook	29	288050	Zone-2	25			P	
+P	M2	St. Vincent	29	174672	Zone-1	4196			P	
+P	MQ	Wheeler	29	362793	Zone-2	4196			P	
+P	M2	St. Vincent	29	174672	Zone-1	57			P	
+P	MQ	Boyceville	29	28689	Zone-2	57			P	
+P	M2	St. Vincent	29	174672	Zone-1	7			P	
+P	MQ	South Colfax	29	28692	Zone-2	7			P	
+P	M2	St. Vincent	29	174672	Zone-1	7234			P	
+P	MQ	Wilson	29	1400841	Zone-2	7234			P	
+P	M2	St. Vincent	29	174672	Zone-1	8118			P	
+P	MQ	Wisc Gas Marshfield	29	288051	Zone-2	8118			P	
+P	M2	St. Vincent	29	174672	Zone-1	9			P	
+P	MQ	Dresser	29	28789	Zone-2	9			P	
+D	Wisconsin Gas LLC	7947047	N	FT-A	AF0063	11/1/2003	10/31/2019		N	19030
+P	M2	Emerson	29	33973	Zone-1	0			P	
+P	MQ	ANR Marshfield	29	28872	Zone-2	0			P	
+P	M2	Emerson	29	33973	Zone-1	0			P	
+P	MQ	Chisago Zn2	29	179031	Zone-2	0			P	
+P	M2	Emerson	29	33973	Zone-1	0			P	
+P	MQ	Wilson	29	1400841	Zone-2	0			P	
+P	M2	Emerson	29	33973	Zone-1	0			P	
+P	MQ	Wisc Gas Marshfield	29	288051	Zone-2	0			P	
+P	M2	Emerson	29	33973	Zone-1	197			P	
+P	MQ	Chili	29	288047	Zone-2	197			P	
+P	M2	Emerson	29	33973	Zone-1	237			P	
+P	MQ	South Colfax	29	28692	Zone-2	237			P	
+P	M2	Emerson	29	33973	Zone-1	3711			P	
+P	MQ	Dresser	29	28789	Zone-2	3711			P	
+P	M2	Emerson	29	33973	Zone-1	3793			P	
+P	MQ	Blackbrook	29	288050	Zone-2	3793			P	
+P	M2	Emerson	29	33973	Zone-1	3884			P	
+P	MQ	Boyceville	29	28689	Zone-2	3884			P	
+P	M2	Emerson	29	33973	Zone-1	5281			P	
+P	MQ	Wheeler	29	362793	Zone-2	5281			P	
+P	M2	Emerson	29	33973	Zone-1	956			P	
+P	MQ	Cadott	29	28694	Zone-2	956			P	
+P	M2	Emerson	29	33973	Zone-1	971			P	
+P	MQ	Greenwood	29	28667	Zone-2	971			P	
+D	Wisconsin Industrial Sand	831846121	N	FT-A	AF0226	7/1/2015	6/30/2025		N	654
+A	Constellation Energy Services - Natural 	N								
+P	M2	Emerson	29	33973	Zone-1	654			P	
+P	MQ	North Colfax	29	288048	Zone-2	654			P	
+D	"World Fuel Services, Inc."	606036481	N	FT-A	AF0239	9/1/2015	10/31/2019		N	550
+A	"Kinect Energy, Inc."	N								
+P	M2	Emerson	29	33973	Zone-1	550			P	
+P	MQ	Chisago Zn1	29	11856	Zone-1	550			P	
+D	"World Fuel Services, Inc."	606036481	N	FT-A	AF0240	9/1/2015	9/30/2022		N	300
+A	"Kinect Energy, Inc."	N								
+P	M2	Emerson	29	33973	Zone-1	300			P	
+P	MQ	Chisago Zn1	29	11856	Zone-1	300			P	

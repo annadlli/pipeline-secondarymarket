@@ -1,0 +1,247 @@
+H	Stagecoach Pipeline & Storage Company LLC	C001683	4/2/2018	O	4/1/2018	T	T	MARK MITCHELL	832-519-2255			
+Shipper Name	Shipper ID	Affill	R Sch	Contract	Start	End		Negot	MDTQ	MSQ	Footnote ID	
+D	Alta Energy Marketing	80534979	N	FSS	ALTA_SC0001FSS	4/1/2018	5/31/2019	0	N	27000	2200000	
+P	M2	Millennium	95	SC1010B		0	25000					
+P	M2	Stagecoach Marcellus Hub	95	SC1060B		0	25000					
+P	M2	Tennessee	95	SC1070B		0	25000					
+P	MQ	Millennium	95	SC1010B		0	27000					
+P	MQ	Stagecoach Marcellus Hub	95	SC1060B		0	27000					
+P	MQ	Tennessee	95	SC1070B		0	27000					
+D	Consolidated Edison of New York	6982359	N	FSS	CED_SC0001FSS	5/1/2016	3/31/2023	0	N	0	7201310	
+P	M2	Stagecoach Storage	95	SC1070B		0	85441					
+P	MQ	Stagecoach Storage	95	SC1070B		0	170877					
+D	Engie Energy Marketing	80434367	N	FSS	ENG_SC0002FSS	4/1/2018	3/31/2019	0	N	18020	1000000	
+P	M2	Millennium	95	SC1010B		0	10111					
+P	M2	Stagecoach Marcellus Hub	95	SC1060B		0	10111					
+P	M2	Tennessee	95	SC1070B		0	10111					
+P	MQ	Millennium	95	SC1010B		0	18020					
+P	MQ	Stagecoach Marcellus Hub	95	SC1060B		0	18020					
+P	MQ	Tennessee	95	SC1070B		0	18020					
+D	Mercuria Energy America	831749127	N	FSS	MEA_SC0002FS	4/1/2018	3/31/2019	0	N	15992	700000	
+P	M2	Millennium	95	SC1010B		0	7996					
+P	M2	Stagecoach Marcellus Hub	95	SC1060B		0	7996					
+P	M2	Tennessee	95	SC1070B		0	7996					
+P	MQ	Millennium	95	SC1010B		0	15992					
+P	MQ	Stagecoach Marcellus Hub	95	SC1060B		0	15992					
+P	MQ	Tennessee	95	SC1070B		0	15992					
+D	New Jersey Natural Gas	61843553	N	FSS	NJNG_SC0001FS	4/1/2018	3/31/2023	0	N	21728	1630990	
+A	NJ Resources	N										
+P	M2	Tennessee	95	SC1070B		0	10891					
+P	MQ	Tennessee	95	SC1070B		0	21728					
+D	New Jersey Natural Gas	61843553	N	FSS	NJNG_SC0002FS	4/1/2018	3/31/2023	0	N	25337	2280330	
+P	M2	Tennessee	95	SC1070B		0	12701					
+P	MQ	Tennessee	95	SC1070B		0	25337					
+D	Pivotal Utility Holdings	56711344	N	FSS	PUHI00166FS	4/1/2014	3/31/2019	0	N	3040	304000	
+P	M2	Tennessee	95	SC1070B		0	1524					
+P	MQ	Tennessee	95	SC1070B		0	3040					
+D	Sequent Energy Management	612075846	N	FSS	SEQ_SC0013FSS	4/1/2018	3/31/2019	0	N	50000	3000000	
+P	M2	Millennium	95	SC1010B		0	33578					
+P	M2	Stagecoach Marcellus Hub	95	SC1060B		0	33578					
+P	M2	Tennessee	95	SC1070B		0	33578					
+P	MQ	Millennium	95	SC1010B		0	50000					
+P	MQ	Stagecoach Marcellus Hub	95	SC1060B		0	50000					
+P	MQ	Tennessee	95	SC1070B		0	50000					
+D	Sierentz Global Merchants	80356493	N	FSS	SGM_SC0001FSS	4/1/2018	3/31/2019	0	N	22846	1000000	
+P	M2	Millennium	95	SC1010B		0	11423					
+P	M2	Stagecoach Marcellus Hub	95	SC1060B		0	11423					
+P	M2	Tennessee	95	SC1070B		0	11423					
+P	MQ	Millennium	95	SC1010B		0	22846					
+P	MQ	Stagecoach Marcellus Hub	95	SC1060B		0	22846					
+P	MQ	Tennessee	95	SC1070B		0	22846					
+D	SWN Energy Services	967770660	N	FSS	SWN_SC0001FSS	4/1/2018	3/31/2019	0	N	22846	1000000	
+P	M2	Millennium	95	SC1010B		0	11423					
+P	M2	Stagecoach Marcellus Hub	95	SC1060B		0	11423					
+P	M2	Tennessee	95	SC1070B		0	11423					
+P	MQ	Millennium	95	SC1010B		0	22846					
+P	MQ	Stagecoach Marcellus Hub	95	SC1060B		0	22846					
+P	MQ	Tennessee	95	SC1070B		0	22846					
+D	Valley Energy	54086520	N	FSS	VAL_SC00484FS	4/1/2013	3/31/2023	0	N	2838	42570	
+P	M2	Tennessee	95	SC1070B		0	1419					
+P	MQ	Tennessee	95	SC1070B		0	2838					
+D	Anadarko Energy	199116823	N	FTS	FTS-AES-0002	7/1/2017	11/30/2022	0	Y	151875	0	x1
+A	Alta Energy Marketing	N										
+P	M2	Tennessee	95	SC1070B		0	152516					
+P	M2	Stagecoach Junction	95	SC1080R		0	152516					
+P	M2	M1/CNYOG	95	SC1090B		0	152516					
+P	M2	Wilmot	95	SC1100R		0	152516					
+P	M2	Cherry Rd	95	SC1110R		0	152516					
+P	M2	Transco	95	SC1130B		0	152516					
+P	MQ	Tennessee	95	SC1070B		0	151875					
+P	MQ	M1/CNYOG	95	SC1090B		0	151875					
+P	MQ	Transco	95	SC1130B		0	151875					
+D	Chesapeake Energy	809849326	N	FTS	FTS-CHK-0004	6/1/2012	11/30/2022	0	Y	140182	0	
+P	M2	Tennessee	95	SC1070B		0	140774					
+P	M2	Stagecoach Junction	95	SC1080R		0	140774					
+P	M2	M1/CNYOG	95	SC1090B		0	140774					
+P	M2	Wilmot	95	SC1100R		0	140774					
+P	M2	Cherry Rd	95	SC1110R		0	140774					
+P	M2	Transco	95	SC1130B		0	140774					
+P	MQ	Tennessee	95	SC1070B		0	140182					
+P	MQ	M1/CNYOG	95	SC1090B		0	140182					
+P	MQ	Transco	95	SC1130B		0	140182					
+D	Chief Oil & Gas LLC	941561235	N	FTS	FTS-COG-0001	11/1/2014	11/30/2022	0	Y	6700	0	
+P	M2	Tennessee	95	SC1070B		0	6729					
+P	M2	Stagecoach Junction	95	SC1080R		0	6729					
+P	M2	M1/CNYOG	95	SC1090B		0	6729					
+P	M2	Wilmot	95	SC1100R		0	6729					
+P	M2	Cherry Rd	95	SC1110R		0	6729					
+P	M2	Transco	95	SC1130B		0	6729					
+P	MQ	Tennessee	95	SC1070B		0	6700					
+P	MQ	M1/CNYOG	95	SC1090B		0	6700					
+P	MQ	Transco	95	SC1130B		0	6700					
+D	Enerplus Resources	624466640	N	FTS	FTS-ERC-0001	11/1/2014	11/30/2022	0	Y	3600	0	
+A	Twin Eagle Resource Management	N										
+P	M2	Tennessee	95	SC1070B		0	3615					
+P	M2	Stagecoach Junction	95	SC1080R		0	3615					
+P	M2	M1/CNYOG	95	SC1090B		0	3615					
+P	M2	Wilmot	95	SC1100R		0	3615					
+P	M2	Cherry Rd	95	SC1110R		0	3615					
+P	M2	Transco	95	SC1130B		0	3615					
+P	MQ	Tennessee	95	SC1070B		0	3600					
+P	MQ	M1/CNYOG	95	SC1090B		0	3600					
+P	MQ	Transco	95	SC1130B		0	3600					
+D	Mitsui	968216601	N	FTS	FTS-MIT-0005	6/1/2012	11/30/2022	0	Y	73125	0	
+P	M2	Tennessee	95	SC1070B		0	73434					
+P	M2	Stagecoach Junction	95	SC1080R		0	73434					
+P	M2	M1/CNYOG	95	SC1090B		0	73434					
+P	M2	Wilmot	95	SC1100R		0	73434					
+P	M2	Cherry Rd	95	SC1110R		0	73434					
+P	M2	Transco	95	SC1130B		0	73434					
+P	MQ	Tennessee	95	SC1070B		0	73125					
+P	MQ	M1/CNYOG	95	SC1090B		0	73125					
+P	MQ	Transco	95	SC1130B		0	73125					
+D	Statoil Natural Gas	130073534	N	FTS	FTS-STA-0003	6/1/2012	11/30/2022	0	Y	72818	0	
+P	M2	Tennessee	95	SC1070B		0	73125					
+P	M2	Stagecoach Junction	95	SC1080R		0	73125					
+P	M2	M1/CNYOG	95	SC1090B		0	73125					
+P	M2	Wilmot	95	SC1100R		0	73125					
+P	M2	Cherry Rd	95	SC1110R		0	73125					
+P	M2	Transco	95	SC1130B		0	73125					
+P	MQ	Tennessee	95	SC1070B		0	72818					
+P	MQ	M1/CNYOG	95	SC1090B		0	72818					
+P	MQ	Transco	95	SC1130B		0	72818					
+D	Tug Hill Marcellus	79534139	N	FTS	FTS-THM-0001	11/1/2014	11/30/2022	0	Y	1700	0	
+P	M2	Tennessee	95	SC1070B		0	1707					
+P	M2	Stagecoach Junction	95	SC1080R		0	1707					
+P	M2	M1/CNYOG	95	SC1090B		0	1707					
+P	M2	Wilmot	95	SC1100R		0	1707					
+P	M2	Cherry Rd	95	SC1110R		0	1707					
+P	M2	Transco	95	SC1130B		0	1707					
+P	MQ	Tennessee	95	SC1070B		0	1700					
+P	MQ	M1/CNYOG	95	SC1090B		0	1700					
+P	MQ	Transco	95	SC1130B		0	1700					
+D	Anadarko Energy	199116823	N	FT2	FT2-AES-0001	12/1/2014	11/30/2019	0	Y	25000	0	x2
+A	Alta Energy Marketing	N										
+P	M2	M1-CNYOG	95	SC1090B		0	25025					
+P	MQ	Millennium	95	SC1010B		0	25000					
+D	BP Energy	625275755	N	FT2	FT2-BPC-0003	4/1/2018	4/30/2018	0	N	50000	0	
+P	M2	Millennium	95	SC1010B			50262					
+P	MQ	Transco	95	SC1130B			50000					
+D	Carrizo (Marcellus)	969975965	N	FT2	FT2-CZO-0001	12/1/2014	10/31/2019	0	Y	17000	0	x4
+A	"BKV Operating, Concord Energy"	N										
+P	M2	Tennessee	95	SC1070B		0	17017					
+P	MQ	Millennium	95	SC1010B		0	17000					
+D	Castleton Commodities	118638852	N	FT2	FT2-CAS-0006	4/1/2018	10/31/2018	0	N	20000	0	
+P	M2	Millennium	95	SC1010B			20105					
+P	MQ	Transco	95	SC1130B			20000					
+D	Chesapeake Energy	809849326	N	FT2	FT2-CHK-0002	4/1/2018	3/31/2019	0	N	75000	0	
+P	M2	Millennium	95	SC1010B			75000					
+P	MQ	Transco	95	SC1130B			75392					
+D	Chief Oil & Gas LLC	941561235	N	FT2	FT2-COG-0001	12/1/2015	12/31/2020	0	N	100000	0	
+P	M2	Wilmot	95	SC1000R		0	100420					
+P	MQ	Transco	95	SC1130B		0	100000					
+D	Consolidated Edison of New York	6982359	N	FT2	FT2-CED-0001	5/1/2016	3/31/2023	0	N	37500	0	
+P	M2	M1-CNYOG	95	SC1090B		0	37659					
+P	MQ	Transco	95	SC1130B		0	37500					
+D	Emera Energy Services	101069263	N	FT2	FT2-EES-0003	4/1/2018	3/31/2019	0	N	10000	0	
+P	M2	Transco	95	SC1130B			10052					
+P	MQ	Millennium	95	SC1010B			10000					
+D	Enerplus Resources	624466640	N	FT2	FT2-ERC-0001	12/1/2015	12/31/2020	0	Y	22000	0	
+P	M2	Wilmot	95	SC1000R		0	22093					
+P	MQ	Transco	95	SC1130B		0	22000					
+D	Engie Energy Marketing	80434367	N	FT2	FT2-ENG-0002	4/1/2018	3/31/2019	0	N	10000	0	
+P	M2	Millennium	95	SC1010B			10052					
+P	MQ	Transco	95	SC1130B			10000					
+D	Macquerie Energy	798846036	N	FT2	FT2-MAQ-0005	4/1/2018	3/31/2019	0	N	10000	0	
+P	M2	Millennium	95	SC1010B			10052					
+P	MQ	Transco	95	SC1130B			10000					
+D	Mercuria Energy America	831749127	N	FT2	FT2-MEA-0004	4/1/2018	3/31/2019	0	N	20000	0	
+P	M2	Millennium	95	SC1010B			20105					
+P	MQ	Transco	95	SC1130B			20000					
+D	Mercuria Energy America	831749127	N	FT2	FT2-MEA-0005	4/1/2018	3/31/2019	0	N	10000	0	
+P	M2	Transco	95	SC1130B			10052					
+P	MQ	Millennium	95	SC1010B			10000					
+D	Morgan Stanley Capital Group	130198013	N	FT2	FT2-MSCG-0001	2/1/2018	10/31/2018	0	N	10000	0	
+P	M2	Transco	95	SC1130B			10052					
+P	MQ	Millennium	95	SC1010B			10000					
+D	Morgan Stanley Capital Group	130198013	N	FT2	FT2-MSCG-0003	4/1/2018	3/31/2019	0	N	15000	0	
+P	M2	Millennium	95	SC1010B			15079					
+P	MQ	Transco	95	SC1130B			15000					
+D	Morgan Stanley Capital Group	130198013	N	FT2	FT2-MSCG-0004	4/1/2018	3/31/2019	0	N	10000	0	
+P	M2	Millennium	95	SC1010B			10052					
+P	MQ	Transco	95	SC1130B			10000					
+D	Sequent Energy Management	612075846	N	FT2	FT2-SEQ-0002	4/1/2018	3/31/2019	0	N	30000	0	
+P	M2	Millennium	95	SC1010B			30157					
+P	MQ	Transco	95	SC1130B			30000					
+D	Tenaska Marketing Ventures	624240628	N	FT2	FT2-TMV-0005	4/1/2018	3/31/2019	0	N	10000	0	
+P	M2	Millennium	95	SC1010B			10052					
+P	MQ	Transco	95	SC1130B			10000					
+D	Sierentz Global Merchants	80356493	N	FT2	FT2-SGM-0001	4/1/2018	4/30/2018	0	N	50000	0	
+P	M2	Millennium	95	SC1010B			10052					
+P	MQ	Transco	95	SC1130B			10000					
+D	Southwestern Energy	967770660	N	FT2	FT2-SWN-0001	12/1/2014	11/30/2019	0	N	140000	0	
+P	M2	AGC_Neiley	95	SC1050R		0	140140					
+P	MQ	Millennium	95	SC1010B		0	140000					
+D	Southwestern Energy	967770660	N	FT2	FT2-SWN-0002	12/1/2014	11/30/2019	0	N	25000	0	
+P	M2	AGC_Fields	95	SC1040R		0	25131					
+P	MQ	Transco	95	SC1130B		0	25000					
+D	Anadarko Energy	199116823	N	FWS	AESC362FWS	11/1/2011	11/30/2020	0	Y	50625	0	x3
+A	Alta Energy Marketing	N										
+P	M2	Millennium	95	SC1010B		0	50676					
+P	M2	Stagecoach Storage	95	SC1020B		0	50676					
+P	M2	HEP Gathering	95	SC1045R		0	50676					
+P	M2	Tennessee	95	SC1070B		0	50676					
+P	M2	Stagecoach Junction	95	SC1080R		0	50676					
+P	M2	M1/CNYOG	95	SC1090B		0	50676					
+P	MQ	Millennium	95	SC1010B		0	50625					
+P	MQ	Stagecoach Storage	95	SC1020B		0	50625					
+P	MQ	Tennessee	95	SC1070B		0	50625					
+P	MQ	M1/CNYOG	95	SC1090B		0	50625					
+D	Central Hudson	6693695	N	FWS	CHUD_356FWS	12/1/2011	11/30/2021	0	Y	10000	0	
+P	M2	Millennium	95	SC1010B		0	10010					
+P	M2	Stagecoach Storage	95	SC1020B		0	10010					
+P	M2	HEP Gathering	95	SC1045R		0	10010					
+P	M2	Tennessee	95	SC1070B		0	10010					
+P	M2	Stagecoach Junction	95	SC1080R		0	10010					
+P	M2	M1/CNYOG	95	SC1090B		0	10010					
+P	MQ	Millennium	95	SC1010B		0	10000					
+P	MQ	Stagecoach Storage	95	SC1020B		0	10000					
+P	MQ	Tennessee	95	SC1070B		0	10000					
+P	MQ	M1/CNYOG	95	SC1090B		0	10000					
+D	Consolidated Edison of New York	6982359	N	FWS	CED_SC0001FWS	5/1/2016	3/31/2023	0	N	105000	0	
+P	M2	Tennessee	95	SC1070B		0	85441					
+P	M2	Millennium	95	SC1010B		0	85441					
+P	M2	M1/CNYOG	95	SC1090B		0	37500					
+P	M2	Stagecoach Storage	95	SC1020B		0	105000					
+P	MQ	Tennessee	95	SC1070B		0	100877					
+P	MQ	M1/CNYOG	95	SC1090B		0	37658					
+P	MQ	Stagecoach Storage	95	SC1020B		0	85441					
+P	MQ	Millennium	95	SC1010B		0	105000					
+D	Mitsui	968216601	N	FWS	FWS-MIT-0011	4/1/2014	3/31/2019	0	N	30000	0	
+P	MQ	Millennium	95	SC1010B		0	30000					
+P	M2	Tennessee	95	SC1070B		0	30000					
+D	Southwestern Energy	967770660	N	FWS	SWE_360FWS	12/1/2011	11/30/2019	0	Y	140000	0	
+P	M2	Millennium	95	SC1010B		0	140140					
+P	M2	Stagecoach Storage	95	SC1020B		0	140140					
+P	M2	HEP Gathering	95	SC1045R		0	140140					
+P	M2	Tennessee	95	SC1070B		0	140140					
+P	M2	Stagecoach Junction	95	SC1080R		0	140140					
+P	M2	M1/CNYOG	95	SC1090B		0	140140					
+P	MQ	Millennium	95	SC1010B		0	140000					
+P	MQ	Stagecoach Storage	95	SC1020B		0	140000					
+P	MQ	Tennessee	95	SC1070B		0	140000					
+P	MQ	M1/CNYOG	95	SC1090B		0	140000					
+F	1	Shipper has released all capacity to Alta Energy Marketing through 11/30/2022.										
+F	2	Shipper has release all capacity to Alta Energy Marketing through 11/30/2019.										
+F	3	Shipper has release all capacity to Alta Energy Marketing through 11/30/2020.										
+F	4	Shipper has release all capacity to BKV Operating through 11/30/2019										

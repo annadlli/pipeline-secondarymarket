@@ -1,0 +1,69 @@
+H	"Granite State Gas Transmission,Inc."	C001244	4/1/2018	O	4/1/2018	B	B	Joe Conneely	603-773-6472	
+D	National Gypsum Co.	52212057	N	FT-1	99-100-F	11/1/2017	10/31/2018	365	N	2200
+P	M2	Pleasant St. Gate	95	20206		2200				
+P	MQ	Gosling Road	95	84801		2200				
+D	Sprague Operating Resources LLC	131362733	N	FT-1	03-621-FT-1-A	11/1/2017	10/31/2018	365	N	4000
+P	M2	Pleasant St. Gate	95	20206		1000				
+P	M2	Westbrook Gates	95	050600/030005		3000				
+P	MQ	Warren Ave(from Westbrook Gates)	95	81102		2000				
+P	MQ	Biddeford RR Ave	95	82003		1000				
+P	MQ	Newfields Rd.	95	84202		400				
+P	MQ	Gosling Rd.	95	84801		600				
+D	DTE Energy Trading	179989231	N	FT-NN	17-700-FT-1	11/1/2017	10/31/2018	365	N	1700
+P	M2	Westbrook Gates	95	050600/030005		300				
+P	MQ	Payne Rd.	95	81202		300				
+P	M2	Eliot		95	50725		1400			
+P	MQ	Debbie Lane	95	83812		1400				
+D	Bay State Gas Company dba CMA	69340214	N	FT-1	20-001-FT-1	11/1/2017	10/31/2018	365	N	12000
+P	M2	Westbrook Gates	95	050600/030005		2200				
+P	M2	Newington Gate	95	20850		9800				
+P	MQ	Hospital Station	95	84102		500				
+P	MQ	Newfields Rd.	95	84202		2800				
+P	MQ	Varney Brook	95	84703		5000				
+P	MQ	Larabee Rd.	95	81301		1000				
+P	MQ	Exeter West	95	84201		1500				
+P	MQ	Payne Road	95	81202		1200				
+D	Northern Utilities Inc.	49286305	Y	FT-NN	16-001-FT-NN	11/1/2017	10/31/2018	365	N	115000
+P	M2	Pleasant St. Gate	95	20206		32000				
+P	M2	Newington Gate 	95	20850		22366				
+P	M2	Westbrook Gates 	95	050600/030005		54588				
+P	M2	Salem Gate	95	20722		3134				
+P	M2	Eliot Gate	95	50725		2912				
+P	MQ	New Salem	95	88802		3134				
+P	MQ	Forrest St.	95	85401		23				
+P	MQ	Sweethill Rd	95	85402		2482				
+P	MQ	East Kingston	95	85201		4057				
+P	MQ	Exeter West	95	84201		546				
+P	MQ	Newfield Rd	95	84202		10457				
+P	MQ	Rt. 151	95	84901		85				
+P	MQ	Ocean Rd	95	84902		2343				
+P	MQ	Panaway	95	84101		723				
+P	MQ	Hospital Station	95	84102		6170				
+P	MQ	Gosling Rd	95	84801		3338				
+P	MQ	Nimble Hill	95	84802		963				
+P	MQ	Dover Point	95	84701		52				
+P	MQ	New Bellamy Ln.	95	84702		130				
+P	MQ	Varney Brook	95	84703		18308				
+P	MQ	Pratt & Whitney	95	82301		470				
+P	MQ	Pease Development	95	88801		2600				
+P	MQ	Schiller	95	88803		2089				
+P	MQ	Biddeford Industrial Park	95	82002		2787				
+P	MQ	Biddeford (Railroad Ave.)	95	82003		2269				
+P	MQ	Moody St	95	82802		153				
+P	MQ	Scarborough Industrial Pk	95	81602		1910				
+P	MQ	Roundwood	95	81601		979				
+P	MQ	Saco Brick	95	83811		340				
+P	MQ	Payne Road	95	81202		26848				
+P	MQ	Larrabee Rd	95	81301		5513				
+P	MQ	Debbie Lane	95	83812		2912				
+P	MQ	Marshwood	95	83810		111				
+P	MQ	Cascade Rd	95	82901		204				
+P	MQ	Congress St	95	81103		2587				
+P	MQ	Twine Mill	95	82701		196				
+P	MQ	Wells (Rt. 109)	95	62501		1164				
+P	MQ	Hussey	95	83814		145				
+P	MQ	Blueberry Rd	95	83813		2660				
+P	MQ	Warren Ave (from Westbrook Gates)	95	81102		5869				
+D	Sprague Operating Resources LLC	131362733	N	FT-NN	17-350-FT-1	11/1/2017	10/31/2018	365	N	829
+P	M2	Pleasant Gate	95	20206		829				
+P	MQ	Epping Rd	95	84211		829				

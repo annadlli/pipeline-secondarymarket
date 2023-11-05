@@ -1,0 +1,23 @@
+H	Crossroads Pipeline Company	C000309          	4/2/2018	O	4/1/2018	T	T	Kay Dennison (832)320-5336	 			
+D	"KNG Energy, Inc."	781667076	N       	FT-1    	77915	6/1/2004	5/31/2023	 	N	10000		 
+A	BP Canada Energy Marketing Corp.	N       		 	 	 	 	 	 	 	 	 
+A	"CNE Gas Supply, LLC"	N       		 	 	 	 	 	 	 	 	 
+P	M2	Schererville - NGPL	95	736902	XRD     	10000			 	 	 	 
+P	MQ	North Coast	95	736913	XRD     	10000			 	 	 	 
+D	"North Coast Gas Transmission, LLC"	147046754	N       	FT-1    	133365	11/1/2012	10/31/2018	 	N	15075		 
+P	M2	Schererville - NGPL	95	736902	XRD     	15075			 	 	 	 
+P	MQ	North Coast	95	736913	XRD     	15075			 	 	 	 
+D	"North Coast Gas Transmission, LLC"	147046754	N       	FT-1    	189664	11/1/2017	10/31/2019	 	N	5000		 
+P	M2	Schererville - NGPL	95	736902	XRD     	5000			 	 	 	 
+P	MQ	North Coast	95	736913	XRD     	5000			 	 	 	 
+D	Northern Indiana Public Service Company	6937585	N       	FT-1    	35251	6/1/2012	3/31/2022	 	N	8000		 
+P	M2	Schererville - NGPL	95	736902	XRD     	8000			 	 	 	 
+P	MQ	North Coast	95	736913	XRD     	8000			 	 	 	 
+D	"Steel Dynamics, Inc."	808202725	N       	FT-1    	139860	6/1/2013	5/31/2018	 	N	8700		 
+A	BP Canada Energy Marketing Corp.	N       		 	 	 	 	 	 	 	 	 
+P	M2	Defiance	95	736912	XRD     	8700			 	 	 	 
+P	MQ	NIPSCO Butler Agg	95	736908	XRD     	8700			 	 	 	 
+D	"Steel Dynamics, Inc."	808202725	N       	FT-1    	197499	4/1/2018	3/31/2019	 	N	7300		 
+A	BP Canada Energy Marketing Corp.	N       		 	 	 	 	 	 	 	 	 
+P	M2	Defiance	95	736912	XRD     	7300			 	 	 	 
+P	MQ	NIPSCO Butler Agg	95	736908	XRD     	7300			 	 	 	 

@@ -1,0 +1,172 @@
+H	Discovery Gas Transmission LLC	C001031	3/29/2018	O	4/1/2018	T		Larry Jensen 713-215-3034				 
+D	Anadarko US Offshore Corporation	8824133	N	FT-2	DTF259	12/31/2011			N 	43986		m1/n1
+P	M2	Keathley Canyon Lucius	95	23000		43986						
+P	MQ	Larose Residue to BHLP	95	41000		21369						
+P	MQ	Old Lady Lake (Kinetica Delv)	95	41008		11181						
+D	Anadarko US Offshore Corporation	8824133	N	FT-2	DTF270	1/4/2013			N 	9460		m1/n1
+P	M2	Heidelberg - KCC Receipt	95	23043		9460						
+P	MQ	Old Lady Lake (Kinetica Delv)	95	41008		6773						
+P	MQ	Larose Residue to TXS EAST	95	41005		2688						
+D	Apache Deepwater LLC	118091263	N	FT-2	DTF212	10/1/2000			N 	252		m1/n1
+P	M2	Ewing Banks 921 / 966	95	23008		252						
+P	MQ	Larose Residue to BHLP	95	41000		252						
+D	Apache Shelf Exploration LLC	79213066	N	FT-2	DTF295	4/1/2015			N	3249		m1/n1
+P	M2	Walter ST 311	95	23052		3249						
+P	MQ	Larose Residue to TXS EAST	95	41005		1624						
+P 	MQ	Columbia Gulf Delv	95	41009		1625						
+D	"Arena Energy, LP"	119309909	N	FT-2	DTF301	11/1/2016			N	5400		m1/n1
+P	M2	South Timbalier 37	95	23007		5400						
+P	MQ	Old Lady Lake (Kinetica Delv)	95	41008		5400						
+D	"Beta Sales And Transport, LLC"	79990478	N	FT-2	DTF294	7/1/2015			N	3938		m1/n1
+A	ConocoPhillips Company		N									
+P	M2	WALTER EW834	95	23054		3938						
+P	MQ	Larose Residue to BHLP	95	41000		1969						
+P	MQ	DGT to Transco Thibodeaux	95	40002		1969						
+D	Chevron U.S.A. Inc.	9140559	N	FT-2	DTF300	12/22/1997			N 	1887		m1/n1
+P	M2	Ewing Banks 873	95	23003		1887						
+P	MQ	Old Lady Lake (Kinetica Delv)	95	41008		1887						
+D	Chevron U.S.A. Inc.	9140559	N	FT-2	DTF302	1/1/2017			N 	53453		m1/n1
+P	M2	Tahiti	95	23024		53453						
+P	MQ	Old Lady Lake (Kinetica Delv)	95	41008		36936						
+D	"Cobalt International Energy, L.P. "	616720848	N	FT-2	DTF272	1/4/2013			N 	2016		m1/n1
+P	M2	Heidelberg - KCC Receipt	95	23043		2016						
+P	MQ	Old Lady Lake (Kinetica Delv)	95	41008		1048						
+D	Cokinos Energy Corporation	102658226		FT-1	DTF110	8/22/2017			Y	10414		m1/n2
+P	M2	Cokinos - Valentine 1	95	23057		10414						
+P	MQ	Larose Residue to BHLP	95	41000		8750						
+D	Eni  Petroleum US LLC	605981682	N	FT-2	DTF201	12/1/1996			N 	617		m1/n1
+P	M2	Ewing Banks 921 / 966	95	23008		617						
+P	MQ	Larose Residue to BHLP	95	41000		247						
+P	MQ	Larose Residue to TXS EAST	95	41005		370						
+D	Eni Petroleum US LLC	605981682	N	FT-2	DTF204	5/1/1999			N 	762		m1/n1
+P	M2	Green Canyon 254	95	23009		762						
+P	MQ	Larose Residue to BHLP	95	41000		305						
+P	MQ	Larose Residue to TXS EAST	95	41005		457						
+D	Eni Petroleum US LLC	605981682	N	FT-2	DTF219	6/15/2005			N 	1388		m1/n1
+P	M2	Green Canyon 338 Front Run	95	23018		1388						
+P	MQ	Columbia Gulf Delv	95	41009		677						
+P	MQ	DGT to Transco Thibodeaux	95	40002		451						
+D	Eni Petroleum US LLC	605981682	N	FT-2	DTF261	12/31/2011			N 	7638		m1/n1
+P	M2	Keathley Canyon Lucius	95	23000		7638						
+P	MQ	Larose Residue to TXS EAST	95	41005		1664						
+P	MQ	Old Lady Lake (Kinetica Delv)	95	41008		3988						
+D	Eni Petroleum US LLC	605981682	N	FT-2	DTF265	12/31/2011			N 	76846		m1/n1
+P	M2	Keathley Canyon Lucius	95	23000		76846						
+P	MQ	Larose Residue to TXS EAST	95	41005		51802						
+P	MQ	Old Lady Lake (Kinetica Delv)	95	41008		21201						
+D	Eni Petroleum US LLC	605981682	N	FT-2	DTF273	1/4/2013			N	2688		m1/n1
+P	M2	Heidelberg - KCC Receipt	95	23043		2688						
+P	MQ	DGT to Transco Thibodeaux	95	40002		1398						
+D	"EPL Oil & Gas, Inc"	23113140	N	FT-2	DTF258	3/1/2005			N	1301		m1/n1
+A	Chevron Natural Gas	 	N									
+P	M2	South Timbalier 26	95	23035		207						
+P	M2	South Timbalier 41 Perm	95	23027		1094						
+P	MQ	Larose Residue to TXS EAST	95	41005		1301						
+D	Exxon Mobil corporation	1213214	N	FT-2	DTF262	12/31/2011			N	12580		m1/n1
+P	M2	Keathley Canyon Lucius	95	23000		12580						
+P	MQ	Larose Residue to TXS EAST	95	41005		2740						
+P	MQ	Old Lady Lake (Kinetica Delv)	95	41008		6569						
+D	Exxon Mobil corporation	1213214	N	FT-2	DTF266	12/31/2011			N	119546		m1/n1
+P	M2	Keathley Canyon Lucius	95	23000		119546						
+P	MQ	Larose Residue to TXS EAST	95	41005		80587						
+P	MQ	Old Lady Lake (Kinetica Delv)	95	41008		32982						
+D	Exxon Mobil corporation	1213214	N	FT-2	DTF274	1/4/2013			N	2016		m1/n1
+P	M2	Heidelberg - KCC Receipt	95	23043		2016						
+P	MQ	Larose Residue to TXS EAST	95	41005		1048						
+D	Fieldwood Energy LLC	68663836	N	FT-2	DTF279	11/15/2013			N	3687		m1/n1
+P	M2	South Timbalier 308	95	23020		3687						
+P	MQ	Larose Residue to TXS EAST	95	41005		3687						
+D	Fieldwood Energy LLC	68663836	N	FT-2	DTF296	4/1/2015			N	3249		m1/n1
+P	M2	Walter ST 311	95	23052		3249						
+P	MQ	Larose Residue to TXS EAST	95	41005		1624						
+P	MQ	Columbia Gulf Delv	95	41009		1625						
+D	Hilcorp Energy Company	606410538	N	FT-1	DTF108	5/1/2012	4/30/2022		Y	60000		
+P	M2	Lake Barre	95	23040		57500						
+P	M2	Paradis	95	23039		2500						
+P	MQ	Larose Residue to BHLP	95	41000		60000						
+D	"ILX I Sales & Transport, LLC"		N	FT-2	DTF297	5/1/2016			N	937		m1/n1
+A	ConocoPhillips Company	 	N									
+P	M2	WALTER EW834	95	23054		937						
+P	MQ	Larose Residue to BHLP	95	41000		469						
+P	MQ	DGT to Transco Thibodeaux	95	40002		469						
+D	LLOG Exploration Company LLC 	141933494	N	FT-2	DTF247	2/1/2008			N	8276		m1/n1
+A	Shell Energy North America (US) LP		N									
+P	M2	GI 115/MC707/MC705	95	23004		8276						
+P	MQ	Larose Residue to BHLP	95	41000		6620						
+P	MQ	Larose Residue to Gulf South	95	41011		414						
+P	MQ	Larose Residue to TXS EAST	95	41005		248						
+P	MQ	Larose Plant	95	LARPLT		993						
+D	"LLOG Bluewater Holdings, L.L.C."	141933494	N	FT-2	DTF283	10/1/2013			N	21200		m1/n1
+A	Shell Energy North America (US) LP		N									
+P	M2	LLOG ST231/232A	95	23049		21200						
+P	MQ	Larose Residue to BHLP	95	41000		16960						
+P	MQ	Larose Residue to Gulf South	95	41011		1060						
+P	MQ	Larose Residue to TXS EAST	95	41005		636						
+P	MQ	Larose Plant	95	LARPLT		2544						
+D	Marubeni Oil and Gas (USA) Inc.	141411699	N	FT-2	DTF211	10/1/2000			N 	80		m1/n1
+A	"Mieco, Inc."	 	N									
+P	M2	Ewing Banks 921 / 966	95	23008		80						
+P	MQ	Larose Residue to BHLP	95	41000		80						
+D	Marubeni Oil and Gas (USA) Inc.	141411699	N	FT-2	DTF281	10/1/2013			N 	2741		m1/n1
+A	"Mieco, Inc."	 	N									
+P	M2	Heidelberg - KCC Receipt	95	23043		2741						
+P	MQ	Larose Residue to TXS EAST	95	41005		1425						
+D	Murphy Exploration & Production Company - USA	619283229	N	FT-2	DTF220	9/1/2012			N 	2313		m1/n1
+P	M2	Green Canyon 338 Front Run	95	23018		2313						
+P	MQ	Columbia Gulf Delv	95	41009		1004						
+P	MQ	DGT to Transco Thibodeaux	95	40002		669						
+D	Murphy Exploration & Production Company - USA	619283229	N	FT-2	DTF316	8/17/2017			N 	3800		m1/n1
+P	M2	Green Canyon 338 Front Run	95	23018		3800						
+P	MQ	Larose Residue to BHLP	95	41000		3263						
+D	"Petrobras America, Inc."	363702457	N	FT-2	DTF250	8/1/2008			N	1458		m1/n1
+P	M2	Petrobras Cascade Chinook	95	23034		1458						
+P	MQ	Larose Residue to TXS EAST	95	41005		796						
+D	"Petrobras America, Inc."	363702457	N	FT-2	DTF263	12/31/2011			N	6210		m1/n1
+P	M2	Keathley Canyon Lucius	95	23000		6210						
+P	MQ	Larose Residue to TXS EAST	95	41005		2298						
+P	MQ	Old Lady Lake (Kinetica Delv)	95	41008		2298						
+D	"Petrobras America, Inc."	363702457	N	FT-2	DTF267	12/31/2011			N	57410		m1/n1
+P	M2	Keathley Canyon Lucius	95	23000		57410						
+P	MQ	Larose Residue to TXS EAST	95	41005		38052						
+P	MQ	Old Lady Lake (Kinetica Delv)	95	41008		16487						
+D	"Square Mile Energy, L.L.C."		N	FT-2	DTF268	7/1/2012			N	5804		m1/n1
+P	M2	Square Mile Energy	95	23036		5804						
+P	MQ	Larose Residue to TXS EAST	95	41005		5804						
+D	"Statoil Natural Gas, LLC"	130073534	N	FT-2	DTF233	7/21/2005			N 	17245		m1/n1
+P	M2	Tahiti	95	23024		17245						
+P	MQ	Old Lady Lake (Kinetica Delv)	95	41008		9208						
+D	"Statoil Natural Gas, LLC"	130073534	N	FT-2	DTF275	1/4/2013			N	2580		m1/n1
+P	M2	Heidelberg - KCC Receipt	95	23043		2580						
+P	MQ	Larose Residue to BHLP	95	41005		671						
+P	MQ	DGT to Transco Thibodeaux	95	40002		671						
+D	"Teikoku Oil (North America) Co., Ltd."	798773990	N	FT-2	DTF278	12/31/2011			N	6967		m1/n1
+P	M2	Keathley Canyon Lucius	95	23000		6967						
+P	MQ	Larose Residue to BHLP	95	41000		1800						
+P	MQ	Old Lady Lake (Kinetica Delv)	95	41008		3355						
+D	Total E&P USA Inc.	5329706	N	FT-2	DTF232	7/21/2005			N	11723		m1/n1
+P	M2	Tahiti	95	23024		11723						
+P	MQ	Old Lady Lake (Kinetica Delv)	95	41008		5751						
+D	Total E&P USA Inc.	5329706	N	FT-2	DTF251	8/1/2008			N	66		m1/n1
+P	M2	Petrobras Cascade Chinook	95	23034		66						
+P	MQ	Larose Plant	95	LARPLT		66						
+D	Walter Oil & Gas Corporation	58996364	N	FT-2	DTF248	3/10/2009			N	536		m1/n1
+P	M2	Green Canyon 338 Front Run	95	23018		536						
+P	M2	DGT to Transco Thibodeaux	95	40002		142						
+P	MQ	Columbia Gulf Delv	95	41009		213						
+D	Walter Oil & Gas Corporation	58996364	N	FT-2	DTF284	1/17/2014			N	7942		m1/n1
+P	M2	Walter ST 311	95	23052		7942						
+P	MQ	Larose Residue to BHLP	95	41000		7942						
+D	Walter Oil & Gas Corporation	58996364	N	FT-2	DTF285	12/1/2013			N	5636		m1/n1
+P	M2	LLOG ST231/232A	95	23049		5636						
+P	MQ	Larose Residue to BHLP	95	41000		5636						
+D	Walter Oil & Gas Corporation	58996364	N	FT-2	DTF293	12/1/2013			N	10125		m1/n1
+P	M2	WALTER EW834	95	23054		10125						
+P	MQ	Larose Residue to BHLP	95	41000		5063						
+P	MQ	Larose Residue to Gulf South	95	41011		2531						
+P	MQ	Larose Residue to TXS EAST	95	41005		2531						
+D	Walter Oil & Gas Corporation	58996364	N	FT-2	DTF313	8/1/2017			N	37500		m1/n1
+P	M2	South Timbalier 127	95	23045		37500						
+P	MQ	Larose Residue to BHLP	95	41000		34928						
+												
+F	1	"Term is for life of lease, therefore there is no primary contract ending date or evergreen provision."										
+F	2	Term is from the effective date of the transportation contract until permanent cessation of production.										

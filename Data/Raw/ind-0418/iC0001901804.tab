@@ -1,0 +1,369 @@
+H	"Dominion Energy Carolina Gas Transmission, LLC"	C000190	4/2/2018	O	4/1/2018	T	T	John Brownlee (804) 771-4678				
+D	"3V, Inc."	00-910-4381	N	Rate Schedule FT	FT10001.01	11/1/2006	10/31/2009	1825	N	400	0	
+A	"Texican Natural Gas Company, LLC"	N										
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	400	0					
+P	MQ	"3V, Inc."	95	27308	Zone 1	400	0					
+D	"AG South Carolina, LLC"	10-661-0009	N	Rate Schedule FT	FT10247.03	12/1/2014	11/30/2019		N	4050	0	
+P	MQ	AG South Carolina	95	27149	Zone 1	4050	0					
+P	M2	Transco - Grover Receipt Point	95	10002	Zone 1	4050	0					
+D	AGY Aiken LLC	15-469-9172	N	Rate Schedule FT	FT10002.01	11/1/2006	10/31/2009	1825	N	2500	0	
+A	"Texican Natural Gas Company, LLC"	N										
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	2500	0					
+P	MQ	AGY Aiken LLC	95	22344	Zone 1	2500	0					
+D	"Air Liquide Large Industries US, LP"	18-001-5062	N	Rate Schedule FT	FT10003.01	11/1/2006	10/31/2009	1825	N	200	0	
+A	"SCANA Energy Marketing, Inc."	N										
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	200	0					
+P	MQ	"Air Liquide Large Industries US, LP"	95	27321	Zone 1	200	0					
+D	"Alumax of South Carolina, Inc."	09-736-6165	N	Rate Schedule FT	FT10004.01	11/1/2006	10/31/2009	1825	N	2900	0	
+A	"SCANA Energy Marketing, Inc."	N										
+A	"U.S. Energy Services, Inc."	N										
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	2900	0					
+P	MQ	"Alumax of South Carolina, Inc."	95	27215	Zone 1	2900	0					
+D	"ArcelorMittal Georgetown, Inc"	15-014-9131	N	Rate Schedule FT	FT10029.01	11/1/2006	10/31/2009	1825	N	500	0	
+A	Delta Energy 	N										
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	500	0					
+P	MQ	"ISG Georgetown, Inc."	95	27353	Zone 1	500	0					
+D	Argos Cement LLC	07-848-8931	N	Rate Schedule FT	FT10296.01	11/1/2014	10/31/2015	1825	N	27	0	
+A	"SCANA Energy Marketing, Inc."	N										
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	27	0					
+P	MQ	Argos Cement	95	26302	Zone 1	27	0					
+D	Argos Cement LLC	07-848-8931	N	Rate Schedule FT	FT10296.02	12/1/2015	11/30/2025		N	30	0	
+A	"SCANA Energy Marketing, Inc."	N										
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	30	0					
+P	MQ	Argos Cement	95	26302	Zone 1	30	0					
+D	Bamberg Board of Public Works	78-134-8425	N	Rate Schedule FT	FT10006.01	11/1/2006	10/31/2009	1825	N	735	0	o1
+A	"SCANA Energy Marketing, Inc."	N										
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	206	0					
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	275	0					
+P	MQ	"Bamberg, City of"	95	26218	Zone 1	315	0					
+P	MQ	"Bamberg, City of"	95	26218	Zone 1	420	0					
+P	M2	Transco - Grover Receipt Point	95	10002	Zone 1	145	0					
+P	M2	Transco - Grover Receipt Point	95	10002	Zone 1	109	0					
+D	"Bennettsville, City of"	07-743-7820	N	Rate Schedule FT	FT10007.01	11/1/2006	10/31/2009	1825	N	1553	0	o1
+A	"SCANA Energy Marketing, Inc."	N										
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	333	0					
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	610	0					
+P	MQ	"Bennettsville, City of"	95	19006	Zone 1	549	0					
+P	MQ	"Bennettsville, City of"	95	19006	Zone 1	1004	0					
+P	M2	Transco - Grover Receipt Point	95	10002	Zone 1	216	0					
+P	M2	Transco - Grover Receipt Point	95	10002	Zone 1	394	0					
+D	"Bethune Nonwovens, Inc."	83-770-4050	N	Rate Schedule FT	FT10309.01	1/1/2017	12/31/2021		N	900	0	
+A	"SCANA Energy Marketing, Inc."	N										
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	900	0					
+P	MQ	Reemay Inc.	95	11018	Zone 1	900	0					
+D	"Bridgestone Americas Tire Operations, LLC"	01-473-0076	N	Rate Schedule FT	FT10252.01	5/1/2008	4/30/2009	365	N	1000	0	
+A	"SCANA Energy Marketing, Inc."	N										
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	1000	0					
+P	MQ	Bridgestone/Firestone South Carolina Company	95	12331	Zone 1	1000	0					
+D	"Bridgestone Americas Tire Operations, LLC"	01-473-0076	N	Rate Schedule FT	FT10252.02	11/1/2012	10/31/2022		N	3000	0	
+A	"SCANA Energy Marketing, Inc."	N										
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	3000	0					
+P	MQ	Bridgestone ORR Plant	95	12018	Zone 1	3000	0					
+D	Clinton-Newberry Natural Gas Authority	07-806-9432	N	Rate Schedule FT	FT10011.01	11/1/2006	10/31/2009	1825	N	4000	0	o1
+A	"SCANA Energy Marketing, Inc."	N										
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	1300	0					
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	700	0					
+P	M2	Transco - Moore Receipt Point	95	10007	Zone 1	700	0					
+P	M2	Transco - Moore Receipt Point	95	10007	Zone 1	1300	0					
+P	MQ	Clinton-Newberry Natural Gas Authority	95	21113	Zone 1	1400	0					
+P	MQ	Clinton-Newberry Natural Gas Authority	95	21113	Zone 1	2600	0					
+D	Columbia Energy LLC	88-479-9011	N	Rate Schedule FT	FT10292.01	7/4/2014	5/31/2018		N	30000	0	
+A	Rainbow Energy Marketing Corporation	N										
+P	MQ	Columbia Energy LLC	95	22396	Zone 1	30000	0					
+P	M2	Transco - Grover Receipt Point	95	10002	Zone 1	30000	0					
+D	Columbia Energy LLC	88-479-9011	N	Rate Schedule FT	FT10292.02	12/1/2015	11/30/2030		N	26502	0	
+A	Rainbow Energy Marketing Corporation	N										
+P	MQ	Columbia Energy LLC	95	22396	Zone 1	26502	0					
+P	M2	Transco - Grover Receipt Point	95	10002	Zone 1	26502	0					
+D	Commissioners of Public Works	03-009-5111	N	Rate Schedule FT	FT10254.01	2/1/2010	1/31/2011	1825	N	500	0	o1
+A	"SCANA Energy Marketing, Inc."	N										
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	325	0					
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	175	0					
+P	MQ	Greenwood Commission	95	21112	Zone 1	325	0					
+P	MQ	Greenwood Commission	95	21112	Zone 1	175	0					
+D	"DAK Americas, LLC"	06-981-9972	N	Rate Schedule FT	FT10257.01	4/1/2010	3/31/2018		N	2500	0	
+A	"SCANA Energy Marketing, Inc."	N										
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	2500	0					
+P	MQ	"DAK Americas, LLC"	95	27072	Zone 1	2500	0					
+D	"DAK Americas, LLC"	06-981-9972	N	Rate Schedule FT	FT10257.02	9/1/2015	4/30/2017	1825	N	0	0	o2
+A	"SCANA Energy Marketing, Inc."	N										
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	0	0					
+P	MQ	"DAK Americas, LLC"	95	27072	Zone 1	0	0					
+D	Department of Public Utilities City of Orangeburg	04-562-7312	N	Rate Schedule FT	FT10036.01	11/1/2006	10/31/2009	1825	N	5544	0	o1
+A	"SCANA Energy Marketing, Inc."	N										
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	1758	0					
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	1802	0					
+P	MQ	Orangeburg Department of Public Utilities	95	26234	Zone 1	2254	0					
+P	MQ	Orangeburg Department of Public Utilities	95	26234	Zone 1	3290	0					
+P	M2	Transco - Grover Receipt Point	95	10002	Zone 1	496	0					
+P	M2	Transco - Grover Receipt Point	95	10002	Zone 1	1488	0					
+D	Department of Public Utilities City of Orangeburg	04-562-7312	N	Rate Schedule FT	FT10036.02	6/1/2013	10/31/2016	1825	N	1000	0	
+A	"SCANA Energy Marketing, Inc."	N										
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	1000	0					
+P	MQ	Orangeburg Department of Public Utilities	95	26234	Zone 1	1000	0					
+D	Department of Public Utilities City of Orangeburg	04-562-7312	N	Rate Schedule FT	FT10036.03	12/1/2015	11/30/2025		N	800	0	
+A	"SCANA Energy Marketing, Inc."	N										
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	800	0					
+P	MQ	Orangeburg Department of Public Utilities	95	26234	Zone 1	800	0					
+D	Department of Public Utilities City of Orangeburg	04-562-7312	N	Rate Schedule FT	FT10036.04	4/1/2017	3/31/2022		N	2400	0	
+A	"SCANA Energy Marketing, Inc."	N										
+P	MQ	Orangeburg Department of Public Utilities	95	26234	Zone 1	2400	0					
+P	M2	Transco - Grover Receipt Point	95	10002	Zone 1	2400	0					
+D	"Domtar Paper Company, LLC"	78-924-5110	N	Rate Schedule FT	FT10242.04	11/1/2013	10/31/2016	1825	N	5000	0	
+A	"SCANA Energy Marketing, Inc."	N										
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	2000	0					
+P	M2	Transco - Moore Receipt Point	95	10007	Zone 1	2500	0					
+P	MQ	Domtar Paper Company	95	19294	Zone 1	5000	0					
+P	M2	Transco - Grover Receipt Point	95	10002	Zone 1	500	0					
+D	"Domtar Paper Company, LLC"	78-924-5110	N	Rate Schedule FT	FT10242.05	3/1/2018	2/28/2021		N	1000	0	
+A	"SCANA Energy Marketing, Inc."	N										
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	1000	0					
+P	MQ	Domtar Paper Company	95	19294	Zone 1	1000	0					
+D	Eastman Chemical Company	80-889-8381	N	Rate Schedule FT	FT10056.02	11/1/2006	10/31/2023		N	9000	0	
+A	"SCANA Energy Marketing, Inc."	N										
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	9000	0					
+P	MQ	Columbia Energy LLC	95	22396	Zone 1	2544	0					
+P	MQ	Eastman Chemical Company	95	25219	Zone 1	6456	0					
+D	Fiber Industries LLC	08-069-0714	N	Rate Schedule FT	FT10319.01	2/15/2018	2/29/2028		N	5500	0	
+A	Tenaska Marketing Ventures	N										
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	5500	0					
+P	MQ	Fiber Industries	95	13080	Zone 1	5500	0					
+D	Flakeboard America Limited	20-968-0321	N	Rate Schedule FT	FT99902.01	3/1/2018	2/29/2028		Y	2000	0	
+A	"SCANA Energy Marketing, Inc."	N										
+P	M2	Transco - Moore Receipt Point	95	10007	Zone 1	2000	0					
+P	MQ	Flakeboard	95	19297	Zone 1	2000	0					
+D	"Graham Packaging Company, LP"	36-354-6698	N	Rate Schedule FT	FT10022.02	11/1/2009	10/31/2010	1825	N	80	0	
+P	MQ	"Graham Packaging Company, LP"	95	13335	Zone 1	80	0					
+P	M2	Transco - Grover Receipt Point	95	10002	Zone 1	80	0					
+D	Holcim (US) Inc.	60-896-3674	N	Rate Schedule FT	FT10025.05	11/1/2014	10/31/2019		N	500	0	
+A	"SCANA Energy Marketing, Inc."	N										
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	300	0					
+P	MQ	Holcim (US) Inc.	95	26236	Zone 1	500	0					
+P	M2	Transco - Grover Receipt Point	95	10002	Zone 1	200	0					
+D	"Honda of South Carolina Manufacturing, Inc."	01-216-5564	N	Rate Schedule FT	FT10026.01	11/1/2006	10/31/2009	1825	N	300	0	
+A	"SCANA Energy Marketing, Inc."	N										
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	300	0					
+P	MQ	"Honda of South Carolina Manufacturing, Inc."	95	13330	Zone 1	300	0					
+D	International Paper Company	00-131-6561	N	Rate Schedule FT	FT10027.01	11/1/2006	10/31/2009	1825	N	107	0	
+A	"SCANA Energy Marketing, Inc."	N										
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	107	0					
+P	MQ	International Paper Company	95	27227	Zone 1	107	0					
+D	International Paper Company	00-131-6561	N	Rate Schedule FT	FT10027.03	3/1/2014	2/29/2024		N	2200	0	
+A	"SCANA Energy Marketing, Inc."	N										
+P	M2	Transco - Moore Receipt Point	95	10007	Zone 1	2200	0					
+P	MQ	International Paper - Eastover	95	25150	Zone 1	2200	0					
+D	International Paper Company	00-131-6561	N	Rate Schedule FT	FT10027.04	11/10/2016	11/9/2036		N	15800	0	
+A	"SCANA Energy Marketing, Inc."	N										
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	15800	0					
+P	MQ	International Paper - Eastover	95	25150	Zone 1	15800	0					
+D	Invista S.A.R.L.	04-842-1247	N	Rate Schedule FT	FT10267.01	3/1/2011	2/28/2013	1825	N	400	0	
+A	"SCANA Energy Marketing, Inc."	N										
+P	M2	Transco - Moore Receipt Point	95	10007	Zone 1	400	0					
+P	MQ	Invista S.A.R.L. Company	95	12015	Zone 1	400	0					
+D	Invista S.A.R.L.	04-842-1247	N	Rate Schedule FT	FT10267.02	11/1/2011	10/31/2012	1825	N	600	0	
+A	"SCANA Energy Marketing, Inc."	N										
+P	M2	Transco - Moore Receipt Point	95	10007	Zone 1	600	0					
+P	MQ	Invista S.A.R.L. Company	95	12015	Zone 1	600	0					
+D	Invista S.A.R.L.	04-842-1247	N	Rate Schedule FT	FT10267.03	11/1/2012	10/31/2015	1825	N	3000	0	
+A	"SCANA Energy Marketing, Inc."	N										
+P	MQ	Invista S.A.R.L. Company	95	12015	Zone 1	3000	0					
+P	M2	Transco - Grover Receipt Point	95	10002	Zone 1	3000	0					
+D	"Johnson Controls, Inc."	00-609-2860	N	Rate Schedule FT	FT10268.01	2/1/2012	11/30/2015	1825	N	1000	0	
+A	"Texican Natural Gas Company, LLC"	N										
+P	MQ	Johnson Controls	95	13041	Zone 1	1000	0					
+P	M2	Transco - Grover Receipt Point	95	10002	Zone 1	1000	0					
+D	"Johnson Controls, Inc."	00-609-2860	N	Rate Schedule FT	FT10268.02	12/1/2012	11/30/2015	1825	N	1200	0	
+A	"Texican Natural Gas Company, LLC"	N										
+P	MQ	Johnson Controls	95	13041	Zone 1	1200	0					
+P	M2	Transco - Grover Receipt Point	95	10002	Zone 1	1200	0					
+D	"Johnson Controls, Inc."	00-609-2860	N	Rate Schedule FT	FT10268.03	5/1/2013	11/30/2015	1825	N	300	0	
+A	"Texican Natural Gas Company, LLC"	N										
+P	MQ	Johnson Controls	95	13041	Zone 1	300	0					
+P	M2	Transco - Grover Receipt Point	95	10002	Zone 1	300	0					
+D	Joint Base Charleston	05-777-2094	N	Rate Schedule FT	FT10264.01	10/1/2010	10/31/2014	1825	N	300	0	
+A	"SCANA Energy Marketing, Inc."	N										
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	300	0					
+P	MQ	"U.S. Navy, Naval Weapons Station - Northside"	95	27237	Zone 1	300	0					
+D	Mansfield Power and Gas LLC	07-909-6773	N	Rate Schedule FT	FT10314.01	11/1/2017	10/31/2018		N	200	0	
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	200	0					
+P	MQ	SCE&G - Riverneck Road Area Point	95	95005	Zone 1	200	0					
+D	Mountaire Farms Inc.	09-181-2669	N	Rate Schedule FT	FT10298.01	12/1/2014	8/31/2016	1825	N	600	0	
+A	"Texican Natural Gas Company, LLC"	N										
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	600	0					
+P	MQ	NEOgas	95	12360	Zone 1	600	0					
+D	Nucor Corporation	00-344-6796	N	Rate Schedule FT	FT10035.01	11/1/2006	10/31/2009	1825	N	15000	0	
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	10796	0					
+P	MQ	Nucor - Berkeley	95	27296	Zone 1	15000	0					
+P	M2	Transco - Grover Receipt Point	95	10002	Zone 1	4204	0					
+D	Nucor Corporation	00-344-6796	N	Rate Schedule FT	FT10035.02	4/1/2017	3/31/2022		N	1600	0	
+P	MQ	Nucor - Darlington	95	13296	Zone 1	1600	0					
+P	M2	Transco - Grover Receipt Point	95	10002	Zone 1	1600	0					
+D	"Owens Corning Sales, LLC"	00-131-7452	N	Rate Schedule FT	FT10037.02	11/1/2009	10/31/2012	1825	N	1000	0	
+A	"Infinite Energy, Inc."	N										
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	1000	0					
+P	MQ	Owens Corning	95	22350	Zone 1	1000	0					
+D	"Owens Corning Sales, LLC"	00-131-7452	N	Rate Schedule FT	FT10037.03	11/1/2012	10/31/2015	1825	N	600	0	
+A	"Infinite Energy, Inc. "	N										
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	600	0					
+P	MQ	Owens Corning	95	22350	Zone 1	600	0					
+D	Patriots Energy Group	13-746-7457	N	Rate Schedule FT	FT10039.09	11/1/2015	10/31/2035		N	50200	0	o1
+A	Municipal Gas Authority of Georgia	N										
+P	MQ	Patriots Energy Group	95	11346	Zone 1	22600	0					
+P	MQ	Patriots Energy Group	95	11346	Zone 1	27600	0					
+P	M2	Transco - Grover Receipt Point	95	10002	Zone 1	27600	0					
+P	M2	Transco - Grover Receipt Point	95	10002	Zone 1	22600	0					
+D	Patriots Energy Group	13-746-7457	N	Rate Schedule FT	FT10039.10	4/1/2017	10/31/2035		N	4000	0	
+A	Municipal Gas Authority of Georgia	N										
+P	MQ	Patriots Energy Group	95	11346	Zone 1	4000	0					
+P	M2	Transco - Grover Receipt Point	95	10002	Zone 1	4000	0					
+D	"Perdue Farms, Inc."	02-266-6820	N	Rate Schedule FT	FT10295.01	11/1/2014	10/31/2016	1825	N	250	0	
+A	"Texican Natural Gas Company, LLC"	N										
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	250	0					
+P	MQ	NEOgas	95	12360	Zone 1	250	0					
+D	"RockTenn CP, LLC"	96-850-5995	N	Rate Schedule FT	FT10047.04	11/1/2014	10/31/2019		N	3600	0	
+A	"Texican Natural Gas Company, LLC"	N										
+P	MQ	"Smurfit-Stone Container Enterprises, Inc."	95	13050	Zone 1	3600	0					
+P	M2	Transco - Grover Receipt Point	95	10002	Zone 1	3600	0					
+D	SC Department of Corrections	04-397-4567	N	Rate Schedule FT	FT10043.01	11/1/2006	10/31/2009	1825	N	140	0	
+A	"SCANA Energy Marketing, Inc."	N										
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	140	0					
+P	MQ	SC Department of Corrections	95	26255	Zone 1	140	0					
+D	"SCANA Energy Marketing, Inc."	60-564-7775	N	Rate Schedule BH	BH10307.01	11/1/2016	10/31/2019		N	10500	0	
+P	MQ	SLNG - Elba Island Delivery (Displacement)	95	10104	Zone 2	10500	0					
+P	M2	Transco - Grover Receipt Point	95	10002	Zone 1	10500	0					
+D	"SCANA Energy Marketing, Inc."	60-564-7775	N	Rate Schedule BH	BH10307.02	8/1/2017	4/30/2020		N	225	0	
+P	MQ	SNG - Aiken Delivery (Displacement)	95	10101	Zone 1	225	0					
+P	M2	Transco - Grover Receipt Point	95	10002	Zone 1	225	0					
+D	"SCANA Energy Marketing, Inc."	60-564-7775	N	Rate Schedule FT	FT10044.01	11/1/2006	10/31/2023		N	78083	0	
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	483	0					
+P	MQ	Reemay Inc.	95	11018	Zone 1	630	0					
+P	MQ	Patriots Energy Group	95	11346	Zone 1	3153	0					
+P	MQ	Invista S.A.R.L. Company	95	12015	Zone 1	700	0					
+P	MQ	"Winnsboro, Town of"	95	12045	Zone 1	2292	0					
+P	MQ	ESAB Welding and Cutting Products	95	13292	Zone 1	60	0					
+P	MQ	Nucor - Darlington	95	13296	Zone 1	2500	0					
+P	MQ	"American Stainless & Alloy Products, LLC"	95	13307	Zone 1	25	0					
+P	MQ	Milliken Magnolia	95	16051	Zone 1	925	0					
+P	MQ	Talley Metals Technology	95	18280	Zone 1	450	0					
+P	MQ	"Bennettsville, City of"	95	19006	Zone 1	1316	0					
+P	MQ	"Palmetto Brickworks, LLC"	95	19021	Zone 1	800	0					
+P	MQ	Flakeboard	95	19297	Zone 1	2400	0					
+P	MQ	"Marion Ceramics, Inc."	95	20061	Zone 1	200	0					
+P	MQ	Mohawk - Oak River	95	20305	Zone 1	500	0					
+P	MQ	Columbia Energy LLC	95	22396	Zone 1	3656	0					
+P	MQ	"Showa Denko Carbon, Inc."	95	26213	Zone 1	1300	0					
+P	MQ	"Bamberg, City of"	95	26218	Zone 1	465	0					
+P	MQ	Giant Cement Company	95	26223	Zone 1	50	0					
+P	MQ	Orangeburg Department of Public Utilities	95	26234	Zone 1	5106	0					
+P	MQ	SC Department of Corrections	95	26255	Zone 1	55	0					
+P	MQ	BP Amoco Corporation	95	27217	Zone 1	5900	0					
+P	MQ	JW Aluminum Company	95	27291	Zone 1	3000	0					
+P	M2	SLNG - Elba Island Receipt Point	95	10004	Zone 2	77600	0					
+P	MQ	SCE&G - Jasper County	95	95014	Zone 2	42600	0					
+D	"SCANA Energy Marketing, Inc."	60-564-7775	N	Rate Schedule FT	FT10044.03	11/1/2012	10/31/2017	1825	N	930	0	
+P	MQ	Milliken Magnolia	95	16051	Zone 1	930	0					
+P	M2	Transco - Milliken Magnolia Receipt Point	95	10009	Zone 1	930	0					
+D	"SCANA Energy Marketing, Inc."	60-564-7775	N	Rate Schedule FT	FT10044.04	11/1/2012	10/31/2016	1825	N	3602	0	
+P	MQ	Reemay Inc.	95	11018	Zone 1	630	0					
+P	MQ	Invista S.A.R.L. Company	95	12015	Zone 1	200	0					
+P	MQ	"Winnsboro, Town of"	95	12045	Zone 1	1972	0					
+P	MQ	"Palmetto Brickworks, LLC"	95	19021	Zone 1	800	0					
+P	M2	Transco - Grover Receipt Point	95	10002	Zone 1	3602	0					
+D	"SCANA Energy Marketing, Inc."	60-564-7775	N	Rate Schedule FT	FT10044.06	10/1/2015	4/30/2017	1825	N	0	0	o2
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	0	0					
+P	MQ	International Paper Company	95	27227	Zone 1	0	0					
+D	"SCANA Energy Marketing, Inc."	60-564-7775	N	Rate Schedule FT	FT99904.01	3/1/2018	4/30/2038		Y	2000	0	
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	2000	0					
+P	MQ	International Paper Company	95	27227	Zone 1	2000	0					
+D	"SCANA Energy Marketing, Inc."	60-564-7775	N	Rate Schedule FT	FT99904.02	3/1/2018	4/30/2038		Y	1500	0	
+P	MQ	International Paper Company	95	27227	Zone 1	1500	0					
+P	M2	Transco - Grover Receipt Point	95	10002	Zone 1	1500	0					
+D	"Shaw Industries Group, Inc."	04-584-0055	N	Rate Schedule FT	FT10313.01	8/1/2017	10/31/2020		N	1500	0	
+A	"SCANA Energy Marketing, Inc."	N										
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	1500	0					
+P	MQ	Shaw Industries	95	23214	Zone 1	1500	0					
+D	"Shaw Industries Group, Inc."	04-584-0055	N	Rate Schedule FT	FT10313.02	1/1/2018	12/31/2027		N	2600	0	
+A	"SCANA Energy Marketing, Inc."	N										
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	2600	0					
+P	MQ	Shaw Industries	95	23214	Zone 1	2600	0					
+D	"Shell Energy North America (US), L.P."	83-756-5548	N	Rate Schedule BH	BH10282.02	7/1/2014	6/30/2021		N	16300	0	
+P	M2	Transco - Moore Receipt Point	95	10007	Zone 1	16300	0					
+P	MQ	SNG - Aiken Delivery (Displacement)	95	10101	Zone 1	16300	0					
+D	"Shell Energy North America (US), L.P."	83-756-5548	N	Rate Schedule FT	FT10315.02	4/1/2018	6/30/2021		N	9500	0	
+P	M2	Transco - Moore Receipt Point	95	10007	Zone 1	9500	0					
+P	MQ	Patriots Energy Group	95	11346	Zone 1	9500	0					
+D	"Showa Denko Carbon, Inc."	18-824-4651	N	Rate Schedule FT	FT10285.01	1/1/2013	12/31/2016	1825	N	1000	0	
+A	"SCANA Energy Marketing, Inc."	N										
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	1000	0					
+P	MQ	"Showa Denko Carbon, Inc."	95	26213	Zone 1	1000	0					
+D	"Showa Denko Carbon, Inc."	18-824-4651	N	Rate Schedule FT	FT10285.02	12/1/2015	11/30/2025		N	500	0	
+A	"SCANA Energy Marketing, Inc."	N										
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	500	0					
+P	MQ	"Showa Denko Carbon, Inc."	95	26213	Zone 1	500	0					
+D	South Carolina Electric & Gas Company	00-791-9517	N	Rate Schedule FT	FT10048.01	11/1/2006	10/31/2012	1825	N	296929	0	o1
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	151512	0					
+P	M2	SCE&G - Salley LNG Receipt Point	95	10005	Zone 1	34520	0					
+P	M2	SCE&G - Salley LNG Receipt Point	95	10005	Zone 1	25000	0					
+P	M2	SCE&G - Bushy Park LNG Receipt Point	95	10006	Zone 1	10025	0					
+P	M2	Transco - Grover Receipt Point	95	10002	Zone 1	75872	0					
+P	MQ	SCE&G - Sumter Area Point	95	95001	Zone 1	18353	0					
+P	MQ	SCE&G - Sumter Area Point	95	95001	Zone 1	1687	0					
+P	MQ	SCE&G - Columbia Area Point	95	95002	Zone 1	8245	0					
+P	MQ	SCE&G - Columbia Area Point	95	95002	Zone 1	89686	0					
+P	MQ	SCE&G - Florence Area Point	95	95003	Zone 1	1636	0					
+P	MQ	SCE&G - Florence Area Point	95	95003	Zone 1	17790	0					
+P	MQ	SCE&G - Riverneck Road Area Point	95	95005	Zone 1	2263	0					
+P	MQ	SCE&G - Riverneck Road Area Point	95	95005	Zone 1	24618	0					
+P	MQ	SCE&G - Cheraw Area Point	95	95006	Zone 1	3032	0					
+P	MQ	SCE&G - Cheraw Area Point	95	95006	Zone 1	279	0					
+P	MQ	SCE&G - Aiken Area Point	95	95008	Zone 1	1916	0					
+P	MQ	SCE&G - Aiken Area Point	95	95008	Zone 1	20840	0					
+P	MQ	SCE&G - Allendale Area Point	95	95010	Zone 1	16670	0					
+P	MQ	SCE&G - Allendale Area Point	95	95010	Zone 1	1533	0					
+P	MQ	SCE&G - Georgetown Area Point	95	95011	Zone 1	294	0					
+P	MQ	SCE&G - Georgetown Area Point	95	95011	Zone 1	3200	0					
+P	MQ	SCE&G - Charleston Area Point	95	95012	Zone 1	77740	0					
+P	MQ	SCE&G - Charleston Area Point	95	95012	Zone 1	7147	0					
+D	South Carolina Electric & Gas Company	00-791-9517	N	Rate Schedule FT	FT10048.04	5/1/2011	10/31/2023		N	120000	0	
+P	M2	SLNG - Elba Island Receipt Point	95	10004	Zone 2	120000	0					
+P	MQ	SCE&G - Columbia Area Point	95	95002	Zone 1	27000	0					
+P	MQ	SCE&G - Jasper County	95	95014	Zone 2	93000	0					
+D	South Carolina Electric & Gas Company	00-791-9517	N	Rate Schedule FT	FT10048.06	11/1/2012	10/31/2026		N	7500	0	
+P	M2	Transco - Grover Receipt Point	95	10002	Zone 1	7500	0					
+P	MQ	SCE&G - Riverneck Road Area Point	95	95005	Zone 1	7500	0					
+D	South Carolina Electric & Gas Company	00-791-9517	N	Rate Schedule FT	FT10048.07	5/1/2013	4/30/2018		N	1500	0	
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	1500	0					
+P	MQ	SCE&G - Charleston Area Point	95	95012	Zone 1	1500	0					
+D	South Carolina Electric & Gas Company	00-791-9517	N	Rate Schedule FT	FT10048.09	12/1/2015	11/30/2030		N	18498	0	
+P	M2	Transco - Grover Receipt Point	95	10002	Zone 1	18498	0					
+P	MQ	SCE&G - Columbia Area Point	95	95002	Zone 1	18498	0					
+D	South Carolina Electric & Gas Company	00-791-9517	N	Rate Schedule FT	FT10048.10	11/1/2016	10/31/2036		N	12000	0	
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	12000	0					
+P	MQ	SCE&G - Columbia Area Point	95	95002	Zone 1	11000	0					
+P	MQ	SCE&G - Riverneck Road Area Point	95	95005	Zone 1	1000	0					
+D	South Carolina Electric & Gas Company	00-791-9517	N	Rate Schedule FT	FT99901.01	3/1/2018	2/29/2048		Y	75000	0	
+P	M2	Transco - Moore Receipt Point	95	10007	Zone 1	75000	0					
+P	MQ	SCE&G - Sumter Area Point	95	95001	Zone 1	5000	0					
+P	MQ	SCE&G - Columbia Area Point	95	95002	Zone 1	40000	0					
+P	MQ	SCE&G - Charleston Area Point	95	95012	Zone 1	30000	0					
+D	"Texican Natural Gas Company, LLC"	15-722-0096	N	Rate Schedule FT	FT10270.02	4/1/2017	4/30/2018		N	500	0	
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	500	0					
+P	MQ	"3V, Inc."	95	27308	Zone 1	500	0					
+D	"Texican Natural Gas Company, LLC"	15-722-0096	N	Rate Schedule FT	FT10270.03	11/1/2017	10/31/2018		N	200	0	
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	200	0					
+P	MQ	"Marion Ceramics, Inc."	95	20061	Zone 1	200	0					
+D	"Winnsboro, Town of"	09-132-0614	N	Rate Schedule FT	FT10054.01	11/1/2006	10/31/2009	1825	N	1288	0	o1
+A	"SCANA Energy Marketing, Inc."	N										
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	115	0					
+P	M2	SNG - Aiken Receipt Point	95	10001	Zone 1	827	0					
+P	MQ	"Winnsboro, Town of"	95	12045	Zone 1	157	0					
+P	MQ	"Winnsboro, Town of"	95	12045	Zone 1	1131	0					
+P	M2	Transco - Grover Receipt Point	95	10002	Zone 1	304	0					
+P	M2	Transco - Grover Receipt Point	95	10002	Zone 1	42	0					
+D	Wyman-Gordon Company	00-112-8016	N	Rate Schedule FT	FT99903.01	3/1/2018	2/28/2043		Y	3000	0	
+A	"Delta Energy Services, LLC"	N										
+P	M2	Transco - Moore Receipt Point	95	10007	Zone 1	3000	0					
+P	MQ	Caldwell Drive M&R	95	20038	Zone 1	3000	0					
+F	1	"In accordance with section 24.1 of the GT&C of DECGÆs tariff, each year during the months of May through October, the MDTQ of the Shipper identified will be reduced for Summer Mitigation."										
+F	2	"In accordance with section 2.7 of DECG's Rate Schedule FT or section 2.6 of DECG's Rate Schedule BH, as applicable, each year during the months of May through October, the MDTQ of the shipper is made"										
+F	2	available by Summer Mitigation and during the months of November through April the MQTQ will be zero.										

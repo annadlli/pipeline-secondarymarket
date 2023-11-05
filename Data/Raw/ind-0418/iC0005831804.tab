@@ -1,0 +1,146 @@
+H	"Guardian Pipeline, L.L.C."	C000583	4/2/2018	O	4/1/2018	T		Teri Tingler 918-588-7745		
+D	"CNE Gas Supply, LLC"	829868921	N	FT-1	FT0010	11/1/2005	3/31/2019		N	1150
+P	M2	Joliet Alliance	29	352446		300			P	
+P	MQ	Walworth	29	359493		300			P	
+P	M2	Joliet Alliance	29	352446		850			P	
+P	MQ	Bluff Creek WG	29	359490		850			P	
+D	"CNE Gas Supply, LLC"	829868921	N	FT-1	FT0039	4/1/2017	4/30/2018		N	2500
+P	M2	Joliet Alliance	29	352446		2500			P	
+P	MQ	Ixonia	29	379832		2500			P	
+D	"EDF Energy Services, LLC"	788707847	N	FT-1	FT0035	11/1/2017	3/31/2019		N	15000
+P	M2	Joliet Alliance	29	352446		15000			P	
+P	MQ	Ixonia	29	379832		15000			P	
+D	"Expera Specialty Solutions, LLC"	790443449	N	FT-2	FT2021	11/1/2015	10/31/2018		N	2800
+A	"Twin Eagle Resources, LLC"	N								
+P	M2	Joliet Alliance	29	352446		2800			P	
+P	MQ	West Greenbay	29	778118		2800			P	
+D	"Guardian Pipeline, L.L.C."	31752897	N	EAWF	FW3000	9/1/2011	12/31/2049		N	80000
+P	M2	Joliet Vector	29	394756		80000			P	
+P	MQ	Joliet Storage Pool	29	799138		80000			P	
+D	Wisconsin Electric Power Company	38984456	N	FT-1	FT0029	11/1/2015	10/31/2020		N	48000
+P	M2	Joliet Alliance	29	352446		24000			P	
+P	MQ	Ixonia	29	379832		24000			P	
+P	M2	Joliet NBPL	29	359487		24000			P	
+P	MQ	Ixonia	29	379832		24000			P	
+D	Wisconsin Electric Power Company	7947385	N	FT-1	FT0033	11/1/2016	10/31/2019		N	5898
+P	M2	Joliet Alliance	29	352446		5898			P	
+P	MQ	Rockvale	29	359488		5898			P	
+D	Wisconsin Electric Power Company	7947385	N	FT-2	FT2001	2/10/2009	3/31/2024		Y	201656
+P	M2	Wisconsin Electric Pool	29	473454		0			P	
+P	MQ	Rockvale	29	359488		0			P	
+P	M2	Wisconsin Electric Pool	29	473454		0			P	
+P	MQ	Walworth	29	359493		0			P	
+P	M2	Wisconsin Electric Pool	29	473454		123102			P	
+P	MQ	Bluff Creek WG	29	359490		123102			P	
+P	M2	Wisconsin Electric Pool	29	473454		78554			P	
+P	MQ	Fox Valley	29	778102		78554			P	
+D	Wisconsin Electric Power Company	7947385	N	EAWF	FW2001	2/10/2009	3/31/2024		Y	201676
+P	M2	Joliet ANR	29	338687		9257			P	
+P	MQ	Wisconsin Electric Pool	29	473454		9257			P	
+P	M2	Joliet Alliance	29	352446		9401			P	
+P	MQ	Wisconsin Electric Pool	29	473454		9401			P	
+P	M2	Joliet MGT	29	359485		0			P	
+P	MQ	Wisconsin Electric Pool	29	473454		0			P	
+P	M2	Joliet NBPL	29	359487		4000			P	
+P	MQ	Wisconsin Electric Pool	29	473454		4000			P	
+P	M2	Joliet NGPL	29	359489		0			P	
+P	MQ	Wisconsin Electric Pool	29	473454		0			P	
+P	M2	Joliet Peoples	29	359508		0			P	
+P	MQ	Wisconsin Electric Pool	29	473454		0			P	
+P	M2	Joliet Vector	29	394756		179018			P	
+P	MQ	Wisconsin Electric Pool	29	473454		179018			P	
+P	M2	Wisconsin Electric Pool	29	473454		0			P	
+P	MQ	Wisconsin Electric Pool	29	473454		0			P	
+D	Wisconsin Electric Power Company	7947385	N	FT-1	RT0183	11/1/2011	12/6/2022		Y	188210
+P	M2	Wisconsin Electric Pool	29	473454		51876			P	
+P	MQ	Walworth	29	359493		51876			P	
+P	M2	Wisconsin Electric Pool	29	473454		52663			P	
+P	MQ	Rockvale	29	359488		52663			P	
+P	M2	Wisconsin Electric Pool	29	473454		83671			P	
+P	MQ	Bluff Creek WG	29	359490		83671			P	
+D	Wisconsin Electric Power Company	7947385	N	EAWF	RW0068	11/1/2011	12/6/2022		Y	188229
+P	M2	Joliet ANR	29	338687		0			P	
+P	MQ	Wisconsin Electric Pool	29	473454		0			P	
+P	M2	Joliet Alliance	29	352446		177228			P	
+P	MQ	Wisconsin Electric Pool	29	473454		177228			P	
+P	M2	Joliet MGT	29	359485		11001			P	
+P	MQ	Wisconsin Electric Pool	29	473454		11001			P	
+P	M2	Joliet NBPL	29	359487		0			P	
+P	MQ	Wisconsin Electric Pool	29	473454		0			P	
+P	M2	Joliet NGPL	29	359489		0			P	
+P	MQ	Wisconsin Electric Pool	29	473454		0			P	
+P	M2	Joliet Vector	29	394756		0			P	
+P	MQ	Wisconsin Electric Pool	29	473454		0			P	
+P	M2	Wisconsin Electric Pool	29	473454		0			P	
+P	MQ	Wisconsin Electric Pool	29	473454		0			P	
+D	Wisconsin Gas LLC	7947047	N	FT-1	FT0001	12/7/2002	12/6/2022		Y	452000
+P	M2	Wisconsin Gas Pool	29	359505		375981			P	
+P	MQ	Ixonia	29	379832		375981			P	
+P	M2	Wisconsin Gas Pool	29	359505		76019			P	
+P	MQ	Bluff Creek WG	29	359490		76019			P	
+D	Wisconsin Gas LLC	7947047	N	FT-1	FT0034	11/1/2016	10/31/2019		N	19615
+P	M2	Joliet Alliance	29	352446		19615			P	
+P	MQ	Bluff Creek WG	29	359490		19615			P	
+D	Wisconsin Gas LLC	7947047	N	FT-2	FT2002	2/10/2009	3/31/2024		Y	90105
+P	M2	Wisconsin Gas Pool	29	359505		20618			P	
+P	MQ	Bluff Creek WG	29	359490		20618			P	
+P	M2	Wisconsin Gas Pool	29	359505		28705			P	
+P	MQ	Fox Valley	29	778102		28705			P	
+P	M2	Wisconsin Gas Pool	29	359505		40782			P	
+P	MQ	Rubicon	29	778098		40782			P	
+D	Wisconsin Gas LLC	7947047	N	EAWF	FW0001	2/1/2003	12/6/2022		Y	452046
+P	M2	Joliet ANR	29	338687		205121			P	
+P	MQ	Wisconsin Gas Pool	29	359505		205121			P	
+P	M2	Joliet Alliance	29	352446		43504			P	
+P	MQ	Wisconsin Gas Pool	29	359505		43504			P	
+P	M2	Joliet MGT	29	359485		0			P	
+P	MQ	Wisconsin Gas Pool	29	359505		0			P	
+P	M2	Joliet NBPL	29	359487		5001			P	
+P	MQ	Wisconsin Gas Pool	29	359505		5001			P	
+P	M2	Joliet NGPL	29	359489		0			P	
+P	MQ	Wisconsin Gas Pool	29	359505		0			P	
+P	M2	Joliet Peoples	29	359508		0			P	
+P	MQ	Wisconsin Gas Pool	29	359505		0			P	
+P	M2	Joliet Vector	29	394756		198420			P	
+P	MQ	Wisconsin Gas Pool	29	359505		198420			P	
+P	M2	Wisconsin Gas Pool	29	359505		0			P	
+P	MQ	Wisconsin Gas Pool	29	359505		0			P	
+D	Wisconsin Gas LLC	7947047	N	EAWF	FW2002	2/10/2009	3/31/2024		Y	90114
+P	M2	Joliet ANR	29	338687		0			P	
+P	MQ	Wisconsin Gas Pool	29	359505		0			P	
+P	M2	Joliet Alliance	29	352446		90114			P	
+P	MQ	Wisconsin Gas Pool	29	359505		90114			P	
+P	M2	Joliet Peoples	29	359508		0			P	
+P	MQ	Wisconsin Gas Pool	29	359505		0			P	
+P	M2	Joliet Vector	29	394756		0			P	
+P	MQ	Wisconsin Gas Pool	29	359505		0			P	
+D	Wisconsin Gas LLC	7947047	N	FT-1	RT2006	1/3/2013	12/6/2022		Y	9790
+P	M2	Wisconsin Gas Pool	29	359505		9790			P	
+P	MQ	Bluff Creek WG	29	359490		9790			P	
+D	Wisconsin Gas LLC	7947047	N	EAWF	RW0074	1/3/2013	12/6/2022		Y	9791
+P	M2	Joliet Alliance	29	352446		9791			P	
+P	MQ	Wisconsin Gas Pool	29	359505		9791			P	
+D	Wisconsin Public Service Corporation	7947435	N	FT-2	FT2003	2/10/2009	3/31/2024		Y	205245
+P	M2	WPS Pool	29	799139		34500			P	
+P	MQ	Denmark	29	778110		34500			P	
+P	M2	WPS Pool	29	799139		37180			P	
+P	MQ	SW Greenbay	29	778114		37180			P	
+P	M2	WPS Pool	29	799139		5335			P	
+P	MQ	Chilton	29	778106		5335			P	
+P	M2	WPS Pool	29	799139		58605			P	
+P	MQ	Sheboygan	29	778122		58605			P	
+P	M2	WPS Pool	29	799139		69625			P	
+P	MQ	West Greenbay	29	778118		69625			P	
+D	Wisconsin Public Service Corporation	7947435	N	EAWF	FW2003	2/10/2009	3/31/2024		Y	205266
+P	M2	Joliet ANR	29	338687		0			P	
+P	MQ	WPS Pool	29	799139		0			P	
+P	M2	Joliet Alliance	29	352446		54750			P	
+P	MQ	WPS Pool	29	799139		54750			P	
+P	M2	Joliet MGT	29	359485		10501			P	
+P	MQ	WPS Pool	29	799139		10501			P	
+P	M2	Joliet NGPL	29	359489		15002			P	
+P	MQ	WPS Pool	29	799139		15002			P	
+P	M2	Joliet Peoples	29	359508		0			P	
+P	MQ	WPS Pool	29	799139		0			P	
+P	M2	Joliet Vector	29	394756		125013			P	
+P	MQ	WPS Pool	29	799139		125013			P	

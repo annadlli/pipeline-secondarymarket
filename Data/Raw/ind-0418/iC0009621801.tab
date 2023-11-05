@@ -1,0 +1,420 @@
+H	KERN RIVER GAS TRANSMISSION COMPANY	C000962	2/13/2018	R	1/1/2018	T		Kristin Gillette 801-937-6294				
+D	AERA ENERGY LLC	90755471	N	KRF-1	20007	10/1/2016	9/30/2031		N	51750		
+P	M2	Opal - WFS	95	39298		17500						
+P	M2	Carter Creek - Columbia Gulf	95	41254		12000						
+P	M2	Painter - Merit	95	41189		51750						
+P	MQ	Daggett - PG&E	95	68522		11250						
+P	MQ	Wheeler Ridge - SoCal Gas	95	332531		8750						
+P	MQ	South Midway - Aera	95	332523		7200						
+P	MQ	North Midway - Aera	95	332522		5300						
+P	MQ	17Z Shell - Aera	95	332526		42500						
+D	AMERICAN PACIFIC CORPORATION	198642027	N	KRF-1	1700	5/1/2003	4/30/2018		N	2000		
+A	INDUSTRIAL GAS RESOURCE CORPORATION	N										
+P	M2	Opal - WFS	95	39298		2000						
+P	MQ	Wecco - Questar Gas	95	112486		2000						
+D	ANADARKO ENERGY SERVICES COMPANY	199116823	N	KRF-1	1824	11/1/2010	10/31/2020		N	6161		
+P	M2	Opal - WFS	95	39298		6161						
+P	MQ	Daggett - PG&E	95	68522		6161						
+D	BOSTON ENERGY TRADING AND MARKETING LLC	74882957	N	KRF-1	1709	5/1/2003	4/30/2018		N	42500		
+P	M2	Opal - WFS	95	39298		42500						
+P	MQ	Wheeler Ridge - SoCal Gas	95	332531		8000						
+P	MQ	Crocker Springs - Midway Sunset	95	332507		19500						
+P	MQ	Kramer Junction - SoCal Gas	95	332554		15000						
+D	BP ENERGY COMPANY	625275755	N	KRF-1	1639	1/1/2017	6/30/2017	31	Y	75000		x19
+P	M2	Goshen Rcpt - Dominion P/L	95	301571		75000						
+P	MQ	Riverton - Questar Gas	95	306584		75000						
+D	BP ENERGY COMPANY	625275755	N	KRF-1	1671	1/1/2018	1/31/2018		Y	33650		x19
+P	M2	Goshen Rcpt - Dominion P/L	95	301571		33650						
+P	MQ	Goshen Dlv - Dominion P/L	95	392837		33650						
+D	"CALPINE ENERGY SERVICES, L.P."	169668212	N	KRF-1	1703	5/1/2003	4/30/2018		N	50000		
+P	M2	Opal - WFS	95	39298		50000						
+P	MQ	Wheeler Ridge - SoCal Gas	95	332531		16320						
+P	MQ	Kramer Junction - SoCal Gas	95	332554		33680						
+D	"CALPINE ENERGY SERVICES, L.P."	169668212	N	KRF-1	1705	5/1/2003	4/30/2018		N	50000		
+P	M2	Opal - WFS	95	39298		50000						
+P	MQ	Daggett - PG&E	95	68522		42835						
+P	MQ	Wheeler Ridge - SoCal Gas	95	332531		7165						
+D	CHEVRON U.S.A. INC.	9140559	N	KRF-1	20008	10/1/2016	9/30/2026		N	65000		
+P	M2	Opal - WFS	95	39298		65000						
+P	M2	NWPL Muddy Creek - NWPL	95	33426		8374						
+P	M2	Carter Creek - Columbia Gulf	95	41254		43673						
+P	M2	Painter - Merit	95	41189		29831						
+P	M2	Roberson Creek OTC - Dominion Overthrust	95	361987		10755						
+P	MQ	Daggett - PG&E	95	68522		33494						
+P	MQ	Hunter Park - Questar Gas	95	169146		20934						
+P	MQ	Racetrack - Chevron	95	332512		837						
+P	MQ	Kern River Chevron - Chevron	95	332511		12979						
+P	MQ	Kern Front - Juniper	95	332518		4271						
+P	MQ	Wheeler Ridge - SoCal Gas	95	332531		54428						
+P	MQ	Taft - Chevron	95	332513		12560						
+P	MQ	Midway Santa Fe - Chevron	95	332525		837						
+P	MQ	North Midway - Aera	95	332522		7500						
+P	MQ	17Z Chevron - Chevron	95	332510		28470						
+P	MQ	KernRiverSanta Fe - Chevron	95	332524		837						
+P	MQ	Granite - MacPherson Oil	95	332541		10000						
+D	"CIMA ENERGY, LTD."	945601599	N	KRF-1	1816	11/1/2010	10/31/2020		N	5000		
+P	M2	Opal - WFS	95	39298		5000						
+P	MQ	Kramer Junction - SoCal Gas	95	332554		5000						
+D	CITADEL ENERGY MARKETING LLC	79663087	N	KRF-1	1640	1/1/2017	6/30/2017	31	Y	50000		x19
+P	M2	Dag Moj Rcpt - Mojave	95	332569		50000						
+P	MQ	Lone Mountain - SW Gas	95	130690		50000						
+D	CITADEL ENERGY MARKETING LLC	79663087	N	KRF-1	1651	11/1/2017	3/31/2018		N	27625		
+P	M2	Opal - WFS	95	39298		13813						
+P	M2	Painter - Merit	95	41189		13812						
+P	MQ	Wheeler Ridge - SoCal Gas	95	332531		26101						
+P	MQ	Kramer Junction - SoCal Gas	95	332554		1524						
+D	CITADEL ENERGY MARKETING LLC	79663087	N	KRF-1	1652	11/1/2017	3/31/2018		N	25000		
+P	M2	Opal - WFS	95	39298		25000						
+P	MQ	Kramer Junction - SoCal Gas	95	332554		25000						
+D	CITADEL ENERGY MARKETING LLC	79663087	N	KRF-1	1672	1/1/2018	1/31/2018		Y	33650		x19
+P	M2	Goshen Rcpt - Dominion P/L	95	301571		33650						
+P	MQ	Goshen Dlv - Dominion P/L	95	392837		33650						
+D	CITADEL ENERGY MARKETING LLC	79663087	N	KRF-1	1679	1/1/2018	4/30/2018		Y	25000		x19
+P	M2	NWPL Muddy Creek - NWPL	95	33426		25000						
+P	MQ	Roberson Creek Dlv - Dominion Overthrust	95	361988		25000						
+D	CITADEL ENERGY MARKETING LLC	79663087	N	KRF-1	1680	1/1/2018	4/30/2018		Y	25000		x19
+P	M2	Dag Moj Rcpt - Mojave	95	332569		25000						
+P	MQ	Lone Mountain - SW Gas	95	130690		25000						
+D	CITADEL ENERGY MARKETING LLC	79663087	N	KRF-1	20017	10/1/2016	9/30/2031		N	56925		
+P	M2	Opal - WFS	95	39298		28075						
+P	M2	NWPL Muddy Creek - NWPL	95	33426		56925						
+P	MQ	Wheeler Ridge - SoCal Gas	95	332531		30000						
+P	MQ	South Midway - Aera	95	332523		5000						
+P	MQ	McKittrick - Juniper	95	332519		5000						
+P	MQ	Kramer Junction - SoCal Gas	95	332554		25000						
+D	CITADEL ENERGY MARKETING LLC	79663087	N	KRF-1	20019	10/1/2016	9/30/2031		N	0		x28
+D	CITADEL ENERGY MARKETING LLC	79663087	N	KRF-1	20024	5/1/2017	4/30/2032		N	27000		
+P	M2	NWPL Muddy Creek - NWPL	95	33426		27000						
+P	MQ	Kramer Junction - SoCal Gas	95	332554		27000						
+D	CITY OF REDDING	73780413	N	KRF-1	1704	5/1/2003	4/30/2018		N	1000		
+P	M2	Opal - WFS	95	39298		1000						
+P	MQ	Daggett - PG&E	95	68522		1000						
+D	CITY OF ST. GEORGE	627376569	N	KRF-1	1836	5/1/2013	4/30/2033		N	3500		
+P	M2	Opal - WFS	95	39298		3500						
+P	MQ	Wheeler Ridge - SoCal Gas	95	332531		3500						
+D	CONCORD ENERGY LLC	113637503	N	KRF-1	1673	1/1/2018	1/31/2018		Y	33650		x19
+P	M2	Goshen Rcpt - Dominion P/L	95	301571		33650						
+P	MQ	Goshen Dlv - Dominion P/L	95	392837		33650						
+D	CONCORD ENERGY LLC	113637503	N	KRF-1	1681	1/1/2018	4/30/2018		Y	14000		x19
+P	M2	Dag Moj Rcpt - Mojave	95	332569		14000						
+P	MQ	Blue Diamond - SW Gas	95	217804		14000						
+D	CONCORD ENERGY LLC	113637503	N	KRF-1	1682	1/1/2018	4/30/2018		Y	11000		x19
+P	M2	Goshen Rcpt - Dominion P/L	95	301571		11000						
+P	MQ	Goshen Dlv - Dominion P/L	95	392837		11000						
+D	CONOCOPHILLIPS COMPANY	1368265	N	KRF-1	1880	11/1/2017	3/31/2018		N	30000		
+P	M2	Opal - WFS	95	39298		30000						
+P	MQ	Kramer Junction - SoCal Gas	95	332554		30000						
+D	CONOCOPHILLIPS COMPANY	1368265	N	KRF-1	1881	11/1/2017	3/31/2018		N	9000		
+P	M2	Opal - WFS	95	39298		9000						
+P	MQ	Kramer Junction - SoCal Gas	95	332554		9000						
+D	"CRC MARKETING, INC."	79387872	N	KRF-1	20009	10/1/2016	9/30/2031		N	50000		
+P	M2	Opal - WFS	95	39298		24155						
+P	M2	NWPL Muddy Creek - NWPL	95	33426		1610						
+P	M2	Whitney Canyon - Ryckman	95	40818		17713						
+P	M2	Painter - Merit	95	41189		1610						
+P	M2	CIG Muddy Creek - CIG	95	68530		1610						
+P	M2	Overland Trail - Overland Trail	95	111881		20934						
+P	M2	Overthrust 121- Dominion Overthrust	95	461083		4831						
+P	MQ	China Grade - Oildale	95	332537		10048						
+P	MQ	Wheeler Ridge - SoCal Gas	95	332531		43382						
+D	"EDF TRADING NORTH AMERICA, LLC"	130385763	N	KRF-1	1802	1/1/2009	4/30/2018		Y	0		x6
+D	"EDF TRADING NORTH AMERICA, LLC"	130385763	N	KRF-1	1814	11/1/2010	10/31/2020		N	20000		
+P	M2	Opal - WFS	95	39298		20000						
+P	MQ	Daggett - PG&E	95	68522		4103						
+P	MQ	Kramer Junction - SoCal Gas	95	332554		15897						
+D	"EXELON GENERATION COMPANY, LLC"	196748938	N	KRF-1	1641	1/1/2017	6/30/2017	31	Y	75000		x19
+P	M2	Dag Moj Rcpt - Mojave	95	332569		75000						
+P	MQ	Lone Mountain - SW Gas	95	130690		75000						
+D	"EXELON GENERATION COMPANY, LLC"	196748938	N	KRF-1	1674	1/1/2018	1/31/2018		Y	33650		x19
+P	M2	Goshen Rcpt - Dominion P/L	95	301571		33650						
+P	MQ	Goshen Dlv - Dominion P/L	95	392837		33650						
+D	"EXELON GENERATION COMPANY, LLC"	196748938	N	KRF-1	1683	1/1/2018	4/30/2018		Y	80000		x19
+P	M2	NWPL Muddy Creek - NWPL	95	33426		80000						
+P	MQ	Roberson Creek Dlv - Dominion Overthrust	95	361988		80000						
+D	"EXELON GENERATION COMPANY, LLC"	196748938	N	KRF-1	1684	1/1/2018	4/30/2018		Y	75000		x19
+P	M2	Goshen Rcpt - Dominion P/L	95	301571		75000						
+P	MQ	Goshen Dlv - Dominion P/L	95	392837		75000						
+D	"HIGH DESERT POWER PROJECT, LLC"	64963890	N	KRFL1	2002	5/1/2009	8/31/2023		Y	282000		
+A	"EDF TRADING NORTH AMERICA, LLC"	N										
+P	M2	Freemont Peak Rcpt - PG&E	95	345605		282000						
+P	M2	Sidewinder Rcpt - Kern River & Mojave	95	349605		282000						
+P	MQ	Freemont Peak Dlv - PG&E	95	345606		282000						
+P	MQ	Victorville - HDPP	95	349545		282000						
+D	J. ARON & COMPANY	6980312	N	KRF-1	1839	11/1/2010	10/31/2020		N	6161		
+P	M2	Opal - WFS	95	39298		6161						
+P	MQ	Daggett - PG&E	95	68522		6161						
+D	"MERCURIA ENERGY AMERICA, INC."	831749127	N	KRF-1	1522	4/1/2014	3/31/2019		N	20033		
+P	M2	Opal - WFS	95	39298		20033						
+P	MQ	Wheeler Ridge - SoCal Gas	95	332531		20033						
+D	"MERCURIA ENERGY AMERICA, INC."	831749127	N	KRF-1	1871	2/1/2016	10/31/2020		N	6161		
+P	M2	Opal - WFS	95	39298		6161						
+P	MQ	Daggett - PG&E	95	68522		6161						
+D	"MERRILL LYNCH COMMODITIES, INC."	160352865	N	KRF-1	1772	1/1/2008	4/30/2018		N	70000		
+P	M2	Opal - WFS	95	39298		70000						
+P	MQ	Kramer Junction - SoCal Gas	95	332554		70000						
+D	MIECO INC.	118562412	N	KRF-1	1642	1/1/2017	6/30/2017	31	Y	50000		x19
+P	M2	Dag Moj Rcpt - Mojave	95	332569		50000						
+P	MQ	Lone Mountain - SW Gas	95	130690		15000						
+P	MQ	Blue Diamond - SW Gas	95	217804		35000						
+D	MIECO INC.	118562412	N	KRF-1	1675	1/1/2018	1/31/2018		Y	22250		x19
+P	M2	Goshen Rcpt - Dominion P/L	95	301571		22250						
+P	MQ	Goshen Dlv - Dominion P/L	95	392837		22250						
+D	"MORGAN STANLEY CAPITAL GROUP, INC."	130198013	N	KRF-1	1815	11/1/2010	10/31/2020		N	21389		
+P	M2	Opal - WFS	95	39298		21389						
+P	MQ	Daggett - PG&E	95	68522		8207						
+P	MQ	Kramer Junction - SoCal Gas	95	332554		13182						
+D	NEVADA COGENERATION ASSOCIATES #1	966720153	N	KRF-1	20010	10/1/2016	9/30/2026		N	13455		
+P	M2	Opal - WFS	95	39298		6800						
+P	M2	Carter Creek - Columbia Gulf	95	41254		9700						
+P	M2	CIG Muddy Creek - CIG	95	68530		3000						
+P	MQ	Apex - SW Gas	95	68513		13000						
+P	MQ	Sycamore - Chevron	95	332535		4000						
+P	MQ	Wheeler Ridge - SoCal Gas	95	332531		9000						
+D	NEVADA COGENERATION ASSOCIATES #2	785680026	N	KRF-1	20011	10/1/2016	9/30/2031		N	13455		
+P	M2	Opal - WFS	95	39298		9800						
+P	M2	Carter Creek - Columbia Gulf	95	41254		9700						
+P	MQ	Apex - SW Gas	95	68513		13000						
+P	MQ	Sycamore - Chevron	95	332535		9000						
+P	MQ	Wheeler Ridge - SoCal Gas	95	332531		4000						
+D	"NEVADA POWER COMPANY, D/B/A NV ENERGY"	6970891	Y	KRF-1	1617	6/1/2009	9/30/2031		N	134000		
+P	M2	Dag Moj Rcpt - Mojave	95	332569		134000						
+P	MQ	Harry Allen - NV Energy	95	217774		95500						
+P	MQ	Reid Gardner - NV Energy	95	473968		38500						
+D	"NEVADA POWER COMPANY, D/B/A NV ENERGY"	6970891	Y	KRF-1	1707	5/1/2003	4/30/2018		N	75000		
+P	M2	Opal - WFS	95	39298		75000						
+P	MQ	Wheeler Ridge - SoCal Gas	95	332531		75000						
+D	"NEVADA POWER COMPANY, D/B/A NV ENERGY"	6970891	Y	KRF-1	1720	5/1/2003	4/30/2018		N	0		x4
+D	"NEVADA POWER COMPANY, D/B/A NV ENERGY"	6970891	Y	KRF-1	1830	10/1/2011	9/30/2031		N	266000		
+P	M2	Roberson Creek OTC - Dominion Overthrust	95	361987		20000						
+P	M2	Pioneer - Enterprise	95	378891		240000						
+P	M2	Hams Fork OTC - Dominion Overthrust	95	487755		6000						
+P	MQ	Apex - SW Gas	95	68513		47000						
+P	MQ	Pecos - SW Gas	95	130691		21000						
+P	MQ	Arrolime - SCPPA	95	351625		102000						
+P	MQ	Silverhawk - NV Energy	95	378006		96000						
+D	"NEVADA POWER COMPANY, D/B/A NV ENERGY"	6970891	Y	KRF-1	20012	10/1/2016	9/30/2031		N	10350		
+P	M2	Opal - WFS	95	39298		10000						
+P	M2	CIG Muddy Creek - CIG	95	68530		10000						
+P	MQ	Kern Front - Juniper	95	332518		5014						
+P	MQ	Wheeler Ridge - SoCal Gas	95	332531		10000						
+D	"NEVADA POWER COMPANY, D/B/A NV ENERGY"	6970891	Y	KRF-1	20013	10/1/2016	9/30/2031		N	11075		
+P	M2	Opal - WFS	95	39298		10700						
+P	M2	CIG Muddy Creek - CIG	95	68530		10700						
+P	MQ	Wheeler Ridge - SoCal Gas	95	332531		11075						
+D	"NEVADA POWER COMPANY, D/B/A NV ENERGY"	6970891	Y	KRF-1	20023	5/1/2017	4/30/2032		N	12500		
+P	M2	Opal - WFS	95	39298		12500						
+P	MQ	Wheeler Ridge - SoCal Gas	95	332531		12500						
+D	NRG POWER MARKETING LLC	28255979	N	KRF-1	1676	1/1/2018	1/31/2018		Y	22250		x19
+P	M2	Goshen Rcpt - Dominion P/L	95	301571		22250						
+P	MQ	Goshen Dlv - Dominion P/L	95	392837		22250						
+D	"OCCIDENTAL ENERGY MARKETING, INC."	52298721	N	KRF-1	1828	11/1/2010	10/31/2020		N	6161		
+P	M2	Opal - WFS	95	39298		6161						
+P	MQ	Daggett - PG&E	95	68522		6161						
+D	PACIFICORP	7909013	Y	KRF-1	1612	2/1/2007	1/31/2037		Y	91000		
+P	M2	Goshen Rcpt - Dominion P/L	95	301571		91000						
+P	MQ	Lake Side - Questar Gas	95	486695		91000						
+D	QEP ENERGY COMPANY	46934568	N	KRF-1	1094	5/1/2003	4/30/2018		N	1500		
+P	M2	Questar Muddy Creek - Dominion P/L	95	68527		1500						
+P	MQ	Wheeler Ridge - SoCal Gas	95	332531		1500						
+D	QEP ENERGY COMPANY	46934568	N	KRF-1	1722	5/1/2003	4/30/2018		N	10000		
+P	M2	Opal - WFS	95	39298		10000						
+P	MQ	Wheeler Ridge - SoCal Gas	95	332531		10000						
+D	QUESTAR GAS COMPANY	7939069	N	KRFPK	1643	11/15/2017	2/14/2020		N	25002		
+P	M2	Goshen Rcpt - Dominion P/L	95	301571		25002						
+P	MQ	Hunter Park - Questar Gas	95	169146		25002						
+D	QUESTAR GAS COMPANY	7939069	N	KRF-1	1715	5/1/2003	4/30/2018		N	53000		x5
+P	M2	Opal - WFS	95	39298		53000						
+P	MQ	Blue Diamond - SW Gas	95	217804		38000						
+P	MQ	Wheeler Ridge - SoCal Gas	95	332531		15000						
+D	QUESTAR GAS COMPANY	7939069	N	KRF-1	1829	11/1/2010	10/31/2020		N	1885		
+P	M2	Opal - WFS	95	39298		1885						
+P	MQ	Daggett - PG&E	95	68522		1885						
+D	QUESTAR GAS COMPANY	7939069	N	KRF-1	1992	4/28/2017	4/30/2018		N	30000		
+P	M2	Opal - WFS	95	39298		30000						
+P	MQ	Wheeler Ridge - SoCal Gas	95	332531		15000						
+P	MQ	Kramer Junction - SoCal Gas	95	332554		15000						
+D	"RRI ENERGY SERVICES, LLC"	361439698	N	KRF-1	1716	5/1/2003	4/30/2018		N	50000		
+P	M2	Opal - WFS	95	39298		50000						
+P	MQ	Wheeler Ridge - SoCal Gas	95	332531		35000						
+P	MQ	Kramer Junction - SoCal Gas	95	332554		15000						
+D	"RRI ENERGY SERVICES, LLC"	361439698	N	KRF-1	20021	10/1/2016	9/30/2026		N	0		x4
+D	SACRAMENTO MUNICIPAL UTILITY DISTRICT	9235342	N	KRF-1	1717	5/1/2003	4/30/2018		N	20000		
+P	M2	Opal - WFS	95	39298		20000						
+P	MQ	Daggett - PG&E	95	68522		20000						
+D	SAN DIEGO GAS & ELECTRIC	6911457	N	KRF-1	1849	7/1/2014	4/30/2018		N	85000		
+P	M2	Opal - WFS	95	39298		85000						
+P	MQ	Wheeler Ridge - SoCal Gas	95	332531		30000						
+P	MQ	Kramer Junction - SoCal Gas	95	332554		55000						
+D	SENECA RESOURCES CORPORATION	7912918	N	KRF-1	1879	1/1/2018	12/31/2027		Y	7000		
+A	CHEVRON U.S.A. INC.	N										
+P	M2	Opal - WFS	95	39298		7000						
+P	MQ	North Midway - Aera	95	332522		7000						
+D	SENECA RESOURCES CORPORATION	7912918	N	KRF-1	20014	10/1/2016	9/30/2031		N	4658		
+A	CHEVRON U.S.A. INC.	N										
+P	M2	Opal - WFS	95	39298		4500						
+P	M2	NWPL Muddy Creek - NWPL	95	33426		4500						
+P	M2	Overland Trail - Overland Trail	95	111881		4500						
+P	MQ	Kern River Chevron - Chevron	95	332511		1092						
+P	MQ	Wheeler Ridge - SoCal Gas	95	332531		4500						
+P	MQ	North Midway - Aera	95	332522		4658						
+D	"SEQUENT ENERGY MANAGEMENT, L.P."	612075846	N	KRF-1	1848	11/1/2014	4/30/2018		N	15122		
+P	M2	Opal - WFS	95	39298		15122						
+P	MQ	Wheeler Ridge - SoCal Gas	95	332531		10122						
+P	MQ	Kramer Junction - SoCal Gas	95	332554		5000						
+D	"SHELL ENERGY NORTH AMERICA (US), L.P."	837565548	N	KRF-1	1521	10/1/2013	9/30/2018		N	20000		
+P	M2	Opal - WFS	95	39298		20000						
+P	MQ	Wheeler Ridge - SoCal Gas	95	332531		20000						
+D	"SHELL ENERGY NORTH AMERICA (US), L.P."	837565548	N	KRF-1	1645	1/1/2017	6/30/2017	31	Y	75000		x19
+P	M2	Goshen Rcpt - Dominion P/L	95	301571		75000						
+P	MQ	Riverton - Questar Gas	95	306584		75000						
+D	"SHELL ENERGY NORTH AMERICA (US), L.P."	837565548	N	KRF-1	1677	1/1/2018	1/31/2018		Y	22250		x19
+P	M2	Goshen Rcpt - Dominion P/L	95	301571		22250						
+P	MQ	Goshen Dlv - Dominion P/L	95	392837		22250						
+D	"SHELL ENERGY NORTH AMERICA (US), L.P."	837565548	N	KRF-1	20005	10/1/2016	9/30/2026		N	16560		
+P	M2	Opal - WFS	95	39298		16000						
+P	M2	NWPL Muddy Creek - NWPL	95	33426		16000						
+P	MQ	Daggett - PG&E	95	68522		5000						
+P	MQ	Wheeler Ridge - SoCal Gas	95	332531		16000						
+P	MQ	South Midway - Aera	95	332523		3000						
+D	"SHELL ENERGY NORTH AMERICA (US), L.P."	837565548	N	KRF-1	20006	10/1/2016	9/30/2026		N	37933		
+P	M2	Opal - WFS	95	39298		36650						
+P	M2	NWPL Muddy Creek - NWPL	95	33426		10870						
+P	M2	Whitney Canyon - Ryckman	95	40818		15000						
+P	MQ	Daggett - PG&E	95	68522		15795						
+P	MQ	Wheeler Ridge - SoCal Gas	95	332531		6650						
+P	MQ	South Midway - Aera	95	332523		27075						
+P	MQ	North Midway - Aera	95	332522		11925						
+P	MQ	17Z Mobil - Aera	95	332521		36650						
+D	SOUTHERN CALIFORNIA GAS COMPANY	6908826	N	KRF-1	1518	9/1/2012	8/31/2027		N	50000		
+P	M2	Opal - WFS	95	39298		50000						
+P	MQ	Wheeler Ridge - SoCal Gas	95	332531		50000						
+D	SOUTHERN CALIFORNIA GAS COMPANY	6908826	N	KRF-1	1773	11/1/2007	4/30/2018		N	80000		
+P	M2	Opal - WFS	95	39298		80000						
+P	MQ	Wheeler Ridge - SoCal Gas	95	332531		30278						
+P	MQ	Kramer Junction - SoCal Gas	95	332554		49722						
+D	SOUTHERN CALIFORNIA GAS COMPANY	6908826	N	KRF-1	1813	11/1/2010	10/31/2025		N	15921		
+P	M2	Opal - WFS	95	39298		15921						
+P	MQ	Kramer Junction - SoCal Gas	95	332554		15921						
+D	SOUTHERN CALIFORNIA GAS COMPANY	6908826	N	KRF-1	1878	12/1/2017	2/28/2018		N	90000		
+P	M2	Opal - WFS	95	39298		90000						
+P	MQ	Wheeler Ridge - SoCal Gas	95	332531		90000						
+D	SOUTHERN CALIFORNIA GAS COMPANY	6908826	N	KRF-1	20000	5/1/2012	4/30/2027		N	35000		
+P	M2	Opal - WFS	95	39298		35000						
+P	MQ	Wheeler Ridge - SoCal Gas	95	332531		35000						
+D	SOUTHERN CALIFORNIA GAS COMPANY	6908826	N	KRF-1	20001	5/1/2013	4/30/2028		N	8159		
+P	M2	Opal - WFS	95	39298		8159						
+P	MQ	Wheeler Ridge - SoCal Gas	95	332531		8159						
+D	SOUTHERN CALIFORNIA GAS COMPANY	6908826	N	KRF-1	20015	10/1/2016	9/30/2031		N	10350		
+P	M2	Opal - WFS	95	39298		10000						
+P	M2	NWPL Muddy Creek - NWPL	95	33426		10000						
+P	MQ	South Midway - Aera	95	332523		2486						
+P	MQ	McKittrick - Juniper	95	332519		2486						
+P	MQ	Kramer Junction - SoCal Gas	95	332554		10000						
+D	SOUTHWEST GAS CORPORATION	6970917	N	KRF-1	1523	10/1/2014	9/30/2021		N	10000		
+P	M2	Opal - WFS	95	39298		10000						
+P	MQ	Daggett - PG&E	95	68522		10000						
+D	SOUTHWEST GAS CORPORATION	6970917	N	KRF-1	1812	11/1/2010	10/31/2025		N	50000		
+P	M2	Opal - WFS	95	39298		50000						
+P	MQ	Daggett - PG&E	95	68522		50000						
+D	SOUTHWEST GAS CORPORATION	6970917	N	KRF-1	1837	11/1/2016	2/28/2021		N	40655		x29
+P	M2	Opal - WFS	95	39298		40655						
+P	MQ	Blue Diamond - SW Gas	95	217804		40655						
+D	SOUTHWEST GAS CORPORATION	6970917	N	KRF-1	1844	11/1/2013	3/31/2018		N	64000		x24
+P	M2	Opal - WFS	95	39298		64000						
+P	MQ	Daggett - PG&E	95	68522		64000						
+D	SOUTHWEST GAS CORPORATION	6970917	N	KRF-1	1845	10/1/2013	4/30/2018		N	65600		x23
+P	M2	Opal - WFS	95	39298		65600						
+P	MQ	Blue Diamond - SW Gas	95	217804		65600						
+D	SOUTHWEST GAS CORPORATION	6970917	N	KRF-1	1851	11/1/2016	4/30/2021		N	0		x27
+D	SOUTHWEST GAS CORPORATION	6970917	N	KRF-1	1855	11/1/2016	10/31/2021		N	22345		x30
+P	M2	Opal - WFS	95	39298		2345						
+P	M2	Overthrust 121- Dominion Overthrust	95	461083		20000						
+P	MQ	Daggett - PG&E	95	68522		2345						
+P	MQ	Blue Diamond - SW Gas	95	217804		20000						
+D	SOUTHWEST GAS CORPORATION	6970917	N	KRF-1	20003	12/1/2016	2/28/2031		N	25875		x1
+P	M2	Opal - WFS	95	39298		20600						
+P	M2	Questar Muddy Creek - Dominion P/L	95	68527		5275						
+P	MQ	Blue Diamond - SW Gas	95	217804		6993						
+P	MQ	Wheeler Ridge - SoCal Gas	95	332531		18882						
+D	SOUTHWEST GAS CORPORATION	6970917	N	KRF-1	20004	12/1/2016	2/28/2031		N	65205		x31
+P	M2	Opal - WFS	95	39298		20646						
+P	M2	NWPL Muddy Creek - NWPL	95	33426		5151						
+P	M2	Painter - Merit	95	41189		20646						
+P	M2	Questar Muddy Creek - Dominion P/L	95	68527		13611						
+P	M2	Overland Trail - Overland Trail	95	111881		5151						
+P	MQ	Lone Mountain - SW Gas	95	130690		30909						
+P	MQ	Blue Diamond - SW Gas	95	217804		34296						
+D	SOUTHWEST GAS CORPORATION	6970917	N	KRF-1	20016	10/1/2016	9/30/2031		N	14490		
+P	M2	Opal - WFS	95	39298		5200						
+P	M2	Questar Muddy Creek - Dominion P/L	95	68527		10600						
+P	M2	CIG Muddy Creek - CIG	95	68530		5200						
+P	MQ	Apex - SW Gas	95	68513		14000						
+P	MQ	Daggett - PG&E	95	68522		7000						
+P	MQ	Wheeler Ridge - SoCal Gas	95	332531		7000						
+D	SOUTHWEST GAS CORPORATION	6970917	N	KRF-1	20018	10/1/2016	9/30/2031		N	12625		
+P	M2	Opal - WFS	95	39298		8910						
+P	M2	NWPL Muddy Creek - NWPL	95	33426		1626						
+P	M2	Carter Creek - Columbia Gulf	95	41254		12198						
+P	M2	Painter - Merit	95	41189		5794						
+P	M2	Roberson Creek OTC - Dominion Overthrust	95	361987		2089						
+P	MQ	Daggett - PG&E	95	68522		6506						
+P	MQ	Hunter Park - Questar Gas	95	169146		4066						
+P	MQ	Coolwater - NRG California	95	332520		163						
+P	MQ	Racetrack - Chevron	95	332512		163						
+P	MQ	Kern River Chevron - Chevron	95	332511		2521						
+P	MQ	Kern Front - Juniper	95	332518		3253						
+P	MQ	Wheeler Ridge - SoCal Gas	95	332531		10572						
+P	MQ	South Midway - Aera	95	332523		813						
+P	MQ	Taft - Chevron	95	332513		2440						
+P	MQ	Midway Santa Fe - Chevron	95	332525		163						
+P	MQ	17Z Chevron - Chevron	95	332510		5530						
+P	MQ	KernRiverSanta Fe - Chevron	95	332524		163						
+D	SOUTHWEST GAS CORPORATION	6970917	N	KRF-1	20020	11/1/2016	3/31/2031		N	87975		x3
+P	M2	Opal - WFS	95	39298		52500						
+P	M2	Questar Muddy Creek - Dominion P/L	95	68527		53750						
+P	MQ	Blue Diamond - SW Gas	95	217804		85000						
+P	MQ	Wheeler Ridge - SoCal Gas	95	332531		44000						
+P	MQ	Kramer Junction - SoCal Gas	95	332554		41000						
+D	SOUTHWEST GAS CORPORATION	6970917	N	KRF-1	20022	5/1/2017	4/30/2032		N	25000		
+P	M2	Opal - WFS	95	39298		25000						
+P	MQ	Wheeler Ridge - SoCal Gas	95	332531		25000						
+D	"SPARK ENERGY GAS, LLC"	16200607	N	KRF-1	1843	11/1/2013	3/31/2018		N	0		x22
+D	TENASKA MARKETING VENTURES	624240628	N	KRF-1	1644	1/1/2017	6/30/2017	31	Y	50000		x19
+P	M2	Dag Moj Rcpt - Mojave	95	332569		50000						
+P	MQ	Lone Mountain - SW Gas	95	130690		50000						
+D	TENASKA MARKETING VENTURES	624240628	N	KRF-1	1678	1/1/2018	1/31/2018		Y	22250		x19
+P	M2	Goshen Rcpt - Dominion P/L	95	301571		22250						
+P	MQ	Goshen Dlv - Dominion P/L	95	392837		22250						
+D	THE DEPARTMENT OF WATER AND POWER OF THE CITY OF LOS ANGELES	361401961	N	KRF-1	1706	5/1/2003	4/30/2018		N	39000		
+P	M2	Opal - WFS	95	39298		39000						
+P	MQ	Kramer Junction - SoCal Gas	95	332554		39000						
+D	THE DEPARTMENT OF WATER AND POWER OF THE CITY OF LOS ANGELES	361401961	N	KRF-1	20002	10/1/2016	9/30/2031		N	112815		
+P	M2	Opal - WFS	95	39298		35917						
+P	M2	NWPL Muddy Creek - NWPL	95	33426		20700						
+P	M2	Whitney Canyon - Ryckman	95	40818		11902						
+P	M2	Painter - Merit	95	41189		19974						
+P	M2	Goshen Rcpt - Dominion P/L	95	301571		24322						
+P	MQ	Wheeler Ridge - SoCal Gas	95	332531		86954						
+P	MQ	Kramer Junction - SoCal Gas	95	332554		23899						
+P	MQ	Sidewinder Dlv - Kern River & Mojave	95	332555		1962						
+D	"TWIN EAGLE RESOURCE MANAGEMENT, LLC"	965177889	N	KRF-1	1826	11/1/2010	10/31/2020		N	6161		
+P	M2	Opal - WFS	95	39298		6161						
+P	MQ	Daggett - PG&E	95	68522		6161						
+D	"WORLD FUEL SERVICES, INC."	606036481	N	KRF-1	81848	1/1/2018	3/31/2018		N	700		x19
+A	"U.S. ENERGY SERVICES, INC."	N										
+P	M2	Dag Moj Rcpt - Mojave	95	332569		700						
+P	MQ	Blue Diamond - SW Gas	95	217804		700						
+F	1	Effective during seasonal period December through February.										
+F	3	Effective during seasonal period November through March.										
+F	4	Effective during seasonal period April through October.										
+F	5	"Contract is 3,000 Dth/d year-round with 50,000 Dth/d increase during seasonal period November through March."										
+F	6	Effective during seasonal period March through November.										
+F	19	Kern River sells back-haul and short-haul firm capacity on a daily/multi-day and monthly/multi-month basis. The firm TSAs associated with this capacity are posted to Kern River's firm transactional report at http://services.kernrivergas.com.										
+F	22	"Effective February, March and November."										
+F	23	Variable MDQ contract during seasonal period October through April.										
+F	24	Variable MDQ contract during seasonal period November through March.										
+F	27	"Variable MDQ contract during seasonal period November, Feb through April."										
+F	28	Effective during seasonal period March through November.										
+F	29	Variable MDQ contract during seasonal period November through February.										
+F	30	Variable MDQ contract during seasonal period October through May.										
+F	31	Variable MDQ contract during seasonal period December through February.										
